@@ -132,3 +132,29 @@ btnLeft.addEventListener('click', prev);
 
 // Start auto slide
 startAuto();
+
+//* ======================== Neuron Selector Control ===================== */
+var neuronMenu = document.getElementById("neuron-menu");
+if (neuronMenu) {
+    var neuronPanels = document.querySelectorAll(".neuron-panel");
+    
+    neuronMenu.addEventListener("click", function(e) {
+        if (e.target.classList.contains("neuron-tab")) {
+            var neuronId = e.target.getAttribute("data-neuron");
+            
+            // Update active tab
+            var prevTab = document.querySelector(".neuron-tab.active");
+            if (prevTab) prevTab.classList.remove("active");
+            e.target.classList.add("active");
+            
+            // Show/hide panels
+            neuronPanels.forEach(function(panel) {
+                if (panel.getAttribute("data-neuron") === neuronId) {
+                    panel.style.display = "block";
+                } else {
+                    panel.style.display = "none";
+                }
+            });
+        }
+    });
+}
