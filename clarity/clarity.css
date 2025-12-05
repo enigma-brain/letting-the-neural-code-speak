@@ -204,4 +204,22 @@
     font-size: 0.9rem;
   }
 }
+
+/* Responsive iframe wrapper */
+.iframe-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.iframe-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
 /*# sourceMappingURL=clarity.css.map */
