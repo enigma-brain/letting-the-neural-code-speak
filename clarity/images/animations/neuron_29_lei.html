@@ -4,74 +4,84 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <title>Optimization Progress</title> -->
-    <style>
+                <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         
-        body {
+        html, body {
             background: #000;
             color: #fff;
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            min-height: 100vh;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+        }
+        
+        body {
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            padding: 30px;
+            padding: 15px;
         }
         
         h1 {
-            font-size: 1.8rem;
+            font-size: 1.5rem;
             font-weight: 600;
-            margin-bottom: 30px;
+            margin-bottom: 15px;
             color: #fff;
         }
         
         .container {
             display: flex;
-            gap: 50px;
+            gap: 20px;
             align-items: center;
-            margin-bottom: 40px;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+            justify-content: center;
+            flex: 1;
+            min-height: 0;
         }
         
         .image-panel {
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 18px;
+            gap: 8px;
+            flex-shrink: 0;
         }
         
         .image-container {
             background: #0a0a0a;
             border: 2px solid rgba(255, 255, 255, 0.3);
             border-radius: 10px;
-            padding: 8px;
+            padding: 6px;
             display: flex;
             align-items: center;
             justify-content: center;
-            width: 320px;
-            height: 320px;
+            width: min(280px, 40vw, 35vh);
+            height: min(280px, 40vw, 35vh);
         }
         
         .image-container img {
-            width: 304px;
-            height: 304px;
+            width: 100%;
+            height: 100%;
             object-fit: contain;
             image-rendering: -webkit-optimize-contrast;
         }
         
         .step-label {
-            font-size: 1rem;
+            font-size: 0.8rem;
             color: rgba(255, 255, 255, 0.6);
             font-weight: 500;
         }
         
         .activation-badge {
-            padding: 10px 20px;
+            padding: 6px 14px;
             border-radius: 25px;
             background: #0a0a0a;
             border: 2px solid;
             font-weight: 700;
-            font-size: 1.1rem;
+            font-size: 0.9rem;
             transition: all 0.15s ease;
         }
         
@@ -79,65 +89,68 @@
             background: #0a0a0a;
             border: 2px solid rgba(255, 255, 255, 0.3);
             border-radius: 10px;
-            padding: 8px;
+            padding: 6px;
+            flex-shrink: 1;
+            min-width: 0;
+            min-height: 0;
         }
         
-        canvas { display: block; }
+        canvas {
+            display: block;
+            max-width: 100%;
+            max-height: 100%;
+        }
         
         .controls {
             display: flex;
             flex-direction: column;
             align-items: center;
-            gap: 20px;
+            gap: 10px;
             width: 100%;
-            max-width: 700px;
+            max-width: min(600px, 90vw);
+            flex-shrink: 0;
         }
         
         .slider-container {
             width: 100%;
             display: flex;
             align-items: center;
-            gap: 20px;
+            gap: 12px;
         }
         
         input[type="range"] {
             -webkit-appearance: none;
             flex: 1;
-            height: 8px;
-            border-radius: 4px;
+            height: 6px;
+            border-radius: 3px;
             background: linear-gradient(to right, #00d4ff, #ff0080);
             outline: none;
         }
         
         input[type="range"]::-webkit-slider-thumb {
             -webkit-appearance: none;
-            width: 26px;
-            height: 26px;
+            width: 22px;
+            height: 22px;
             border-radius: 50%;
             background: #fff;
             cursor: pointer;
-            box-shadow: 0 0 12px rgba(255, 255, 255, 0.5);
-            transition: transform 0.1s ease;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
         }
-        
-        input[type="range"]::-webkit-slider-thumb:hover {
-            transform: scale(1.15);
-        }
-        
+
         input[type="range"]::-moz-range-thumb {
-            width: 26px;
-            height: 26px;
+            width: 22px;
+            height: 22px;
             border-radius: 50%;
             background: #fff;
             cursor: pointer;
             border: none;
-            box-shadow: 0 0 12px rgba(255, 255, 255, 0.5);
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
         }
         
         .frame-display {
-            font-size: 1rem;
+            font-size: 0.8rem;
             color: rgba(255, 255, 255, 0.5);
-            min-width: 50px;
+            min-width: 35px;
             text-align: center;
         }
         
@@ -145,9 +158,9 @@
             background: #0a0a0a;
             border: 2px solid rgba(255, 255, 255, 0.4);
             color: #fff;
-            padding: 12px 35px;
+            padding: 8px 24px;
             border-radius: 25px;
-            font-size: 1rem;
+            font-size: 0.85rem;
             font-weight: 600;
             cursor: pointer;
             transition: all 0.2s ease;
@@ -157,7 +170,29 @@
             background: rgba(255, 255, 255, 0.1);
             border-color: rgba(255, 255, 255, 0.6);
         }
+        
+        @media screen and (max-width: 800px) {
+            body { padding: 10px; }
+            .container { flex-direction: column; gap: 12px; }
+            .image-container { width: min(200px, 50vw, 25vh); height: min(200px, 50vw, 25vh); }
+            .plot-container { width: 100%; max-height: 30vh; }
+            canvas { width: 100% !important; height: auto !important; max-height: 25vh; }
+            .controls { gap: 8px; }
+        }
+        
+        @media screen and (max-width: 480px) {
+            body { padding: 8px; }
+            .image-container { width: min(160px, 45vw, 20vh); height: min(160px, 45vw, 20vh); padding: 4px; }
+            .step-label { font-size: 0.7rem; }
+            .activation-badge { padding: 4px 10px; font-size: 0.75rem; }
+            .play-btn { padding: 6px 18px; font-size: 0.75rem; }
+            .slider-container { gap: 8px; }
+            .frame-display { font-size: 0.7rem; min-width: 28px; }
+        }
     </style>
+
+
+
 </head>
 <body>
     <!-- <h1>Optimization Progress</h1> -->

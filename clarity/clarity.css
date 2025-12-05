@@ -223,43 +223,15 @@
   border: none;
 }
 
-/* Scale down iframe content on smaller screens */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
   .iframe-wrapper {
-    aspect-ratio: 16 / 12;
-  }
-  
-  .iframe-wrapper iframe {
-    width: 150%;
-    height: 150%;
-    transform: scale(0.667);
-    transform-origin: top left;
+    aspect-ratio: 4 / 5;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
   .iframe-wrapper {
-    aspect-ratio: 3 / 4;
-  }
-  
-  .iframe-wrapper iframe {
-    width: 200%;
-    height: 200%;
-    transform: scale(0.5);
-    transform-origin: top left;
-  }
-}
-
-@media screen and (max-width: 400px) {
-  .iframe-wrapper {
-    aspect-ratio: 1 / 1.2;
-  }
-  
-  .iframe-wrapper iframe {
-    width: 280%;
-    height: 280%;
-    transform: scale(0.357);
-    transform-origin: top left;
+    aspect-ratio: 3 / 5;
   }
 }
 /*# sourceMappingURL=clarity.css.map */
