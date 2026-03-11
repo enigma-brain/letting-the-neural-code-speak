@@ -43,6 +43,11 @@ Clarity is an open-source, minimalist website template designed specifically for
 
 
 ## Update
+- **Mar 13, 2026**: Feature update on `copy button` included in all code blocks.
+<p align="center">
+  <img src="assets/figures/copy.gif"/>
+</p>
+
 - **Jan. 12, 2025**: Feature update with `navbar` design for hoverable table of content (thanks [@yongyizang](https://github.com/yongyizang) for his generous contribution). Please comment out or in `<script src="assets/scripts/navbar.js"></script>` to activate or deactivate this feature.
 <p align="center">
   <img src="assets/figures/toc_web.gif"/>

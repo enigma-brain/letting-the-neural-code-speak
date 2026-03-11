@@ -1277,6 +1277,7 @@ code {
 
 pre {
     font-family: "Fira Code", monospace;
+    position: relative;
 }
 
 pre code {
@@ -1284,6 +1285,76 @@ pre code {
     display: block;
     padding: 1.5vh 1.5vw !important;
     overflow-x: auto;
+}
+
+.code-copy-btn {
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    background-color: $gray-10;
+    border-radius: 8px;
+    padding: 0.75em 0.5em;
+    color: $black;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.7em;
+    font-weight: 700;
+    font-family: $default-sans, sans-serif;
+    letter-spacing: 0.075em;
+    text-decoration: none;
+    text-transform: uppercase;
+    user-select: none;
+    border: none;
+    z-index: 10;
+    gap: 0;
+
+    &:hover {
+        background-color: $gray-10;
+        opacity: 0.8;
+        color: $black;
+    }
+
+    &:active {
+        opacity: 0.5;
+        background-color: $gray-10;
+        color: $black;
+    }
+
+    &.copied {
+        padding: 0.75em 0.7em;
+        .copy-text {
+            max-width: 6em;
+            opacity: 1;
+            margin-left: 0.35em;
+        }
+        i {
+            padding-right: 0em;
+            padding-left: 0em;
+        }
+    }
+
+    i {
+        font-size: 1.0em;
+        padding: 0 0.3em 1px 0.3em;
+        display: inline-block;
+        line-height: 1;
+    }
+
+    .copy-text {
+        display: inline-block;
+        max-width: 0;
+        opacity: 0;
+        overflow: hidden;
+        white-space: nowrap;
+        margin-left: 0;
+        font-size: 0.9em;
+        font-weight: 500;
+        line-height: 1;
+        text-indent: 0;
+        transition: max-width 0.4s ease, opacity 0.4s ease, margin-left 0.4s ease;
+    }
 }
 
 /* ======================== Selection ===================== */
