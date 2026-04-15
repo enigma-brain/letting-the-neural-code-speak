@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Letting the Neural Code Speak</title>
-    <meta name="description" content="Automated characterization of monkey visual neurons through human language. A closed-loop framework using vision-language models and digital twins.">
+    <meta name="description" content="Automated characterization of monkey visual neurons through human language.">
     <meta content="website" property="og:type">
     <meta content="Letting the Neural Code Speak" property="og:title">
     <meta content="Automated characterization of monkey visual neurons through human language" property="og:description">
-    <meta content="Figures/Fig_Overview.png" property="og:image">
+    <meta content="images/Figure_Overview.jpeg" property="og:image">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -28,13 +28,14 @@
             --accent: #c45d3e;
             --accent-soft: #e8a88c;
             --blue: #3d6b8e;
+            --magenta: #d946a8;
+            --cyan: #22d3ee;
             --serif: 'Instrument Serif', Georgia, serif;
             --sans: 'DM Sans', -apple-system, sans-serif;
             --mono: 'JetBrains Mono', monospace;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
-
         html { scroll-behavior: smooth; }
 
         body {
@@ -70,11 +71,7 @@
             pointer-events: none;
         }
 
-        .hero-content {
-            max-width: 900px;
-            position: relative;
-            z-index: 1;
-        }
+        .hero-content { max-width: 900px; position: relative; z-index: 1; }
 
         .hero-label {
             font-family: var(--mono);
@@ -83,8 +80,7 @@
             text-transform: uppercase;
             color: var(--accent-soft);
             margin-bottom: 32px;
-            opacity: 0;
-            animation: fadeUp 0.8s ease forwards 0.2s;
+            opacity: 0; animation: fadeUp 0.8s ease forwards 0.2s;
         }
 
         .hero h1 {
@@ -93,309 +89,243 @@
             line-height: 1.05;
             font-weight: 400;
             margin-bottom: 24px;
-            opacity: 0;
-            animation: fadeUp 0.8s ease forwards 0.4s;
+            opacity: 0; animation: fadeUp 0.8s ease forwards 0.4s;
         }
 
-        .hero h1 em {
-            font-style: italic;
-            color: var(--accent-soft);
-        }
+        .hero h1 em { font-style: italic; color: var(--accent-soft); }
 
         .hero-subtitle {
-            font-size: 19px;
-            line-height: 1.65;
-            color: var(--gray-400);
-            max-width: 680px;
-            margin-bottom: 40px;
-            opacity: 0;
-            animation: fadeUp 0.8s ease forwards 0.6s;
+            font-size: 19px; line-height: 1.65; color: var(--gray-400);
+            max-width: 680px; margin-bottom: 40px;
+            opacity: 0; animation: fadeUp 0.8s ease forwards 0.6s;
         }
 
         .hero-authors {
-            font-size: 15px;
-            color: var(--gray-400);
-            margin-bottom: 12px;
-            opacity: 0;
-            animation: fadeUp 0.8s ease forwards 0.7s;
+            font-size: 15px; color: var(--gray-400); margin-bottom: 12px;
+            opacity: 0; animation: fadeUp 0.8s ease forwards 0.7s;
         }
-
         .hero-authors strong { color: var(--white); font-weight: 500; }
 
         .hero-affiliation {
-            font-size: 13px;
-            color: var(--gray-600);
-            margin-bottom: 40px;
-            opacity: 0;
-            animation: fadeUp 0.8s ease forwards 0.75s;
+            font-size: 13px; color: var(--gray-600); margin-bottom: 40px;
+            opacity: 0; animation: fadeUp 0.8s ease forwards 0.75s;
         }
 
         .hero-buttons {
-            display: flex;
-            gap: 14px;
-            flex-wrap: wrap;
-            opacity: 0;
-            animation: fadeUp 0.8s ease forwards 0.85s;
+            display: flex; gap: 14px; flex-wrap: wrap;
+            opacity: 0; animation: fadeUp 0.8s ease forwards 0.85s;
         }
 
         .btn {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            padding: 12px 24px;
-            border-radius: 6px;
-            font-family: var(--sans);
-            font-size: 14px;
-            font-weight: 500;
-            text-decoration: none;
-            transition: all 0.25s ease;
+            display: inline-flex; align-items: center; gap: 8px;
+            padding: 12px 24px; border-radius: 6px;
+            font-family: var(--sans); font-size: 14px; font-weight: 500;
+            text-decoration: none; transition: all 0.25s ease;
         }
-
-        .btn-primary {
-            background: var(--accent);
-            color: var(--white);
-        }
+        .btn-primary { background: var(--accent); color: var(--white); }
         .btn-primary:hover { background: #b5532f; transform: translateY(-1px); }
-
-        .btn-ghost {
-            background: rgba(255,255,255,0.08);
-            color: var(--white);
-            border: 1px solid rgba(255,255,255,0.12);
-        }
+        .btn-ghost { background: rgba(255,255,255,0.08); color: var(--white); border: 1px solid rgba(255,255,255,0.12); }
         .btn-ghost:hover { background: rgba(255,255,255,0.14); }
 
         /* ── Sections ── */
-        .section {
-            padding: 100px 60px;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
+        .section { padding: 100px 60px; max-width: 1200px; margin: 0 auto; }
 
         .section-dark {
-            background: var(--black);
-            max-width: 100%;
-            padding: 80px 60px;
+            background: var(--black); max-width: 100%; padding: 80px 60px;
         }
-
-        .section-dark .section-inner {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
+        .section-dark .section-inner { max-width: 1200px; margin: 0 auto; }
 
         .section-label {
-            font-family: var(--mono);
-            font-size: 11px;
-            letter-spacing: 3px;
-            text-transform: uppercase;
-            color: var(--accent);
-            margin-bottom: 16px;
+            font-family: var(--mono); font-size: 11px; letter-spacing: 3px;
+            text-transform: uppercase; color: var(--accent); margin-bottom: 16px;
         }
-
         .section-dark .section-label { color: var(--accent-soft); }
 
         h2 {
             font-family: var(--serif);
             font-size: clamp(32px, 4vw, 48px);
-            font-weight: 400;
-            line-height: 1.15;
-            margin-bottom: 32px;
+            font-weight: 400; line-height: 1.15; margin-bottom: 32px;
         }
-
         .section-dark h2 { color: var(--white); }
 
-        .text {
-            font-size: 17px;
-            line-height: 1.75;
-            color: var(--gray-600);
-            max-width: 720px;
-        }
-
+        .text { font-size: 17px; line-height: 1.75; color: var(--gray-600); max-width: 720px; }
         .section-dark .text { color: var(--gray-400); }
-
         .text + .text { margin-top: 20px; }
 
         /* ── Figures ── */
         .figure-full {
-            background: var(--black);
-            padding: 60px 40px;
-            text-align: center;
+            background: var(--black); padding: 60px 40px; text-align: center;
         }
-
-        .figure-full img {
-            max-width: 1100px;
-            width: 100%;
-            border-radius: 4px;
-        }
+        .figure-full img { max-width: 1100px; width: 100%; border-radius: 4px; }
 
         .figure-caption {
-            max-width: 800px;
-            margin: 24px auto 0;
-            font-size: 14px;
-            line-height: 1.6;
-            color: var(--gray-400);
-            text-align: left;
+            max-width: 800px; margin: 24px auto 0;
+            font-size: 14px; line-height: 1.6; color: var(--gray-400); text-align: left;
         }
-
         .figure-caption strong { color: var(--gray-200); }
 
-        .figure-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 24px;
-            margin-top: 40px;
+        .figure-side-by-side {
+            display: grid; grid-template-columns: 1fr 1fr; gap: 32px;
+            max-width: 1100px; margin: 0 auto;
+        }
+        .figure-side-by-side img { width: 100%; border-radius: 4px; }
+        .figure-side-by-side .fig-item .figure-caption { margin-top: 12px; }
+
+        /* ── Pipeline ── */
+        .pipeline {
+            display: grid; grid-template-columns: repeat(3, 1fr);
+            gap: 40px; margin-top: 48px;
+        }
+        .pipeline-step {
+            padding: 32px; border-radius: 8px;
+            background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
+        }
+        .pipeline-step .step-num {
+            font-family: var(--mono); font-size: 12px; color: var(--accent-soft); margin-bottom: 12px;
+        }
+        .pipeline-step h3 {
+            font-family: var(--serif); font-size: 24px; font-weight: 400;
+            color: var(--white); margin-bottom: 12px;
+        }
+        .pipeline-step p { font-size: 14px; line-height: 1.6; color: var(--gray-400); }
+
+        /* ── Translate Animation ── */
+        .translate-demo {
+            max-width: 1000px; margin: 0 auto; margin-top: 48px;
         }
 
-        .figure-grid img {
-            width: 100%;
-            border-radius: 4px;
-            border: 1px solid var(--gray-200);
+        .translate-stage {
+            display: grid; grid-template-columns: 300px 1fr;
+            gap: 48px; align-items: start;
         }
 
-        .figure-pair {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 32px;
+        .translate-image {
+            width: 300px; height: 300px; border-radius: 8px;
+            overflow: hidden; position: relative;
+            border: 2px solid rgba(255,255,255,0.1);
+        }
+        .translate-image img { width: 100%; height: 100%; object-fit: cover; }
+
+        .translate-image .scan-line {
+            position: absolute; top: 0; left: 0; right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, transparent, var(--magenta), transparent);
+            opacity: 0;
+            animation: scanDown 3s ease-in-out infinite 1.5s;
+        }
+
+        @keyframes scanDown {
+            0% { top: 0; opacity: 0; }
+            5% { opacity: 1; }
+            95% { opacity: 1; }
+            100% { top: 100%; opacity: 0; }
+        }
+
+        .translate-text-area { position: relative; }
+
+        .translate-text-area .stage-label {
+            font-family: var(--mono); font-size: 11px; letter-spacing: 2px;
+            text-transform: uppercase; color: var(--magenta); margin-bottom: 16px;
+            display: flex; align-items: center; gap: 8px;
+        }
+
+        .translate-text-area .stage-label .dot {
+            width: 6px; height: 6px; border-radius: 50%;
+            background: var(--magenta);
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 0.4; }
+            50% { opacity: 1; }
+        }
+
+        .typewriter-text {
+            font-size: 15px; line-height: 1.8; color: var(--gray-200);
+            min-height: 200px;
+        }
+
+        .typewriter-text .cursor {
+            display: inline-block; width: 2px; height: 1.1em;
+            background: var(--magenta); vertical-align: text-bottom;
+            animation: blink 0.8s step-end infinite;
+            margin-left: 2px;
+        }
+
+        @keyframes blink { 50% { opacity: 0; } }
+
+        .translate-arrow {
+            text-align: center; padding: 32px 0;
+            color: var(--gray-600); font-size: 24px;
+        }
+        .translate-arrow i { animation: arrowBounce 2s ease-in-out infinite; }
+
+        @keyframes arrowBounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(6px); }
+        }
+
+        .translate-insight {
+            text-align: center; padding: 16px 32px;
+            background: rgba(217, 70, 168, 0.08);
+            border: 1px solid rgba(217, 70, 168, 0.15);
+            border-radius: 8px;
+            font-size: 14px; color: var(--gray-400);
+            max-width: 600px; margin: 0 auto;
+        }
+        .translate-insight strong { color: var(--magenta); }
+
+        /* ── Neuron Viewer ── */
+        .viewer-container {
             margin-top: 48px;
+            border-radius: 8px; overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.1);
+            background: #000;
         }
-
-        .figure-pair img {
-            width: 100%;
-            border-radius: 4px;
+        .viewer-container iframe {
+            width: 100%; height: 600px; border: none; display: block;
         }
-
-        .figure-pair .figure-caption { margin-top: 12px; }
 
         /* ── Results Table ── */
-        .results-table-wrap {
-            overflow-x: auto;
-            margin-top: 40px;
-        }
+        .results-table-wrap { overflow-x: auto; margin-top: 40px; }
 
         .results-table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 14px;
-            font-family: var(--sans);
+            width: 100%; border-collapse: collapse;
+            font-size: 14px; font-family: var(--sans);
         }
-
         .results-table th {
-            font-family: var(--mono);
-            font-size: 11px;
-            letter-spacing: 1.5px;
-            text-transform: uppercase;
-            color: var(--gray-400);
-            text-align: left;
-            padding: 12px 16px;
-            border-bottom: 2px solid var(--gray-200);
+            font-family: var(--mono); font-size: 11px; letter-spacing: 1.5px;
+            text-transform: uppercase; color: var(--gray-400); text-align: left;
+            padding: 12px 16px; border-bottom: 2px solid rgba(255,255,255,0.1);
         }
-
-        .section-dark .results-table th {
-            color: var(--gray-400);
-            border-bottom-color: rgba(255,255,255,0.1);
-        }
-
         .results-table td {
-            padding: 10px 16px;
-            border-bottom: 1px solid var(--gray-100);
-            color: var(--gray-800);
-        }
-
-        .section-dark .results-table td {
+            padding: 10px 16px; border-bottom: 1px solid rgba(255,255,255,0.06);
             color: var(--gray-200);
-            border-bottom-color: rgba(255,255,255,0.06);
         }
-
-        .results-table .highlight {
-            color: var(--accent);
-            font-weight: 600;
-        }
-
-        .results-table .area-label {
-            font-weight: 600;
-            font-size: 13px;
-        }
-
-        /* ── Pipeline steps ── */
-        .pipeline {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 40px;
-            margin-top: 48px;
-        }
-
-        .pipeline-step {
-            padding: 32px;
-            border-radius: 8px;
-            background: rgba(255,255,255,0.04);
-            border: 1px solid rgba(255,255,255,0.08);
-        }
-
-        .pipeline-step .step-num {
-            font-family: var(--mono);
-            font-size: 12px;
-            color: var(--accent-soft);
-            margin-bottom: 12px;
-        }
-
-        .pipeline-step h3 {
-            font-family: var(--serif);
-            font-size: 24px;
-            font-weight: 400;
-            color: var(--white);
-            margin-bottom: 12px;
-        }
-
-        .pipeline-step p {
-            font-size: 14px;
-            line-height: 1.6;
-            color: var(--gray-400);
-        }
+        .results-table .highlight { color: var(--accent); font-weight: 600; }
+        .results-table .area-label { font-weight: 600; font-size: 13px; color: var(--accent-soft); }
 
         /* ── Citation ── */
         .citation-block {
-            background: var(--gray-100);
-            border-radius: 8px;
-            padding: 28px 32px;
-            margin-top: 32px;
-            font-family: var(--mono);
-            font-size: 13px;
-            line-height: 1.7;
-            color: var(--gray-600);
-            overflow-x: auto;
-            position: relative;
+            background: var(--gray-100); border-radius: 8px;
+            padding: 28px 32px; margin-top: 32px;
+            font-family: var(--mono); font-size: 13px; line-height: 1.7;
+            color: var(--gray-600); overflow-x: auto; position: relative;
         }
-
         .citation-block .copy-btn {
-            position: absolute;
-            top: 12px;
-            right: 12px;
-            background: var(--gray-200);
-            border: none;
-            border-radius: 4px;
-            padding: 6px 12px;
-            font-family: var(--mono);
-            font-size: 11px;
-            cursor: pointer;
-            color: var(--gray-600);
-            transition: all 0.2s;
+            position: absolute; top: 12px; right: 12px;
+            background: var(--gray-200); border: none; border-radius: 4px;
+            padding: 6px 12px; font-family: var(--mono); font-size: 11px;
+            cursor: pointer; color: var(--gray-600); transition: all 0.2s;
         }
-
         .citation-block .copy-btn:hover { background: var(--gray-400); color: var(--white); }
 
         /* ── Footer ── */
         footer {
-            background: var(--black);
-            color: var(--gray-400);
-            padding: 60px;
-            font-size: 14px;
-            line-height: 1.7;
+            background: var(--black); color: var(--gray-400);
+            padding: 60px; font-size: 14px; line-height: 1.7;
         }
-
-        footer .footer-inner {
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-
+        footer .footer-inner { max-width: 1200px; margin: 0 auto; }
         footer a { color: var(--accent-soft); text-decoration: none; }
         footer a:hover { text-decoration: underline; }
 
@@ -406,15 +336,10 @@
         }
 
         .reveal {
-            opacity: 0;
-            transform: translateY(30px);
+            opacity: 0; transform: translateY(30px);
             transition: opacity 0.7s ease, transform 0.7s ease;
         }
-
-        .reveal.visible {
-            opacity: 1;
-            transform: translateY(0);
-        }
+        .reveal.visible { opacity: 1; transform: translateY(0); }
 
         /* ── Responsive ── */
         @media (max-width: 768px) {
@@ -423,8 +348,10 @@
             .section-dark { padding: 60px 28px; }
             .figure-full { padding: 40px 20px; }
             .pipeline { grid-template-columns: 1fr; gap: 20px; }
-            .figure-grid { grid-template-columns: 1fr; }
-            .figure-pair { grid-template-columns: 1fr; }
+            .figure-side-by-side { grid-template-columns: 1fr; }
+            .translate-stage { grid-template-columns: 1fr; }
+            .translate-image { width: 100%; height: 250px; }
+            .viewer-container iframe { height: 400px; }
             footer { padding: 40px 28px; }
         }
     </style>
@@ -437,7 +364,7 @@
         <p class="hero-label">Stanford University · 2026</p>
         <h1>Letting the neural<br>code <em>speak</em></h1>
         <p class="hero-subtitle">
-            Automated characterization of monkey visual neurons through human language. A closed-loop framework using vision–language models, digital twins, and generative image synthesis to translate neural selectivity into interpretable semantic descriptions.
+            A closed-loop framework that translates the selectivity of individual visual neurons into interpretable semantic descriptions using vision–language models, digital twins, and generative image synthesis.
         </p>
         <p class="hero-authors">
             <strong>Vedang Lad</strong>, <strong>Katrin Franke</strong>, <strong>Tamar Rott Shaham</strong>, <strong>Surya Ganguli</strong>, <strong>Andreas Tolias</strong><sup>†</sup>, <strong>Sophia Sanborn</strong><sup>†</sup>, <strong>Nikos Karantzas</strong><sup>†</sup>
@@ -453,15 +380,46 @@
     </div>
 </section>
 
-<!-- ═══════════════ APPROACH ═══════════════ -->
+<!-- ═══════════════ DIGITAL TWINS ═══════════════ -->
 <section class="section-dark">
     <div class="section-inner reveal">
-        <p class="section-label">Approach</p>
+        <p class="section-label">Foundation</p>
+        <h2>Functional digital twins of visual cortex</h2>
+        <p class="text">
+            We leverage deep learning models trained on single-neuron spiking data from macaque V4 to build functional digital twins—in-silico surrogates that predict how each biological neuron responds to arbitrary images. These models enable screening millions of stimuli to identify each neuron's most and least activating images.
+        </p>
+    </div>
+</section>
+
+<div class="figure-full reveal">
+    <img src="images/Figure_Method.png" alt="Digital twin architecture and screening pipeline">
+    <p class="figure-caption">
+        <strong>Digital twins and large-scale screening.</strong> <em>Left:</em> A shared CNN core with neuron-specific readouts creates in-silico neurons matched to biological recordings. <em>Right:</em> Over 1 million naturalistic images are screened to identify the most activating (MAI) and least activating (LAI) stimuli for every neuron.
+    </p>
+</div>
+
+<!-- ═══════════════ NEURON VIEWER ═══════════════ -->
+<section class="section-dark">
+    <div class="section-inner reveal">
+        <p class="section-label">Explore</p>
+        <h2>Both ends of selectivity are interpretable</h2>
+        <p class="text">
+            Scrubbing across a neuron's activation range reveals that responses aren't simply binary. Both the most activating and most suppressing images depict distinct, coherent visual features—revealing a rich representational structure that a language-based framework can capture.
+        </p>
+        <div class="viewer-container">
+            <iframe src="images/neuron_4_viewer.html" title="Interactive neuron activation viewer"></iframe>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════ PIPELINE OVERVIEW ═══════════════ -->
+<section class="section-dark" style="padding-top: 0;">
+    <div class="section-inner reveal">
+        <p class="section-label">Method</p>
         <h2>From neural activity to language and back</h2>
         <p class="text">
-            Modern encoding models predict neural responses with remarkable accuracy, yet prediction alone does not yield interpretation. We ask whether natural language can bridge this gap—translating the selectivity of individual neurons into concise, testable semantic descriptions, then verifying those descriptions through generative image synthesis.
+            Our framework proceeds in three stages: translate images to text, synthesize semantic hypotheses from extreme-response captions, and verify hypotheses through generative image synthesis.
         </p>
-
         <div class="pipeline">
             <div class="pipeline-step">
                 <p class="step-num">01</p>
@@ -471,7 +429,7 @@
             <div class="pipeline-step">
                 <p class="step-num">02</p>
                 <h3>Hypothesize</h3>
-                <p>For each neuron, a digital twin screens millions of images. Captions of extreme-response images are distilled into a concise semantic hypothesis describing the neuron's selectivity.</p>
+                <p>Captions of each neuron's most and least activating images are distilled into a concise semantic hypothesis describing excitatory and suppressive selectivity.</p>
             </div>
             <div class="pipeline-step">
                 <p class="step-num">03</p>
@@ -482,57 +440,63 @@
     </div>
 </section>
 
-<!-- ═══════════════ OVERVIEW FIGURE ═══════════════ -->
 <div class="figure-full reveal">
-    <img src="Figures/Fig_Overview.png" alt="Framework overview: Translate, Hypothesize, Verify pipeline">
+    <img src="images/Figure_Overview.jpeg" alt="Full pipeline overview: Translate, Hypothesize, Verify">
     <p class="figure-caption">
-        <strong>Framework overview.</strong> The pipeline consists of three stages: Translate converts images to detailed captions, Semantic Hypothesis distills captions of extreme-response images into testable selectivity descriptions, and Verification generates novel stimuli from hypotheses and tests them against the digital twin.
+        <strong>Framework overview.</strong> The pipeline translates neural selectivity into semantic hypotheses and validates them through generative testing. Each stage is automated and scalable to hundreds of neurons.
     </p>
 </div>
 
-<!-- ═══════════════ TRANSLATION ═══════════════ -->
-<section class="section reveal">
-    <p class="section-label">Stage 1</p>
-    <h2>Faithful image-to-text translation</h2>
-    <p class="text">
-        We use dense captioning to convert each image into a multi-sentence description specifying precise colors, textures, spatial arrangements, and lighting conditions. A round-trip reconstruction test confirms that captions preserve visually relevant information: images synthesized from captions are consistently more similar to their originals than to unrelated images in DINO embedding space.
-    </p>
+<!-- ═══════════════ TRANSLATE ANIMATION ═══════════════ -->
+<section class="section-dark">
+    <div class="section-inner reveal">
+        <p class="section-label">Stage 1</p>
+        <h2>Casting vision to language</h2>
+        <p class="text">
+            The foundation of our approach is dense captioning—converting each image into an exhaustive textual description that preserves the visual information needed for neural interpretation. Unlike standard captioning, we prioritize visual fidelity over semantic summarization.
+        </p>
+
+        <div class="translate-demo">
+            <div class="translate-stage">
+                <div class="translate-image">
+                    <img src="images/lorikeet.png" alt="Rainbow Lorikeet">
+                    <div class="scan-line"></div>
+                </div>
+                <div class="translate-text-area">
+                    <div class="stage-label"><span class="dot"></span> Gemini 3.0 Pro — Dense Captioning</div>
+                    <div class="typewriter-text" id="typewriter"></div>
+                </div>
+            </div>
+
+            <div class="translate-arrow"><i class="fa-solid fa-arrow-down"></i></div>
+
+            <div class="translate-insight">
+                <strong>Key insight:</strong> By translating images to text first, we shift cross-image comparison from vision to language—a regime where LLMs are substantially more reliable.
+            </div>
+        </div>
+    </div>
 </section>
 
 <div class="figure-full reveal">
-    <img src="Figures/Fig_Translate.png" alt="V4 translation and reconstruction fidelity">
+    <img src="Figures/Fig_Translate.png" alt="V4 translation validation">
     <p class="figure-caption">
-        <strong>V4 caption faithfulness.</strong> Dense captions generated by Gemini 3.0 Pro preserve sufficient visual detail for reconstruction. Cosine similarity between original and reconstructed images in DINO space consistently exceeds the null baseline.
-    </p>
-</div>
-
-<div class="figure-full reveal" style="padding-top: 0;">
-    <img src="Figures/Fig_Translate_1.png" alt="V1 translation and reconstruction fidelity">
-    <p class="figure-caption">
-        <strong>V1 caption faithfulness.</strong> The same analysis applied to grayscale V1 stimuli confirms that the captioning procedure generalizes across different image statistics regimes.
+        <strong>Caption faithfulness.</strong> A round-trip reconstruction test confirms that dense captions preserve visually relevant information. Images synthesized from captions are consistently more similar to their originals than to unrelated images in DINO embedding space.
     </p>
 </div>
 
 <!-- ═══════════════ HYPOTHESIS ═══════════════ -->
 <section class="section reveal">
     <p class="section-label">Stage 2</p>
-    <h2>Semantic hypotheses across the visual hierarchy</h2>
+    <h2>Semantic hypotheses of neural selectivity</h2>
     <p class="text">
-        Digital twin models screen over one million ImageNet images to identify each neuron's most and least activating stimuli. Dense captions of these extreme images are synthesized into concise semantic hypotheses. The pipeline reveals a clear progression: V1 hypotheses emphasize oriented edges and spatial frequency, while V4 hypotheses capture richer conjunctions of form, color, and texture—recovering known tuning properties without any injected domain knowledge.
+        For each V4 neuron, the digital twin screens over one million images. Captions of the top and bottom activating images are synthesized into a concise semantic hypothesis—capturing conjunctions of form, color, and texture that drive or suppress the neuron, without any injected domain knowledge.
     </p>
 </section>
 
 <div class="figure-full reveal">
     <img src="Figures/Fig_Hypothesis.png" alt="V4 semantic hypotheses">
     <p class="figure-caption">
-        <strong>V4 semantic hypotheses.</strong> For each neuron, top-activating images are identified via the digital twin and their captions are distilled into interpretable selectivity descriptions. Examples show diverse feature conjunctions including eye-like structures, curved metallic edges, and textured surfaces.
-    </p>
-</div>
-
-<div class="figure-full reveal" style="padding-top: 0;">
-    <img src="Figures/Fig_Hypothesis_1.png" alt="V1 semantic hypotheses">
-    <p class="figure-caption">
-        <strong>V1 semantic hypotheses.</strong> The same pipeline applied to V1 recovers the canonical vocabulary of early visual cortex—oriented edges, spatial frequency bands, and contrast polarity—serving as an internal positive control.
+        <strong>V4 semantic hypotheses.</strong> For each neuron, top-activating images are identified via the digital twin and their captions distilled into interpretable selectivity descriptions. Examples show diverse feature conjunctions including eye-like structures, curved edges, and textured surfaces.
     </p>
 </div>
 
@@ -542,14 +506,13 @@
         <p class="section-label">Stage 3</p>
         <h2>Closed-loop verification</h2>
         <p class="text">
-            Semantic hypotheses are converted into novel images via text-to-image generation, then tested against the digital twin. Combined with spatial optimization through affine transformations, hypothesis-generated images drove 96% of neurons above the 95th percentile of natural image responses across both V1 and V4.
+            Semantic hypotheses are converted into novel images via text-to-image generation, then tested against the digital twin. Combined with spatial optimization, hypothesis-generated images drove 96.1% of V4 neurons above the 95th percentile of natural image responses.
         </p>
 
         <div class="results-table-wrap" style="margin-top: 48px;">
             <table class="results-table">
                 <thead>
                     <tr>
-                        <th>Area</th>
                         <th>Condition</th>
                         <th>Threshold</th>
                         <th>n</th>
@@ -559,32 +522,17 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td rowspan="6" class="area-label" style="color: var(--accent-soft);">V4</td>
-                        <td rowspan="3">Excitatory</td>
+                        <td rowspan="3" class="area-label">Excitatory (MEI)</td>
                         <td>&gt;90th</td><td>205</td><td class="highlight">99.5</td><td>33.2</td>
                     </tr>
                     <tr><td>&gt;95th</td><td>205</td><td class="highlight">96.1</td><td>8.8</td></tr>
                     <tr><td>&gt;99th</td><td>205</td><td class="highlight">84.4</td><td>0.0</td></tr>
-                    <tr>
-                        <td rowspan="3">Suppressive</td>
+                    <tr style="border-top: 1px solid rgba(255,255,255,0.1);">
+                        <td rowspan="3" class="area-label">Suppressive (LEI)</td>
                         <td>&lt;10th</td><td>166</td><td class="highlight">99.4</td><td>45.2</td>
                     </tr>
                     <tr><td>&lt;5th</td><td>166</td><td class="highlight">97.6</td><td>13.3</td></tr>
                     <tr><td>&lt;1st</td><td>166</td><td class="highlight">78.9</td><td>0.0</td></tr>
-
-                    <tr style="border-top: 2px solid rgba(255,255,255,0.1);">
-                        <td rowspan="6" class="area-label" style="color: var(--blue);">V1</td>
-                        <td rowspan="3">Excitatory</td>
-                        <td>&gt;90th</td><td>438</td><td class="highlight">98.4</td><td>43.1</td>
-                    </tr>
-                    <tr><td>&gt;95th</td><td>438</td><td class="highlight">96.1</td><td>8.1</td></tr>
-                    <tr><td>&gt;99th</td><td>438</td><td class="highlight">80.6</td><td>0.7</td></tr>
-                    <tr>
-                        <td rowspan="3">Suppressive</td>
-                        <td>&lt;10th</td><td>343</td><td>59.5</td><td>43.8</td>
-                    </tr>
-                    <tr><td>&lt;5th</td><td>343</td><td>56.6</td><td>23.5</td></tr>
-                    <tr><td>&lt;1st</td><td>343</td><td>47.8</td><td>4.0</td></tr>
                 </tbody>
             </table>
         </div>
@@ -594,14 +542,7 @@
 <div class="figure-full reveal">
     <img src="Figures/Fig_Verification.png" alt="V4 verification results">
     <p class="figure-caption">
-        <strong>V4 verification.</strong> Hypothesis-generated images resemble original most-activating stimuli and, after spatial optimization, drive neurons to extreme response percentiles. Control analysis with random images confirms that semantic content—not spatial search alone—is necessary for strong activation.
-    </p>
-</div>
-
-<div class="figure-full reveal" style="padding-top: 0;">
-    <img src="Figures/Fig_Verification_1.png" alt="V1 verification results">
-    <p class="figure-caption">
-        <strong>V1 verification.</strong> The pipeline generalizes to V1, though the smaller gain from spatial optimization quantifies the expected boundary of linguistic expressibility for sub-lexical features like orientation and spatial frequency.
+        <strong>V4 verification.</strong> Hypothesis-generated images resemble original most-activating stimuli and, after spatial optimization, drive neurons to extreme response percentiles. Control analysis with random images confirms that semantic content—not spatial search alone—is necessary.
     </p>
 </div>
 
@@ -610,21 +551,14 @@
     <p class="section-label">Cross-modal alignment</p>
     <h2>Language preserves the geometry of neural selectivity</h2>
     <p class="text">
-        Representational similarity analysis across six embedding spaces reveals that neural activity, visual features, and language share a common geometric structure. Neural responses to hypothesis-generated images align with original neural activity at <em>r</em> = 0.52 in V4, demonstrating that the full translate–hypothesize–generate loop preserves neurally relevant selectivity structure.
+        Representational similarity analysis across six embedding spaces reveals that neural activity, visual features, and language share a common geometric structure. Neural responses to hypothesis-generated images align with original neural activity at <em>r</em>&nbsp;=&nbsp;0.52, demonstrating that the full translate–hypothesize–generate loop preserves neurally relevant selectivity structure.
     </p>
 </section>
 
 <div class="figure-full reveal">
-    <img src="Figures/Fig_Alignment.png" alt="V4 cross-modal alignment">
+    <img src="Figures/Fig_Alignment.png" alt="V4 cross-modal alignment RSA">
     <p class="figure-caption">
-        <strong>V4 alignment.</strong> Representational Similarity Matrices across six embedding spaces show consistent block structure. Image–caption alignment is strongest (r = 0.66), and neural responses to hypothesis-generated images align with original neural activity at r = 0.52.
-    </p>
-</div>
-
-<div class="figure-full reveal" style="padding-top: 0;">
-    <img src="Figures/Fig_Alignment_1.png" alt="V1 cross-modal alignment">
-    <p class="figure-caption">
-        <strong>V1 alignment.</strong> The same six-way alignment structure holds in V1, though with weaker neural–generated alignment (r = 0.30 vs. 0.52 in V4), tracing the boundary of linguistic expressibility across the visual hierarchy.
+        <strong>Cross-modal alignment.</strong> RSMs across six embedding spaces show consistent block structure. Image–caption alignment is strongest (r = 0.66), and the full closed-loop preserves selectivity structure (r = 0.52 between original and generated-image neural responses).
     </p>
 </div>
 
@@ -633,14 +567,14 @@
     <p class="section-label">Population structure</p>
     <h2>A semantic cartography of neural selectivity</h2>
     <p class="text">
-        Projecting V4 neurons into two dimensions via UMAP using population activity similarity, and annotating each neuron with keywords from its semantic hypothesis, reveals smooth semantic transitions across the population. Language does not merely label neural selectivity but preserves its organization.
+        Projecting V4 neurons via UMAP using population activity similarity and annotating each with keywords from its semantic hypothesis reveals smooth semantic transitions. Language does not merely label neural selectivity but preserves its organization.
     </p>
 </section>
 
 <div class="figure-full reveal">
-    <img src="Figures/Fig_Cluster.png" alt="UMAP semantic clustering of V4 neurons">
+    <img src="Figures/Fig_Cluster.png" alt="UMAP semantic clustering">
     <p class="figure-caption">
-        <strong>Semantic structure.</strong> <em>Left:</em> UMAP embedding annotated with nouns and adjectives from each neuron's hypothesis shows smooth semantic transitions. <em>Right:</em> Individual neurons tile localized, semantically coherent regions with smoothly varying activation.
+        <strong>Semantic structure.</strong> <em>Left:</em> UMAP embedding annotated with nouns and adjectives from each neuron's hypothesis. <em>Right:</em> Individual neurons tile localized, semantically coherent regions with smoothly varying activation.
     </p>
 </div>
 
@@ -655,7 +589,7 @@
   title   = {Letting the neural code speak: Automated
              characterization of monkey visual neurons
              through human language},
-  author  = {Lad, Vedang and Franke, Katrin and 
+  author  = {Lad, Vedang and Franke, Katrin and
              Rott Shaham, Tamar and Ganguli, Surya and
              Tolias, Andreas and Sanborn, Sophia and
              Karantzas, Nikos},
@@ -685,18 +619,49 @@
 </footer>
 
 <script>
-// Scroll reveal
+// ── Scroll reveal ──
 const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            entry.target.classList.add('visible');
-        }
+        if (entry.isIntersecting) entry.target.classList.add('visible');
     });
 }, { threshold: 0.1 });
-
 document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
-// Copy bibtex
+// ── Typewriter for translate demo ──
+const captionText = `A vibrant Rainbow Lorikeet occupies the central vertical axis of the image, captured in profile facing the right against a blurred, muted olive-green background. The bird's head is covered in deep violet-blue feathers that appear smooth and sleek, surrounding a dark reddish-brown eye with a small black pupil and a tiny white catchlight. A curved, bright orange-red beak protrudes to the right, exhibiting a soft sheen along its upper ridge. Behind the violet head, a distinct collar of bright greenish-yellow feathers separates the neck from the back. The bird's chest is a brilliant display of warm hues, featuring a mottled gradient of reddish-orange at the throat, blending into bright yellow and orange in the center, with visible feather textures creating a layered effect. Below this warm chest area, the plumage transitions abruptly to a deep indigo blue on the abdomen. The bird's left wing and back, visible on the left side of the body, are draped in vivid leaf-green feathers, showing detailed layering and barbs. The parrot is perched on a weathered, grey-brown wooden branch that enters diagonally from the bottom right corner and angles upward toward the bird's lower body, displaying a rough, bark-like texture. The lighting is soft and diffuse, casting no harsh shadows but accentuating the vibrant colors and distinct textures of the plumage and the smoothness of the beak.`;
+
+let typewriterStarted = false;
+
+function startTypewriter() {
+    if (typewriterStarted) return;
+    typewriterStarted = true;
+
+    const el = document.getElementById('typewriter');
+    let i = 0;
+    const speed = 12;
+
+    function type() {
+        if (i < captionText.length) {
+            el.innerHTML = captionText.substring(0, i + 1) + '<span class="cursor"></span>';
+            i++;
+            setTimeout(type, speed);
+        } else {
+            el.innerHTML = captionText + '<span class="cursor" style="animation: blink 0.8s step-end infinite;"></span>';
+        }
+    }
+    type();
+}
+
+const typewriterObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) startTypewriter();
+    });
+}, { threshold: 0.3 });
+
+const typewriterEl = document.getElementById('typewriter');
+if (typewriterEl) typewriterObserver.observe(typewriterEl);
+
+// ── Copy bibtex ──
 function copyBibtex() {
     const text = document.querySelector('.citation-block pre').textContent;
     navigator.clipboard.writeText(text).then(() => {
