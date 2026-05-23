@@ -8,7 +8,7 @@
     <meta content="website" property="og:type">
     <meta content="Letting the Neural Code Speak" property="og:title">
     <meta content="Automated characterization of monkey visual neurons through human language" property="og:description">
-    <meta content="images/Figure_Overview.jpeg" property="og:image">
+    <meta content="images/Fig_Overview.png" property="og:image">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -126,6 +126,13 @@
         .btn-primary:hover { background: #b5532f; transform: translateY(-1px); }
         .btn-ghost { background: rgba(255,255,255,0.08); color: var(--white); border: 1px solid rgba(255,255,255,0.12); }
         .btn-ghost:hover { background: rgba(255,255,255,0.14); }
+        .btn-disabled {
+            background: rgba(255,255,255,0.55);
+            color: var(--gray-800);
+            border: 1px solid rgba(255,255,255,0.65);
+            cursor: not-allowed;
+            pointer-events: none;
+        }
 
         /* ── Sections ── */
         .section { padding: 100px 60px; max-width: 1200px; margin: 0 auto; }
@@ -373,9 +380,8 @@
             Stanford University &middot; University of Tübingen &middot; MIT &nbsp;&nbsp; <span style="opacity:0.4">†Equal senior contribution</span>
         </p>
         <div class="hero-buttons">
-            <a href="#" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> Paper</a>
-            <a href="#" class="btn btn-ghost"><i class="fa-solid fa-code"></i> Code</a>
-            <a href="#" class="btn btn-ghost"><i class="fa-solid fa-globe"></i> Interactive Demo</a>
+            <a href="paper_arxiv.pdf" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> Paper</a>
+            <span class="btn btn-disabled"><i class="fa-solid fa-code"></i> Code coming soon</span>
         </div>
     </div>
 </section>
@@ -441,7 +447,7 @@
 </section>
 
 <div class="figure-full reveal">
-    <img src="images/Figure_Overview.jpeg" alt="Full pipeline overview: Translate, Hypothesize, Verify">
+    <img src="images/Fig_Overview.png" alt="Full pipeline overview: Translate, Hypothesize, Verify">
     <p class="figure-caption">
         <strong>Framework overview.</strong> The pipeline translates neural selectivity into semantic hypotheses and validates them through generative testing. Each stage is automated and scalable to hundreds of neurons.
     </p>
