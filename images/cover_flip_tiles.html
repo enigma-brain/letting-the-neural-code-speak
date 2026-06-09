@@ -39,4 +39,24 @@ function fitAll(){document.querySelectorAll('.words').forEach(fit);}
 let _rt;
 window.addEventListener('resize',()=>{clearTimeout(_rt);_rt=setTimeout(fitAll,150);});
 window.addEventListener('load',fitAll);
+/* ── auto-flip a random tile while the cursor is away ── */
+(function () {
+  const grid = document.querySelector('.grid');
+  let over = false;
+  if (grid) {
+    grid.addEventListener('mouseenter', () => over = true);
+    grid.addEventListener('mouseleave', () => over = false);
+  }
+  function autoFlip() {
+    if (!over) {                                       // skip while the cursor is on the grid
+      const idle = document.querySelectorAll('.tile:not(.flip)');
+      if (idle.length) {
+        const t = idle[Math.floor(Math.random() * idle.length)];
+        if (!t.matches(':hover')) { fl(t); uf(t); }    // flip it, then flip back after HOLD
+      }
+    }
+    setTimeout(autoFlip, 700 + Math.random() * 2300);  // next flip in 0.7–3.0s
+  }
+  setTimeout(autoFlip, 1000);                          // first flip ~1s after load
+})();
 </script></body></html>
