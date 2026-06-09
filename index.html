@@ -471,7 +471,7 @@
             <p class="hero-label">Stanford University · 2026</p>
             <h1>Letting the neural<br>code <em>speak</em></h1>
             <p class="hero-subtitle">
-                Artificial intelligence promises a future of automated scientific discovery, but it remains unclear how this will transform neuroscience, or how to even begin verifying its findings. We take a first step toward both by adapting automated interpretability to neuroscience, where those claims can be put to the test: we study "digital twins" of visual cortex&mdash;deep learning models trained to predict the responses of individual neurons. Using these models, we present a three-stage framework that translates single-neuron selectivity into verifiable, interpretable semantic descriptions, bridging neural data, vision, and language, and presenting a proof of concept for agentic scientific discovery with humans in the loop.
+                Artificial intelligence promises a future of automated scientific discovery, but it remains unclear how this will transform neuroscience, or how to even begin verifying its findings. We take a first step toward both by adapting automated interpretability to neuroscience, where those claims can be put to the test: we study "digital twins" of visual cortex&mdash;deep learning models trained to predict the responses of individual neurons. Using these models, we present a three-stage framework that translates single-neuron selectivity into verifiable, interpretable semantic descriptions, bridging neural data, vision, and language, and presenting a proof of concept for automated scientific discovery with humans in the loop.
             </p>
             <p class="hero-authors">
                 <strong>Vedang Lad</strong>, <strong>Katrin Franke</strong>, <strong>Tamar Rott Shaham</strong>, <strong>Surya Ganguli</strong>, <strong>Andreas Tolias</strong><sup>†</sup>, <strong>Sophia Sanborn</strong><sup>†</sup>, <strong>Nikos Karantzas</strong><sup>†</sup>
@@ -483,7 +483,6 @@
                 <a href="https://arxiv.org/pdf/2605.12485" target="_blank" rel="noopener" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> Paper</a>                <a href="frozen_site/index.html" class="btn btn-ghost"><i class="fa-solid fa-circle-nodes"></i> Neuron Explorer</a>
                 <span class="btn btn-disabled"><i class="fa-solid fa-code"></i> Code coming soon</span>
             </div>
-            <!-- <p class="hero-hint">hover over me <i class="fa-solid fa-arrow-up-right"></i></p> -->
         </div>
 
         <div class="hero-visual">
@@ -499,7 +498,7 @@
     <p class="section-label">Motivation</p>
     <h2>Prediction isn't understanding</h2>
     <p class="text">
-        The classical view of a visual neuron is a feature detector: it fires when its preferred stimulus appears. In early visual cortex (V1), this view has been remarkably productive. These neurons behave much like oriented edge filters, and what drives them is captured by a handful of parameters. But the classical picture says little about the other side of a neuron's behavior, what silences it.
+        The classical view of a visual neuron is a feature detector: it fires when its preferred stimulus appears, and remains largely silent otherwise. In early visual cortex (V1), this view has been remarkably productive. These neurons behave much like oriented edge filters, and what drives them is captured by a handful of parameters. But the classical feature detector picture says little about the other side of a neuron's behavior, what silences it.
     </p>
     <p class="text">
         Moving up the visual hierarchy, to midlevel visual cortex (V4), even the excitatory side gets harder to pin down. Neurons respond to complex conjunctions of shape, color, and texture. We know this from decades of painstaking experiments, each testing a hand-crafted hypothesis about what a single neuron might prefer. The approach works, but it doesn't scale, and it has not produced a general vocabulary for selectivity. We believe natural language can help fill that gap.
@@ -508,7 +507,7 @@
         Deep learning has already changed what's possible. A network trained on a neuron's responses to thousands of natural images can predict its response to almost any new image with high accuracy. These "digital twins" of visual cortex let us screen millions of images in seconds, and probe not just what drives a neuron, but what suppresses it.
     </p>
     <p class="text">
-        But knowing which images move a neuron isn't the same as knowing what it's tuned for. The digital twin is accurate, yet silent on the thing we actually want: what the neuron encodes.
+        But knowing which images drive a neuron isn't the same as knowing what it's tuned for. The digital twin is accurate, yet silent on the thing we actually want: an interpretable description of what the neuron encodes.
     </p>
 </section>
 
@@ -522,7 +521,7 @@
             The architecture is simple. A convolutional network turns an image into features, and a small learned readout maps those features onto the predicted firing rate of a single biological neuron. Trained on high-resolution recordings from macaque V1 and V4, these models generalize well to images the neuron has never seen.
         </p>
         <p class="text">
-            That generalization is what makes large-scale interpretation possible. The most activating images for a given neuron are perceptually coherent, clustering around a consistent visual feature. So are the least activating images, for neurons with high baseline firing rates. Both poles carry interpretable structure. For more on the recordings and digital twin architecture underlying this work, see <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Franke &amp; Karantzas et al., 2025</a>.
+            Using this approach, we recently found that the most activating images for a given neuron are perceptually coherent, clustering around a consistent visual feature. So are the least activating images, for neurons with high baseline firing rates (non-sparse neurons). For more on the recordings and digital twin architecture underlying this work, see <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Franke &amp; Karantzas et al., 2025</a>.
         </p>
     </div>
 </section>
@@ -548,7 +547,7 @@
         <p class="section-label">Explore</p>
         <h2>Both ends of selectivity are interpretable</h2>
         <p class="text">
-            Across a neuron's activation range, responses are graded rather than binary. The images that most strongly drive a neuron share a coherent visual theme, and for neurons with high baseline firing rates, so do the images that most strongly suppress it. Each extreme defines its own structured feature pole. More examples are available on the <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Dual Feature Selectivity</a> website, where the selectivity axis can be explored interactively.
+            Across the activation range of non-sparse neurons, responses are graded rather than binary. The images that most strongly drive a neuron share a coherent visual theme, and for neurons with high baseline firing rates, so do the images that most strongly suppress it. Each extreme defines its own structured feature pole. More examples are available on the <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Dual Feature Selectivity</a> website, where the selectivity axis can be explored interactively.
         </p>
         <div class="viewer-container">
             <iframe src="images/neuron_4_viewer.html" title="Interactive neuron activation viewer" data-autofit></iframe>
@@ -597,7 +596,7 @@
         <p class="section-label">Stage 1</p>
         <h2>Casting vision to language</h2>
         <p class="text">
-            Rather than comparing images directly, we first convert each one into an exhaustive text caption specifying precise colors, textures, spatial arrangements, and lighting conditions. Language models are far more reliable at finding patterns across many descriptions than vision models are across raw images, particularly when the relevant features don't correspond to clean semantic categories.
+            Rather than comparing images directly, we first convert each one into an exhaustive text caption specifying precise colors, textures, spatial arrangements, and lighting conditions. Language models are far more reliable at finding patterns across many descriptions than vision models are across raw images, particularly when the relevant features don't correspond to clean semantic categories. We confirm that these captions are faithful with a text-to-image round-trip test: images regenerated from a caption are consistently more similar to the original than to unrelated images, so little visually relevant information is lost in translation.
         </p>
 
         <div class="translate-demo">
@@ -632,7 +631,7 @@
         With captions in hand for a neuron's most- and least-activating images, a language model identifies the theme that unifies each set and writes a concise, testable claim for each: what drives the neuron, and, for neurons with a high baseline firing rate, what suppresses it. In V1, these descriptions recover the canonical vocabulary of early visual cortex: oriented edges, spatial frequency, and contrast polarity, without any visual neuroscience built in. In V4, they capture richer conjunctions of curvature, color, and texture, including object-like structures such as eye-shaped forms set against organic backgrounds.
     </p>
     <p class="text">
-        Because it recovers these known V1 properties on its own, the pipeline passes a positive control: it works where the answer is largely known, before it is trusted where the answer is not.
+        Because it recovers these known V1 properties on its own, the pipeline passes a positive control: it works where the answer is largely known, before it is trusted where the answer is not. The figures below focus on the richer V4 case; the full V1 results and figures are reported in the <a href="https://arxiv.org/pdf/2605.12485" target="_blank" rel="noopener">paper</a>.
     </p>
 </section>
 
@@ -782,7 +781,7 @@
     <p class="section-label">Conclusions</p>
     <h2>What this opens up</h2>
     <p class="text">
-        For most neurons in macaque visual cortex, selectivity is expressible in words precisely enough to generate new images that push the neuron's predicted response to either extreme, driving it or suppressing it. The approach requires no prior domain knowledge, which matters for where neuroscience is heading. Large-scale recording technologies are opening access to cortical areas with no established stimulus vocabulary, and a framework that operates on arbitrary natural-image responses and returns testable descriptions is well suited for discovery in exactly those regions.
+        For most neurons in macaque areas V1 and V4, selectivity is expressible in words precisely enough to generate new images that push the neuron's predicted response to either extreme, driving it or suppressing it. The approach requires no prior domain knowledge, which matters for where neuroscience is heading. Large-scale recording technologies are opening access to cortical areas with no established stimulus vocabulary, and a framework that operates on arbitrary natural-image responses and returns testable descriptions is well suited for discovery in exactly those regions.
     </p>
     <p class="text">
         The natural next step is a fully agentic workflow where experimental outcomes drive decisions about what to probe next, iterating toward a hypothesis rather than generating one in a single pass. Digital twins make that inner loop cheap: an agent can query predicted responses to arbitrary stimuli at negligible cost, running hypothesis generation entirely in silico before any biological experiment is needed. The bigger picture is not about handing science to machines. It is about using them to characterize neurons at a scale no experiment could reach, so that the human work, asking the right questions and making sense of the answers, can go further than it could alone. The goal was never automation. It was understanding.
