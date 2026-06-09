@@ -291,8 +291,11 @@
 
         .typewriter-text {
             font-size: 15px; line-height: 1.8; color: var(--gray-200);
-            min-height: 200px;
+            position: relative;
         }
+        /* invisible copy reserves the caption's full height so nothing below shifts */
+        .typewriter-text .tw-sizer { visibility: hidden; }
+        .typewriter-text .tw-visible { position: absolute; top: 0; left: 0; right: 0; }
 
         .typewriter-text .cursor {
             display: inline-block; width: 2px; height: 1.1em;
@@ -494,13 +497,6 @@
     </p>
 </section>
 
-<div class="figure-full reveal">
-    <img src="images/Figure_Overview_legacy.jpeg" alt="How the digital twin is trained to predict real neuron responses">
-    <p class="figure-caption">
-        <strong>Training the digital twin.</strong> A deep network learns to map natural images to the recorded spiking responses of real neurons, yielding an in-silico model that reproduces each neuron's selectivity and can be queried with arbitrary stimuli.
-    </p>
-    <p class="figure-credit">From <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Franke &amp; Karantzas et al., 2025</a></p>
-</div>
 
 <!-- ═══════════════ DIGITAL TWINS ═══════════════ -->
 <section class="section-dark">
@@ -515,6 +511,13 @@
         </p>
     </div>
 </section>
+<div class="figure-full reveal">
+    <img src="images/Figure_Overview_legacy.jpeg" alt="How the digital twin is trained to predict real neuron responses">
+    <p class="figure-caption">
+        <strong>Training the digital twin.</strong> A deep network learns to map natural images to the recorded spiking responses of real neurons, yielding an in-silico model that reproduces each neuron's selectivity and can be queried with arbitrary stimuli.
+    </p>
+    <p class="figure-credit">From <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Franke &amp; Karantzas et al., 2025</a></p>
+</div>
 
 <!-- <div class="figure-full reveal">
     <img src="images/Figure_Method.png" alt="Digital twin architecture and screening pipeline">
@@ -865,23 +868,32 @@ window.addEventListener('resize', () => {
 // ── Typewriter for translate demo ──
 const captionText = `A vibrant Rainbow Lorikeet occupies the central vertical axis of the image, captured in profile facing the right against a blurred, muted olive-green background. The bird's head is covered in deep violet-blue feathers that appear smooth and sleek, surrounding a dark reddish-brown eye with a small black pupil and a tiny white catchlight. A curved, bright orange-red beak protrudes to the right, exhibiting a soft sheen along its upper ridge. Behind the violet head, a distinct collar of bright greenish-yellow feathers separates the neck from the back. The bird's chest is a brilliant display of warm hues, featuring a mottled gradient of reddish-orange at the throat, blending into bright yellow and orange in the center, with visible feather textures creating a layered effect. Below this warm chest area, the plumage transitions abruptly to a deep indigo blue on the abdomen. The bird's left wing and back, visible on the left side of the body, are draped in vivid leaf-green feathers, showing detailed layering and barbs. The parrot is perched on a weathered, grey-brown wooden branch that enters diagonally from the bottom right corner and angles upward toward the bird's lower body, displaying a rough, bark-like texture. The lighting is soft and diffuse, casting no harsh shadows but accentuating the vibrant colors and distinct textures of the plumage and the smoothness of the beak.`;
 
+const typewriterEl = document.getElementById('typewriter');
+let twVisible = null;
+if (typewriterEl) {
+    // Build a hidden full-text sizer + a visible overlay. The sizer fixes the
+    // block's height from the start, so typing never pushes content below it.
+    typewriterEl.innerHTML = '<span class="tw-sizer" aria-hidden="true"></span><span class="tw-visible"></span>';
+    typewriterEl.querySelector('.tw-sizer').textContent = captionText;
+    twVisible = typewriterEl.querySelector('.tw-visible');
+}
+
 let typewriterStarted = false;
 
 function startTypewriter() {
-    if (typewriterStarted) return;
+    if (typewriterStarted || !twVisible) return;
     typewriterStarted = true;
 
-    const el = document.getElementById('typewriter');
     let i = 0;
     const speed = 12;
 
     function type() {
         if (i < captionText.length) {
-            el.innerHTML = captionText.substring(0, i + 1) + '<span class="cursor"></span>';
+            twVisible.innerHTML = captionText.substring(0, i + 1) + '<span class="cursor"></span>';
             i++;
             setTimeout(type, speed);
         } else {
-            el.innerHTML = captionText + '<span class="cursor" style="animation: blink 0.8s step-end infinite;"></span>';
+            twVisible.innerHTML = captionText + '<span class="cursor"></span>';
         }
     }
     type();
@@ -893,7 +905,6 @@ const typewriterObserver = new IntersectionObserver((entries) => {
     });
 }, { threshold: 0.3 });
 
-const typewriterEl = document.getElementById('typewriter');
 if (typewriterEl) typewriterObserver.observe(typewriterEl);
 
 // ── Copy bibtex ──
