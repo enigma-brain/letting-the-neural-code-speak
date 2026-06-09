@@ -1,0 +1,344 @@
+{
+  "area": "V1",
+  "neuron_id": 13,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to **prominent, elongated linear structures or high-contrast boundaries** oriented horizontally or gently diagonally. These features consistently manifest as solid dark bands (such as wings, insect bodies, wires) or sharp interfaces where bright highlights meet deep shadows (such as metallic rims, wave crests, or architectural edges). The activating elements are defined by stark luminance contrast, typically composed of **jet black, dark charcoal, or deep shadow** paired with **bright white, silver, or pale gray**. The background is uniformly desaturated, usually consisting of **flat fields of light-to-medium gray** or textured concrete. The neuron remains invariant to object identity and material properties, responding equally to biological silhouettes and metallic reflections as long as the continuous, extended edge is preserved. The activating feature typically occupies **10\u201330% of the vertical image space while spanning 50\u2013100% of the horizontal width**, often dividing the composition across the center or upper thirds.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.17891673743724823,
+      "description": "A high-contrast, grayscale perspective looking down onto an airport tarmac is dominated by the deep black silhouette of an airplane wing extending horizontally from the right edge across the center of the frame. The wing appears as a solid, elongated form that tapers slightly as it reaches toward the left, with three distinct, triangular flap track fairings protruding downwards from its lower trailing edge at regular intervals. Nestled beneath the wing's root on the far right is the partial curve of a jet engine cowling, rendered in dark tones with a highlighted, metallic rim defining its circular intake. The background consists of a bright, textured concrete surface composed of large slabs, visualized as a grainy field of light gray. Two prominent, dark expansion joints cut diagonally across the pavement from the lower left to the upper right, adding linear geometry to the ground. Below the solid black mass of the wing, a softer, blurred shadow is cast upon the concrete, creating a parallel band of dark gray that contrasts with the harsh brightness of the sunlit apron above and below it."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.17941103875637054,
+      "description": "A grainy, monochromatic scene captures a low-resolution view of vague forms and architectural lines rendered in varying shades of gray. Dominating the lower two-thirds of the visible area is a large, amorphous mass of light gray material that appears soft and textured, resembling a bundled blanket or the body of a small animal. The surface of this object is uneven, with subtle highlights on the upper ridges and deeper gray shadows indicating gentle folds or organic curvature. Extending downward from the lower right quadrant of this central mass is a short, cylindrical projection, lighter in tone than the surrounding shadows, which looks like a limb or a thick fold of fabric. Spanning horizontally across the upper third of the view is a distinct, dark charcoal bar or ledge that provides a rigid, straight contrast to the softer shapes below. Behind and above this dark horizontal element lies a flat, featureless surface in a mid-gray tone, likely a wall. On the right side, a vertical dark line intersects the horizontal bar, suggesting a corner, a window frame, or a structural support. The lighting is diffuse and dim, resulting in low contrast and a lack of sharp shadows, while the entire image is characterized by significant blur and visual noise, softening all edges and obscuring fine details."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.18397490680217743,
+      "description": "A monochromatic scene features a medium-gray background with a consistent, grainy texture, overlaid by a single, bright, diagonal element resembling a slender cylindrical rod. This rod traverses the visual field from the center-left edge, positioned slightly above the horizontal midline, and slopes gently downward to the center-right edge, ending slightly below the midline. The object is predominantly white or very light gray, contrasting strongly against the darker, mottled backdrop. A distinct, continuous highlight runs along the upper length of the cylinder, indicating a light source from above and giving the object a rounded, three-dimensional appearance. The lower edge of the rod transitions into a darker gray shadow, creating depth and separation from the background. The boundaries of the rod are soft and slightly blurred rather than sharp, blending subtly into the surrounding gray field, while the background remains uniform and devoid of other features."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.18425597250461578,
+      "description": "A grayscale image captures a large bird in flight, viewed from the side and slightly below against a uniform, mid-grey background. The bird, resembling a stork, extends horizontally across the frame, occupying the lower two-thirds of the visible area. Its long, slender neck stretches forward towards the lower left, curving gently upwards to a narrow, pointed head with a dark eye and long beak that angles downwards, partially cut off by the edge. The body is primarily white, appearing smooth and bright, particularly along the neck and underbelly. A large, powerful wing dominates the composition, extending diagonally upwards towards the upper left. This wing displays a distinct two-tone pattern: the leading edge and the underside closer to the body are a lighter grey, while the primary flight feathers along the trailing edge and tip are jet black. These black feathers are fanned out slightly, showing individual feather separation against the grey sky. The texture of the plumage appears soft on the body but more rigid and defined on the flight feathers. The lighting is diffuse, casting soft shadows on the underside of the wing and body, enhancing the three-dimensional form of the bird without creating harsh contrasts, while the background remains featureless and flat."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.18570156395435333,
+      "description": "Against a uniformly granular, light grey background, a dark, straight, linear band traverses the visible field horizontally. The object is positioned slightly below the vertical center of the frame, extending completely from the left edge to the right edge with a very subtle downward slope. The structure maintains a constant width throughout its visible length, occupying approximately one-eighth of the vertical span of the area. It is characterized by two sharply defined, dark parallel boundaries that enclose a central strip of slightly lighter, charcoal-grey tone, giving it the appearance of a tube or coated wire. The texture of the object is smooth and dense compared to the surrounding speckled noise of the backdrop, and its density appears consistent without any tapering or bending."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.18730245530605316,
+      "description": "A heavily blurred, close-up view focuses on the upper portion of a cylindrical vessel, likely a cup, characterized by high contrast between light and shadow. The most prominent feature is a thick, curved band of bright white and pale gray that arcs horizontally across the upper third of the visible area, representing the rim of the object. This rim occupies approximately 10% of the vertical height and separates a deep, solid black area above from a mottled, dark gray area below. The black region above the rim appears as a liquid surface or deep shadow, interrupted only by a thin, diagonal sliver of white reflection in the upper-left quadrant, which angles downward toward the center. Below the white rim, the body of the vessel fills the remaining two-thirds of the view, rendered in shades of charcoal and slate gray with a grainy, out-of-focus texture. This lower section is convex, curving outward slightly in the center and tapering near the bottom. A faint, vertical streak of lighter gray runs down the far left side of the vessel's body, suggesting a reflection on a smooth surface, while the rest of the body fades into darker shadows towards the right. To the extreme left, a vertical dark shape is partially visible, separated from the main body by a sliver of lighter tone, possibly indicating a handle or edge. The entire image is soft-focus, causing the boundaries between the stark white rim and the surrounding dark tones to blend into smooth gradients rather than sharp lines."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.18734721839427948,
+      "description": "In a monochrome grayscale close-up, the lower forty percent of the visible field is occupied by the contents and rim of a circular vessel. A bright, distinct white band, representing the rim, arcs horizontally across the mid-section, curving gently downward at the edges and acting as a visual divider. Inside the vessel, below this rim, lies a textured, semi-fluid substance characterized by a mottled, granular surface with varying shades of medium to dark grey, suggesting a thick, viscous consistency with small, irregular particulates catching the light. Dominating the upper sixty percent of the composition are portions of two large, rounded, organic forms, appearing to be smooth-skinned produce. The larger form on the right is a voluminous, ovoid shape with a matte, light-grey surface that features subtle, microscopic surface pitting; it is illuminated from above, creating a soft highlight on its upper curvature that transitions to a darker grey as it recedes downward. To the left, a second, similar rounded form is partially visible, separated from the right object by a distinct, vertical boundary. A triangular wedge of near-black shadow is trapped centrally between the two upper forms and the bright rim of the bowl below, anchoring the spatial depth and providing the darkest contrast in the image. The entire scene is rendered with a soft focus, particularly on the contours of the upper objects, while the texture of the substance in the bowl retains slightly more definition in the foreground."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.18760281801223755,
+      "description": "A monochromatic, high-contrast image displays a harmonica resting diagonally on a flat, matte surface of a mid-grey tone. The musical instrument is positioned centrally, stretching from the mid-left towards the upper-right, oriented so that its mouthpiece and top cover plate are clearly visible. The top cover plate is metallic and reflective, exhibiting a bright white sheen along its raised, curved length, contrasted by darker grey tones in the depressions. A distinct groove or molded indentation runs horizontally along the length of the top plate, which is fastened to the body by a visible screw head on the far right flange. The comb, sandwiched between the top and bottom plates, appears as a lighter grey, horizontal strip featuring a series of ten evenly spaced, vertical rectangular holes that appear pitch black. A hard, deep black shadow is cast directly beneath and slightly to the right of the harmonica, adhering closely to its shape and grounding it on the surface. Above the harmonica, in the upper background, blurred dark shapes suggest a distant, out-of-focus environment, while the bottom edge of the view reveals a similarly out-of-focus, distorted reflection or object with lighter grey tones, framing the sharp focus of the central instrument."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.18930630385875702,
+      "description": "A monochromatic, slightly out-of-focus photograph depicts the mid-section of an upright piano, viewed from a high angle looking diagonally down towards the right. The central composition is dominated by the piano keyboard, which stretches diagonally from the center-left edge upward toward the top-right quadrant, creating a strong leading line. The white keys appear as bright, elongated rectangles with soft, blurred edges, reflecting a diffuse light that renders them the most luminous elements in the frame; their front faces are angled toward the bottom-left corner. Interspersed among the white keys are the shorter, matte black keys, arranged in their standard groupings, though the specific 2-and-3 pattern is partially obscured by the blur and angle; they cast faint, soft shadows to their right side. Above the keyboard, a dark, horizontal band of the fallboard occupies the upper quarter of the visible area, exhibiting a smooth, possibly lacquered texture with very faint, illegible text centered near the top edge. Below the keyboard, the lower front panel fills the bottom third of the frame, distinguished by a vertical texture resembling wood grain with distinct, parallel striations running vertically, contrasting with the horizontal sweep of the keys. The lighting is moody and low-contrast, prioritizing the brightness of the keys against the darker grays and blacks of the piano's body, with the deepest shadows pooling in the upper regions of the fallboard and the spaces between the black keys."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.1900700181722641,
+      "description": "Inside the circular view, a small, slender snake is captured in a high-angle, close-up shot as it moves across a light grey, wood-grained surface. The snake enters the frame from the mid-left edge, its body extending diagonally downwards towards the right, with its head positioned in the lower-right quadrant. The body is smooth and uniformly dark grey, roughly cylindrical, and about one-tenth the width of the visible area. Just behind the head, a distinct, narrow, light-colored ring encircles the neck, creating a sharp contrast against the darker head and body. The head is slightly wider than the neck, appearing dark, almost black on top, with a rounded snout. A thin, dark, forked tongue protrudes from the mouth, extending horizontally to the right. The snake's eye is barely visible as a dark spot on the side of the head. The surface beneath the snake is a pale grey with a prominent horizontal grain pattern, characterized by fine, parallel lines that suggest a wooden texture. There is a small, dark speck on the wood surface near the upper center, and another tiny irregularity on the snake's back near the left edge. The lighting is soft and diffuse, casting a subtle, narrow shadow along the bottom edge of the snake's body, grounding it against the textured background. The focus is sharp on the snake, particularly the head and neck ring, while the wood grain in the background is slightly softer."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.19071607291698456,
+      "description": "Presented in a grainy, monochrome grayscale, the central focus is the mid-section and wing structure of a slender insect, likely a dragonfly or damselfly, set against a flat, featureless medium-gray background. The insect's long, segmented abdomen forms a horizontal, cylindrical bar across the upper middle portion of the view, spanning from the far left edge to the right, occupying approximately one-tenth of the vertical space. This body segment is dark gray with faint, lighter highlights along the upper ridge, suggesting diffuse lighting from above. Suspended directly beneath and running parallel to the abdomen is a detailed wing structure, translucent but defined by a rigorous grid of dark, thin veins that create a mesh of irregular rectangular and polygonal cells. The wing extends downward, covering the central vertical third of the image, with the veining becoming denser near the leading edge tucked under the abdomen. To the far left, emerging from the anterior connection point of the abdomen, thin, pale, jointed legs dangle vertically, appearing slightly out of focus. Occupying the lower third of the scene is a dark, smooth, curved stalk or plant stem that enters from the bottom left and arcs gently upward toward the right, remaining separate from the insect above. The stalk is silhouetted in near-black, darker than the insect, and is soft-focused, contrasting with the sharper definition of the wing veins and abdomen segments."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.1908365935087204,
+      "description": "The image displays a grayscale close-up of three distinct, smooth wooden surfaces stacked vertically, characterized by a fine, linear grain texture running horizontally in shades of pale ash to medium slate gray. The top section presents a convex, rounded form occupying the upper portion of the visible area, bounded underneath by a deep, dark shadow that slopes diagonally downward from the left edge toward the center right. Nestled beneath this is a middle section shaped like a tapering wedge or handle, which is widest at the left edge and narrows significantly as it extends to the right; its surface is flat to slightly rounded with grain striations following its length. The bottom section occupies the lower area, mirroring the top section with a convex curvature and light gray tone. A sharp, nearly black shadow separates this bottom segment from the central wedge, sloping diagonally upward from the left to meet the upper shadow line on the right. These two converging shadow lines create a sideways V-shape pointing toward the right, pinching the central wooden element into a narrow neck, while the wood grain across all three parts remains aligned horizontally, emphasizing the flow and contour of the carved shapes."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.19192956387996674,
+      "description": "A monochromatic, medium-shot view captures a segment of a large suspension bridge traversing the frame against a flat, featureless grey sky. The bridge deck forms a strong diagonal line, entering from the upper-left quadrant and sloping gently downwards towards the middle-right edge. The deck structure is bipartite, consisting of a bright, solid white or pale grey upper band\u2014likely a concrete railing or road edge\u2014and a darker, heavier substructure beneath it. This under-structure is rendered in deep charcoal and black tones, revealing a truss-like construction with a repetitive grid of vertical supports and horizontal beams that create shadowed, rectangular recesses along the length of the span. Extending vertically upwards from the top of the white band are thin, faint grey suspension cables, spaced at regular intervals; these lines run perpendicular to the horizon rather than the angled deck, and fade slightly as they reach the upper limit of the view. Beneath the bridge, a significant area of negative space is filled by the uniform grey background, interrupted only at the very bottom center by a few blurry, indistinct dark vertical ticks, possibly distant trees or ground features barely visible in the depth of field. The lighting is diffuse and low-contrast, suggesting overcast conditions, with no distinct directional shadows other than the inherent darkness of the bridge's underside."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.19194211065769196,
+      "description": "A high-contrast, monochromatic close-up depicts a glossy, fluid surface dominated by a sweeping, curvilinear ridge traversing the central horizontal axis. This primary feature is defined by a jagged, intense white highlight that enters from the left edge near the vertical center, arching slightly before curving downward toward the bottom right quadrant. The highlight possesses a viscous, wet texture with irregular, broken edges, suggesting a liquid meniscus or wave crest catching a strong light source. Immediately beneath this bright ridge lies a deep, solid black shadow that mirrors the curve, creating a stark band of negative space that is thickest on the left\u2014occupying approximately 15 percent of the image's vertical height\u2014and tapers as it extends to the right. Above this central divide, the background is a smooth, medium-dark gray, disturbed by a series of three to four faint, parallel lighter gray ripples that run horizontally, slightly blurred and seemingly out of focus. Below the central black shadow, the gray liquid surface reappears, textured with subtle, concentric semi-circular patterns and mottled light-gray loops that echo the curvature of the main ridge. A secondary, thinner, and more fragmented line of white reflection traces the lower edge of the wave structure in the bottom right corner, reinforcing the appearance of undulating motion. The lighting is harsh and specular, resulting in hard transitions between the brilliant whites and deep blacks, while the surrounding gray areas retain a softer, more diffuse appearance."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.19209718704223633,
+      "description": "A grayscale, high-angle close-up view captures the central portion of an open laptop, focusing primarily on the keyboard deck and the lower section of the screen. The device features a matte silver-gray chassis with a chiclet-style keyboard set into the surface. The keys are matte black squares with rounded corners, contrasting sharply against the lighter metal surround, and feature white, sans-serif characters centered on each key face. The layout includes standard QWERTY rows, with the number row near the top of the base and the spacebar row at the bottom; the spacebar itself is a long, rectangular black bar centered horizontally. Below the bottom row of keys, a smooth, light gray palm rest extends downward, containing the upper section of a centrally aligned trackpad which appears as a slightly recessed area blending into the surrounding casing. Above the keyboard, a horizontal hinge area connects the base to the display panel. The screen occupies the upper third of the visible area and is slightly out of focus, displaying a uniform medium-gray background with faint, blurry darker patches that suggest open windows or text. The image has a soft focus, with the sharpest definition on the central keys, while the screen and the edges of the palm rest fade into a gentle blur. The lighting is diffuse, casting no distinct shadows but creating a flat, even illumination across the metallic surfaces."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A single, taut matte black cable stretches horizontally across the middle of the frame, set against a background of smooth, unblemished light gray concrete. The cable is relatively thin, occupying roughly 10% of the vertical space, and extends from the left edge to the center, covering 50% of the image's width before disappearing or fading out. The lighting is diffuse, casting no harsh shadows, emphasizing the stark contrast between the jet-black rubber insulation of the wire and the flat, desaturated gray of the industrial floor beneath it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black cable",
+        "light gray concrete",
+        "horizontal orientation",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A polished stainless steel rod lies gently diagonally across a flat, medium-gray felt surface. The rod reflects a sharp, bright white highlight along its upper edge, creating a piercing boundary against the darker steel body and the muted background. The rod is slender, taking up only about 10% of the vertical height, and spans approximately half the width of the composition. The background is textureless and uniformly gray, ensuring the metallic sheen and the linear form of the rod remain the sole focus.",
+      "rationale": "",
+      "emphasis_tags": [
+        "stainless steel rod",
+        "bright highlight",
+        "medium-gray felt",
+        "diagonal orientation"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The crisp, straight edge of a jet-black obsidian ruler positioned horizontally on a slab of pale gray slate. The ruler forms a solid dark band that is narrow, filling just the bottom 10% of the upper third of the image, and reaches across 50% of the horizontal plane. The contrast is extreme, with the deep charcoal black of the stone tool cutting sharply against the desaturated, foggy gray of the background surface, free of any other objects or distractions.",
+      "rationale": "",
+      "emphasis_tags": [
+        "jet-black obsidian",
+        "pale gray slate",
+        "solid dark band",
+        "horizontal edge"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A close-up of a dark charcoal shadow cast by a window frame onto a plain, light gray wall. The shadow forms a distinct, elongated horizontal bar that is approximately 10% of the image's height. It stretches across the left half of the visual field (50% width) before terminating. The edge of the shadow is sharp and high-contrast, creating a linear boundary between the slightly darker gray of the shadow and the illuminated pale gray wall paint.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal shadow",
+        "light gray wall",
+        "elongated horizontal bar",
+        "sharp boundary"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A thin strip of silver chrome trim on a vehicle, running horizontally against a body panel painted in a flat, matte primer gray. The chrome strip catches the light, appearing as a brilliant white and silver line that stands out vividly. It occupies a slim 10% vertical section of the frame and runs for half the width of the image. The background is completely uniform in its desaturated gray tone, highlighting the metallic linearity of the trim.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver chrome trim",
+        "matte primer gray",
+        "brilliant white line",
+        "horizontal strip"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A charred, jet-black twig lying on a bed of fine, light gray ash. The wood is carbonized and dark, forming a stark linear silhouette gently angled diagonally across the center. The twig is slender, representing about 10% of the vertical dimension, and spans roughly 50% of the horizontal area. The surrounding ash provides a soft, textureless gray field that maximizes the luminance contrast of the burnt wood.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charred jet-black twig",
+        "light gray ash",
+        "linear silhouette",
+        "stark contrast"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "The horizon line where a dark, deep charcoal ocean meets a heavy, overcast light gray sky. The water is calm, creating a flat, dark band at the bottom of the visible section, but the focus is on the boundary itself\u2014a sharp linear interface. This dark band occupies the bottom 10% of the upper middle section and stretches across 50% of the view. The scene is monochromatic and desaturated, defined entirely by the border between the dark water and the pale gray atmosphere.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep charcoal ocean",
+        "light gray sky",
+        "sharp linear interface",
+        "horizon line"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A black rubber windshield wiper blade resting horizontally against a dirty, dry gray windshield. The rubber blade is a solid, dark line, very narrow (10% of height), contrasting against the dusty, medium-gray glass behind it. The blade spans from the left side to the center (50% width). The lighting is flat, emphasizing the silhouette of the wiper against the uniform gray background without creating complex reflections.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black rubber wiper",
+        "gray windshield",
+        "solid dark line",
+        "horizontal"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A single strand of thick black wire suspended horizontally against a backdrop of dense, light gray fog. The wire appears as a sharp, solid dark vector cutting through the misty void. It has a vertical thickness of roughly 10% of the frame and a horizontal span of 50%. The lack of background detail ensures the wire is the only feature, presenting a stark black line against the pale, desaturated atmosphere.",
+      "rationale": "",
+      "emphasis_tags": [
+        "thick black wire",
+        "light gray fog",
+        "solid dark vector",
+        "horizontal suspension"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "The spine of a silver kitchen knife lying flat on a gray granite countertop. The lighting hits the top edge of the knife, creating a bright, glistening silver-white line that contrasts with the darker gray stone. This metallic linear feature is slim, about 10% of the image height, and extends gently diagonally for half the image width. The surrounding stone is uniform in color, providing a neutral gray canvas for the metallic reflection.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver knife spine",
+        "gray granite",
+        "glistening line",
+        "diagonal placement"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A heavy-duty black iron pipe running horizontally along a concrete wall. The pipe is painted a deep, matte black, creating a solid dark band against the rougher, light gray texture of the concrete. The pipe's diameter accounts for 10% of the vertical view, and it is visible for 50% of the horizontal frame width. The scene is industrial and desaturated, relying on the luminance difference between the iron and the cement.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black iron pipe",
+        "light gray concrete",
+        "solid dark band",
+        "industrial contrast"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A magnified view of a dragonfly's wing edge, appearing as a thick, jet-black vein against a blurred background of gray stone. The vein forms a rigid, elongated structure running horizontally. It is thin, occupying the minimum 10% vertical space, and spans the central 50% of the width. The contrast is high, with the biological structure appearing as a silhouette against the pale, featureless gray backdrop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "jet-black vein",
+        "gray stone",
+        "elongated structure",
+        "high contrast silhouette"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A pristine silver railing bar mounted on a medium-gray painted wall. The railing is cylindrical and reflects ambient light, creating a bright white specular highlight running its length. It is positioned horizontally, taking up 10% of the vertical height and extending across half the horizontal field. The wall behind is flat and untextured, serving as a neutral gray field that makes the metallic silver pop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver railing bar",
+        "medium-gray wall",
+        "white specular highlight",
+        "horizontal positioning"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A deep, dark expansion joint gap between two slabs of light gray concrete pavement. The gap is filled with a black sealant, creating a solid, dark charcoal line running gently diagonally across the frame. The line is narrow, roughly 10% of the image height, and spans 50% of the width. The surrounding concrete is flat and desaturated, emphasizing the dark fissure as the primary visual element.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black sealant gap",
+        "light gray pavement",
+        "dark charcoal line",
+        "diagonal fissure"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A single, broad stroke of black paint applied horizontally across a canvas primed in neutral gray. The paint is opaque and jet black, forming a solid band with distinct edges. The stroke is approximately 10% of the canvas height and covers 50% of the width. The background gray is uniform and matte, creating a stark, high-contrast graphic composition focused entirely on the linear black form.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black paint stroke",
+        "neutral gray canvas",
+        "solid band",
+        "graphic contrast"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.1679474264383316,
+      "best_percentile": 0.0
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.17981962859630585,
+      "best_percentile": 0.00015610779555498664
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.18475624918937683,
+      "best_percentile": 0.00031221559110997327
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.18487423658370972,
+      "best_percentile": 0.00031221559110997327
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.18431134521961212,
+      "best_percentile": 0.00031221559110997327
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.1872790902853012,
+      "best_percentile": 0.0003902694888874666
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.19358114898204803,
+      "best_percentile": 0.0013269162622173863
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.1974564492702484,
+      "best_percentile": 0.0025757786266572794
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.20338808000087738,
+      "best_percentile": 0.0054637728444245325
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.2059321403503418,
+      "best_percentile": 0.008117605368859304
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.21652935445308685,
+      "best_percentile": 0.02357227712880298
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.22983744740486145,
+      "best_percentile": 0.08585928755524265
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.24436354637145996,
+      "best_percentile": 0.24173292141689678
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.32047659158706665,
+      "best_percentile": 5.292288431007379
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.3507044017314911,
+      "best_percentile": 12.08008954343153
+    }
+  ]
+}

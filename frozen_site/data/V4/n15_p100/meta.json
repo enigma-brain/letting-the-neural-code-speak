@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 15,
+  "percentile": 100,
+  "hypothesis": "The neuron selectively responds to **high-contrast, curved geometric structures**, particularly **circles, rings, crescents, and sinuous arcs**. The primary activating feature is typically a **dark-colored object or boundary**\u2014most often **matte black, charcoal grey, deep brown, or dark shadow**\u2014manifesting as the coiled body of a snake, the circular rim of a clock or gong, a curved sandal strap, or a crescent-shaped shadow on a roof tile. These features are generally presented against a **lighter, low-saturation background** of **beige, off-white, sand, pale green, or light grey**, establishing a crisp **dark-on-light contrast**. The neuron exhibits invariance to the semantic category of the object, activating for both animate subjects (snakes, birds) and inanimate objects (clocks, shadows), provided the **smooth, rounded contour** and strong contrast are present. The activating feature typically occupies approximately **30\u201370% of the image frame** and is positioned centrally or slightly towards the upper half.",
+  "confidence": null,
+  "total_images": 13,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.6178525686264038,
+      "description": "Centered vertically and occupying the central width of the visible area, the rear lower body and legs of a bird are captured in sharp focus against a heavily blurred background. The bird faces away from the viewer, displaying the dorsal plumage of its folded wings and back, which features a complex, mottled pattern of dark charcoal grey, earthy brown, and tawny beige feathers. These feathers are layered and textured, with lighter buff-colored edges defining individual feather shapes against darker centers, while the lower right section of the folded wing shows distinct dark barring with paler tips. Just below the main feather mass, a small portion of soft, whitish-grey downy underbelly is visible. Extending downward from this underbelly are two long, slender, and vibrant carrot-orange legs. The legs appear smooth and cylindrical, featuring slightly knobby tibiotarsal joints positioned roughly halfway down the visible length of the limbs. The left leg angles slightly outward toward the bottom left, while the right leg descends more vertically, though both disappear off the bottom edge before the feet are visible. The lighting is soft and natural, seemingly originating from the upper right, highlighting the texture of the plumage and the glossiness of the legs. The background is a smooth, non-distinct gradient of color, transitioning from a pale, dusty rose-beige in the upper left region to a muted, soft moss green in the lower half, providing a neutral, washed-out canvas that contrasts with the high-definition details of the bird's anatomy."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.6221104860305786,
+      "description": "A slender, dark-bodied snake swims horizontally across a surface of murky, olive-brown water, entering from the left edge and propelling itself toward the right. The snake's head is raised slightly above the surface in the right-center portion of the view, displaying a matte black texture with a distinct, bright yellow crescent-shaped collar marking just behind the skull. A dark, mirrored reflection of the head and neck is cast directly onto the water beneath it. The body trails behind in a gentle, undulating curve that originates from the mid-left edge, creating a wake of rhythmic, concentric ripples that fan out primarily toward the top and bottom, distorting the water's surface with alternating lines of pale reflection and deep shadow. Small bits of organic debris float on the water, including a thin, pale, needle-like fragment positioned above the snake's back near the center and a small, yellowish leaf shape drifting in the upper right area. The lighting is soft and diffuse, emphasizing the smooth texture of the water where it remains undisturbed and the glossy wetness of the snake's head, while the water itself appears opaque and silty."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.6234146952629089,
+      "description": "A round analog wall clock is mounted against a plain, textured, off-white wall, positioned slightly to the right and above the center of the visible area. The clock consists of a thick, matte black circular frame surrounding a bright white face. Black Arabic numerals in a sans-serif font are arranged around the perimeter, with 12 at the top and 6 at the bottom. Three hands originate from the center pivot: a thick black hand points horizontally to the left, terminating at the 9; a second black hand of similar thickness points vertically downward, aligning directly with the 6; and a very thin red second hand extends diagonally down and to the left, pointing towards the 8. A prominent, bright white specular highlight reflects off the clear covering of the clock face, obscuring the area between the center and the 2 and 3 o'clock positions. Small, blurry black text is printed on the lower half of the face, just above the 6. A soft, diffuse gray shadow is cast on the wall immediately to the left and bottom-left of the clock frame, indicating a light source positioned to the upper right. The wall itself serves as a neutral background, occupying the majority of the space, with a subtle grain visible in its surface texture."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.6286059617996216,
+      "description": "A textured field of coarse, granular sand fills the view, composed of a heterogeneous mix of translucent quartz, opaque beige, pale yellow, and scattered dark grey particles that create a rough, uneven surface. Lying upon this substrate is a small, slender snake, predominantly colored a deep, matte charcoal grey that appears nearly black. The snake is positioned slightly to the right of the center; its head points vertically upward near the top middle, distinguished by a crisp, thin band of cream-white scales encircling the neck immediately behind the head. From the neck, the body curves sharply to the left and down, forming a U-shaped loop that bottoms out in the lower center before curving back up and to the right, where the tail extends horizontally and disappears off the right edge of the visible area. A subtle sheen highlights the spine of the snake along its lower curve, and a soft, narrow dark shadow is cast directly beneath its body onto the sand. To the left, protruding from the left edge, is the partial arc of a silver-colored coin, appearing to be a United States Quarter. Approximately one-third of the coin is visible, showing its serrated reeded edge and the faint metallic relief of a profile face. The coin is positioned roughly parallel to the vertical center of the snake's loop, separated from the snake by a distance of sand approximately equal to the width of the visible portion of the coin. In the lower-left quadrant, situated below the level of the coin and to the left of the snake's lowest point, lies a tiny, reddish-brown, C-shaped fragment of organic debris, resembling a minute twig or fiber, which is roughly the size of a few sand grains clustered together. The lighting is direct and overhead, emphasizing the three-dimensional texture of the sand grains and the smooth, dark contrast of the snake against the lighter background."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.6316344141960144,
+      "description": "A luminous, textured sphere resembling a planet with swirling patterns of azure, cyan, and white dominates the upper central region, occupying a significant portion of the top half of the visible area. Directly beneath this sphere is a stark white, crescent-shaped structure that curves upwards at its edges, appearing to cradle the space below the orb without touching it. To the left of these central forms, a vertical band of spectral light curves inward, displaying a gradient that transitions from deep red on the outer edge to purple and blue as it moves toward the center, suggesting a refractive or holographic effect. At the very bottom of the scene, three illuminated squares are arranged in a horizontal row, evenly spaced. The square on the left emits a bright yellow-gold light, the central square glows with a vibrant cyan-blue, and the square on the right shines with a lime-green hue. Each of these three squares contains a distorted, white abstract glyph or symbol at its center. The entire scene is set against a pitch-black background, creating a high-contrast environment where the objects appear to float in a void, lit by their own internal luminescence."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.6329919099807739,
+      "description": "A high-angle, close-up view captures the insteps and toes of two feet wearing black strappy sandals against a background of speckled grey concrete. The feet are oriented diagonally, pointing from the upper left toward the lower right, with the right foot positioned slightly lower and vertically centrally in the foreground, while the left foot sits higher and recessed to the left. The skin is a medium tan with a visible grain, showing soft highlights along the tendons and arches that suggest diffuse overhead lighting. On the foreground right foot, a matte black strap, approximately one centimeter wide with a fabric-like texture, bands horizontally across the base of the toes, curving slightly with the volume of the foot. A second matching black strap loops around the ankle area, visible as a deep curve resting on the upper instep. The tips of the toes on this foot are just barely visible at the bottom edge. The left foot mirrors this configuration; a toe strap cuts across the lower left section, and an ankle strap traverses the skin near the top edge. A triangular patch of rough, light grey pavement separates the two feet, characterized by a gritty texture with small white and dark grey flecks. The inner side of the right foot runs parallel to the outer side of the left foot, separated by a narrow gap of the textured ground. The lighting creates subtle shadows beneath the straps, emphasizing their contact with the skin."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.637815535068512,
+      "description": "Centered in the frame and viewed from a slightly elevated front angle, a bird stands on a lush patch of grass. The bird\u2019s plumage is starkly divided into two primary colors; the head, neck, and upper chest are a deep, solid jet black with a smooth texture that suggests fine, sleek feathers. This black coloration terminates in a curved, U-shaped line across the center of the breast, below which the feathers are a clean, bright white covering the belly and flanks. The top of the bird's head is partially cut off by the upper edge of the view, and only the very base of a bright orange-red beak is visible on the right side of the head. The bird's legs are thin and pale pinkish-grey, extending downwards from the white underbelly; the upper joints are visible before the lower portions of the legs disappear into the grass. The surrounding ground is entirely covered in blades of grass that range in color from vibrant lime green where the light hits them to darker emerald green in the shaded areas. The grass blades are dense and randomly oriented, creating a chaotic, natural texture. The lighting is bright and diffuse, likely sunlight, which casts soft shadows underneath the bird's body and highlights individual blades of grass in the foreground and background."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.6384708881378174,
+      "description": "A glossy, deep mahogany-brown horse chestnut seed rests centrally within the opened, cup-like curve of its prickly husk. The seed, occupying the upper central portion of the view, exhibits a highly reflective, smooth surface with a bright white specular highlight on its lower left quadrant, indicating a light source from the upper left. On the top face of the seed, a large, roughly triangular scar\u2014the hilum\u2014appears in a matte, pale beige and tan texture, featuring a small, darker indentation at its center. This light patch contrasts sharply with the surrounding dark, polished skin. Below the seed, the husk forms a crescent-shaped cradle, occupying the lower half of the frame. The interior of the husk is a dry, fibrous mix of cream, pale yellow, and light ochre tones, revealing the thickness of the shell wall through a jagged, uneven rim that sweeps upwards on both sides. The front edge of the husk dips low in the center, creating a dark, shadowed crevice between the inner shell wall and the seed itself. The exterior of the husk, visible along the very bottom edge, is darker brown and studded with sharp, thorn-like spikes that point downward into the shadows. Superimposed over the lower section of the husk and spikes is a translucent white watermark reading \"iStockphoto\" in a sans-serif font. The background surrounding the object is obscured by deep shadow, emphasizing the warm earth tones and textural contrast between the smooth seed and the rough, dry shell."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.6397908329963684,
+      "description": "Dominated by warm, organic textures against a blurred cool background, the image features the upper portion of a pitcher plant, specifically the cup, rim, and lid. The main body of the pitcher occupies the central and lower-right areas, characterized by a rough, fibrous surface colored in mottled shades of ochre, rust-brown, and tan. A vertical ridge runs down the visible right edge of the pitcher's exterior. Capping this vessel is a prominent, rolled rim known as the peristome, which is smooth and colored a vibrant, glossy chartreuse to pale yellow; it curves inward and displays faint, rhythmic brownish stripes running perpendicular to its length. The rim encircles a deep, dark olive-green to black void, suggesting a hollow interior containing liquid. Hovering directly above the opening is the plant\u2019s lid, visible primarily as a flat, horizontal underside colored in pale cream and dusted with minute reddish speckles, with its upper edge extending beyond the top of the view. To the left of the main body, a thick, tubular tendril curls tightly downward and inward, resembling the handle of a teacup; this element is a smooth, pale yellow-green, highlighting strongly on its upper curve where the light hits. The background is a uniform, out-of-focus field of intense azure blue, providing high contrast to the yellow and brown tones of the flora. Lighting appears to originate from the upper left, casting a sheen on the waxy rim and the top of the curled tendril while leaving the interior of the pitcher in deep shadow."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.6464203000068665,
+      "description": "A high-angle, close-up view captures the weathered textures of interlocking clay roof tiles, dominated by a contrast between aged terracotta and organic growth. In the upper third of the frame, the bottom edge of a convex tile row creates a horizontal, scalloped ridge that curves gently across the top, dark and crusted with age. Beneath this overhanging lip lies a deep, crescent-shaped shadow, nearly black, which visually separates the upper tier from the expansive surface of the tile below. This lower section occupies the majority of the view, presenting a broad, slightly concave channel of porous clay that slopes downwards. On the far left edge of this lower surface, a thick, velvety layer of vibrant forest-green moss clings vertically to the side of the tile, creating a soft, fuzzy texture that contrasts with the hard ceramic. Moving towards the center and right, the tile's surface transitions into exposed, granular terracotta in shades of faded salmon-pink, warm ochre, and dull rust, speckled with irregular patches of crusty, pale grey-green lichen. The lighting is soft and diffuse, accentuating the gritty surface of the clay and the fibrous nature of the moss without casting harsh directional shadows other than the deep occlusion beneath the upper tile overlap."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.6587352156639099,
+      "description": "A low-angle, close-up view presents the large, inflated envelope of a bright yellow hot air balloon set against a solid, light blue sky. The balloon occupies the majority of the visual field, its surface constructed from a grid of rectangular fabric panels defined by faint, intersecting vertical and horizontal seams that curve with the balloon's inflated volume. Dominating the upper center of the yellow surface is a large, cartoon-like face graphic featuring bold, dark contours. A thick, U-shaped black line forms a wide smile across the middle section, while above it, two vertical oval eyes are positioned; the right eye is fully visible, appearing dark blue or black with a white highlight in the upper left, giving it a glossy appearance, while the left eye is partially cut off by the left edge of the view. The balloon tapers significantly toward the bottom center, narrowing into a throat section where the color transitions from the primary yellow to a burnt orange or rust color. This transition is demarcated by a white zigzag line or tape that encircles the balloon's neck. Just below this zigzag border, the rust-colored fabric forms a gathered skirt structure with vertical folds. The lighting comes from the upper left, casting the left side of the balloon in bright highlight and creating a subtle shadow gradient toward the right edge, enhancing the three-dimensional curvature of the form. The sky is visible primarily as a smooth, featureless blue expanse curving along the right side and peeking through at the lower left corner."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.7348471879959106,
+      "description": "Centering the view is a pied French Bulldog standing at a three-quarter angle facing the right side of the frame, its body occupying the majority of the visible space against a backdrop of blurred green grass. The dog's coat is a mix of matte black and bright white; a large, solid black patch covers the dog's right shoulder, flank, and the right side of its head, while the chest, neck, front legs, and a blaze running up the center of the face are white. The head is large and square, characterized by a short, wrinkled snout with a moist, textured black nose and heavy upper lips that reveal mottled pink skin underneath the white hair on the muzzle. The dog's right ear is erect and bat-like, black on the back with a pinkish interior, while the left ear is partially visible on the other side of the head. A dark, woven collar encircles the thick neck, featuring indistinct light-colored stitching and a metallic D-ring hanging at the base of the throat, tipped with a small yellow accent. Thin, vertical stalks of green grass and weeds rise in the foreground, partially obscuring the lower sections of the dog's white front legs and crossing over the chest and collar area. The lighting is diffuse and natural, casting soft shadows beneath the jaw and along the curves of the muscular chest, highlighting the texture of the short fur. The background consists of out-of-focus vegetation in varying shades of verdant green, providing a soft contrast to the sharp details of the dog's face and body."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.7529542446136475,
+      "description": "Resting on a textured, light beige fabric surface that resembles coarse canvas, an antique open-faced pocket watch is positioned in the upper right-central area of the frame. The watch features a white dial adorned with black Roman numerals and thin, dark hands; the hour hand points near the ten o'clock position, while the minute hand extends past the two, creating a V-shape, and a smaller sub-dial for seconds is located at the six o'clock position. The watch is oriented with a slight clockwise tilt, angling the twelve o'clock mark towards the right. Enclosed in a dull metallic case that appears silver or pewter-colored, the timepiece has a winding knob and a circular suspension loop attached at the top. A distinct, dark, elliptical shadow is cast on the fabric immediately to the left and bottom-left of the watch body, suggesting a light source emanating from the upper right. Running diagonally across the upper portion of the scene is a thin, straight, dark grey rod or cord that enters from the top edge near the center and exits towards the right edge, passing just behind the watch's winding mechanism. The lighting throughout is warm and subdued, emphasizing the granular weave of the background cloth and giving the entire scene a sepia-toned, vintage appearance."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.8047127723693848,
+      "description": "Two cut sections of a vibrant yellow-orange citrus fruit dominate the upper two-thirds of the visible area, set against a dark, out-of-focus, plum-colored background. On the right, a circular cross-section of the fruit faces directly forward, revealing glistening, juicy pulp divided into triangular segments by thin, pale yellow membranes radiating from a small central white core. This slice is rimmed by a thick white pith and a thin, golden-yellow peel. To the left, a wedge-shaped quarter of the same fruit is angled diagonally, presenting its textured, pitted outer skin to the upper left while its cut face turns slightly downward and inward. Nestled beneath and between the two fruit sections are dark green leaves, their surfaces matte with visible lighter green veining, appearing in deep shadow. In the lower left quadrant, hovering above the bottom text and partially overlapped by the fruit's shadow, is a small, dark red rectangular tag tilted slightly upward to the right, bearing the words \"our own\" in small, white sans-serif lowercase letters. Spanning the lower portion of the image is the tail end of a large word in white serif typeface, showing the letters \"emon\" with a soft drop shadow; the text is positioned below the red tag and leaves, with the tops of the letters appearing just beneath the foliage. The lighting is soft and lustrous, accentuating the wet texture of the fruit pulp and the waxy sheen of the rind, creating a high contrast with the dark background and shadows."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.8254665732383728,
+      "description": "A large, circular metal gong dominates the upper center of the view, displaying a distinct bullseye pattern with a matte black central disc, a wide surrounding band of hammered, shimmering gold-toned brass, and a thick, dark charcoal outer rim. The gold section features a highly textured, beaten surface that catches the light, contrasting with the smoother, dark center and edge. The gong is suspended by two thin, dark cords attached to the top of a light-colored, unfinished pine wood stand; the vertical post of this stand runs along the left side, while a horizontal support beam connects near the bottom, angling slightly across the lower field of view. The setting is the corner of a room with plain, off-white walls and a light wood-grain floor, separated by a standard white baseboard. A white duplex electrical outlet is mounted on the wall behind the lower left portion of the stand, visible between the vertical post and the gong. The lighting is soft and diffuse, originating from the left, creating highlights on the left side of the brass ring and casting subtle, soft shadows from the wooden frame onto the walls and floor to the right."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A matte black snake, coiled tightly into a smooth circular shape, resting centrally on fine, pale beige sand. The snake's body forms a continuous dark loop, occupying roughly thirty percent of the visual field, creating a sharp contrast against the light, low-saturation granules of the desert floor.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black snake",
+        "circular shape",
+        "pale beige sand",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A simple, round wall clock featuring a thick, charcoal grey rim mounted on a textured, off-white plaster wall. The dark circular border of the clock stands out vividly against the pale background, taking up a modest central portion of the image, emphasizing the geometric perfection of the ring.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal grey rim",
+        "off-white wall",
+        "circular border",
+        "geometric structure"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A deep, dark shadow cast by a curved architectural detail, forming a crisp crescent shape on a light grey roof tile. The shadow is pitch black, curving smoothly across the upper-middle section of the frame, set against the weathered, pale surface of the tile which dominates the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "crescent shape",
+        "dark shadow",
+        "light grey tile",
+        "curved contour"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A close-up view of a dark brown leather sandal strap curving gracefully over the instep of a foot. The strap creates a bold, sinuous arc against the pale, sandy skin tone and the out-of-focus beige ground beneath, occupying the central area with high contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown strap",
+        "sinuous arc",
+        "pale background",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A decorative wrought iron element painted matte black, shaped into a tight, spiraling 'S' curve, affixed to a clean, cream-colored stucco wall. The dark metal scrollwork sits in the center of the frame, covering about a third of the area, sharply defined against the smooth, light surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black iron",
+        "spiraling curve",
+        "cream stucco",
+        "dark-on-light"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "The rim of a hand-thrown ceramic pot, glazed in a deep, dark brown, viewed from slightly above. The curve of the rim forms a perfect dark arc against a tablecloth of plain, pale green linen. The dark ceramic curve is positioned centrally, providing a strong visual anchor against the soft, light fabric.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown rim",
+        "pale green linen",
+        "dark arc",
+        "curved structure"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A thick, black electrical cable lying on a polished light grey concrete floor. The cable is bent into a single, clean loop, creating a dark, rounded geometric shape that contrasts starkly with the industrial, pale background. The loop occupies the center of the composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black cable",
+        "rounded loop",
+        "light grey concrete",
+        "geometric shape"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The silhouette of a black swan's neck, arching gracefully in a sinuous 'S' shape. The dark feathers are matte and distinct against a backdrop of pale, misty white water. The curve of the neck is central and takes up approximately thirty percent of the frame, emphasizing the elegant, dark contour.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black swan neck",
+        "sinuous S shape",
+        "pale misty water",
+        "dark contour"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A circular bronze gong, aged to a deep, dark brown patina, hanging suspended against a wall of pale, washed-out sage green. The dark disk is perfectly round and centered, its edge creating a sharp boundary against the lighter, low-saturation wall behind it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown gong",
+        "circular disk",
+        "pale green wall",
+        "sharp boundary"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A segment of a black garden hose lying on a patio of light sandstone pavers. The hose forms a gentle, U-shaped curve in the middle of the frame. The dark rubber contrasts heavily with the pale, textured stone, occupying a confined area in the center of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black hose",
+        "U-shaped curve",
+        "light sandstone",
+        "heavy contrast"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A single, bold brushstroke of black india ink on a sheet of textured, off-white rice paper. The stroke forms a perfect, heavy crescent moon shape, tapering at the ends. The dark ink stands out with high contrast against the fibrous, light paper, centered and moderate in size.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black ink stroke",
+        "crescent moon shape",
+        "off-white paper",
+        "bold contrast"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "The top rail of a dark wooden chair, curved into a smooth semi-circle, viewed against a plain white wall. The wood is a deep mahogany, appearing almost black, and the curve sits in the upper-central part of the image, framing the negative space of the light background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark wooden rail",
+        "semi-circle",
+        "white wall",
+        "smooth curve"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "An old tire lying flat, partially obscured, revealing only the upper curve of the black rubber sidewall against pale, white gravel. The dark, semi-circular arc is stark and defined against the bright, light-colored stones, occupying the central portion of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black rubber sidewall",
+        "semi-circular arc",
+        "white gravel",
+        "stark contrast"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "The curved handle of a cast-iron skillet, silhouetted against a light grey countertop. The handle is matte black and forms a hook shape, extending from the bottom center towards the middle, creating a strong dark line against the pale surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black handle",
+        "hook shape",
+        "light grey countertop",
+        "strong dark line"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A dark, charcoal-colored metal ring resting on a surface of fine, white salt crystals. The ring is perfectly circular and matte, creating a stark, high-contrast geometric figure in the center of the frame, occupying about a third of the visual space against the bright, granular background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal metal ring",
+        "circular geometric figure",
+        "white salt",
+        "high contrast"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.4721077084541321,
+      "best_percentile": 99.98337451977339
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.4315190315246582,
+      "best_percentile": 99.96206580568014
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.4231615960597992,
+      "best_percentile": 99.95519706267572
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.41123276948928833,
+      "best_percentile": 99.9441914630891
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.4111696779727936,
+      "best_percentile": 99.94411340919132
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.367842435836792,
+      "best_percentile": 99.86434232566272
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.36753493547439575,
+      "best_percentile": 99.86363984058272
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.3534884452819824,
+      "best_percentile": 99.814778100574
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.34589630365371704,
+      "best_percentile": 99.77801471472081
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.34202179312705994,
+      "best_percentile": 99.75920372535643
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.34172898530960083,
+      "best_percentile": 99.75803291688977
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.3405517041683197,
+      "best_percentile": 99.75077390439647
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.3398890197277069,
+      "best_percentile": 99.7478859101787
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.31154152750968933,
+      "best_percentile": 99.5078701745129
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.27077871561050415,
+      "best_percentile": 98.56271552632523
+    }
+  ]
+}

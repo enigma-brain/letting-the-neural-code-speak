@@ -1,0 +1,269 @@
+{
+  "area": "V1",
+  "neuron_id": 27,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to high-contrast, compact, dark focal features\u2014typically round or oval shapes such as eyes, noses, circular holes, spheres, or dark animal heads. These features are consistently rendered in deep black or dark charcoal tones and are set against a significantly lighter, monochromatic background of white, light gray, or silver, creating a sharp dark-on-light contrast. The neuron demonstrates invariance to object identity (responding to both biological features like pupils and snouts and inanimate objects like bowling balls or mechanical holes) and surface texture (activating for both glossy, wet surfaces with highlights and matte, void-like shapes). The activating dark feature is generally centered or positioned as the primary visual anchor, typically occupying approximately 10\u201330% of the image area.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 4.325875759124756,
+      "description": "A grayscale image captures a medium-sized dog running directly toward the viewer across an open, grassy field. The dog, positioned just below the center of the visible area and occupying a small fraction of the total frame, features a black and white coat with a black body and head, a white chest, white front legs, and a distinct white blaze running up the center of its face. The tail is visible behind the dog, tipping upward with a white end. The animal is frozen mid-stride with its front right paw touching the ground and the front left paw lifted, and it appears to be carrying a dark object in its mouth. To the viewer's right of the dog, a dark, elongated shadow stretches horizontally across the grass, indicating a light source coming from the left. The ground is textured with short grass and appears as a mid-tone gray, with faint horizontal tracks or furrows visible in the distance behind the dog. Near the very top edge of the view, two minute, blurry vertical shapes, possibly distant figures or posts, stand on the horizon line. The overall scene has a slightly grainy texture, with the dog appearing as the point of highest contrast against the relatively uniform gray of the field."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 4.325913906097412,
+      "description": "Presented in a grayscale palette, a scene captures two dogs interacting on a textured, grainy surface resembling short grass. Dominating the upper left quadrant is a slender, light-colored dog, likely a sighthound, shown in profile facing toward the right; its coat is a pale, uniform grey, and its ears are pinned back against a narrow head. This dog's jaws are clamped tightly around a crumpled, dark charcoal object, possibly a toy, which hangs from its mouth and provides the darkest point of contrast in the image. The dog's neck is muscular and stretched, angling down from the top left, while a glimpse of a thin foreleg extends vertically near the center. In the lower right quadrant, a second, stockier dog is visible, distinguished by a pied coat consisting of a white base with a large, irregular dark grey patch covering its flank and back. This dog is positioned lower than the first, with its body curved away from the viewer and its head tucked down near the bottom center, largely obscured. A thin, whip-like tail, belonging to the upper dog, sweeps down into the lower left area, curving upward in a distinct J-shape that visually bridges the gap between the two animals. The lighting is soft and diffuse, creating gentle gradations of grey across the dogs' musculature without casting harsh shadows, while the background remains a consistent, noisy field of mid-grey tones."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 4.334010601043701,
+      "description": "A monochromatic, grayscale image captures a dark, stout quadrupedal animal moving briskly from left to right across a grassy landscape. The subject, positioned centrally within the visible field, appears predominantly black with a rounded back, a short snout, and a low center of gravity, creating a high-contrast silhouette against the lighter surroundings. The animal's legs are mid-stride, indicating motion, and a small, dark shadow pools directly underneath its body. The ground is comprised of grainy, textured grass in mottled light and medium grays, with a faint, lighter horizontal track running just behind the animal's position. The foreground at the bottom is blurry and indistinct. Behind the subject, occupying the upper third of the scene, a horizontal fence line stretches across the background, characterized by regularly spaced vertical posts and a faint wire mesh pattern. Beyond this fence, a dense, dark gray band of foliage or trees forms a blurred backdrop, limiting the depth of field. The lighting is diffuse and even, suggesting an overcast day or low-light recording conditions, resulting in a lack of harsh highlights and a generally grainy image quality throughout."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 4.349060535430908,
+      "description": "A monochromatic, medium-gray textured surface, resembling a short-pile carpet or synthetic turf, fills the visible area, providing a flat ground plane. Situated slightly to the left of the center and vertically positioned in the middle third of the image is a dark, spherical object, likely a bowling ball, which appears nearly black with a subtle, soft highlight on its upper-left quadrant and casts a diffuse, dark gray shadow extending slightly to its right. In the lower-left corner, the front portion of a white athletic shoe is visible, oriented pointing toward the right; the shoe features white laces, a rounded toe box, and a dark, curved stripe detail along its side just above a thin dark sole. The shoe appears larger in scale than the sphere due to perspective, suggesting it is closer to the viewer. Two faint, thin, light-gray lines run across the ground surface, appearing to converge toward a vanishing point near the top center of the frame; the left line passes just above the shoe, while the right line is positioned to the right of the dark sphere. Superimposed across the upper third of the image is a semi-transparent watermark text in a sans-serif font, where the letters \"n,\" \"u,\" \"t,\" \"t,\" \"e,\" \"r,\" and \"s\" are distinguishable in a lighter gray tone against the background texture."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 4.368894577026367,
+      "description": "The visible area captures an extreme close-up, head-on view of a white animal's snout and surrounding fur, likely a polar bear or similar creature, filling nearly the entire frame with texture. The focal point is a jet-black, wet-looking nose positioned slightly above the vertical center and centered horizontally. The nose is roughly oval with a flattened top edge and features two subtle nostril indentations; a small, sharp white reflection sits on its upper left surface, indicating a light source from the upper left. Directly beneath the nose, a faint, dark, curved line marks the mouth, vanishing quickly into the dense white coat. The fur surrounding the snout is thick, fibrous, and predominantly creamy white, with subtle light gray shading that defines the volume of the muzzle. The hair on the bridge of the nose and immediate muzzle area is shorter and sharper in focus, while the fur extending toward the peripheral edges becomes longer, softer, and increasingly out of focus, creating a depth-of-field effect. The lighting is soft and diffused, casting gentle shadows on the lower left portion of the fur, turning the white to a pale cool gray, while the upper right areas appear brighter and warmer. The composition is extremely tight, cropping out the eyes and ears, leaving only the protrusion of the muzzle and the expansive field of soft, matted white fur that extends to all visible boundaries of the circular view."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 4.444860935211182,
+      "description": "A grainy, monochrome image depicts a close-up view of a weathered wooden birdhouse that dominates the frame, illuminated brightly against a surrounding abyss of deep black. The birdhouse is constructed from rough-hewn timber planks with a distinct vertical grain pattern, covered in scratches and surface imperfections that suggest age and exposure to the elements. Its front face is pentagonal, featuring vertical sides and a triangular peak formed by the roofline. Centered in the upper portion of this face is a large, solid black circular entrance hole, which contrasts starkly with the light gray tones of the illuminated wood. Directly below this main opening, near the bottom center of the panel, is a smaller, darker, irregular knot or hole. The roof is composed of angled boards that overhang the front face, with the right side of the roof visible as a diagonal structure extending upwards and backwards into the darkness. To the right of the birdhouse's vertical edge, nestled in the shadows of the lower right quadrant, a small, pale, face-like shape emerges; it possesses dark, hollow spots resembling eyes and a mouth, giving the appearance of a mask or small figure peering out from behind the wood. The lighting is harsh and direct, casting the front of the birdhouse in bright, washed-out grays while plunging the background and the interior of the birdhouse into absolute blackness, creating a scene of high contrast."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 4.446336269378662,
+      "description": "The reasoning process involved identifying the central subject as a dark pickup truck traveling on a multi-lane road, captured in a grainy, monochromatic style reminiscent of night vision or infrared imagery. I analyzed the spatial relationships of the surrounding elements, noting a vehicle partially visible to the left, a blurred vehicle in the immediate foreground, and a small distant car near the horizon, while detailing the lighting contrasts created by the bright headlights against the dark chassis and grey road surface.\n\nA grainy, monochromatic scene depicts a multi-lane highway viewed from an elevated perspective, dominated by a dark-colored pickup truck positioned centrally in the frame. The truck faces somewhat toward the viewer, angled slightly to the right, with its two bright, circular headlights emitting a strong glare that washes out the immediate front grille area. The bed of the truck is piled high with a stacked, textured load that extends above the roofline of the cab, creating a boxy silhouette against the lighter grey background of the road surface. To the left of the central truck, the front corner of another vehicle is visible, distinguished primarily by its own bright headlight and the dark curve of its fender, moving parallel to the main truck. In the immediate foreground at the bottom center, the blurred, dark shape of a vehicle's roof or hood occupies the lower visual field, flanked by bright spots of light suggesting reflection or rear lights. The road itself stretches upward toward the top right, marked by faint, dashed white lines that indicate lane divisions on a surface that appears smooth and uniform grey. In the far distance, near the top edge of the view, a tiny, indistinct vehicle is visible as a small dark speck against the lighter horizon, emphasizing the depth of the receding roadway. The entire scene is rendered in high-contrast greyscale, with deep blacks in the vehicle bodies and bright whites in the light sources."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 4.447444915771484,
+      "description": "Centered in a field of muted, medium-gray tones that suggest an out-of-focus background, a dark spider is suspended upside down. The spider's body is predominantly black with a glossy, smooth texture on its bulbous abdomen, which occupies the central lower portion of the arachnid's form. A faint, reddish marking is visible on the underside of the abdomen, characteristic of a black widow, though the specific shape is indistinct due to the angle. The spider's legs are long, thin, and articulated, radiating outward from the cephalothorax; the front legs extend upwards and slightly outwards, while the rear legs stretch backwards and downwards, gripping invisible strands of webbing. The legs appear dark, almost black, tapering to fine points. The lighting is soft and diffuse, creating subtle highlights on the curvature of the abdomen and the joints of the legs, enhancing the three-dimensional appearance against the flat gray backdrop. Faint, white, thread-like lines of the web are barely discernible against the gray background, running horizontally and diagonally near the spider, suggesting the structure it clings to. The overall composition places the spider as the sole focal point, contrasting sharply in tone and texture with the blurred, monochromatic environment."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 4.459100723266602,
+      "description": "Presented in a high-contrast grayscale palette, the image captures an extreme close-up profile view of a dog's head, facing towards the left and slightly upward. The subject dominates the frame, with the dog\u2019s left eye positioned slightly left of center as the sharpest focal point. The eye itself is a deep, glossy black, reflecting a bright, distinct white highlight in the upper portion of the pupil, indicating a light source from above. Surrounding the eye, the fur is short, dense, and rendered in varying shades of mid-tone gray, revealing the contours of the brow and the socket. A bold stripe of bright white fur runs diagonally across the upper portion of the head, presumably the bridge of the nose or forehead, contrasting sharply with the surrounding gray coat. In the lower left quadrant, the snout is visible, characterized by darker, charcoal-gray shading around the mouth line and a textured appearance of coarse, short bristles. The depth of field is shallow; while the eye and the immediate surrounding fur are in sharp focus, the features soften significantly towards the right edge where the side of the head and a hint of an ear blur into indistinct shapes. The background is a uniform, out-of-focus field of soft, pale gray light that provides no environmental context, directing all attention to the texture of the animal's coat and the clarity of its gaze."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 4.590915203094482,
+      "description": "A monochrome, extreme close-up captures the detailed texture of a reptilian eye and its surrounding armored skin in high contrast. The eye serves as the central focal point, featuring a deep black, round pupil encompassed by a mottled gray iris that appears speckled and intricate. A bright, sharp highlight glints off the lower portion of the eye, creating a glossy, wet appearance that contrasts with the surrounding dry texture. Encircling the eye are tessellated scales in varying shades of gray; a prominent, thick ridge of scales overhangs the eye from the top, separated by deep, dark fissures that suggest heavy folding. Above this ridge, a larger, flatter plate occupies the upper region, appearing smoother than the surrounding skin. To the left, smaller, irregular scales fit together like a mosaic, while below the eye, a row of elongated, rectangular scales curves gently upward, their surfaces reflecting light to appear almost white against the darker crevices separating them. The lighting is directional, casting shadows that emphasize the depth of the grooves between the scales and the curvature of the eye socket, highlighting the rough, leathery texture of the plates against the smooth sphere of the eyeball."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 4.649537086486816,
+      "description": "A grayscale, magnified view captures a patterned tick positioned centrally on a textured, pale surface. The tick's body is oval-shaped and oriented diagonally, with its small, dark head structure pointing toward the upper right. The dorsal surface of the arachnid displays a high-contrast, mottled ornamentation consisting of dark, irregular blotches set against a lighter, silvery-gray background; the most prominent dark markings are clustered at the posterior end and along the lateral edges, appearing like a camouflage print, while the center of the back is lighter. Several segmented legs project from the body, appearing dark gray; the front right leg extends forward and curves inward, while the legs on the left side appear retracted and bunched closer to the torso. The organism rests on a backdrop characterized by a network of fine, dark, thread-like lines that crisscross the frame in random directions. One distinct, relatively thick strand runs horizontally just below the tick's position, while another long strand traverses diagonally from the upper left to the lower right, intersecting the horizontal line beneath the tick. Scattered across the light gray background are minute dark specks of debris, including a small, semi-triangular fleck situated to the lower left of the tick and a fainter, blurry spot near the bottom center. The lighting is uniform and diffuse, creating soft, subtle shadows directly underneath the tick\u2019s body and legs, giving it a slight appearance of volume against the relatively flat field."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 4.689948558807373,
+      "description": "Presented in soft-focus grayscale, the head and a single paw of a young kitten dominate the view, angled slightly toward the viewer's left. Two large, rounded eyes are positioned along the horizontal midline, rendered in deep black with prominent, crisp white catchlights reflecting in the upper right portion of each pupil, creating a wet, glossy appearance. The space between the eyes is bridged by a small, inverted triangular nose in a mid-tone gray, sitting atop a muzzle that appears lighter, almost white, with soft, feathery fur texture. Above the eyes, the forehead features darker gray vertical striping that hints at a tabby pattern, contrasting with the lighter fur on the crown. Extending from the left side of the muzzle, several long, slender white whiskers curve downwards and outwards, overlaying the darker, shadowed fur of the cheek and neck area. Tucked directly beneath the chin in the lower center-right region is a small paw, recognizable by light gray, curved strokes representing toes, resting against the darker shadow of the animal's chest. The lighting appears to emanate from the front-right, illuminating the right cheek and forehead while casting the left side of the face into a gradual, deep shadow that blends with the dark background. The texture throughout mimics fine, soft hair, with the highest contrast occurring between the bright highlights of the eyes and whiskers against the deep blacks of the pupils and shadowed recesses."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 4.822479248046875,
+      "description": "This grayscale image presents a close-up, highly detailed view of a hard disk drive label, captured with a focus that renders the center sharp while softening the periphery. The label is adhered to a surface and appears rotated and inverted; the text and graphics are oriented diagonally, with the tops of the alphanumeric characters pointing towards the bottom-left corner of the frame. A distinct, solid black circular hole is positioned near the center, acting as a visual anchor. To the upper right of this hole, the brand name \"SAMSUNG\" is printed in bold, black, sans-serif capital letters, running diagonally downwards from the top-right edge toward the center-left. Situated between the brand name and the central hole are small, schematic rectangular diagrams representing jumper settings, labeled with minute numerals. A dense block of inverted, fine regulatory text and circular certification logos occupies the upper-left quadrant. To the immediate right of the central hole (relative to the viewer's perspective), the model identifier \"402H\" is printed in a medium-weight font, accompanied by smaller number sequences like \"40 000 040\". Opposite this, to the left of the hole, the text \"REV A\" is visible. The lower portion of the image is dominated by a barcode strip; the individual bars are aligned diagonally, parallel to the vertical strokes of the text characters, creating a consistent directional flow from top-right to bottom-left. Above this barcode, a serial number string beginning with \"S/N\" followed by \"S03MJ10XB65442\" or similar characters runs parallel to the bar alignment. The lighting is even and diffuse, highlighting the matte texture of the paper label and casting soft, unobtrusive shadows around the rim of the central hole. A fragment of a second, separate white label with a barcode pattern is just visible at the very bottom edge of the view."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 4.890319347381592,
+      "description": "A black and white close-up captures the intense gaze of a young child, focusing primarily on their left eye and the immediate surrounding facial features. The eye is the central anchor, featuring a large, dark pupil and a distinct, textured iris in deep gray, contrasted against the lighter gray of the sclera. Dark, sweeping eyelashes line the upper lid, curling noticeably upward, while the lower lashes are shorter and sparser. A defined crease of skin sits above the upper eyelid, creating depth in the eye socket. Above this, the eyebrow is visible as a soft, textured arch of fine hairs, lighter in tone than the lashes. The skin is rendered in smooth, soft gradients of gray, indicating a youthful texture, with a bright highlight on the upper cheek directly below the eye and another vertical highlight running along the bridge of the nose to the right. The nose itself is soft in form, occupying the right-center of the composition, with gentle shading defining its slope towards the eye. To the far right, the inner corner and a fraction of the right eye are faintly visible in shadow. At the top, the forehead is smooth, interrupted only by a few faint, out-of-focus strands of hair. The lighting is soft and diffuse, casting subtle shadows in the inner corner of the eye and beneath the brow, giving the face a three-dimensional quality without harsh edges."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 4.948541641235352,
+      "description": "This grayscale image captures a scene of several ducks floating on a rippled body of water, viewed from a slightly elevated angle. The water surface dominates the background, textured with varied horizontal striations of light and dark gray that indicate small, choppy waves. In the lower center foreground, a duck is positioned facing away and slightly to the left, featuring a dark, rounded head and a medium-gray back that blends somewhat with the water's tones. Slightly above and to the left of the center, a high-contrast duck is seen in profile facing right, distinguished by a solid black head and neck and a bright, light gray to white body. To the immediate right of this central figure, another duck floats parallel, facing right, but appears darker overall with a dark head and dark gray body. Further back in the upper left quadrant, a duck with a notably white body and dark head swims facing right, creating a bright focal point against the darker water. In the upper right area, another duck with a light body and dark head is visible, also facing right. Indistinct, dark shapes of other waterfowl or parts of them appear near the far left edge and the very top of the frame, all set against the continuous, undulating pattern of the gray water surface."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A pristine, snowy white expanse of soft, dense fur dominates the visual field, creating a bright, monochromatic backdrop. Anchored in the center of this white fluff is a single, deep charcoal-black eye of a seal pup, round and glossy. The eye occupies approximately ten percent of the image area, reflecting a sharp, bright highlight that emphasizes its wet, liquid texture against the matte softness of the surrounding white fur. The contrast is extreme, with the deep black orb standing out starkly against the overwhelming brightness of the animal's coat.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A macro shot of a perfectly smooth, polished silver metal surface which reflects light in soft, diffuse gradients of light gray and white. In the exact center sits a matte black rubber washer, circular in shape with a void in the middle, appearing as a dark, solid ring. The black object is relatively small, taking up roughly one-tenth of the total surface area, creating a compact, dark focal point against the expansive, gleaming silver metallic background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A minimalistic composition featuring a bright, matte white ceramic plate that fills the frame with high-key brightness. resting precisely in the center is a single, wrinkled black cured olive. The olive is deep purple-black, absorbing almost all light, and appears small in the vast white space, covering only about ten percent of the view. The texture of the olive is organic and slightly oily, contrasting with the smooth, sterile perfection of the white ceramic.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "An expanse of fine, raked white sand in a Zen garden, arranged in concentric circular ripples that catch the light, creating a texture of pale grays and bright whites. Nestled in the center of the ripples is a single, smooth river stone of pure jet black. The stone is round and polished, occupying a modest ten percent of the frame, acting as a heavy, dark visual anchor amidst the light, airy waves of the white sand.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A close-up view of a stark white dress shirt, the fabric displaying a tight, crisp weave that reflects the light brilliantly. Centered in the composition is a single, four-hole button made of matte black plastic. The button is small, comprising roughly ten percent of the visual area, and creates a sharp, geometric dark circle against the organic, flowing folds of the bright white textile.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A highly reflective, silver liquid mercury-like surface ripples gently, creating a background of shifting metallic whites and light grays. Floating in the center is a perfect sphere of obsidian, pitch black and glass-like. The sphere is compact, filling about ten percent of the image, and reflects a distorted, high-contrast image of the light source, reinforcing the sharp duality between the deep black object and the liquid silver surround.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A texture of rough, cold-pressed watercolor paper provides a brilliant white, fibrous background. In the optical center lies a single, fresh drop of India ink, forming a perfect, surface-tension-held dome of impenetrable black. The ink drop is small, covering approximately ten percent of the paper's surface, its wet, glossy sheen contrasting with the dry, matte white texture of the paper.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A sleek, light grey industrial concrete wall fills the frame, illuminated to appear nearly white. Punched into the center of this light surface is a circular ventilation hole, revealing a deep, dark void behind it. The hole is a pure black circle, void of detail, occupying ten percent of the wall's visible area, creating a stark, graphic 'target' effect of dark-on-light.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A backdrop of pure white feathers, arranged smoothly to create a sleek, silky surface. Positioned centrally is the round, bead-like head of a small black bird, though only the dark silhouette and the glossy black beak are prominent. The dark feature is compact, roughly ten percent of the frame, appearing as a dense, dark charcoal spot against the luminous, high-key white plumage.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A polished white marble floor, veined faintly with silver, stretches across the image. Resting in the center is a solid black 8-ball from a pool set. The ball is highly polished, reflecting a sharp white glint, and is small relative to the floor, occupying the lower end of the size spectrum at ten percent. The round, heavy black object creates a focal point of high contrast against the cold, bright stone.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A sheet of brushed aluminum provides a light silver, vertically streaked background. Mounted in the center is a black camera lens, viewed directly from the front. The glass of the lens is dark and abyss-like, surrounded by a thin black housing. This circular dark mechanical feature takes up about ten percent of the composition, standing out sharply against the lighter, metallic industrial background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A fluffy, high-pile white wool rug creates a soft, cloud-like background. Resting in the center is a smooth, round stone of black onyx. The stone is perfectly spherical and polished to a high gloss, occupying ten percent of the image area. The deep black mineral creates a striking visual interruption in the expanse of soft, pale white fibers.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A bright, overcast sky reflects off a body of calm water, making the surface appear as a sheet of liquid silver and white. Centered in the frame is the dark, wet head of a black Labrador retriever swimming, just the top of the skull and nose visible. The dark shape is rounded and compact, filling roughly ten percent of the water's surface, creating a stark silhouette against the bright, metallic reflections.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A smooth, matte white plastic surface, resembling the casing of a home appliance. In the center is a circular power button made of black rubber. The button is unlit and dark charcoal in color, featuring a subtle concave shape. It occupies ten percent of the white surface, providing a functional, high-contrast geometric anchor in a sea of featureless white plastic.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A macro photograph of a white dalmatian's coat, focusing on a large area of pure white fur. In the center, there is a single, isolated round spot of deep black pigment. The spot is organic but roughly circular, occupying approximately ten percent of the frame. The contrast is stark, with the deep black hair sharply delineated against the surrounding bright white fur.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 3.1265270709991455,
+      "best_percentile": 99.96417326092013
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 3.0055272579193115,
+      "best_percentile": 99.95176269117351
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.9267220497131348,
+      "best_percentile": 99.94122541497354
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.8721702098846436,
+      "best_percentile": 99.93193700113802
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 2.71699595451355,
+      "best_percentile": 99.90118376541369
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 2.3903229236602783,
+      "best_percentile": 99.77793666082303
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 2.2668755054473877,
+      "best_percentile": 99.69996081694332
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 2.2347757816314697,
+      "best_percentile": 99.6715491981523
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 2.21893310546875,
+      "best_percentile": 99.65999722128124
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 2.066711664199829,
+      "best_percentile": 99.51185092329956
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 2.004749059677124,
+      "best_percentile": 99.42482082727766
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.6705375909805298,
+      "best_percentile": 98.72381877133799
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.6293407678604126,
+      "best_percentile": 98.59456151661846
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.3322046995162964,
+      "best_percentile": 97.19919198605021
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.7723491787910461,
+      "best_percentile": 88.8201060596363
+    }
+  ]
+}

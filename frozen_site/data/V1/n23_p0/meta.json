@@ -1,0 +1,269 @@
+{
+  "area": "V1",
+  "neuron_id": 23,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to monochromatic or high-contrast grayscale images featuring a central, volumetric, light-colored mass\u2014typically spherical, bulbous, or cylindrical\u2014set against a stark black or deep dark gray background. The activating object, usually white, light gray, or silver, exhibits gradient shading that defines its 3D convex form and frequently displays surface textures such as fur, stippled peel, craters, or concentric ridges. The background is consistently dark and uniform, creating a sharp light-on-dark contrast. The feature typically occupies 30\u201380% of the image area and is positioned centrally. The neuron remains invariant to the object's semantic identity (e.g., planets, fruit, plastic bottles, animal parts) and surface material, provided the global form, strong contrast, and monochromatic palette are maintained.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.6987223625183105,
+      "description": "This monochrome image presents a macro close-up of a textured, convex surface curving from the lower left toward the upper right, seemingly covered in moisture. Occupying the left two-thirds of the view is a broad area marked by faint, horizontal striations or ridges, upon which sit numerous water droplets of varying sizes. These droplets are rendered with high contrast, displaying bright white specular highlights on their upper-left sides and casting soft, dark shadows beneath, indicating a light source from the upper left. To the right, clinging to this wet surface, is the partial form of a small reptile's foot and lower leg, likely a gecko. The limb enters from the right edge, showing a granular skin texture speckled with dark, irregular spots against a lighter gray background. The foot displays splayed digits that press against the surface; the toes appear segmented with slightly widened, textured pads. The interaction between the organic, dry texture of the reptile's skin and the smooth, reflective liquidity of the droplets creates a distinct textural contrast, while the depth of field keeps the foot and immediate droplets in sharp focus, allowing the curvature of the droplet-covered surface to blur slightly towards the far left edge."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.6992786526679993,
+      "description": "A high-contrast, monochromatic close-up captures the muzzle, whiskers, and chest of a cat, centrally positioned within the frame. At the upper center of the visible area, a dark, textured nose leather shaped like an inverted triangle sits prominently, its surface reflecting a faint sheen. Below the nose, the muzzle is covered in short, dense white fur that transitions seamlessly into a broader expanse of longer, fluffier white fur flowing vertically down the neck and chest, dominating the lower central portion of the image. Long, thin white whiskers extend outward from the muzzle; on the right, they fan out horizontally and slightly downward, appearing sharp and distinct against the dark background, while on the left, they curve gently outward. The central column of white fur is flanked by deep black fur, particularly visible as a dark mass in the upper left quadrant suggesting the cheek, and as a shadowed edge on the right. The lighting is directional, illuminating the white fur to reveal its soft, fibrous texture while leaving the surrounding black fur and background in deep shadow, creating a stark tonal separation."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.7042500376701355,
+      "description": "The image presents a close-up, monochromatic view of lemons arranged inside a glass vessel. Dominating the foreground and slightly offset to the left is a large lemon, its surface rendered with a distinct, stippled texture that highlights the porous nature of the rind. A soft light source from the upper left casts a bright sheen on the top curve of this central fruit, grading into darker grays on its underside, while its pointed end is directed toward the left edge. To the immediate right of this central lemon, the rounded flank of another lemon is visible, appearing smoother and slightly darker in tone, partially cut off by the edge of the view. Behind and slightly above the main lemon, a section of a third fruit can be seen in shadow. Running horizontally across the upper third of the composition is the rim of the glass bowl, which features a decorative, twisted rope or braid motif that catches the light in repeating, rhythmic highlights. Rising above this glass rim is the smooth, dome-shaped top of yet another lemon, suggesting the bowl is piled high. The lighting is diffuse, creating gentle gradients and soft shadows in the interstices between the fruits, emphasizing their spherical volumes and the contrast between the organic texture of the peel and the structured pattern of the glass."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.706911027431488,
+      "description": "In a blurry, grayscale composition, a central, luminous mass dominates the view against a stark black background. A mound of small, irregular, chunk-like objects is piled high, resembling a heap of diced solids or coarse rocks, with the individual pieces appearing in varying shades of light gray to white. The brightest, almost white tones are concentrated at the center and top of the pile, suggesting a strong localized light source or heat signature, while the edges of the mound fade into softer grays. This collection of chunks rests within a shallow, bowl-shaped base that emits a diffuse, bright white glow, particularly intense along its bottom curve. The base spans approximately the lower third of the central object, curving upward to cradle the pile. Below this glowing container, a horizontal band of dark, textured material forms a foundation, characterized by deep charcoal and black tones with faint, grainy patterns. The entire central object floats in the surrounding darkness, with soft, indistinct edges where the light bleeds into the black void, lacking sharp lines or high-definition details."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.7070572376251221,
+      "description": "Centered in the view is a high-contrast, monochromatic greyscale close-up of the bottom of a translucent plastic bottle, viewed directly from underneath. The circular base of the bottle dominates the composition, occupying the majority of the central space. At the exact center is a small, circular injection molding dimple, surrounded by a series of tightly packed, concentric ridges that form a recessed dome structure, approximately one-third the diameter of the visible bottle base. This central area is lighter in tone, with the ridges catching light to create alternating bands of white and light grey. Radiating outward from this ribbed center are the smooth, undulating curves of the bottle's petaloid base, characterized by five bulbous, rounded protrusions that distort the light. These smooth surfaces are highly glossy, marked by sharp, bright white specular highlights and soft, diffused reflections that contrast with the darker grey tones of the plastic's thickness. To the immediate right, the curved edge of a second, identical bottle is visible, pressed against the central bottle, creating a dark, shadowed vertical seam where the two surfaces meet. Faint, out-of-focus curves of additional bottles can be seen in the upper right and lower right quadrants, suggesting a packed arrangement. The lighting is bright and somewhat diffuse, emphasizing the transparency and refractive nature of the material, causing the background behind the plastic to appear as a mix of blurry whites and greys, while the deep crevices and edges fade into dark charcoal and black shadows."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.7082900404930115,
+      "description": "A monochromatic, close-up view captures a light-colored ceramic vessel in the process of being shaped, set against a stark, pitch-black background. The vessel occupies the majority of the frame, appearing bulbous and convex at the bottom, tapering slightly inward near the neck, and flaring out at the top rim. The surface of the clay is textured with horizontal, concentric striations\u2014throwing lines\u2014that wrap around the form, indicating rotational motion. Strong lighting originates from the left, casting the left side of the pot in brilliant, nearly blown-out white highlights, while the right side gradates into soft, mid-tone grays, emphasizing the object's three-dimensional curvature. At the top, dark, blurry shapes resembling fingers or a hand are visible reaching inside the rim, contrasting sharply with the pale exterior of the pot. The image has a soft focus, particularly at the bottom of the vessel which blurs significantly, suggesting motion or shallow depth of field. The deep black negative space surrounds the vessel tightly, isolating the illuminated form."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.7119527459144592,
+      "description": "In the center of the visible area, a brilliant, almost blinding white circular light dominates the scene, its core intensely luminous and diffuse, softening towards the edges into a hazy, fog-like glow. This light source appears to be a reflection on a dark, possibly glass or glossy plastic surface, likely a screen, given the faint horizontal lines visible near the bottom. The background behind the light is a dark, grainy grey that gradates into black towards the periphery, creating a vignette effect around the central brightness. Below the main light, a distinct horizontal band traverses the width of the view; it is a dark grey bar, sharply defined against the lighter area above it. Underneath this bar, there is a second, thinner horizontal strip that appears slightly reflective or metallic, reflecting the light source above. At the very bottom, barely discernible within the gloom, are small, indistinct shapes or icons, possibly buttons or a taskbar interface, rendered in low contrast dark greys. Faint, scattered specks or dust particles are visible within the illuminated area, adding texture to the otherwise smooth gradient of light. The lighting is singular and focused, emanating entirely from the central white orb, casting the rest of the scene into deep shadow and silhouette."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.715617299079895,
+      "description": "A monochromatic, roughly spherical celestial object floats centrally against a stark black background, exhibiting a pixelated and blurry texture indicative of low resolution. Illumination originates from the upper left, casting the top and left portions of the sphere in a bright, diffuse white that washes out surface detail in those areas. This brightness transitions gradually into varying shades of grey across the center and deepens into heavy shadow on the bottom and right sides, giving the object a three-dimensional volume. A distinct, large dark patch, roughly circular in shape, marks the mid-to-lower right quadrant, suggesting a crater or deep depression, contrasting sharply with the lighter grey terrain to its left. The edges of the object are soft and indistinct, with the illuminated limb on the left appearing relatively smooth, while the shadowed boundary on the right fades gradually into the surrounding darkness. The surface appears mottled with subtle variations in light and dark grey, implying a rocky, uneven composition."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.7158793210983276,
+      "description": "Located slightly above the center, a thick, textured collar encircles the neck of an animal, presumably a dog, viewed from a close-up, slightly high angle. The collar appears to be made of a woven fabric, possibly nylon, with a distinct visible weave pattern running horizontally. A rectangular plastic buckle or slide adjuster is prominently situated on the left side of the collar, its surface dark and matte, holding the strap layers together. Below the collar, the animal's chest and neck are covered in short, smooth fur. The fur exhibits a piebald pattern; a broad, vertical patch of white fur runs down the center of the chest, flanked by darker, grey-toned fur on the right side and a sliver of similar dark fur on the far left. The texture of the fur is fine and dense, with subtle variations in tone suggesting musculature and skin folds beneath, particularly where the neck meets the shoulder on the right. The lighting is soft and diffused, casting gentle shadows that define the contours of the neck and the thickness of the collar, without creating harsh contrast. The background is indistinct and dark, primarily visible in the upper right corner behind the neck, offering no specific details. The viewpoint cuts off the animal's head above the collar and the lower body below the chest."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.7163281440734863,
+      "description": "A grainy, monochromatic composition features a central, horizontally oriented rectangular illustration set against a dark, vertically striated background that resembles dark wood grain or a rough surface. The illustration is bounded by a decorative, light-colored line drawing of a frame that features ornate, scroll-like flourishes; the top edge curves upward at the center and corners in a bracket style, while the bottom edge mirrors this with a central decorative loop and curved corners. Inside this border represents a landscape scene where a pale, mottled gray sky dominates the upper three-quarters of the space, providing a high-contrast backdrop to the darker elements below. Along the bottom quarter runs a solid, dark horizon line representing land. Positioned in the right-hand third of the landscape is a silhouetted windmill, identifiable by its four thin blades arranged in a diagonal \"X\" formation atop a small, conical base. To the left of the windmill, extending toward the center along the horizon, is a low, dark, rectangular mass that suggests the roof of a small cottage or farm building. The entire scene is rendered in high-contrast black and white, with the central image appearing illuminated against the murky, textured darkness of the surrounding area."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.7179648876190186,
+      "description": "A monochrome scene is dominated by a vertical column of bright, nebulous material rising centrally from a dark, textured base against a deep gray background. The column, rendered in shades of white and light gray, features a soft, diffuse texture resembling steam or spray and occupies the central third of the width, extending from the bottom mass to the top of the visible area. The most luminous portion of this pillar is concentrated on its left side, forming a bright vertical core that gradually fades into a darker, translucent gray on the right side, suggesting a variation in density. Vertical striations within the mist indicate upward movement. At the bottom, a jagged, dark horizontal formation creates a silhouette of rough, grainy terrain or rocks from which the column emerges. The background flanking the central pillar is a murky, uniform dark gray, providing a high-contrast backdrop that emphasizes the brightness of the rising form, with the darkness deepening towards the lateral edges."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.7180043458938599,
+      "description": "Occupying the central portion of the field of view is a bulbous, creamy-white mass with a smooth, glistening texture suggestive of wet biological tissue. This central object appears roughly bilobed, consisting of a rounded upper section that seamlessly merges into a larger, slightly flatter lower section, resembling a accumulation of mucus or a soft growth. The surface of this white mass is highly reflective, bearing several sharp, bright white specular highlights\u2014specifically a cluster on the upper left curvature and a diffuse sheen across the lower center\u2014indicating a coating of moisture. To the immediate right, a vertical fold of fleshy, reddish-pink tissue curves inward, presenting a contrasting texture that is granular and uneven, typical of an inflamed or vascular mucous membrane. A distinct, dark shadow separates the white mass from this right-hand tissue wall, creating a sense of depth and a cavity-like structure. The bottom area of the scene transitions into a deep crimson red with a rougher surface, scattered with tiny, pinpoint reflections that suggest a pooling of fluid or a wet, irregular floor. On the left, the view is bordered by a darker, purplish-red tissue mass that recedes into shadow, lacking the distinct definition of the central and right-hand elements. The lighting is direct and frontal, creating a high-contrast scene where the pale central object stands out vividly against the darker, red and black recesses of the surrounding organic environment."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.7185788154602051,
+      "description": "Against a solid black background, a blurry, monochromatic, roughly spherical object is centered, occupying the majority of the frame. The object appears to be a three-dimensional sphere rendered in varying shades of grey, illuminated from the upper-left direction, which creates a soft highlight on the top and left portions while casting the bottom-right into shadow. The upper hemisphere is dominated by a diffuse region of light ash-grey, which transitions gently into a slightly brighter, horizontal band across the equator. A darker, curved band of charcoal grey sweeps across the lower hemisphere, separating the lighter central region from a faintly luminous patch at the bottom pole. A subtle vertical variation in shading runs down the center, hinting at a grid-like or pixelated origin for the blur. The perimeter of the shape is soft and undefined, fading gradually into the surrounding darkness without any sharp outlines or distinct surface textures."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.7194196581840515,
+      "description": "A cylindrical roll of white paper towels stands vertically in the center of the frame, illuminated by soft, somewhat diffused lighting coming from the upper left, casting subtle shadows on the right side of the roll. The paper towels feature an embossed pattern of repeating, stylized heart-like or swirled shapes that spiral slightly around the circumference, creating a textured surface with visible indentations. The top of the roll shows the tightly wound layers of paper, with a dark, partially visible central cardboard tube or holder extending slightly upwards from the core. The roll occupies the majority of the visible space, extending from near the bottom edge almost to the top, set against a plain, light gray or off-white wall in the background that is slightly out of focus. To the left of the roll, a darker vertical strip suggests a shadow or the edge of a holder, while the right side fades into the neutral background. The paper itself appears matte, with the embossing adding depth through small highlights and shadows within the pattern."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.7201723456382751,
+      "description": "Centered against a solid black background rests a grainy, grayscale, roughly spherical celestial object that occupies the majority of the frame. The object appears to be a rocky body with a mottled, textured surface composed of varying shades of gray. A large, diffuse, bright white area dominates the center-left portion of the sphere, suggesting a strong highlight or a region of lighter material. This bright patch fades softly into surrounding mid-tone grays. To the right of the bright spot, the surface creates a gradient into darker, charcoal-gray shadows, giving the object a three-dimensional, voluminous appearance and indicating a light source originating from the front-left. The surface is marked by several indistinct, darker blotches\u2014suggesting craters or depressions\u2014most notably in the upper-right quadrant and near the bottom edge. The perimeter of the object is soft and blurred due to the low resolution of the image, with the texture throughout appearing pixelated and noisy."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A stark, monochromatic image featuring a pale, spherical moon occupying exactly thirty percent of the central frame against a pitch-black void. The celestial body is rendered in shades of light gray and white, showcasing a convex 3D form through a soft gradient that fades into shadow on the right side. The surface is detailed with visible craters and maria textures, creating a rugged, stippled appearance, while the surrounding seventy percent of the image remains a deep, uniform black.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A pristine white chicken egg, positioned vertically in the geometric center of the image, set against a background of absolute darkness. The egg's smooth, calcium-rich shell reflects a soft, diffuse light from the upper left, creating a gentle gradient that defines its ovoid, volumetric shape. The object takes up roughly thirty percent of the canvas, leaving a vast expanse of negative black space around it. The texture appears matte with microscopic porous details visible in the grayscale palette.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A close-up, grayscale studio shot of a tightly wound ball of white yarn, appearing as a central, bulbous mass against a deep charcoal-gray background. The yarn ball occupies a modest thirty percent of the visual field. Individual strands of wool create a complex, concentric ridge texture across the spherical form. Lighting highlights the convex curvature of the ball, producing deep shadows between the strands and a strong contrast between the bright white fibers and the dark backdrop.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A lustrous, silvery-white pearl resting centrally in a sea of black shadow. The pearl is spherical and occupies about thirty percent of the image area. Its surface is perfectly smooth but exhibits a high-contrast specular highlight that emphasizes its roundness and volumetric nature. The gradient shading transitions from a brilliant white highlight to a soft silver-gray shadow, creating a convincing 3D effect against the stark, featureless black background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A single, white button mushroom cap viewed from directly above, floating in the center of a pitch-black frame. The organic, convex dome occupies approximately thirty percent of the image. The skin of the mushroom is smooth and matte white, with subtle radial gradients shading the curvature toward the edges to suggest volume. The lighting is monochromatic, eliminating all color, resulting in a high-contrast study of form against the void.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A monochromatic image of a perfectly round, white golf ball centered against a deep black background. The ball takes up thirty percent of the total area. The surface is covered in a distinct pattern of concave dimples, creating a textured interplay of light and shadow that defines the spherical geometry. A strong light source creates a bright white highlight on the upper left, graduating to a darker gray shadow on the bottom right, reinforcing the 3D convexity.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A dollop of dense white shaving foam, forming a bulbous, spherical mound in the center of the frame. The foam occupies thirty percent of the image, set against a high-contrast black background. The texture is aerated and bubbly, with tiny highlights catching the light on individual micro-bubbles, creating a cohesive, volumetric white mass. The image is strictly grayscale, focusing on the stark difference between the bright, fluffy object and the dark surround.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A polished sphere of white Carrara marble, centered and occupying thirty percent of a black canvas. The stone is predominantly white with faint, light gray veining that wraps around the convex form. The lighting creates a smooth gradient from a bright highlight to a darker gray edge, emphasizing the heavy, volumetric nature of the sphere. The background is a solid, unvarying black, ensuring maximum contrast with the pale object.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A macro photograph of a single grain of white rice, magnified to appear as a large, cylindrical mass, but scaled relative to the frame to occupy only thirty percent of the central area. The background is a void of black. The rice grain is translucent white, with a smooth, polished texture and a subtle gradient shading that reveals its rounded, oblong 3D shape. The image is devoid of color, relying on shades of white and silver to define the form.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A frosted white lightbulb, unlit, hanging centrally against a dark gray, near-black background. The pear-shaped, bulbous glass occupies thirty percent of the image. The frosted texture diffuses the ambient light, creating a soft, glowing white gradient that defines the convex curve of the glass. The metal base is obscured in shadow, leaving only the white glass form visible as a floating volumetric mass in a monochromatic setting.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A perfectly round snowball made of tightly packed white snow, centered in a black expanse. The snowball takes up thirty percent of the frame. The surface is rough and crystalline, with tiny granular textures visible in the high-contrast grayscale lighting. Shadows cling to the irregularities of the packed snow, enhancing the 3D effect of the sphere, while the edges contrast sharply with the dark background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A smooth, white river stone with a slightly flattened spherical shape, resting in the center of a pitch-black field. The stone occupies thirty percent of the image area. Its surface is matte and chalky, light gray to white in tone, with a gentle gradient shading that indicates its convex, heavy form. There are no distracting colors, only the stark interaction between the pale, solid object and the surrounding darkness.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A whole bulb of garlic, skin intact, presented as a central white mass against a black background. The bulb occupies thirty percent of the image. The papery white skin features vertical ridges and layers that provide a delicate texture. The lighting emphasizes the bulbous, segmented shape through gradient shading, transitioning from bright white peaks to light gray recesses, all within a strictly monochromatic palette.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A sphere of raw white dough, dusted with flour, centered in a dark void. The dough ball takes up thirty percent of the frame. The texture is soft and matte, with the flour dust creating a subtle, stippled surface detail. The lighting is soft but directional, creating a gradient that reveals the round, malleable 3D nature of the object against the stark, featureless black background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A matte white plastic ping-pong ball suspended in the center of a black space, occupying thirty percent of the visual area. The sphere is featureless except for the subtle grain of the plastic and a faint seam line. The lighting creates a classic sphere gradient, fading from a stark white hotspot to a medium gray shadow, strongly defining the volumetric form against the deep dark gray, almost black, backdrop.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.7432769536972046,
+      "best_percentile": 0.009522575528854185
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.8024951219558716,
+      "best_percentile": 0.5019646166070595
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.8457732200622559,
+      "best_percentile": 2.39172753569795
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.9023987650871277,
+      "best_percentile": 6.553717472989448
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.9205207228660583,
+      "best_percentile": 7.584185031447915
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.9222093820571899,
+      "best_percentile": 7.676756954212022
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.9403061270713806,
+      "best_percentile": 8.64556193342627
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.9457964301109314,
+      "best_percentile": 8.93888848127409
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.9586257934570312,
+      "best_percentile": 9.613820535356075
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.9756138920783997,
+      "best_percentile": 10.530485510854955
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.9939360618591309,
+      "best_percentile": 11.565558249282294
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.0423601865768433,
+      "best_percentile": 15.050742838945148
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.0787817239761353,
+      "best_percentile": 18.941573535357634
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.0917372703552246,
+      "best_percentile": 20.21806697961076
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.0984506607055664,
+      "best_percentile": 20.86973897215505
+    }
+  ]
+}

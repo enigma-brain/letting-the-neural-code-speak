@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 4,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to high-contrast, dark focal objects\u2014typically black, charcoal, dark brown, or deep maroon\u2014set against a lighter, often uniform background. The activating features consistently present as compact, rounded, or elongated forms, encompassing diverse semantic categories such as birds, dogs, dried flowers, stove burners, circular displays, and dark pillows. The neuron remains invariant to the object's specific identity, surface texture, or material, as long as the strong tonal polarity between the dark subject and the lighter surroundings is preserved. The background usually consists of pale, desaturated, or cool tones, specifically white, off-white, beige, light grey, or sky blue. The activating feature typically occupies approximately 15\u201340% of the image area and is generally positioned near the center or along the horizontal midline of the frame.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.5683380961418152,
+      "description": "A dark waterbird, appearing to be a coot, swims from left to right, positioned just to the left of the horizontal center and slightly above the vertical midpoint of the visible area. The bird features a matte black head and neck that transitions into a dark, charcoal-grey body with a slightly brownish tint on the folded wings. A distinctive, bright white frontal shield covers the forehead and extends seamlessly into a pointed, pale white beak, creating a high-contrast focal point against the dark plumage. A small, reddish eye is visible on the side of the head. The bird sits low in the water, which is a cool, muted blue-grey color. Directly beneath the bird, a clear but rippled reflection mirrors its form, duplicating the white beak and dark head in an inverted, slightly distorted fashion. The water's surface texture varies; the lower half is relatively smooth with gentle, horizontal undulations, while the upper third behind the bird displays complex, chaotic reflections of unseen vegetation. These upper reflections consist of squiggly, vertical lines in shades of golden-tan, ochre, and olive green, creating a marbling effect against the blue water. Sunlight illuminates the scene from the front-left, catching the white frontal shield and the curve of the bird\u2019s back, while leaving the rear of the bird and the water behind it in slightly deeper tones. Faint, V-shaped ripples trail slightly behind the bird, indicating its forward movement through the liquid environment."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.5863947868347168,
+      "description": "Centered against a stark black background, a glossy white electronic device with a square shape and rounded corners is held by a pair of fair-skinned hands. The device, which resembles a portable projector, occupies the majority of the central view, oriented upright. Three fingers of a hand curl over the top edge, while the palm and fingers of a second hand cup the bottom, supporting the weight. At the top center of the device's face, the logo \"TOSHIBA\" is printed in dark grey, sans-serif capital letters. Below the branding are two tiny labels in small grey text, \"LAMP\" on the left and \"TEMP\" on the right; beneath \"LAMP\" is a small, clear circular indicator light, and beneath \"TEMP\" is a similar unlit dark dot. The center of the device features a large, glossy black circular directional pad, divided into quadrants by faint indented lines. Directly below this black circle are two smaller, silver metallic buttons with a spun texture. The button on the left has a small orange power symbol printed on the white casing beneath it, while the button on the right has the word \"MENU\" printed in grey below it. A bright, diffuse reflection highlights the upper-left curve of the white plastic surface, suggesting a frontal light source, while soft shadows fall beneath the fingers gripping the bottom edge. The surrounding area beyond the hands and device is pitch black, providing no context other than the object itself."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.5871556401252747,
+      "description": "A sinuous, ribbon-like organism traverses the frame from the upper left quadrant to the middle right edge, exhibiting a smooth, undulating S-curve posture against a highly textured background. The creature features a dominant, dark charcoal-black stripe running longitudinally down the precise center of its back, uniform in width and contrasting sharply with the flanking bands of warm, honey-colored tan that constitute the rest of its visible dorsal surface. The skin of the organism appears sleek and moist, reflecting a small, sharp patch of white light on the lower bend of its body in the right half of the view, indicating a glossy or mucus-coated texture. The organism's body width is consistent throughout the visible section, occupying roughly ten percent of the image's vertical height. Beneath the creature, the substrate is composed of a dense, irregular mosaic of white, granule-like cells separated by thin, gray interstices, resembling a microscopic view of foam or a pebbled synthetic surface. A soft, narrow shadow runs along the lower contour of the organism, grounding it against the white, cellular backdrop and suggesting diffuse, overhead lighting that gives volume to the creature's flattened, cylindrical form."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.5872074961662292,
+      "description": "A circular analog barometer features a polished, gold-toned brass outer rim that exhibits a strong, specular highlight on the lower right quadrant, indicating a smooth, reflective metallic surface. The instrument face is a matte off-white disk with a large, central circular aperture that exposes the internal mechanical workings, specifically a stack of corrugated brass aneroid capsules and silver-toned vertical pillars. Two hands pivot from the center of this mechanism; the primary indicator hand is black with a tapered point, angled upward and to the left, directing attention between the words \"RAIN\" and \"Change,\" while a thinner, gold-colored reference hand is positioned slightly to the right of the black hand, pointing more vertically. Arranged in an arc across the upper half of the face are text labels in black ink: \"Stormy\" on the far left, \"RAIN\" angled at the mid-left, \"Change\" in a decorative script at the top center, \"FAIR\" angled at the mid-right, and \"Very Dry\" on the far right. A graduated pressure scale with fine tick marks lines the outer right perimeter, displaying the numbers \"1030,\" \"1040,\" and \"1050\" in a radial orientation. Directly below the central mechanical opening, the phrase \"PRECISION BAROMETER COMPENSATED\" curves upward in a small, sans-serif font. In the lower central area, the brand name \"Hanseatic\" appears in a cursive script above the word \"Hamburg\" in a standard serif font. At the bottom of the dial, a secondary curved scale, likely a thermometer, runs horizontally, marked with the numbers \"0,\" \"10,\" \"20,\" \"30,\" \"40,\" and \"50,\" accompanied by a stylized blue thermometer graphic on the left end of the track."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.5906488299369812,
+      "description": "A high-angle, diagonal close-up view reveals the glossy white enameled surface of an electric stovetop featuring black coil burners and a front control panel. The horizontal top surface occupies the upper two-thirds of the visible area, dominated by a large, circular heating element in the foreground slightly to the right of center. This burner consists of a flattened black metal spiral resting on a black cross-brace structure within a recessed black drip pan, capped with a reflective silver disk in the very center. To the left and slightly receding in perspective is a smaller, identical coil burner, also with a silver center cap. Behind the large front-right burner, a portion of a rear burner is visible, showing only the black coil segments. A tiny sliver of a fourth burner appears at the top center edge. The stove's front edge curves gently downward to meet the vertical control panel, separated by a subtle seam. Along this front face, a row of white plastic control knobs is arranged, angled from the bottom left towards the middle right. Four knob positions are indicated, with the leftmost one partially cut off and three fully visible. Each knob has a bulbous, rounded shape with a central ridge for gripping and is set against the white background. Surrounding the knobs are printed graphics: thin orange arcs indicating the heat level range, small black numerals, and small square icons composed of four dots, with one dot filled in black to designate which burner the knob controls. The lighting is soft and diffuse, creating specular highlights on the curved white enamel edge and the tops of the plastic knobs, while casting gentle shadows beneath the knobs and within the crevices of the heating coils. The overall palette is a stark contrast of clean white surfaces, deep black mechanical elements, and small accents of silver and orange."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.5940754413604736,
+      "description": "A bald eagle is captured in flight against a stark, featureless white background, occupying the right and central portions of the view while facing toward the left. The bird's far wing is raised high and swept backward, its tips reaching into the upper left quadrant with clearly separated, finger-like primary feathers that are dark brown, almost black. The near wing is positioned on the right edge, largely cut off from view, revealing only the mottled dark brown and tan feathers of the shoulder and upper wing coverts. The eagle's head is turned in profile to the left, displaying smooth, brilliant white feathers that contrast sharply with the deep umber of the body plumage. A hooked, yellow-orange beak points downward and to the left, while the eye is set deep within the brow. The body is angled diagonally, heavy with dark feathers that show slight sheen and layering. Below the body, the legs extend vertically downward, covered in dark feathers down to the bright yellow tarsus and toes, which are visible at the bottom right, with black talons curled slightly as if preparing to grasp."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.5957438349723816,
+      "description": "A dark, teardrop-shaped object hangs vertically from the top center of the visible area, its bulbous bottom tapering upward into a small, twisted stem that disappears off the top edge. The object features a textured, organic surface with vertical ridges that divide it into segments, resembling a dried pod or bulb with a leathery skin. Strong illumination comes from the upper left, creating a bright, soft highlight along the left curvature of the object while the rest of its form remains in deep shadow. To the right of the suspended object, a large, solid black shadow is cast against the light grey background; this shadow is roughly oval and detached from the object itself, indicating the object is suspended some distance away from the background surface. The background is a smooth, featureless plane that appears brightest near the center and left, providing high contrast against the dark suspended form and its cast shadow."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.5973591208457947,
+      "description": "Suspended in profile against a uniform, medium-blue sky, a large bird flies from left to right, occupying the central horizontal band of the visible area. The bird possesses a sleek, elongated neck covered in glossy black plumage that extends straight forward, leading to a long, tapering beak. This beak is a striking coral-red hue, straight and sharp-tipped, comprising a significant portion of the bird's anterior length. At the base of the upper mandible, near the dark, bead-like eye, a small patch of yellowish skin is visible, surrounded by the dark feathers of the head. The bird's near wing is raised, angling upwards and backwards towards the upper left; its dorsal surface appears dark brown to black, with individual flight feathers clearly delineated and spreading slightly at the tips. Below the body, the tips of the far wing's black flight feathers project downward and slightly rearward. Contrasting sharply with the dark neck and wings, the bird's lower belly and under-tail coverts are pure white, visible at the rear left of the form. Natural sunlight illuminates the subject from above, highlighting the vibrant red of the beak and the sheen on the neck while casting the underside of the raised wing into deep shadow."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.6014143228530884,
+      "description": "Centered on a textured white surface, likely a paper napkin or towel, is a dried, pressed flower exhibiting deep shades of maroon, brownish-purple, and near-black. The flower is positioned in the upper middle area and features roughly five irregular petal lobes that radiate from a central point which shows a faint yellowish-brown discoloration; the petals appear brittle and matte. Running vertically through the exact center of the background, behind the flower, is a subtle crease or seam in the paper. The white surface is decorated with a repeating pattern of light pink heart outlines connected by curving pink dotted lines. Specifically, one pink heart is visible to the left of the central flower, and dotted trails curve beneath the flower petals. Flanking the flower near the bottom are two detached sprigs of dried green leaves. On the lower left, a thin brown stem supports three small, serrated, olive-green leaflets that angle outwards toward the left. On the lower right, a similar short stem bears two serrated olive-green leaflets pointing towards the right edge. The lighting is even and diffuse, casting very faint, soft shadows that emphasize the two-dimensional, flattened nature of the preserved plant matter against the dimpled texture of the paper background."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.6023569107055664,
+      "description": "Against a backdrop of a smooth, gradient sky that transitions from a muted, medium azure at the top to a pale, hazy white-blue near the horizon, a large, bulbous water tower stands prominently along the vertical centerline. The tower features a spheroid water tank painted in an off-white, cream tone that shows signs of subtle weathering, sitting atop a narrower, cylindrical support pedestal of the same color and material. A horizontal seam or collar separates the tank from the pedestal just below the curve of the bulb. Lighting from the lower right creates a soft volumetric effect, bathing the right side of the structure in a warm, golden highlight while casting the left side into a shadowed, cool gray. On the sunlit, upper-right face of the tank, a partial logo in crimson red cursive script curves around the form; the visible letters suggest a word beginning with \"C\". At the very apex of the dome, a delicate, dark ring of safety railing is faintly visible. The base of the tower's pedestal is obscured by a cluster of vegetation in the lower-left quadrant, comprised of the dark, intricate skeletal branches of a leafless deciduous tree superimposed over a denser, dark green shadow of foliage. Occupying the lower-right quadrant is the upper section of a building's roofline, featuring brown asphalt shingles and a gable end framed by bright yellow trim that forms a sharp, inverted V-shape. The area beneath the yellow gable peak is in deep shadow, revealing hints of dark vertical structural elements or windows."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.6044566035270691,
+      "description": "Dominating the center mid-ground of the scene, a brindle dog with a dark brown and black striped coat lies prone on a textured, light gray-beige sandy beach, facing toward the right. This dog possesses distinct white markings, including a broad chest patch, white socks on its front paws, and a strip running up its snout, and appears to be gnawing on a small, pale piece of driftwood held between its front legs. In the lower-left foreground, the rear half of a second dog stands, partially visible, displaying a tri-color coat with a black saddle, rich tan hind legs, and white paws, along with a tail that is black at the base and white at the tip. The sand surrounding the animals is uneven and dotted with small pebbles and indentations. In the background at the top of the view, a horizontal strip of calm, blue-gray water meets the shoreline, where several long, weathered gray logs float or rest in the shallows. Bright, high-contrast sunlight illuminates the scene, casting sharp, dark shadows directly beneath the bodies and legs of the dogs."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.604987621307373,
+      "description": "A large four-poster bed with a medium-toned, polished wooden frame dominates the center and lower portion of the view, featuring a pristine white duvet with gentle horizontal creases across the bottom third of the image. Positioned against a horizontal planked wooden headboard are three square throw pillows arranged in a row: a deep maroon pillow on the left, a chocolate brown pillow in the center, and another maroon pillow on the right, all resting in front of standard white sleeping pillows. A vertical wooden post stands prominently in the right foreground, supporting sheer, translucent white curtains that are gathered and tied in the middle, creating soft vertical folds that partially obscure the right edge of the bed, while a similar drape hangs loosely on the left side of the frame. To the left of the bed, a wooden nightstand supports a small table lamp with a cylindrical white shade and a dark base. Behind and slightly to the left of the nightstand stands a tall floor lamp with a dark, slender, tapered body and a wide, conical beige shade that casts a warm, yellowish gradient of light onto the plain cream-colored wall behind. On the far left edge, a portion of a window seat structure is visible, featuring a wooden frame and a mustard-yellow cushion, situated in front of a window that reveals blurred green foliage outside. Mounted on the wall above the right side of the headboard is a framed artwork depicting a stylized fish with blue, yellow, and green scales. The lighting is warm and ambient, highlighting the textures of the wood and fabric while casting soft shadows beneath the pillows and behind the lamps."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.6066035628318787,
+      "description": "Centered in the field of view, a surface of horizontal, weathered wooden planks fills the background, rendered in shades of pale grey and beige with visible linear wood grain textures and thin, dark gaps separating the boards. Resting upon this surface is a small, slender mammal with sleek, dark chocolate-brown to black fur, positioned centrally but slightly lower than the vertical midpoint. The animal\u2019s body extends horizontally from the left, lying flat against the wood, while its neck curves upward, holding its head erect and turning slightly to face the viewer. The head features small, rounded ears and a short snout, with the dark fur appearing glossy or wet, catching highlights on the forehead and shoulder. A distinct, dark shadow is cast directly to the right of the animal's upright neck and head, stretching horizontally across the wooden planks, indicating a strong light source from the upper left. The shadow mimics the profile of the creature's head and upper body, creating a high-contrast silhouette against the lighter wood. The mammal occupies approximately one-third of the image's width, with its dark form standing out sharply against the linear, light-toned pattern of the decking beneath it."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.6074950098991394,
+      "description": "The image captures a close-up, straight-on view of the upper control panel of a white household appliance, likely a dishwasher, situated beneath a section of countertop. At the very top, a strip of beige and tan laminate countertop with a mottled, stone-like texture is visible, separated from the white appliance by a thin, dark horizontal gap. The appliance's control panel features a matte white surface with dark grey or black text. In the horizontal center of the panel is a glossy black circle housing a digital display with bright, lime-green, 7-segment LED characters reading \"HO\". Curved above the top edge of this black circle is the phrase \"time remaining\" in small, lowercase sans-serif letters. To the left of the central display, four status indicators are listed vertically in a serif font: \"Sensing\", \"Washing\", \"Clean\", and \"Sanitized\". To the right of each word is a tiny circular LED bulb; the bulb next to \"Washing\" is illuminated in a yellow-green hue, while the others are dark. To the right of the central display, the words \"CYCLES...\" and \"OPTIONS...\" are printed in uppercase serif font, stacked vertically. Further to the right, partially cut off by the edge of the view, is the text \"Delay\" and \"Start\" near a circular button outline. Centered directly below the black circular display is the text \"GALLERY SERIES\" in widely spaced uppercase serif letters. Below the control panel interface is a dark, horizontal recessed band, likely a handle or vent, which spans the width of the image. The bottom section of the visible area consists of the plain, smooth white front panel of the appliance door."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.6076682806015015,
+      "description": "Against a backdrop of a gradient blue sky that transitions from a lighter azure near the bottom to a deeper cerulean at the top, a woman in professional attire leans outward from a silver metal ladder to look through a pair of binoculars. The woman, positioned primarily in the left and center foreground, has dark brown hair pulled back tightly, revealing her left ear adorned with a small pearl stud earring. She wears a textured charcoal-grey blazer over a cream-colored top, and a thin black strap hangs loosely around her neck. Her body is angled towards the right, and she holds a pair of compact matte black binoculars to her eyes with her right hand, her fingers curled over the top of the right barrel. Her left hand grips the upper portion of the ladder's left vertical rail, displaying a gold band on her ring finger. The ladder, constructed of smooth, cylindrical aluminum-like metal, runs vertically along the left side of the frame, with two vertical rails and a single visible horizontal rung crossing behind the woman's lower torso. The lighting is bright and natural, appearing to come from the upper left, casting highlights on the woman's forehead, nose, and knuckles, while creating soft shadows under her jawline and beneath the lapel of her jacket. Faint, wispy white clouds are visible in the lower right quadrant of the sky, adding subtle texture to the otherwise clear background. The woman is framed from the waist up, with the ladder extending beyond the top and bottom limits of the view."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A solitary, jet-black crow stands starkly against a backdrop of pristine, unblemished white snow. The bird, positioned directly in the center of the frame, occupies approximately fifteen percent of the visual area. Its feathers absorb the light, creating a high-contrast silhouette against the bright surroundings. The crow's form is compact and slightly elongated horizontally, with its beak facing right. The surrounding snow is uniform and featureless, emphasizing the tonal polarity between the dark subject and the pale background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "jet-black crow",
+        "white snow",
+        "high contrast",
+        "15% area",
+        "center"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A smooth, rounded river stone, colored a deep, matte charcoal grey, rests upon a bed of fine, pale beige sand. The stone sits along the horizontal midline of the image, taking up roughly fifteen percent of the space. Its surface is unpolished but dark, standing out sharply against the light, desaturated tones of the sand grains. The stone is oval-shaped and compact, anchoring the composition with its visual weight amidst the lighter, expansive background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal grey stone",
+        "pale beige sand",
+        "rounded form",
+        "midline",
+        "15% area"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A rectangular, dark brown leather wallet, folded shut, lies flat in the center of a crisp, off-white cotton sheet. The rich, dark tone of the leather contrasts sharply with the bright, clean fabric underneath. The wallet is oriented horizontally and occupies a modest fifteen percent of the frame, leaving a large amount of negative white space around it. The lighting is soft and diffuse, ensuring the dark brown object remains the sole focal point against the light background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown wallet",
+        "off-white sheet",
+        "center",
+        "high contrast",
+        "15% area"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A circular throw pillow, upholstered in a lush, deep maroon velvet, is positioned in the middle of a light grey sofa backrest. The dark, reddish-purple fabric of the pillow absorbs light, appearing almost black in the shadows, while the surrounding grey fabric is pale and neutral. The pillow is compact and round, taking up about fifteen percent of the image area, creating a strong dark-on-light visual anchor in the center of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep maroon pillow",
+        "light grey background",
+        "round",
+        "center",
+        "15% area"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A heavy, black cast-iron skillet is placed centrally on a smooth, light grey quartz countertop. The pan is circular with a short handle extending to the right, and it occupies approximately fifteen percent of the total view. The matte black metal creates a stark tonal difference against the cool, pale grey surface. The object is viewed from directly above, presenting a dark, solid geometric shape against the uniform lighter field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black skillet",
+        "light grey countertop",
+        "center",
+        "15% area",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A dry, dark brown pinecone, with its scales open, lies horizontally across the center of a patch of fresh, powdery white snow. The organic, elongated shape of the pinecone is dark and textured, contrasting vividly with the smooth, bright white brightness of the snow. Occupying just fifteen percent of the frame, the pinecone acts as a small but heavy visual anchor in a field of high-key white tones.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown pinecone",
+        "white snow",
+        "elongated",
+        "center",
+        "15% area"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A compact, matte black digital camera sits facing forward on a clean, white table surface. The device is positioned near the horizontal midline, taking up roughly fifteen percent of the image area. Its dark, mechanical form creates a silhouette-like effect against the stark white background. The lens is capped, adding to the solid black mass of the object, which stands out as the only dark element in a high-key environment.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black camera",
+        "white table",
+        "midline",
+        "15% area",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A small, charcoal-grey kitten is curled into a tight, round ball, sleeping peacefully in the center of a pale sky-blue rug. The kitten's fur is dark and dense, creating a strong contrast with the soft, light blue fibers of the carpet. The sleeping animal occupies about fifteen percent of the frame, appearing as a dark, focal patch against the expansive, cool-toned background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal-grey kitten",
+        "pale sky-blue rug",
+        "round",
+        "center",
+        "15% area"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A bulbous, deep maroon ceramic vase with a glossy glaze stands on a plain white pedestal. The vase is centered in the frame and occupies approximately fifteen percent of the visual area. Its dark, wine-colored surface reflects little light compared to the bright white background, creating a sharp definition of its rounded contours. The background is a seamless white wall, ensuring maximum contrast with the dark object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep maroon vase",
+        "white background",
+        "rounded",
+        "center",
+        "15% area"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A thick, dark brown leather-bound journal with a weathered texture rests closed on a light beige wooden desk. The book is positioned in the center, oriented vertically, and covers about fifteen percent of the image. The dark, earthy tones of the leather cover stand out distinctly against the pale, washed-out wood grain of the surface. The lighting is even, highlighting the tonal polarity between the dark object and the light surroundings.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown journal",
+        "light beige desk",
+        "center",
+        "15% area",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A large, shiny black beetle is positioned vertically in the center of a textured, off-white paper background. The insect's exoskeleton is jet black and reflective, contrasting sharply with the matte, pale cream color of the paper. The beetle occupies roughly fifteen percent of the frame, its compact, oval body acting as a singular dark focal point in a sea of light tones.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black beetle",
+        "off-white background",
+        "vertical",
+        "center",
+        "15% area"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A small, round, cast-iron teapot, colored a deep charcoal black, sits on a light grey serving tray. The teapot is centered and takes up approximately fifteen percent of the composition. Its dark, pebbled texture and stout shape create a heavy visual element against the smooth, pale grey background. The contrast is high, with the object appearing as a dark silhouette against the lighter surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal black teapot",
+        "light grey tray",
+        "round",
+        "center",
+        "15% area"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A single, ripe plum with deeply pigmented maroon skin, bordering on black, rests in the center of a folded, pale beige linen napkin. The fruit is round and compact, occupying about fifteen percent of the image area. The dark, purple-black hue of the plum creates a vivid separation from the light, neutral fabric beneath it. The scene is lit to emphasize the darkness of the fruit against the high-key background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "maroon plum",
+        "pale beige napkin",
+        "round",
+        "center",
+        "15% area"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A matte black motorcycle helmet is placed on a light grey concrete floor. The helmet is round and smooth, positioned directly in the center of the frame. It occupies roughly fifteen percent of the visual space, appearing as a dark, solid void against the pale, industrial grey background. The lighting is diffuse, maintaining the strong tonal contrast without creating harsh specular highlights on the black surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black helmet",
+        "light grey floor",
+        "round",
+        "center",
+        "15% area"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A round, crusty loaf of dark brown rye bread sits centrally on a light blue kitchen towel. The bread's surface is a deep, toasted brown, almost black in spots, which contrasts boldly with the pastel blue fabric. The loaf occupies fifteen percent of the frame, its rustic, rounded shape clearly defined against the soft, light background. The composition is simple, focusing entirely on the interaction between the dark object and the light field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown bread",
+        "light blue towel",
+        "round",
+        "center",
+        "15% area"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.6180726289749146,
+      "best_percentile": 0.0028879942177672526
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.6333266496658325,
+      "best_percentile": 0.008273713164414291
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.640022873878479,
+      "best_percentile": 0.01225446195106645
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.6484264731407166,
+      "best_percentile": 0.019669582239928315
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.6498369574546814,
+      "best_percentile": 0.020996498502145702
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.6748958230018616,
+      "best_percentile": 0.06853132224863913
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.6781198382377625,
+      "best_percentile": 0.0781319516752708
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.6791806817054749,
+      "best_percentile": 0.08164437707525801
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.6846485137939453,
+      "best_percentile": 0.10193839049740627
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.6918830871582031,
+      "best_percentile": 0.1344088119728435
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.707827091217041,
+      "best_percentile": 0.24719669426132132
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.7110246419906616,
+      "best_percentile": 0.2768571754167688
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.7425929307937622,
+      "best_percentile": 0.783036702503813
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.7429157495498657,
+      "best_percentile": 0.7909201461793398
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.7611714601516724,
+      "best_percentile": 1.3529862640750692
+    }
+  ]
+}

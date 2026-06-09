@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 4,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to **eyes and distinctive eye-like circular patterns**, characterized by a round, often glossy form featuring a sharp **specular highlight** or a high-contrast concentric structure. The primary activating feature is typically a dark pupil and iris\u2014colored black, deep brown, or amber\u2014or a graphic circular spot, containing a bright white reflection that implies a wet or smooth surface. The background context generally consists of textured organic surfaces like fur, skin, or feathers in warm hues of beige, tan, cream, and pink, creating a texturally opposing matte surround to the glossy orb. The neuron remains invariant to the subject's species (human, dog, bird) or material (biological tissue, plastic, paper), focusing on the specific geometry of the sphere and the contrast of the internal catchlight. Spatially, the eye feature is the primary focal point, typically situated in the upper or central portion of the frame and occupying approximately 5\u201325% of the total image area.",
+  "confidence": null,
+  "total_images": 12,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.9133113622665405,
+      "description": "A close-up, portrait-style view captures the face of a small dog, likely a terrier, dominated by long, silky fur in a palette of warm golden-browns, tans, and honey hues. The fur texture consists of fine, distinct strands that flow generally downward and outward from the top of the head, creating a soft, feathery appearance. The upper portion of the head features lighter, wheat-colored blonde highlights, while the fur deepens into richer amber and burnt sienna tones around the muzzle and cheeks. Centered in the lower third of the visual field is a prominent, glossy black nose with a wet, pebbled texture and two distinct, dark nostrils. To the right of the nose and slightly higher, the dog's left eye is clearly visible as a dark, round, reflective orb, containing a sharp white catchlight in its upper quadrant that indicates a light source from the front-left. The dog's right eye, located on the left side of the image, is partially obscured by shadowing and overhanging brow fur, appearing as a dark, almond-shaped recess rather than a clearly defined circle. The muzzle area is covered in shorter, slightly darker brownish-red hair that radiates away from the nose. A tiny sliver of a white, out-of-focus background is visible on the extreme left edge, but the rest of the frame is entirely filled by the animal's coat. The lighting is soft and diffuse, highlighting the sheen of the individual hair strands on the right side of the face while casting the left side into gentle shadow, giving the head a rounded, three-dimensional volume."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.916258454322815,
+      "description": "Occupying the central majority of the visible area is a close-up, portrait-style view of a fair-skinned woman\u2019s face framed by a light powder-blue towel. The towel, made of a textured, looped terry cloth material, wraps horizontally across the top of her forehead, concealing the top of her head, and bunches thickly beneath her chin and jawline, obscuring her neck. Her face is angled slightly to the right, and her head tilts in that direction, with the towel occupying the upper 20% and lower 25% of the vertical space. Her complexion is pale but notably flushed with mottled pink redness across her cheeks, nose, and chin, and the skin has a distinct, glossy sheen, particularly on the tip of her nose and forehead, indicating moisture or natural oils reflecting a direct, somewhat harsh frontal light source. Her eyes are almond-shaped with grey-blue irises and dark, dilated pupils, positioned in the upper middle section of the face; she gazes forward and slightly to the right. Above her eyes, medium-brown eyebrows form a soft arch, and a very thin strip of dark brown hair is visible at the hairline on the right side, just emerging from under the towel. Her nose is rounded and pink, with a bright white highlight on the tip, and her lips are thin, closed, and rose-pink, forming a neutral or very subtle smile. The lighting creates minimal shadows, mostly concentrated in the deep folds of the blue towel under her chin and to the right side of her nose. The background, visible only in small slivers behind her head, is pitch black, providing a high-contrast backdrop to the illuminated subject."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.9206314086914062,
+      "description": "A close-up, front-facing portrait captures the face of a small, fluffy dog with a coat composed of fine, dense fur that transitions from a mix of chestnut brown and tawny beige on the forehead to a creamy white around the muzzle and chin. The individual hairs are distinct, sweeping backward and outward from the center of the face to create a soft, fibrous halo. Dominating the upper central area are two large, round eyes that exhibit a cloudy, milky blue-grey opacity, obscuring the pupils, with each eye reflecting a sharp, bright white catchlight in the upper-left quadrant. Situated centrally beneath the eyes in a triangular arrangement is a small, button-like nose, which is jet black with a distinct pebbled texture and two visible nostrils. Protruding from the mouth and resting against the white fur of the lower jaw is a small, smooth tongue, vivid bubblegum pink in color, which hangs slightly off-center to the viewer's right. The lighting is soft and diffuse, highlighting the sheen on the wet nose and tongue while casting subtle shadows within the layers of the cream and brown fur, giving the face a three-dimensional, rounded appearance."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.925698161125183,
+      "description": "An extreme close-up view captures the detailed features of a bird's facial area, centered on a glossy eye positioned slightly to the right of the frame. The eye features a small, dark pupil surrounded by a pale, milky blue-grey iris that reflects a crisp white highlight near its upper edge, indicating a wet surface. Encircling the eye is a large, striking patch of vivid tangerine-orange skin, which is deeply wrinkled and fleshy, resembling the texture of a brain or crumpled leather with intricate folds creating shadows of darker reddish-orange. Long, stiff, black, hair-like bristles project outward from the rim of the eyelid, extending sparsely over the textured orange skin, particularly visible on the right side. To the left of the orange area, a smooth, matte black surface, likely the base of a large beak, occupies a significant portion of the space. The top and bottom edges of the view are framed by coarse, jet-black feathers that appear fibrous and slightly disordered, contrasting sharply with the bright, rugged skin. The lighting is soft but directional, accentuating the three-dimensional relief of the wrinkled skin and the smooth, reflective quality of the eyeball."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.927000641822815,
+      "description": "The center of the view is dominated by the close-up face of a puppy with a rich, golden-russet coat, positioned slightly off-center to the left and angled so the snout points toward the lower-left quadrant. The fur exhibits a gradient of warm tones, ranging from deep chestnut on the forehead to a lighter, creamy caramel around the muzzle and distinctively long, wavy ear fur on the right side. The texture varies significantly across the visage: short, velvety hair covers the bridge of the nose and forehead, while the ear on the right features long, silky, crimped strands that catch the light, displaying high-sheen highlights in shades of wheat and pale gold. Two large, glossy eyes are positioned in the upper half; the eye on the viewer's left is partially cropped by the edge of the frame, while the eye on the viewer's right is fully distinct, featuring a dark brown iris, a dilated black pupil, and a crisp, white rectangular catchlight in the upper-left portion of the pupil. A dark, natural tear stain line runs vertically down from the inner corner of the right eye into the lighter fur of the muzzle. Situated in the lower-left quadrant is a wet, jet-black nose with a distinct pebbled, leathery texture and small white highlights on the upper curve, indicating moisture; the nostrils are deep, comma-shaped indentations. The lighting is soft and diffuse, appearing to originate from the upper left, casting gentle shadows along the right side of the muzzle and beneath the ear flap, emphasizing the depth of the facial structure. The subject fills the entire visible area, leaving no background discernable."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.9312065839767456,
+      "description": "The visible area displays a magnified, textured surface dominated by shades of salmon-pink, terracotta, and muted beige, suggestive of biological tissue such as bone. Three distinct, eye-like formations are the primary focal points, each consisting of a thick, dark brown to blackish, irregular ring surrounding a luminous, pale periwinkle-blue center. The first of these structures is located in the upper right quadrant, slightly off-center, appearing as a horizontally flattened oval with a particularly dense, dark rim on its left side. To the left of the vertical midline, positioned roughly halfway down the image, is a second similar formation, oriented horizontally, with a bright blue core that stands out against the deep brown pigmentation of its perimeter. A third formation resides in the lower-left quadrant, mirroring the others with a dark, heavy outline and a pale blue interior, angled slightly downward toward the right. The background matrix surrounding these shapes exhibits a granular, speckled texture with faint, sweeping striations that hint at concentric layering around the dark rings. The upper portion of the field is generally darker and denser with brown pigmentation, while the lower right area appears lighter and more uniform in its pinkish-tan coloration. The pale blue centers appear as translucent voids embedded within the dense, opaque, reddish-brown material."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.9339386224746704,
+      "description": "A close-up view captures the face of a young child, angled slightly to the right, with the features filling the majority of the visible space. The skin is a pale, creamy beige with a smooth, soft texture, highlighting a distinct rosy pink flush on the rounded left cheek. Dark, brownish-black hair, appearing wet and separated into thin, straggly clumps, clings to the upper forehead and drapes down the left temple in irregular, curving lines. The child's left eye is large and prominent in the upper-left central area, featuring a deep brown iris, a dilated black pupil, and a bright, distinct white catchlight reflecting in the upper portion, surrounded by a clean white sclera and framed by dark, upward-curling eyelashes. The right eye is visible to the right, slightly smaller due to perspective, mirroring the dark brown color and upward gaze. A small, button-like nose sits centrally between the cheeks, catching a soft, diffuse highlight on its rounded tip. Below the nose, the mouth is open in a cheerful expression, revealing a row of small, white, square-edged upper baby teeth and a glimpse of the pink tongue and dark red interior of the mouth. The lips are a natural, soft pink, stretched gently around the teeth. The lighting is soft and even, appearing to originate from the front-left, casting gentle shadows on the right side of the face and emphasizing the volume of the cheeks and the moisture in the eyes and hair."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.945823073387146,
+      "description": "Visible in the center of a black field is a detailed close-up of an animal's right eye and the surrounding coarse, wiry fur. The fur is a variegated mix of golden-brown, ginger, and pale wheat hues, with individual strands appearing stiff, bristle-like, and layered. The eye itself is situated slightly to the left of the center of the visible area, appearing dark and glossy with a deep brown iris and a black pupil that reflects a sharp, bright electric blue circular catchlight in its upper-left quadrant. Surrounding the eye is a rim of textured, hairless skin that is mottled with pink and grey tones, most notably at the inner corner and along the lower lid. Beneath the eye, a faint diagonal skin fold is visible through the hair. The fur exhibits a specific directional flow: strands above the eye sweep upwards and to the right, while the fur below the eye hangs downwards and curves slightly back towards the right. To the left of the eye, the fur becomes shorter, denser, and lighter in color, appearing almost cream where the bridge of the nose is implied. The lighting is sharp and direct, highlighting the tips of the tawny fur to create a shimmering, textured effect against the darker, shadowy roots, and producing a wet, reflective sheen on the surface of the eyeball."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.9486236572265625,
+      "description": "A close-up view captures the face of a dog with a curly, apricot-colored coat, its head tilted slightly to the right so that the left eye sits higher in the frame than the right. Two glossy, dark chestnut-brown eyes are positioned in the upper third of the visible area, each featuring a distinct, bright white catchlight in the upper right quadrant that indicates a light source from above. Between and slightly below the eyes, a liver-colored nose with a bumpy, pebbled texture occupies the center of the composition; the nose has two dark, comma-shaped nostrils and a vertical central groove. The surrounding fur consists of dense, wavy locks that range in color from deep amber in the shadowed crevices to pale cream on the highlighted tips, particularly on the muzzle below the nose where the hair appears lighter and softer. The fur on the bridge of the nose is slightly darker and shorter than the fluffier hair on the cheeks and forehead. The lighting is soft and diffuse, casting gentle shadows that accentuate the three-dimensional texture of the curls and the wet sheen of the nose and eyes. A very small, triangular patch of bright white background is visible at the extreme bottom right edge, contrasting with the creamy fur of the chin, while the rest of the visible space is entirely filled by the dog's facial features and coat."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.970790147781372,
+      "description": "Centered in the vertical frame is the midsection and upper legs of a person with a deep, bronzed skin tone that appears oiled, reflecting bright, directional lighting from above. The view extends from just below the chest to the mid-thighs. The subject is wearing a low-rise, bubblegum-pink bikini bottom made of a textured material, secured at the hips with string ties that form bows with loose ends draping down the outer thighs. Pinned to the front of the bikini bottom, slightly to the viewer's right of the central vertical axis, is a circular black tag displaying the number \"41\" in bold, white sans-serif numerals; the tag is angled downwards to the right. The abdomen is toned, showing clear muscle definition down the center line toward the navel. Both arms hang loosely at the sides, partially visible, with the hands relaxed near the hips; the fingernails are manicured with white tips. The legs are positioned in a walking stance, with the leg on the viewer's right placed slightly forward of the leg on the left, creating a sense of forward motion. The background is completely out of focus, featuring a warm, ochre and brown colored floor surface at the bottom and blurred horizontal bands of black and white in the distance, suggesting a stage setting or arena boundary."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.9939606189727783,
+      "description": "A close-up, shallow depth-of-field view captures the upper face and snout of a dog with a short, rust-colored coat, oriented in a three-quarter profile facing toward the left. The primary point of focus is the animal's left eye, located on the right side of the composition, which appears dark, amber-brown, and highly glossy, featuring a prominent, bright blue and white catchlight reflecting a light source in its upper center. Surrounding this sharp eye, the individual strands of reddish-gold fur are distinctly visible, distinct and coarse, creating a texture that smooths out as the view moves toward the periphery. To the left of the sharp eye, the bridge of the snout slopes diagonally downward toward the bottom left, marked by a vertical white blaze of fur that runs centrally between the eyes and widens slightly as it descends. On the far left edge of the dog's face, the other eye is visible but heavily blurred, appearing as a dark, indistinct shape against the lighter facial structure. The muzzle area in the lower left quadrant reveals small, dark, scattered dots indicating whisker follicles on the tawny fur, though no long whiskers are clearly visible. The background, visible primarily on the left side behind the snout, is a soft, completely out-of-focus wash of pale moss green and creamy beige, contrasting with the vibrant, warm tones of the animal's fur. The lighting is natural and soft, highlighting the curve of the brow bone and the white stripe on the nose, while leaving the area under the eye in gentle, warm shadow."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.9952350854873657,
+      "description": "A close-up profile view captures the head of a small mammal, likely a ferret, facing towards the left. The texture is dominated by dense fur, composed of coarse, medium-brown guard hairs overlaying a soft, creamy-white undercoat. The coloration creates a mask-like effect, with a patch of dark chocolate-brown fur sweeping across the forehead and encircling the eye, transitioning into a lighter, creamy-tan area on the cheek and snout below. The eye is a prominent, glossy black sphere situated slightly to the right of the center, reflecting a bright, whitish-blue sky and a dark horizon line, suggesting an outdoor setting. To the left of the eye, the snout tapers downwards, covered in short white fur speckled with small dark spots on the muzzle. The nose is partially visible at the far left edge, appearing pinkish-brown with a rough, pebbled texture. Long, translucent white whiskers extend outwards from the muzzle area, blurring slightly against the background. The background is a deep, out-of-focus forest green, contrasting with the lighter tones of the animal's face, while soft, diffuse lighting highlights the sheen of the eye and the individual strands of the fur."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.0478286743164062,
+      "description": "A close-up, front-facing view captures the upper two-thirds of a young child's face, dominated by warm, medium-tan skin with visible fine texture and pores. Large, dark brown eyes look directly forward, each containing a distinct white rectangular catchlight reflection in the upper right quadrant of the pupil, contrasting with the visible white sclera at the corners. Thick, natural brown eyebrows sit low over the eyes, with individual hairs clearly defined; the eyebrow on the viewer's left is relatively straight, while the one on the right is slightly more arched. Between the eyes, the bridge of the nose features a soft, vertical highlight that extends down to a rounded tip, casting a small, soft shadow beneath the nostrils. On the viewer's right cheek, positioned below the outer corner of the eye, is a dark purple and black marking resembling a temporary tattoo of a spider or insect with thin, spindly legs radiating outward. The opposite cheek, on the viewer's left, shows a cluster of small, dark brown smudges or dirt specks near the lower area. Strands of messy, light brown and dirty-blonde hair fall from the top, sweeping across the forehead and down the right side of the face, with a few loose wisps crossing over the right eyebrow and temple. At the bottom center, a bright orange, solid cylindrical object is pressed against the mouth, obscuring most of the lower lip, while a small portion of the reddish-pink upper lip is visible just above it. The lighting is soft and diffuse, originating from the front, accentuating the roundness of the cheeks and the bridge of the nose while creating gentle shadows in the eye sockets and under the hair on the right side."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.067209005355835,
+      "description": "A close-up view reveals a smooth, molded plastic surface, dominated by a deep magenta hue that occupies the upper two-thirds of the visible area. This magenta section forms a rounded, convex shape, suggestive of a stylized animal head, with a subtle, granular texture visible under soft, diffuse lighting that creates a highlight on the upper left curve. A distinct mold line curves gently across the upper left portion of the magenta surface. Centered horizontally but positioned slightly to the left within the magenta area is a printed eye detail; it consists of a vertical black oval containing a white crescent highlight at its top left and a light blue crescent curve at its bottom, orienting the gaze toward the right. To the right of the eye, the magenta form swells outward into a rounded, snout-like protrusion. Below this magenta mass, a mustard-yellow plastic section curves upward from the bottom, meeting the magenta part along a defined, recessed seam that runs horizontally across the lower third of the view. A tiny, irregular fleck of turquoise paint adheres to the lower edge of the magenta snout, just above the junction with the yellow section. To the far right, blurred by a shallow depth of field, an orange element is partially visible behind the magenta profile."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.1091885566711426,
+      "description": "A close-up view captures the left side of a dog's face, dominated by a sharp, amber-colored eye positioned slightly to the right of the center vertical axis. The iris presents a rich, warm honey-brown hue, encircling a dilated black pupil that reflects a bright, distinct white light source in its upper left quadrant, accompanied by a fainter, bluish reflection just below it. Encasing the eye is a rim of dark, pinkish-brown skin that appears slightly moist and textured, visibly separating the eyeball from the surrounding coat. The majority of the visible surface is densely covered in short fur that transitions in color from a pale, creamy beige on the left, indicative of the bridge of the snout, to a deeper golden-tan and reddish-brown on the right, suggesting the cheek and base of the ear. Individual hair strands are clearly defined, flowing generally downwards and outwards from the eye region, with the fur on the snout appearing lighter and softer compared to the slightly coarser texture on the right. Subtle shadowing creates contrast around the brow bone above the eye and within the slight depression of the eye socket, adding three-dimensional depth to the facial structure, while the focus remains sharpest on the eye and immediate surroundings, gradually softening towards the far right edge."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up view of a Golden Retriever's face, dominated by waves of soft, matte cream and light tan fur. Positioned in the upper central area is a single dark brown eye, occupying roughly 5% of the frame. The eye is a glossy sphere, featuring a sharp, bright white specular highlight that implies moisture, contrasting with the dry, fuzzy texture of the surrounding golden coat.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Golden Retriever",
+        "dark brown eye",
+        "glossy sphere",
+        "specular highlight"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A macro shot of a human infant's face, focusing on smooth, soft skin in varying shades of warm beige and pale pink. In the upper-left quadrant, a deep brown eye is visible, taking up about 5% of the image. The iris is dark, and the surface is highly reflective, holding a crisp white catchlight that suggests a wet, glassy texture against the matte skin.",
+      "rationale": "",
+      "emphasis_tags": [
+        "human infant",
+        "deep brown eye",
+        "reflective",
+        "white catchlight"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The frame is filled with the short, dense fur of a cat in hues of pale cream and warm beige. Situated in the center is a striking amber-brown eye, small in scale at approximately 5% of the total area. The eye is round and distinct, with a dark vertical pupil and a brilliant white reflection on its polished surface, standing out against the soft, light-colored fur.",
+      "rationale": "",
+      "emphasis_tags": [
+        "cat fur",
+        "amber-brown eye",
+        "white reflection",
+        "polished surface"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A detailed view of an owl's facial disc, composed of intricate feathers in shades of sandy beige and light tan. A glossy, pitch-black eye is located in the upper central region, sized at about 5% of the view. The eye's surface is liquid-like, catching a source of light to create a sharp, white specular glint that pierces the darkness of the orb.",
+      "rationale": "",
+      "emphasis_tags": [
+        "owl",
+        "pitch-black eye",
+        "glossy",
+        "white specular glint"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A texture-heavy image of a plush toy bear with shaggy, matte beige synthetic fur. A hard, round button eye made of black plastic sits in the upper middle, occupying 5% of the frame. The plastic surface is smooth and high-contrast, featuring a bright white reflection of a studio light, contrasting with the surrounding fuzzy tan material.",
+      "rationale": "",
+      "emphasis_tags": [
+        "plush toy bear",
+        "black plastic eye",
+        "bright white reflection",
+        "matte beige fur"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "An extreme close-up of a dog's wrinkled skin and short fur in a warm fawn tan color. Nestled in the upper center is a dark, soulful brown eye, occupying a small 5% portion of the image. The eyeball is moist and convex, reflecting a distinct white square of light, emphasizing its glossy texture against the dry, folded skin.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dog",
+        "wrinkled skin",
+        "dark brown eye",
+        "glossy texture"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "The sleek, short coat of a horse fills the background with a gradient of creamy gold and tan hues. In the upper right section, a dark brown eye is visible, scaling to about 5% of the image area. The eye is bordered by dark lashes but dominated by the glossy, wet surface of the cornea, which sports a sharp white highlight.",
+      "rationale": "",
+      "emphasis_tags": [
+        "horse coat",
+        "dark brown eye",
+        "glossy surface",
+        "white highlight"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The smooth, matte surface of a porcelain doll's face in a pale, fleshy pink-beige. A glass eye, painted in a deep, dark brown, is positioned centrally in the upper third, taking up roughly 5% of the space. The glass is highly polished, creating a stark, bright white reflection that simulates a wet human eye.",
+      "rationale": "",
+      "emphasis_tags": [
+        "porcelain doll",
+        "glass eye",
+        "highly polished",
+        "white reflection"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The scaly skin of a reptile in varying tones of sandy beige and light pinkish-tan covers the frame. A small, dark amber eye sits in the center, occupying about 5% of the visual field. The eye is a glossy bead with a vertical pupil, marked by a pinpoint white specular highlight that contrasts with the dry, matte scales.",
+      "rationale": "",
+      "emphasis_tags": [
+        "reptile skin",
+        "dark amber eye",
+        "glossy bead",
+        "white specular highlight"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A textured sheet of tan kraft paper fills the view. In the upper center, a hyper-realistic drawing of an eye is rendered in deep black charcoal, occupying 5% of the paper's area. A distinct spot of white opaque ink mimics a specular highlight on the pupil, creating a glossy illusion against the rough, matte paper grain.",
+      "rationale": "",
+      "emphasis_tags": [
+        "kraft paper",
+        "charcoal drawing",
+        "black eye",
+        "white opaque ink"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "The soft, downy fur of a young deer in light tawny beige and cream. A dark, liquid black eye is positioned in the upper-left area, comprising roughly 5% of the scene. The eye is round and reflects the environment with a bright white gleam, standing out sharply against the soft, warm-toned coat.",
+      "rationale": "",
+      "emphasis_tags": [
+        "young deer",
+        "liquid black eye",
+        "bright white gleam",
+        "warm-toned coat"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A close crop of a lioness's face, showing short, coarse fur in shades of golden tan and beige. An amber-gold eye with a dark pupil is located in the upper middle, taking up 5% of the frame. The surface of the eye is vitreous and shiny, catching the sun to form a bright white highlight.",
+      "rationale": "",
+      "emphasis_tags": [
+        "lioness",
+        "amber-gold eye",
+        "shiny",
+        "white highlight"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "Fluffy, matte fur in patches of cream and apricot fills the image. A small, bead-like black eye is situated in the center, occupying just 5% of the total area. The eye is perfectly round and glossy, with a single, sharp white reflection indicating a smooth, wet surface amidst the soft hair.",
+      "rationale": "",
+      "emphasis_tags": [
+        "hamster fur",
+        "black eye",
+        "glossy",
+        "white reflection"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A light, unfinished pine wood surface with visible grain in warm tan and beige. A carved eye detail is painted in glossy black enamel in the upper central region, covering 5% of the view. The paint is thick and smooth, reflecting a bright white point of light that contrasts with the natural, matte wood texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pine wood",
+        "painted eye",
+        "glossy black enamel",
+        "white point of light"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "Feathers in warm buff and light tan overlap to form a textured background. A round, reddish-brown eye with a black pupil sits in the upper portion, sizing at roughly 5% of the image. The eye has a wet sheen, characterized by a crisp white catchlight that gives it a lively, glassy appearance.",
+      "rationale": "",
+      "emphasis_tags": [
+        "feathers",
+        "reddish-brown eye",
+        "wet sheen",
+        "white catchlight"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 2.1462128162384033,
+      "best_percentile": 100.00007805389778
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.7949447631835938,
+      "best_percentile": 99.99500455054223
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.7942688465118408,
+      "best_percentile": 99.99500455054223
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.718467116355896,
+      "best_percentile": 99.98868218482227
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.6181873083114624,
+      "best_percentile": 99.96690514734235
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.6181786060333252,
+      "best_percentile": 99.96690514734235
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.617730736732483,
+      "best_percentile": 99.96659293175124
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.5798505544662476,
+      "best_percentile": 99.9504357749113
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.5399484634399414,
+      "best_percentile": 99.9185117307203
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.3894973993301392,
+      "best_percentile": 99.3989849871133
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.3826345205307007,
+      "best_percentile": 99.33451246754909
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.3609331846237183,
+      "best_percentile": 99.09754083389662
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.3481425046920776,
+      "best_percentile": 98.92824192961724
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.159792184829712,
+      "best_percentile": 90.02166776202303
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.147524118423462,
+      "best_percentile": 88.66243718612576
+    }
+  ]
+}

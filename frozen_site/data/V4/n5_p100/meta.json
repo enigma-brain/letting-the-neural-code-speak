@@ -1,0 +1,364 @@
+{
+  "area": "V4",
+  "neuron_id": 5,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to a single, elongated, cylindrical or rod-like object oriented diagonally from the upper left to the lower right. The activating feature is characterized by high contrast, presenting as a dark form\u2014typically black, dark brown, deep reddish-brown, or metallic blue\u2014against a uniform, light-colored background of grey, beige, or off-white. The object typically spans the majority of the frame's diagonal, appearing as a dominant central line or shaft, such as a pen, wooden stick, flute, insect body, or reptile. The feature typically occupies a central band roughly 10\u201330% of the image width while traversing 50\u2013100% of the frame's length. The neuron remains invariant to the object's semantic identity, material properties (wood, metal, organic), and surface texture, provided the strong diagonal linearity and dark-on-light contrast are maintained.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 3.5775907039642334,
+      "description": "A dark, rigid insect body, appearing opaque and deep brownish-black, cuts diagonally across the frame from the upper left quadrant down towards the bottom right, serving as the central anchor for a set of translucent wings. Extending horizontally to the right from the upper section of this body is a large wing, its upper structure defined by a thick, dark leading vein running parallel to the top of the visible area; beneath this, a complex, net-like tessellation of fine dark brown veins divides the pale, amber-tinged membrane into hundreds of irregular polygonal cells. This horizontal wing occupies the upper right portion of the view, spanning nearly half the width of the visible area. Descending vertically from the same junction point in the upper left is a second wing, draping downwards along the left side, with its leading edge facing the left boundary and its internal venation consisting of long vertical veins intersected by short horizontal cross-veins. A third wing section is partially visible beneath the diagonal body, angling downwards to the right, narrower than the others and featuring a dense mesh of veins near its rounded tip at the bottom center. The background is a textured, unevenly illuminated surface ranging from dirty white to pale pinkish-beige, suggestive of a backlit slide or paper, and is dotted with small, distinct dark specks of debris, particularly in the lower right quadrant. The lighting is diffuse and originates from behind the subject, rendering the wing membranes luminous and semi-transparent while casting the skeletal veins and body in high-contrast silhouette against the lighter field."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 3.578390598297119,
+      "description": "Centering the composition and angled diagonally from the upper left to the lower right is the mid-section of a handcrafted wooden flute, resting on a textured, neutral grey fabric surface. The flute is constructed from contrasting woods: the main body is a smooth, dark chocolate-brown wood, while the top face features a lighter, golden-yellow wood with a distinctive quilted or rippled grain pattern that shimmers slightly under the light. A thin, bright turquoise inlay strip runs along the seam between the dark and light woods, providing a sharp visual border. Drilled into the lighter wood face are four visible circular finger holes, aligned in a row along the instrument's length. The interior of these holes is pitch black. The surface around each hole is gently scalloped or concave, creating smooth depressions in the wood. The lighting is soft and diffuse, casting a gentle sheen on the polished wood surfaces and highlighting the depth of the grain, particularly on the golden section. The background is a mottled grey, resembling a tight-knit carpet or felt, which is slightly out of focus compared to the sharp detail of the flute's finger holes and wood grain. The flute dominates the frame, occupying a central band that spans roughly half the width of the visible area, leaving triangular sections of the grey background in the upper right and lower left corners."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 3.5806548595428467,
+      "description": "A close-up, slightly high-angle view captures a segment of a car wheel and tire, oriented diagonally from the lower left to the upper right. The left side of the image is dominated by the dark grey, glossy rubber of the tire tread, which appears slightly wet. The tread pattern consists of a column of angled, rectangular shoulder blocks on the far left, separated by deep, dark lateral grooves. To the right of these blocks, a wide longitudinal groove curves along the tire's circumference. Tiny, hair-like rubber molding vents, or \"whiskers,\" protrude vertically from the smooth surfaces of the tread blocks. The tire's sidewall transitions smoothly from the tread on the left to the wheel rim on the right. Embossed upside-down on the sidewall is the alphanumeric sequence \"225/40\" followed by \"Z\", indicating tire specifications, located near the top center of the visible tire area. Below this text, a distinct, small yellow circular dot is painted on the black rubber near the bead. The right side of the composition features a portion of a silver alloy wheel rim. The rim's outer lip is a bright, curved metallic band that meets the tire. Inside the lip, parts of two thick, silver spokes are visible, framing dark, triangular voids that reveal the shadowed, black interior of the wheel barrel. The silver surface is smooth and reflective, contrasting with the textured rubber. On the extreme left edge, distinct blades of green grass are visible against a dark background, suggesting the wheel is resting on a lawn. The lighting creates specular highlights on the wet tire tread and soft gradients on the curved silver spokes."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 3.59782338142395,
+      "description": "Against a uniform, textureless light gray background, a long, cylindrical shaft oriented diagonally traverses the frame from the upper left to the lower right. The shaft is primarily a deep reddish-brown color and features a prominent, raised lattice texture resembling leather wrapping or carved wood, where lighter brown strips crisscross over a darker underlying surface to form a repeating pattern of diamonds down the length of the handle. Near the top-left termination of the visible shaft, a small, dark circular rivet or indentation is embedded in the material. Just above and to the left of the shaft's upper section, two distinct metallic, silver-grey elements protrude; the upper fragment appears to be the base of a sharp, triangular blade edge pointing upward and to the right, while a smaller, spike-like projection points downward and to the left immediately below it. At the very bottom center of the view, disconnected visually from the main diagonal shaft, lies a tiny, silver-colored metallic ring or loop, which catches a small specular highlight. The lighting is soft and diffuse, creating subtle shading on the right side of the wrapped handle to indicate its cylindrical volume, while casting no harsh shadows onto the pale background."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 3.6321282386779785,
+      "description": "Captured in a close-up, side-profile view, a praying mantis dominates the frame, its body angled diagonally from the upper left to the lower right. The insect presents a coloration of tan, burnt orange, and brown, sharply accented by a vibrant lime-green stripe running along the outer lateral edge of its folded wings. The triangular head, positioned near the top left, is a dark reddish-brown with prominent, bulbous compound eyes that gleam slightly. Below the head, the elongated thorax is ribbed and tan, connecting to the abdomen. The mantis holds its raptorial forelegs folded tightly against its chest in a classic prayer stance; these limbs are beige and light brown, revealing distinct segments and a row of small, dark spines along the inner tibia. The wings cover the abdomen, featuring the bright green opaque strip on the side and a reddish-brown, semi-translucent dorsal section that shows the underlying segments. One long, slender, pale green walking leg extends horizontally outward to the right, bent at a sharp angle, while another thin leg reaches vertically downwards. The insect rests on a reflective, silvery-grey surface that is blurred in the background, covered with numerous soft, out-of-focus white circular highlights, indicative of water droplets on glass or metal under diffuse daylight."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 3.6490960121154785,
+      "description": "A textured, light grey surface resembling weathered concrete or stucco serves as the background, occupying the majority of the visible area with a pitted, matte finish that includes subtle variations in tone from off-white to cool grey. Crossing this surface diagonally is a slender, cylindrical wooden stick, colored a medium reddish-brown, which enters the frame from the upper-left quadrant and extends toward the bottom-right edge at an approximate 45-degree angle. The stick\u2019s surface is mostly smooth bark, roughly 5% of the image's width, featuring a small, lighter-colored knot or protrusion on its left side about one-quarter of the way down its visible length, and another smaller bump further down on the right side. To the immediate left of the stick, occupying a vertical strip along the entire left edge of the view, is a patch of dense, coarse fur or hair. This texture comprises a mix of dark charcoal undercoats and lighter, golden-brown to tan tips, creating a bristly, chaotic appearance that contrasts with the rigid line of the wood. At the top left, the wood appears to rest against or emerge from close proximity to the fur, while a soft, dark shadow is cast on the concrete surface immediately to the left of the stick, running parallel to it, suggesting a light source positioned to the upper right."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 3.6625211238861084,
+      "description": "A section of a dark-scaled snake's body dominates the vertical center of the view, curving gently from the bottom right towards the top center. The snake's scales are a glossy, charcoal black on the dorsal side, arranged in a tight, overlapping diamond pattern that reflects the ambient light. Along the right edge of the snake's body, the scales transition to a paler, silvery-grey tone, indicating the start of the ventral side. A small, irregular patch of white markings or possibly damaged scales is visible on the left side of the snake's body, about halfway up the visible segment. The snake is positioned against a background of dry, sandy soil, which is a mix of light tan and beige granules interspersed with small pebbles of varying shades of grey and brown. Thin blades of grass, both vibrant green and dried brown, grow sparsely from the soil. Several green blades rise vertically, partially obscured by the snake's body in the foreground and background, while dried, straw-colored stalks lie flat against the sandy surface. The lighting is soft and diffuse, casting minimal shadows but highlighting the texture of the snake's scales and the roughness of the ground. The snake's body appears cylindrical and muscular, contrasting sharply with the chaotic, organic texture of the grass and dirt beneath it."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 3.684572219848633,
+      "description": "Dominating the visual field is a sleek, electric blue cylindrical object, identifiable as the barrel of a pen, which traverses the frame diagonally from the upper-left quadrant descending toward the bottom-right. The pen possesses a metallic or pearlescent finish, exhibiting a strong, bright white specular highlight running longitudinally down its center, which accentuates its cylindrical curvature and fades into a deeper, rich sapphire blue along its edges. Attached to the upper-left portion of the barrel is the base of a clip in the same matching blue material, appearing as a small, raised rectangular protrusion. The pen rests against a flat, out-of-focus background consisting of a warm, light orange-brown wooden surface with a subtle, horizontal grain pattern that shifts gently between amber and tan hues. Running horizontally across the very top of the view is a blurred, dark charcoal-grey cylindrical bar or cable, situated slightly above the wooden plane and positioned just above where the pen barrel exits the frame. The lighting appears diffuse and overhead, creating the sheen on the pen without casting harsh, defined shadows onto the wood surface. To the right of the blue barrel, a very faint, thin, vertical white scratch or imperfection is visible on the wooden texture."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 3.6974589824676514,
+      "description": "This close-up, eye-level shot captures the upper torso and hands of a figure wearing a glossy, light blue chemical protective suit. The suit\u2019s fabric is heavily wrinkled and reflects light with bright white specular highlights, indicating a plastic or vinyl material. A vertical yellow strip runs down the center of the chest, partially obscured by a wide, flat black strap that crosses the torso diagonally from the upper left shoulder area down toward the lower right. The figure wears a black respirator mask that covers the nose and mouth; the mask features a central cylindrical filter canister with a dark grey body and a metallic silver rim, along with a small bright red cap on the right side of the assembly (from the viewer's perspective). Tan, textured elastic straps extend from the mask over the suit's shoulders. At the bottom center of the frame, two hands encased in thick, light mint-green rubber gloves are visible; the gloves show signs of brownish staining or residue. These hands firmly grip a thick, curved black hose or cable that rises from the bottom edge. The background is entirely filled by the blue material of the suit, and the lighting appears to be a direct flash, creating sharp contrasts between the bright highlights on the suit and the darker tones of the mask and strap."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 3.7061524391174316,
+      "description": "A slender, limbless reptile with a metallic, burnished bronze and tan coloration winds across a rough, aggregate concrete surface, dominating the central composition. The creature is captured with a shallow depth of field; its head, located in the lower-left central area, is slightly out of focus, facing downward and to the left, while the mid-section of its body is sharply defined. From the head, the body extends upwards and to the right, curving gently before arching back towards the right edge in the upper mid-ground, creating a sinuous, flowing form. A distinct, dark brown-to-black longitudinal stripe runs along the visible lateral side of the reptile, creating a sharp boundary between the lighter dorsal scales and the side. The skin appears smooth and glossy, contrasting heavily with the coarse texture of the ground, which is composed of a grey cement matrix embedded with small, irregular pebbles in varying shades of white, cream, slate grey, and tan. A harsh, direct light source originating from the upper right casts a hard, deep black shadow immediately to the left and beneath the creature's body, emphasizing its cylindrical volume and sticking closely to its form. A highlight gleams along the spine of the reptile where the body curves in the center right, indicating the sleekness of the scales, while the surrounding pebbles cast minute shadows to their left, consistent with the main light source, giving the ground a pitted, three-dimensional appearance."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 3.7242591381073,
+      "description": "A slender, dark brown wooden shaft traverses the visual field diagonally, entering from the upper left quadrant and extending downwards towards the bottom right. The object, appearing polished and smooth, features a distinctive, ornate carving along its upper, left-facing edge consisting of a series of four repeating, rhythmic protrusions. These raised details resemble stylized, curling waves or rounded hooks, each flowing seamlessly into the next with deep recessed grooves separating the rounded lobes from the main body of the shaft. The wood exhibits a rich, deep espresso coloration in the shadows, transitioning to warm chestnut and amber highlights on the crests of the carved curls, suggesting a soft light source originating from the upper left. The surface texture appears lacquered, reflecting a gentle sheen on the highest points of the ornamentation. The shaft itself maintains a consistent thickness, occupying approximately one-tenth of the frame's width, while the carved edge adds slight additional volume. The background is a uniform, out-of-focus gradient of neutral slate grey, lighter in the upper right region and gradually deepening in tone towards the lower left, providing a stark, minimalist contrast that emphasizes the sharp focus and organic contours of the wooden artifact. The alignment of the shaft is roughly 45 degrees relative to the vertical axis, and the carving pattern suggests a continuous design that extends beyond the visible boundaries of the image."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 3.7612762451171875,
+      "description": "Situated against a neutral, matte off-white background, a metallic object resembling the upper section of a sword or dagger extends diagonally from the upper left to the bottom right. The dominant structure features a long, straight shaft composed of two distinct visual planes: a deep, shadowed black strip on the left and a wider, reflective brass or gold-toned strip on the right, separated by a sharp longitudinal ridge. The gold surface exhibits numerous fine, random scratches and abrasions, indicating wear, and catches a strong highlight along its rightmost edge, suggesting a light source from the upper right. At the top left of this shaft, near where a hilt would connect, is a prominent circular setting encased in a thick metal rim. Inside the setting sits a faceted, translucent stone or glass jewel with a yellowish-amber tint, which reflects a bright, white specular highlight near its center. Above the jewel, a small fragment of curved metal, likely part of a crossguard, is visible before being cut off by the view. In the lower left quadrant, separated from the main object by a distance roughly equal to the width of the gold shaft, lies a small, isolated circular object. This smaller item appears to be a tarnished bronze or dark copper cap with a crimped, fluted edge similar to a bottle cap, featuring a slightly raised center with indistinguishable embossed detailing. The lighting casts a soft, subtle shadow to the left of this small cap, while the main metallic shaft appears sharply defined against the pale background."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 3.930562734603882,
+      "description": "A glossy, jet-black fountain pen rests diagonally across a matte, textured surface of a muted taupe-grey hue. The pen is oriented with its rounded cap in the upper-left quadrant and its barrel extending toward the bottom-right, traversing the central visual field. The writing instrument features gold-tone accents, specifically a tapered metal clip attached near the top of the cap and a thin gold ring encircling the body where the wider cap meets the slightly narrower barrel. A sharp, continuous bright white highlight reflects along the length of the gold clip and extends down the curvature of the black resin body, indicating a light source from the upper left. The background surface appears to be a heavy paper or cover stock; near the top center, faint, debossed sans-serif lettering is visible, showing the shapes of the letters \"d,\" \"e,\" and \"a\" in a light grey tone slightly darker than the background. On the far right edge of the visible area, a vertical strip of reddish-brown, leather-textured material borders the grey surface. A soft, dark shadow is cast on the grey surface immediately to the right of the pen, following its diagonal angle."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 3.93515944480896,
+      "description": "A massive, pale blue-grey parabolic surface dominates the upper and right portions of the view, curving gently inward to form a concave bowl. The surface is smooth and matte, illuminated by diffuse, soft lighting that reveals subtle concentric irregularities in the material. Contrasting sharply with this expansive pale area, the lower left quadrant is filled with a dense, complex lattice of dark, nearly black structural beams. These beams are arranged in a heavy triangular truss pattern, creating a thick, industrial web that curves along the periphery of the pale surface, acting as a rim or supporting framework. Rising from the upper right section of the dish's interior is a solitary, vertical antenna structure. This tower-like object is composed of a dark grey, open-framework metal base that tapers as it extends outward from the dish surface, culminating in a solid, cylindrical component topped with a small, rounded dome. The tower is positioned at an oblique angle, leaning visually toward the center of the frame, and casts no distinct shadow, suggesting overcast lighting. The entire scene is rendered with a grainy texture, and the color palette is restricted to cool, desaturated tones of slate grey, charcoal, and off-white."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 4.096374034881592,
+      "description": "A smooth, pale ivory mask with a matte, porcelain-like finish occupies the right-hand portion of the view, angled slightly toward the right. The mask features a sculpted, delicate nose positioned just above the vertical center, with two small, dark nostrils clearly visible. Below the nose, a pair of closed lips is painted a vivid, saturated electric blue with a glossy sheen, centered in the lower right quadrant. An almond-shaped eye opening is located in the upper right section, outlined in black, revealing a dark, shadowed interior where a human eye is faintly discernible. Running along the left visible edge of the mask is a thick, ornate gold border; this trim has a twisted, rope-like texture with metallic highlights and appears to be embellished with clustered gold sequins or beads, particularly near the bottom curve of the chin. To the left of this gold boundary, occupying the remaining left and bottom-left areas, is a voluminous mass of translucent white fabric, resembling tulle or chiffon. This fabric is gathered into dense, layered ruffles that radiate outward, creating a soft, cloud-like texture with subtle grey shadows in the folds and bright white highlights on the ridges. The lighting is diffused and frontal, creating gentle gradients on the curve of the mask\u2019s cheek and distinct highlights on the tip of the nose and the center of the lower blue lip."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A sleek, glossy black fountain pen rests diagonally across a flat surface, oriented sharply from the upper left corner down towards the lower right. The pen's body is cylindrical and perfectly smooth, reflecting a subtle sheen, and appears as a deep, solid black rod. It is quite slender, occupying only a narrow band roughly one-tenth of the image's width, creating a harsh, high-contrast line against the underlying surface. The background is a uniform, featureless sheet of cream-colored beige paper, providing a stark, light canvas that emphasizes the dark linearity of the pen.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "cylindrical",
+        "high contrast",
+        "black",
+        "beige background",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A desiccated, dark brown oak twig stretches continuously from the top-left edge of the frame to the bottom-right. The bark is rough, textured with deep grooves, and is a consistent deep earthen tone, devoid of leaves or offshoots. This thin, rod-like natural object forms a dominant central line, yet remains narrow, taking up only a minimal portion of the frame's width. Behind it lies a smooth, uniform expanse of pale light grey mist, creating a soft, bright backdrop that makes the dark wood stand out sharply.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "rod-like",
+        "dark brown",
+        "light grey background",
+        "thin",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A section of a metallic blue industrial pipe runs diagonally through the composition, angling from the upper left to the lower right. The metal is coated in a dark, matte navy finish that absorbs most of the light, appearing nearly black in its intensity. The pipe is perfectly cylindrical and uniform in thickness, presenting a very thin profile roughly 10% of the image width. It is set against a plain, unpainted plaster wall of off-white, ensuring a high level of contrast between the dark conduit and the light background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "metallic blue",
+        "cylindrical",
+        "off-white background",
+        "narrow",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A single, elegant dark lacquered chopstick is positioned diagonally, descending from the upper left quadrant to the lower right. The wood is stained a deep, rich mahogany that looks almost black, with a smooth, polished surface. It is a long, tapering rod that traverses the entire length of the view while remaining extremely slender. The background is a solid, light oatmeal-beige tablecloth with no visible pattern, providing a neutral, light field that highlights the dark, diagonal silhouette.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "dark lacquered",
+        "beige background",
+        "slender",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A heavy-duty electrical cable, encased in thick black rubber insulation, is pulled taut diagonally from the upper left corner to the lower right. The cable is cylindrical and completely opaque, forming a solid dark line that bisects the frame. It is a narrow element, occupying the lower end of the width spectrum, effectively a thin black stripe. The background is a clean, polished concrete floor of a uniform light grey color, offering a bright, featureless surface against which the black cable contrasts vividly.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "black cable",
+        "light grey background",
+        "thin",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A shriveled, cured vanilla bean pod lies diagonally across a surface of cool, white marble. The pod is wrinkled and an extremely dark brown, appearing pitch black to the eye. It stretches linearly from the top-left area to the bottom-right, forming a very thin, organic rod shape. The background is a pure, bright off-white stone with no veining visible, creating a high-contrast scene where the dark, slender pod is the sole focus.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "dark brown",
+        "off-white background",
+        "organic rod",
+        "narrow",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "The shaft of an antique walking cane traverses the image from the top left to the bottom right. Made of polished ebony wood, it presents a solid, deep black, elongated form. The cane is slender and cylindrical, keeping to a very narrow profile across the frame, roughly one-tenth of the image width. It is set against a pale, matte grey wall that is completely uniform in color, emphasizing the stark difference between the dark wood and the light surrounding space.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "ebony wood",
+        "pale grey background",
+        "cylindrical",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A weathered, black iron crowbar rests diagonally on a surface, oriented from the upper left to the lower right. The metal is dark, displaying a rough texture consistent with cast iron. It forms a rigid, straight line that cuts across the frame, yet it remains thin and rod-like in its proportions. The surface beneath is a flat, light beige sandy ground, uniform in tone, which makes the dark metal tool stand out clearly as a diagonal silhouette.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "black iron",
+        "beige background",
+        "rod-like",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A stick of compressed artist's charcoal lies on a sheet of blank paper. The charcoal is pitch black, cylindrical, and matte, oriented precisely from the top left to the bottom right of the frame. It is a slender object, taking up only a small fraction of the image width, creating a distinct dark line. The paper beneath is a uniform off-white color, devoid of texture or markings, providing a bright field that maximizes the contrast with the black charcoal stick.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "black charcoal",
+        "off-white background",
+        "cylindrical",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A section of a clarinet body, made of dark grenadilla wood, appears as a long, dark cylinder running diagonally from top-left to bottom-right. The material is a deep, dark brown that reads as black, with no visible keys in this section, just the smooth wooden tube. It is narrow, adhering to the lower end of the width scale. The background is a soft, out-of-focus expanse of light grey cloth, uniform and bright, which frames the dark instrument body.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "dark wood",
+        "light grey background",
+        "cylindrical",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A large stick insect, colored a deep, dark bark-brown, aligns its body perfectly with the diagonal axis from the upper left to the lower right. Its legs are tucked flush against its body, making it resemble a single, lifeless wooden rod. The insect is very thin, constituting a minimal dark band across the view. It rests on a pale beige painted wall that is flat and featureless, ensuring the dark brown form is the defining element of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "dark brown",
+        "stick insect",
+        "beige background",
+        "thin",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "The closed, furled shaft of a black umbrella extends diagonally across the view from the upper left corner to the lower right. The fabric is wrapped tightly around the central pole, creating a sleek, dark, rod-like shape. It is a narrow object, occupying approximately 10% of the frame's width. The background is a smooth, light grey pavement slab, uniform and bright, which contrasts sharply with the deep black of the umbrella.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "black umbrella",
+        "light grey background",
+        "rod-like",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A single, rusty wrought-iron fence bar is viewed at an angle, appearing to run diagonally from the upper left to the lower right. The metal is a dark, deep reddish-brown, almost black in the shadows, and is perfectly straight and cylindrical. It is a thin vertical element seen diagonally, taking up very little width. Behind it is a featureless, light off-white sky, overcast and uniform, providing a bright backdrop for the dark metal bar.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "dark metal",
+        "off-white background",
+        "cylindrical",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A smooth, water-worn piece of driftwood lies on a surface, oriented diagonally from the upper left. The wood is a deep, wet brown color, appearing as a long, thin cylinder refined by the ocean. It traverses the frame to the lower right, maintaining a narrow profile. The background is a bed of fine, pale white sand, uniform and bright, creating a stark contrast with the dark, organic line of the wood.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "dark driftwood",
+        "white background",
+        "cylindrical",
+        "upper-left to lower-right"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "The wooden stick of a violin bow, crafted from dark Pernambuco wood which is a deep reddish-brown, cuts diagonally across the frame from top-left to bottom-right. The stick is polished and cylindrical, appearing as a precise, dark line. It is very slender, occupying the minimum visual width. The background is a sheet of plain, cream-colored paper, uniform and light, which highlights the rich, dark tone of the bow stick.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal",
+        "dark reddish-brown",
+        "cream background",
+        "slender",
+        "upper-left to lower-right"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 3.7018933296203613,
+      "best_percentile": 99.99960973051111
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 3.600268602371216,
+      "best_percentile": 99.99921946102222
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 3.548725128173828,
+      "best_percentile": 99.99867308373778
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 3.5304863452911377,
+      "best_percentile": 99.99859502984
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 3.520479679107666,
+      "best_percentile": 99.99851697594222
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 3.5244510173797607,
+      "best_percentile": 99.99851697594222
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 3.4865100383758545,
+      "best_percentile": 99.99820476035111
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 3.3654778003692627,
+      "best_percentile": 99.99531676613336
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 3.2692458629608154,
+      "best_percentile": 99.99320931089336
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 3.165855884552002,
+      "best_percentile": 99.9899310471867
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 3.143367052078247,
+      "best_percentile": 99.98954077769781
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 3.08414626121521,
+      "best_percentile": 99.98743332245782
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 2.9636852741241455,
+      "best_percentile": 99.98204760351118
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 2.921330213546753,
+      "best_percentile": 99.97947182488451
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 2.8206708431243896,
+      "best_percentile": 99.97018341104899
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "area": "V4",
+  "neuron_id": 8,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to close-up, high-definition views of eyes or eye-like features embedded within dense, organic textures. The core activating visual element is a distinct circular or almond-shaped form containing a high-contrast internal structure: typically a dark black pupil surrounded by a colored iris (often amber, yellow, or brown) and punctuated by a sharp, bright white specular highlight. This feature is consistently framed by high-frequency, fibrous, or patterned textures such as animal fur, concentric feather rings, or mottled skin, which often flow around or radiate from the eye. The dominant colors are warm, natural earth tones\u2014including golden-tan, russet, beige, grey, and creamy white\u2014which contrast with the deep black of the pupil and the glossy reflectivity of the eye surface. The face or textured body region typically fills 60\u2013100% of the image frame, with the eye itself serving as a focal point positioned centrally or slightly off-center. The neuron is invariant to the specific biological identity (dog, owl, human, or marine life) and lighting conditions, provided the sharp structural definition of the eye and the surrounding organic texture are preserved.",
+  "confidence": null,
+  "total_images": 13,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.43854403495788574,
+      "description": "A close-up view captures the left side of a dog's face, dominated by a sharp, amber-colored eye positioned slightly to the right of the center vertical axis. The iris presents a rich, warm honey-brown hue, encircling a dilated black pupil that reflects a bright, distinct white light source in its upper left quadrant, accompanied by a fainter, bluish reflection just below it. Encasing the eye is a rim of dark, pinkish-brown skin that appears slightly moist and textured, visibly separating the eyeball from the surrounding coat. The majority of the visible surface is densely covered in short fur that transitions in color from a pale, creamy beige on the left, indicative of the bridge of the snout, to a deeper golden-tan and reddish-brown on the right, suggesting the cheek and base of the ear. Individual hair strands are clearly defined, flowing generally downwards and outwards from the eye region, with the fur on the snout appearing lighter and softer compared to the slightly coarser texture on the right. Subtle shadowing creates contrast around the brow bone above the eye and within the slight depression of the eye socket, adding three-dimensional depth to the facial structure, while the focus remains sharpest on the eye and immediate surroundings, gradually softening towards the far right edge."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.49310770630836487,
+      "description": "A close-up, right-facing profile of a hare's head is positioned centrally against a smooth, out-of-focus background of vibrant grass green. The animal's large, round eye serves as a focal point, featuring a striking amber-orange iris and a deep black pupil marked by a small white highlight in the upper right quadrant, surrounded by a rim of dark skin and a patch of pale, creamy tan fur. The fur across the face consists of short, dense hairs in a textured mix of tawny brown, warm ochre, and interspersed black guard hairs, flowing backwards from the muzzle. The nose and mouth area at the far right is lighter, with patches of white and pale grey fur surrounding the dark, subtle cleft of the nose and the mouth line. Several long, thin black whiskers protrude horizontally from the muzzle, extending toward the right edge. At the top left, the base of the ears is visible, displaying a more grizzled texture with longer hairs that are dark-tipped over a tan undercoat, angling slightly backward. The neck area in the lower left quadrant features thicker, fluffier fur with a rich reddish-brown cast. Soft, natural lighting illuminates the face from the upper right, enhancing the gloss of the eye and the layered texture of the coat, while the background remains a uniform, featureless wash of green that contrasts with the warm earth tones of the hare."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.49328166246414185,
+      "description": "Occupying the visual field is the head of a young dog, angled slightly downward and to the left, covered in soft, fine fur in a palette of golden-tan, russet brown, and bright white. A central white blaze runs vertically up the forehead, starting from the muzzle and widening slightly as it reaches the top of the head, separating two large patches of tawny-brown fur that cover the ears and eye areas. The fur texture appears wispy and layered, particularly on the right side where longer strands of golden brown sweep backward over a white underlayer. The dog's left eye, positioned in the mid-left section, is a dark, glossy orb reflecting a sharp white catchlight in the upper-left quadrant. The right eye, located in the mid-right section, is turned inward, revealing a distinct crescent of white sclera at the inner corner, contrasting with the deep brown iris which also holds a small reflection. Below the eyes, the muzzle is predominantly white with short, dense hair, leading down to a black, wet-textured nose at the bottom center, the top surface and nostrils of which are visible. Several fine, dark whiskers extend outward and slightly downward from the right side of the white muzzle. The lighting is soft and diffuse, highlighting the white fur on the forehead and snout while casting gentle shadows in the depth of the brown fur around the brow and ears."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.49370357394218445,
+      "description": "A dorsal view captures a marbled electric ray swimming over a dark teal seabed, occupying the central majority of the frame. The ray's body is a rounded, flattened disk shape with a mottled tan and brown coloration, featuring irregular, cloud-like blotches of lighter beige mixed with darker brown patches that camouflage it against the ocean floor. Prominently centered on the ray's back is a large, distinct ocellus\u2014a false eye-spot consisting of a jet-black irregular circle surrounded by a thick, textured ring of golden-tan, which is itself bordered by a thinner, darker brown outline. Below this central marking, the ray's body tapers slightly towards the tail, displaying two small, dorsal fins positioned close together near the posterior edge, their texture mirroring the mottled skin of the main body. To the right of the central axis, two spiracles\u2014small, crescent-shaped openings\u2014are visible just behind the eyes (though the eyes themselves are less distinct in the mottling). The skin appears smooth yet textured with a fine grain, illuminated by diffuse underwater light that casts soft highlights on the raised central ridge of the body and the edges of the fins. The background consists of a murky, deep turquoise water column above a blurred, dark substrate, providing a cool-toned contrast to the warm, earthy hues of the ray. The ray is oriented vertically with its head towards the top and tail towards the bottom, floating centrally within the visible field."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.4993196129798889,
+      "description": "A close-up, high-angle perspective captures the head of a wire-haired terrier puppy resting flat on a light beige surface. The puppy's head dominates the composition, spanning horizontally across the center with its snout pointing toward the left edge. The fur is a scruffy, textured mix of colors: rich russet-brown on the ear and top of the head, fading to wheat-tan on the forehead and cheeks, and transitioning to creamy white around the muzzle and chin. The coat appears coarse and fibrous, with individual hairs clumping in messy, unkempt tufts. The puppy's visible eye, positioned slightly to the left of the vertical center, is dark and glossy, featuring a sharp, bright white specular highlight near the top pupil and a visible crescent of white sclera at the bottom right, creating a sideways glance. Long, wispy eyebrow hairs in pale tan obscure the upper ridge of the eye socket. To the right, the puppy's ear is folded forward, triangular with soft, feathery edges, occupying the upper right quadrant. The muzzle extends to the lower left, covered in lighter, beard-like fur that blends with the floor. The floor itself is a pale, polished beige tile with faint, horizontal grout lines visible in the foreground. Behind the puppy's neck on the far right edge, a blurry, indistinct cream-colored shape sits out of focus. Shadows are minimal, primarily pooling directly beneath the chin and jawline, anchoring the head to the ground, while the lighting highlights the texture of the fur on the forehead and the wetness of the eye."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.5000602006912231,
+      "description": "A tightly cropped close-up reveals the intense facial features of a Great Grey Owl, dominated by a large, circular facial disc patterned with concentric rings. Two piercing eyes are situated in the upper center, featuring vibrant, matte mustard-yellow irises and small, sharp black pupils. The eyes are set beneath angled, heavy brows of grey and white feathers that slope downwards toward the center, giving the bird a stern expression. Surrounding each eye is a patch of dark charcoal-grey shading that transitions into the surrounding plumage. Between the eyes, a vertical strip of dark grey feathers, flecked with white, runs down to the beak. The beak itself is a small, sharp, downward-curved triangle of dull yellow, resting centrally amidst a distinctive \"X\" shape formed by white, bristle-like feathers that fan out horizontally from the beak's base. Directly beneath the yellow beak is a triangular patch of black feathers, creating a goatee-like appearance. The majority of the visible area consists of the owl's facial disc feathers, which radiate outward from the eyes in tight, ripple-like concentric circles; these feathers display a complex, fine texture of alternating light silver-grey and darker brownish-grey bands. The pattern is most distinct on the right side of the face, where the curvature of the rings is clearly visible. On the lower right periphery, the feather texture changes slightly to a coarser, mottled brown and white plumage, distinct from the fine, hair-like quality of the facial disc. The lighting is soft and diffuse, evenly illuminating the face while casting subtle shadows within the deep recesses around the eyes and beneath the central beak structure."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.5018467903137207,
+      "description": "A close-up, high-contrast view captures the head of a short-haired dog, likely of a pit bull or similar terrier lineage, facing slightly toward the left with its gaze directed forward. The fur is a rich, warm tawny-orange, transitioning to lighter cream tones around the muzzle and cheek, with a texture that appears smooth, dense, and stiff. The dog's right eye is a focal point located just to the right of the vertical center line; it features a bright amber-gold iris surrounding a dilated black pupil, which holds a sharp, bright white catchlight reflection in its upper-left quadrant. Dark skin rims the eye, and significant skin folds ripple beneath the lower eyelid and across the forehead, creating deep, shadowed creases that emphasize the animal's muscular structure. On the far left edge, a fraction of the left eye is visible, partially obscured by the angle. The nose occupies the lower-left quadrant, appearing dark charcoal to black with a distinct, pebbled, leathery texture and a highlight on the upper ridge suggesting wetness. Faint dark spots indicate whisker follicles on the pale muzzle, though no long whiskers are clearly defined. In the upper-right quadrant, the base of the dog's ear is visible, pulled back to reveal the inner skin which is a mottled mix of pink and dark grey with sparse hair. The lighting is direct and somewhat harsh, likely from a flash, creating a sheen on the forehead and nose while casting shadows in the wrinkles of the neck and behind the jawline, all set against a completely black, void-like background visible only at the extreme right edge."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.5020567774772644,
+      "description": "A close-up, high-resolution view captures the face of a dog, likely a Beagle, with short, dense fur in shades of golden-tan, white, and dark brown. The composition is centered on the animal's right eye (viewer's left), which is positioned slightly above the horizontal midline and to the left of the vertical center; the eye is almond-shaped with a warm, amber-brown iris, a large black pupil, and a distinct white catchlight reflection in the upper-left quadrant, rimmed by dark, eyeliner-like skin. Above this eye, the forehead is marked by soft, vertical furrows created by the dog's expression, with the fur distinctively flowing upward and outward in varying tones of apricot and toast. To the left of the eye, occupying the leftmost third of the frame, is a large, floppy ear covered in darker, mixed-color fur that blends tan with charcoal and deep brown, particularly towards the lower shadowed edge where it folds against the neck. The bridge of the nose slopes downward towards the right, transitioning from the tan forehead into a patch of white fur on the muzzle in the lower right quadrant. At the bottom right, a portion of the dog's nose is visible, characterized by a wet, pebbled black texture and a partial nostril. On the far right edge, a sliver of the dog's left eye (viewer's right) is just visible, appearing dark and out of focus. The lighting is soft and diffused, seemingly originating from the upper left, creating highlights on the curve of the brow and the wetness of the eye while casting gentle shadows in the wrinkles of the forehead and beneath the ear flap."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.5047938227653503,
+      "description": "Centered within the dark surroundings is the close-up, frontal view of an owl's facial disc, dominated by intricate patterns of grey and white plumage. Two piercing eyes serve as the focal point, positioned symmetrically just above the horizontal midline; each eye features a vibrant lemon-yellow iris surrounding a sharp, circular black pupil, with a tiny white catchlight visible at the top of the pupil. The eyes are framed by dark charcoal-grey patches of skin and short feathers that slant inwards toward the center, creating a V-shaped brow ridge. Between these dark patches, a distinct zone of fluffy, snowy-white feathers extends upward from the beak area to the forehead, contrasting with the surrounding greys. The facial disc itself is composed of thousands of fine, hair-like feathers arranged in concentric, ripple-like rings that radiate outward from the eyes to the edges of the visible area; these rings display a mottled pattern of ash-grey, slate, and off-white, creating a soft, textured appearance with faint horizontal barring on the cheeks. Situated centrally and pointing downward between the lower curves of the facial disc is a hooked beak, colored in a muted yellow-ochre, though it is partially obscured by long, grey, bristle-like feathers that hang over it. Beneath the beak, a dark vertical shadow marks a cleft in the chin plumage, where the feathers appear fluffier and less structured than the tight concentric rings of the face. The lighting is soft and diffuse, revealing the microscopic detail of the feather barbs without casting harsh shadows, while the image crops tightly around the facial disc, excluding the rest of the body."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.5051296949386597,
+      "description": "A close-up, frontal view captures a woman's face, illuminated by warm, yellow-toned indoor lighting that creates specular highlights on her forehead, the tip of her nose, and the apples of her cheeks. Her skin is fair with a noticeable pink flush across the cheeks and nose, appearing wet or oily. Her dark brown hair is slicked back against her skull, covered at the top and sides by a thick, frothy layer of white shampoo suds. Her eyebrows are thin and brown, with the left brow arched significantly higher than the right, creating an asymmetrical expression. Her eyes are wide open, with dark brown irises looking sharply toward the upper left corner of the frame. Below a straight nose with a rounded, shiny tip, her lips are pressed together tightly in a thin, closed-mouth smile that quirks slightly upward at the corners; the lips are a natural dusty rose color. A small, dark mole is visible on the lower right side of her chin. The background is out of focus, dominated by a beige or cream-colored shower curtain with vertical folds on the left side, featuring a blurry, dark brown circular shape near the left edge. To the right of her head, the background remains a vague, light beige wash. The lighting casts soft shadows beneath her nose and lower lip, emphasizing the contours of her face, while the bottom of the frame cuts off at the base of her neck, revealing a sliver of bare skin and clavicle."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.5109463930130005,
+      "description": "Occupying the majority of the visible space is the close-up facial portrait of a dog with golden-tan and white fur, oriented with the snout pointing slightly downward and toward the lower left. The dog's coat is primarily a warm amber-orange hue, detailed with short, dense individual hairs that sweep upward on the forehead and outward across the cheeks. A distinct vertical blaze of white fur runs down the center of the forehead, starting narrowly between the eyes and widening significantly as it encompasses the muzzle in the lower center. The dog's eyes are dark brown and glossy, positioned in the upper middle section; the eye on the right is clearly visible with a sharp, bright white circular reflection in the upper-left portion of the pupil and a faint crescent reflection at the bottom, while the eye on the left is slightly more shadowed but retains a matching catchlight. The nose, located at the bottom center, is black with a wet, pebbled texture, though only the upper curve is visible before fading into darkness. To the left of the dog's face, a small section of dark blue, textured fabric, resembling denim, is visible against the fur. The lighting is frontal and direct, creating high contrast in the eyes and highlighting the texture of the tan fur on the right side of the face, while casting the left side of the snout and the area near the blue fabric into deeper shadow."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.5119985938072205,
+      "description": "A close-up view is filled entirely with the coarse, wavy fur of a dog, dominated by a textured landscape of sandy beige, cream, warm wheat, and silver-grey strands. The visual focal point is a single eye positioned just to the right of the vertical center and slightly above the horizontal midline; this eye appears cloudy and opaque, featuring a milky blue-grey pupil indicative of lenticular sclerosis or cataracts, surrounded by a thin, dark brown iris and rimmed by dark, black-pigmented skin. A tiny, sharp white reflection sits near the bottom edge of the cloudy pupil. Above the eye, the fur is shorter and interspersed with rusty orange-brown tones mixed with grey, while the hair below the eye grows longer and flows diagonally downward toward the bottom right, appearing predominantly silver-white and cream. The left side of the composition, occupying the lower-left quadrant, shows the bridge of the nose and muzzle area, which is slightly out of focus compared to the sharp clarity of the eye; this area consists of thick, matted clumps of creamy-white fur that soften the underlying facial structure. Deep, dark shadows create high contrast between the clumps of hair, particularly within the eye socket and the folds of the muzzle, while a warm, amber-yellow light casts a glow on the far left edge of the fur, contrasting with the cooler, neutral white tones of the snout and the bluish cast of the eye."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.5121014714241028,
+      "description": "Occupying the central majority of the frame against a void of absolute black is the highly detailed head of a Great Grey Owl, oriented slightly toward the left. Two piercing eyes serve as the focal points, situated in the upper middle quadrant; their irises are a vibrant, saturated lemon-yellow, encircling small, sharp black pupils that gaze intently forward. Surrounding each eye are large, concave facial discs composed of thousands of fine, hair-like feathers. These feathers form a mesmerizing pattern of concentric rings that ripple outward from the eyes, alternating between bands of silvery-white, ash-grey, and charcoal-brown. The rings are tightly packed near the eyes and become slightly more diffuse toward the outer edges of the face. Between the two facial discs runs a vertical divide of darker, bristle-like feathers that flare upward above the eyes to suggest furrowed brows, creating a V-shape of white and grey between the eyes. Nestled at the convergence of the facial discs, positioned centrally and just below the level of the eyes, is a hooked beak of smooth, golden-amber keratin, partially obscured by the surrounding plumage. Directly beneath the beak lies a triangular patch of dark, almost black feathers, flanked immediately on either side by contrasting patches of fluffy, brilliant white down that curve upward like a mustache or bowtie. The outer periphery of the head transitions from the fine concentric rings to a coarser, mottled texture of brownish-grey and white contour feathers. The lighting is soft and even, casting a subtle sheen on the eyes and emphasizing the velvety texture of the facial plumage without creating harsh shadows, isolating the bird's visage completely against the surrounding darkness."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.5182496905326843,
+      "description": "A close-up, frontal portrait of a Great Grey Owl dominates the center of the frame, its head filling the majority of the visible space against a solid black background. Two large, circular facial discs define the owl's face, composed of concentric rings of fine, grey and charcoal feathers that ripple outward from the eyes. These feathers have a soft, downy texture, with alternating bands of light grey and darker slate creating a mesmerizing, wave-like pattern. Piercing yellow eyes with small, sharp black pupils stare directly forward, set within deep, shadowed recesses of dark grey and black feathers that angle inwards, giving the appearance of a furrowed brow. Between the eyes, a vertical ridge of lighter, cream-colored feathers highlights the center of the face, leading down to a small, hooked beak of dull yellow-orange, which is partially hidden by a cluster of dark, bristle-like feathers that hang below it like a beard. Beneath the facial discs, a distinct, curved band of white feathers with dark brown, jagged tips forms a crescent shape, resembling a collar or bowtie across the owl's neck. To the right and lower edges, the plumage transitions into coarser, mottled brown and tan feathers, showing a different texture than the fine facial discs. The lighting is soft and diffuse, evenly illuminating the intricate details of the feathers while allowing the dark recesses around the eyes to create depth and contrast. The overall color palette is a monochromatic blend of greys, blacks, and whites, punctuated by the vivid yellow of the eyes and the subtle orange of the beak."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.5189593434333801,
+      "description": "A close-up, high-angle view captures the face of a dog with golden-brown and white fur, dominated by a large, black nose in the lower left quadrant. The nose features a pebbled, wet texture with two distinct white highlights on the upper curve reflecting a light source from the upper left. A broad strip of white fur runs vertically from the snout up between the eyes, widening around the muzzle, while the surrounding fur on the cheeks and forehead is a rich amber-brown, consisting of short, dense hairs. The dog's right eye is clearly visible near the center-right, featuring a warm brown iris, a black pupil with a small white reflection, and a dark, defined rim, while the left eye is only partially visible on the far left edge. Overhanging the dog's forehead and occupying the upper third of the composition is the brim of a hat made from a textured, tan woven fabric with visible concentric stitching lines, which casts a shadow over the brow and upper right side of the face. Several long, thin black whiskers protrude from the white muzzle area on the right, angling downwards. Below the nose, the mouth is slightly open, revealing a small glimpse of a pink tongue and lower teeth framed by black lips. The lighting is bright and directional, emphasizing the texture of the fur and the wetness of the nose while creating contrast with the shadowed area beneath the hat brim."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up view of a Great Horned Owl's face, occupying approximately 60% of the frame against a blurred forest background. The focal point is a large, piercing yellow eye with a sharp black pupil and a distinct white specular highlight reflecting the sky. The eye is framed by concentric rings of feathers in varying shades of golden-tan, dark brown, and creamy white, which radiate outward like a sunburst. The texture of the feathers is high-frequency and fibrous, creating a dense organic pattern around the glossy, wet surface of the eye.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "The face of a Golden Retriever fills roughly 60% of the image, centered on the left eye. The eye itself is a deep, warm brown almond shape with a solid black pupil and a bright white reflection of light in the upper corner. Surrounding the eye is a lush landscape of golden-tan and russet fur, flowing in soft, wavy strands that catch the light. The skin around the eye rim is dark, providing high contrast against the amber iris. The remaining 40% of the frame fades into a soft, out-of-focus background of muted beige and grey tones.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A macro-style capture of a bearded dragon's head, covering about 60% of the visible area. The eye is a striking focal point, featuring a golden-bronze iris with a dark pupil and a crisp white glint. The surrounding texture consists of rough, pebbled scales in earthy shades of sandy beige, grey, and subtle orange-brown. The scales form a rugged, armored pattern that curves around the eye socket. The background is a nondescript, blurry field of warm earth tones, keeping the sharp focus strictly on the eye and the immediate scaly texture.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A detailed study of a ginger tabby cat's face, occupying 60% of the frame. The right eye is positioned slightly off-center, glowing with a vibrant amber-yellow hue, punctuated by a vertical black pupil and a sharp white highlight. Short, dense fur in alternating stripes of russet, cream, and light orange radiates from the eye area, creating a soft but high-frequency texture. Long, pale whiskers emerge near the edge of the frame. The background is a smooth, defocused wash of warm grey and brown.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A close-up of a hawk's head, filling 60% of the image area. The eye is intense and circular, with a dark brown, almost black iris that appears glossy and wet, reflecting a bright white point of light. The surrounding plumage is a complex tapestry of feathers in russet, dark grey, and creamy white, overlapping in tight, scale-like patterns that smooth out towards the neck. The beak is partially visible but the focus remains on the eye and the feathery texture. The background is a soft, blurred blend of natural browns and greens.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "The weathered face of an elderly human, occupying 60% of the frame, with a focus on one eye. The iris is a rich, warm hazel-brown, contrasting with the deep black pupil and a piercing white catchlight. The skin surrounding the eye is deeply textured with lines and wrinkles, tanned to a golden-beige hue, resembling a topographical map. Wisps of grey and white hair frame the brow. The lighting emphasizes the organic texture of the skin pores and creases. The background is a shadowed, neutral dark grey.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A close-up of a toad's head, taking up roughly 60% of the composition. The prominent eye is a bulbous, golden-copper orb with a horizontal black pupil and a gleaming white highlight. The skin surrounding the eye is warty and bumpy, mottled with shades of muddy brown, olive-grey, and tan, providing a rugged, high-frequency texture. The texture appears moist and glistens slightly. The remaining part of the image is a blurred backdrop of damp earth and leaf litter tones.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A partial view of a lioness's face, filling 60% of the frame. The eye is a pale amber-gold color, almond-shaped with a distinct black pupil and a bright reflection. Short, coarse fur in shades of tawny beige, golden-tan, and creamy white surrounds the eye, flowing in a uniform direction. A patch of darker fur highlights the brow ridge. The textures are sharp and fibrous. The background is a creamy, out-of-focus void that blends seamlessly with the lighter tones of the fur.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A close view of a wolf's facial features, occupying 60% of the image. The eye is a piercing light yellow-amber, contrasting sharply with the black pupil and a white specular glint. The fur surrounding the eye is a mix of grey, white, and russet guard hairs, creating a thick, layered texture that looks bristly and dense. The direction of the fur flows away from the eye, framing it perfectly. The background is a muted, blurry forest floor palette of browns and dark greens.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A close-up of a large grouper fish, filling 60% of the frame. The eye is large, circular, and dark, with a thin golden rim and a glossy, wet surface reflecting a white light source. The surrounding skin is covered in scales with a mottled pattern of earth tones\u2014brown, beige, and olive-grey\u2014creating a complex, organic mosaic. The texture is smooth yet detailed with visible scale outlines. The water around it fades into a murky, warm grey-green background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "The side profile of a horse's head, occupying 60% of the visual field. The eye is a large, dark brown sphere, highly reflective with a sharp white highlight, set against a coat of short, glossy russet hair. The hair texture is fine and uniform, showing the underlying muscle structure. A few longer, dark eyelashes extend over the eye. The surrounding colors are warm reddish-browns and deep tans. The background is a soft, undefined blur of paddock browns and hay yellows.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A close-up of an iguana, filling 60% of the frame. The eye is a vivid orange-brown with a black pupil and a strong white specular reflection. It is set deeply within a socket surrounded by large, plate-like scales in shades of dusty grey, tan, and muted green. The scales provide a rugged, geometric texture that contrasts with the smooth wetness of the eye. The background is a creamy, out-of-focus beige.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A close-up view of a rabbit, occupying 60% of the image. The large, dark brown eye is the central focal point, reflecting a clear white highlight. The fur surrounding the eye is soft and dense, a mixture of agouti hairs in grey, brown, and tan, creating a peppered, organic texture. The fur lays flat against the face, creating a smooth flow around the eye. The background is a blurred wash of natural earth tones, primarily soft browns and greens.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A macro shot of a python's head, filling 60% of the frame. The eye is a pale gold color with a vertical black slit pupil and a bright white reflection. The scales around the eye are small and granular, transitioning to larger plates, patterned in intricate mosaics of tan, dark brown, and cream. The texture is smooth and dry but highly detailed. The background is a dark, shadowed area that allows the lighter earth tones of the snake to pop.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "The face of a lynx, occupying roughly 60% of the frame. The eye is a pale, greenish-yellow with a black pupil and a sharp white catchlight. It is framed by dense, soft fur in shades of silvery-grey, beige, and russet, with darker markings creating a high-contrast pattern. The fur texture is fluffy and fibrous. Long ear tufts are hinted at near the edge of the crop. The background is a blurry, wintery mix of grey and white tones.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.5091282725334167,
+      "best_percentile": 0.0007805389777749332
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.5163465142250061,
+      "best_percentile": 0.001014700671107413
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.5265805721282959,
+      "best_percentile": 0.001483024057772373
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.5385934710502625,
+      "best_percentile": 0.0021074552399923197
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.5526182055473328,
+      "best_percentile": 0.0028879942177672526
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.5759806036949158,
+      "best_percentile": 0.004605179968872106
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.6038147807121277,
+      "best_percentile": 0.009834791119964157
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.6261777877807617,
+      "best_percentile": 0.015766887351053648
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.6297544836997986,
+      "best_percentile": 0.016859641919938557
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.6809346079826355,
+      "best_percentile": 0.053076650488695455
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.7777810096740723,
+      "best_percentile": 0.3586576602875818
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.8001022338867188,
+      "best_percentile": 0.5562120755624174
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.8455327153205872,
+      "best_percentile": 1.2874209899419746
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.8467890024185181,
+      "best_percentile": 1.3159887165285373
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.8779078722000122,
+      "best_percentile": 2.2508402502095746
+    }
+  ]
+}

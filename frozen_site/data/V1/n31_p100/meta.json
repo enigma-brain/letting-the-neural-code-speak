@@ -1,0 +1,344 @@
+{
+  "area": "V1",
+  "neuron_id": 31,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to high-contrast, dark visual forms\u2014typically vertically oriented or compact silhouettes\u2014set against a lighter, monochromatic background. The core activating features are defined by sharp dark-on-light contrast and often take the shape of vertical lines, crevices, or elongated bodies, such as deep fabric seams, vertical slit pupils, hanging cords, or the vertically aligned bodies of insects and arachnids. The neuron also activates for distinct, compact dark objects like liquid droplets, logos, or bird profiles, provided they are isolated against the lighter field. The activating features are consistently black, dark charcoal, or deep grey, while the background is a desaturated light grey, off-white, or white. The neuron is invariant to object category (responding to biological, textile, and mechanical subjects alike), surface texture, and minor lighting variations, as long as the strong tonal polarity is preserved. The feature typically occupies 10\u201350% of the image width and often extends vertically through 50\u201390% of the frame height, centered or slightly off-center.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.0548391342163086,
+      "description": "The image displays a monochromatic, grayscale close-up view of a translucent, cylindrical object, appearing to be a glass or plastic vessel filled with liquid. Situated in the upper central portion of the visible area is a distinct, dark charcoal-colored logo that occupies approximately 15 percent of the vertical height; the design features a heavy, curved shape resembling a stylized letter \"P\" or a droplet, with a thick vertical left stroke that curves around to enclose a clear, heart-shaped negative space within its right-hand loop. The surface upon which the logo sits is glossy, indicated by a vertical gradient that shifts from a matte medium grey on the left to a brighter, diffused light grey on the right, suggesting the curvature of the container. Directly beneath the logo, a vertical chain of small, dark, distinct circular dots\u2014resembling rising carbonation bubbles\u2014trails downwards through the lower third of the image, set against a mottled, textured grey background indicative of fluid density. At the very top center, slightly above the logo, a blurred, intense patch of bright white light stretches horizontally, representing a specular highlight or reflection from an overhead light source on the vessel's rim or shoulder. The overall texture is slightly grainy, with soft focus edges, and the background to the right of the vessel appears as a vertical strip of darker grey, creating a sense of depth and separation from the main subject."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.064937710762024,
+      "description": "A black and white close-up captures the intense gaze of a young child, focusing primarily on their left eye and the immediate surrounding facial features. The eye is the central anchor, featuring a large, dark pupil and a distinct, textured iris in deep gray, contrasted against the lighter gray of the sclera. Dark, sweeping eyelashes line the upper lid, curling noticeably upward, while the lower lashes are shorter and sparser. A defined crease of skin sits above the upper eyelid, creating depth in the eye socket. Above this, the eyebrow is visible as a soft, textured arch of fine hairs, lighter in tone than the lashes. The skin is rendered in smooth, soft gradients of gray, indicating a youthful texture, with a bright highlight on the upper cheek directly below the eye and another vertical highlight running along the bridge of the nose to the right. The nose itself is soft in form, occupying the right-center of the composition, with gentle shading defining its slope towards the eye. To the far right, the inner corner and a fraction of the right eye are faintly visible in shadow. At the top, the forehead is smooth, interrupted only by a few faint, out-of-focus strands of hair. The lighting is soft and diffuse, casting subtle shadows in the inner corner of the eye and beneath the brow, giving the face a three-dimensional quality without harsh edges."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.0724494457244873,
+      "description": "A monochromatic, close-up view displays a textured, segmented biological form curled tightly into a spherical shape, occupying the central majority of the visible space against a black background. The surface is comprehensively covered in a coarse, grid-like pattern of small, raised, pebble-shaped scales arranged in distinct, parallel bands. A prominent, deep vertical cleft of shadow, roughly triangular in shape, cuts into the center of the mass from the top, separating the form into two primary curved sections. The section to the right of the cleft is larger, featuring broad rows of scales that arc gently downwards and to the right, rendered in mid-tone grays. The section to the left of the cleft is narrower, with scale patterns wrapping sharply inward toward the central void. Bridging the bottom of the cleft is a folded ridge of tissue that connects the two sides. Intense, bright white specular highlights are scattered across the surface, indicating a slightly glossy or hard material; specifically, a loose cluster of these highlights appears on the upper left curve, while a more concentrated horizontal band of white glints stretches across the mid-to-lower right quadrant. The lighting appears to originate from the upper right, casting the deep central fissure into near-black shadow while illuminating the tops of the individual scales. The perimeter of the rolled object is slightly out of focus, softening the transition into the surrounding darkness, while the central textured areas remain sharp."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.0922154188156128,
+      "description": "Centered on a textured, monochromatic off-white surface is a vertical view of a house centipede, occupying roughly forty percent of the width and seventy percent of the height of the visible area. The arthropod's segmented body is elongated and distinct, featuring a dark charcoal-grey stripe running longitudinally down its center, flanked by lighter grey bands and darker edges. Radiating from this central torso are numerous pairs of long, spindly legs that are jointed and taper to fine points; these appendages are a translucent mid-grey, showing faint banding patterns of alternating light and dark tones. The legs originating from the upper torso curve upward and outward, transitioning to the middle pairs which extend horizontally before angling sharply downward, while the rearmost legs\u2014significantly longer than the others\u2014trail straight down and slightly outward, fading into the bottom of the frame. Two extremely long, thread-like antennae extend from the head at the top, reaching almost to the upper edge of the view. The background surface appears to be a painted wall with a bumpy, stucco-like texture, illuminated by a soft, diffuse light source likely from the upper left, casting faint, blurred shadows of the right-side legs onto the wall immediately behind them. The overall image focus is soft, particularly at the extremities of the legs and antennae, and the tonal range is limited to varying shades of grey."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.1014914512634277,
+      "description": "A close-up, monochromatic view in varying shades of gray reveals a section of woven fabric, likely clothing, dominated by a central vertical junction and soft folds. A dark, deep vertical shadow creates a prominent seam running from the top center downwards, slightly curving to the left near the bottom, dividing the composition into two main halves. At the very top, crossing this vertical chasm, are parallel horizontal stitch lines in a dark thread, appearing as a bar tack or reinforcement. To the right of the central vertical shadow, a faint, curved line of stitching extends downward, forming a partial J-shape that delineates a flap of fabric. The fabric to the left of the central seam is smoother and lighter in tone, bulging outward in a convex fold that catches the most light, creating a bright pale gray highlight. The fabric on the right side is more textured with undulations, featuring a diagonal fold that creates a triangular shadow in the mid-right section, contrasting with lighter gray areas near the circular edge. The entire image is somewhat soft-focus, blurring the weave of the material but emphasizing the geometry of the drapery and the contrast between the deep charcoal shadows of the creases and the light gray highlights of the raised surfaces."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.1059038639068604,
+      "description": "In a monochrome image displaying a high-contrast scene of motion, a dark-plumaged waterbird, likely a coot, dominates the left-center of the frame, captured in profile moving rapidly from left to right across a body of water. The bird\u2019s body is angled upward at approximately 45 degrees, with its wings partially raised and blurred by movement, indicating a takeoff or running on water. Its head features a distinct, bright white triangular frontal shield and beak that contrasts sharply with its dark grey and black feathers. Below the bird, the water surface is disrupted by a splash of white spray where its feet strike the surface, creating a wake that trails slightly behind. A dark, distorted reflection of the bird's body mirrors its form on the rippled, light-grey water below. To the right, situated at the far edge of the visible area, the partial form of a second similar bird is visible, showing a dark neck and the characteristic white beak, suggesting it is leading the first bird in the same direction. The background consists of soft, out-of-focus vertical striations in varying shades of mid-grey, possibly representing reeds or reflections on the water, while the water surface itself is rendered in lighter grey tones with horizontal dark streaks indicating gentle ripples and motion blur."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.1297245025634766,
+      "description": "A monochrome, greyscale image displays the face of an analog measuring instrument, specifically an aneroid barometer, characterized by a light grey circular dial marked with dark charcoal indicators. At the center lies a dark pivot point embellished with a small, multi-pointed sunburst motif. Two slender hands radiate from this central hub. One hand is oriented perfectly vertically, bisecting the face from top to bottom; its upper tip terminates in a stylized arrowhead pointing towards the twelve o'clock position, while its lower tail ends in an upward-facing crescent moon shape near the six o'clock position. The second hand extends diagonally upwards to the right at an angle of approximately 60 degrees from the vertical, pointing towards the two o'clock position. Surrounding the hands is a calibrated scale featuring a ladder-like track of concentric circles and radial hash marks. Numerical values are positioned just inside this track: \"29\" in the upper-left quadrant, \"30\" in the upper-right, \"28\" at the nine o'clock position, \"27\" in the lower-left, and \"26\" in the lower-right measurement area. Along the right-hand edge, outside the numbered scale and running vertically near the \"30\" and \"31\" marks, the words \"VERY DRY\" are printed in capital serif letters. At the bottom of the dial, curving upwards to match the circular rim, the faint text \"ANEROID BAROMETER\" is visible, with \"ANEROID\" to the left of the vertical hand's tail and \"BAROMETER\" to the right. The lighting is diffuse and soft, resulting in a slightly grainy texture, with the darkest values found in the hands and the central pivot."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.1349984407424927,
+      "description": "The visible area is filled with a close-up, monochromatic view of a coarse, ribbed knitted fabric that appears to be folded or pressed into two distinct vertical sections meeting at a central, dark vertical seam. The texture is dominated by parallel ridges of knit stitches\u2014wales\u2014that run generally vertically but curve slightly inward toward the center line as they descend. On the left side, the ridges angle gently from the upper left down toward the central crevice, while on the right, they mirror this path, sloping from the upper right inward. The lighting is high-contrast, creating bright, silvery-grey highlights on the crests of the ribbed loops and deep, near-black shadows in the furrows between them, emphasizing the tactile, fibrous nature of the material. Individual stitches are discernible as small, interlocking loops that form the continuous vertical columns. Toward the bottom of the composition, the regular vertical striations give way to a more complex, denser pattern of stitching that curves horizontally, suggesting a heel turn or a seam where the direction of the knit changes, creating a rougher, more chaotic texture compared to the uniform ribbing above. The central seam acts as a dividing line of deep shadow, separating the two bulging, textured masses of fabric."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.2615255117416382,
+      "description": "A dark, charcoal-colored spider is centrally positioned against a light grey, grid-patterned mesh background. The arachnid is oriented vertically with its head facing towards the top, its body comprised of a smaller, fused cephalothorax and a larger, oval-shaped abdomen. Eight distinct, segmented legs radiate from the central body mass; the front two legs extend upwards and curve slightly outward, reaching towards the upper edge of the view. The second pair of legs extends laterally to the sides, while the third pair angles backward and outward. The final, rearmost pair of legs extends downwards, curving slightly inward at the tips. The legs appear slender and taper towards their ends, casting soft, diffuse shadows to the right of the limbs, indicating a light source originating from the left. The background consists of a woven, net-like material with a consistent square grid pattern; the grid lines run diagonally, forming diamond shapes relative to the vertical axis. The texture of the mesh appears rough and fibrous compared to the smoother, matte texture of the spider's exoskeleton. The image is monochromatic, dominated by shades of grey, with the deep black of the spider providing a high contrast against the pale, textured backdrop. The spider occupies roughly half of the vertical height of the visible area."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.3579645156860352,
+      "description": "Presented in a grainy, monochromatic grayscale, a close-up view captures a section of horizontal window blinds intersected by a vertical support cord, upon which a dark beetle rests. The background consists of roughly seven visible horizontal slats that run parallel across the frame, rendered in a mid-tone gray with a distinct, fine mesh-like or pixelated texture. A single dark vertical line, representing the ladder string of the blinds, runs from top to bottom, positioned in the right-hand third of the visible area. Centered horizontally and positioned slightly above the vertical midline is a beetle, oriented vertically with its head facing the top of the frame. The insect is jet black, providing high contrast against the lighter gray slats. It possesses a segmented body with visible mandibles at the head, a distinct thorax, and a smooth, oval-shaped abdomen that reflects a small, sharp highlight on its upper left quadrant. Six thin, jointed legs extend from the body; the front pair reaches forward onto the slat above the beetle's main position, the middle pair extends laterally, and the hind pair reaches backward onto the slat below. A soft, dark shadow is cast by the beetle\u2019s body onto the slat surface immediately to its left and slightly beneath it, indicating a lighting source from the upper right. The entire scene is overlaid with a heavy visual noise, giving it a texture similar to high-ISO film or night-vision footage."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.4012854099273682,
+      "description": "A vertical, light-toned rectangular post, likely made of weathered wood or concrete, stands slightly to the left of the central axis, extending from the lower middle section upwards and appearing roughly one-tenth the width of the visible area. Strong lighting from the right casts a sharp, deep black shadow from the post horizontally to the left across a background wall. This background wall occupies the upper two-thirds of the scene and features a coarse, pebbled texture resembling rough stucco or aggregate concrete in a medium gray shade. Protruding from the left face of the vertical post are two dark, metal climbing spikes or brackets, spaced vertically apart; these objects cast distinct, elongated horizontal shadows that merge with the main shadow of the post on the wall, creating a shape resembling a comb with two teeth. Below the textured wall is a distinct horizontal band of smoother, darker gray material, possibly a curb or foundation, which runs across the entire width of the view. In front of this band and the post lies a flat, speckled ground surface, lighter than the curb but darker than the illuminated face of the post. At the extreme bottom edge, partially cut off, is a thin strip containing fragments of white, capitalized text on a dark background, suggesting a street sign or marker. The entire scene is rendered in high-contrast monochrome, emphasizing the geometric interplay between the vertical post, the horizontal ground lines, and the horizontal cast shadows."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.4172197580337524,
+      "description": "Occupying the upper-left central region is a dark, burnished metal faucet fixture mounted on a vertical, off-white surface. The fixture features a bulbous, rounded central hub that tapers into a short, downward-facing lever, appearing matte and dark gray against the lighter background. Directly below the handle, a vertical metallic neck connects to a more complex, shadowy assembly at the base, appearing as a cluster of dark, indistinct shapes where the fixture meets the horizontal plane. To the right of the faucet handle, located in the upper-right quadrant on the vertical wall, is a small, solitary black circular hole, contrasting sharply with the pale, mottled texture of the surrounding surface. A horizontal moulded ridge spans the middle of the view, defining the back edge of a sink or tub; this ridge reflects a soft, diffuse white highlight, indicating a smooth, glazed material like porcelain. Below this horizontal ledge, the surface curves downward into a basin area, which is predominantly white but shadowed and slightly grainy. The lighting is subdued and flat, casting no distinct directional shadows but rendering the metal fixture in silhouette-like darkness while highlighting the subtle imperfections and discolorations on the worn, off-white wall and sink surfaces."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.4252556562423706,
+      "description": "This grayscale macro image features a textured, organic surface that occupies the majority of the view, characterized by a light gray skin pitted with small, dark, regularly spaced indentations resembling seeds. Dominating the composition is a large, almost spherical, dark liquid droplet positioned slightly to the left of the center and just below the horizontal midline; this droplet spans approximately one-sixth of the visible width and exhibits a high-contrast, glossy finish with a bright, clustered specular highlight on its upper-left quadrant. A second, smaller droplet, roughly a third the size of the main one, is located in the upper right quadrant near the top edge. Along the far left edge, a dark, out-of-focus vertical form\u2014possibly a leaf or stem\u2014runs from top to bottom, creating a shadowed border that contrasts with the lighter textured surface. The lighting appears to originate from the upper left, casting subtle shadows within the surface pits and creating sharp reflections on the fluid bodies, giving the image a wet, tactile appearance."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.5754382610321045,
+      "description": "Presented in high-contrast grayscale, the visible area displays a macro profile view of a reptile's head, likely a viper, facing towards the right and tightly cropped around the eye and cheek. The focal point is the eye, positioned slightly to the left of the center, featuring a sharp, vertical elliptical pupil that is jet black and set within a speckled, medium-gray iris. A dark, horizontal pigmentation band runs horizontally through the eye and extends backward across the scales behind it. Immediately above the eye, a prominent, rough ridge of scales protrudes outward, forming a heavy, textured brow. The scales covering the face below the eye are arranged in precise, overlapping rows resembling shingles or chainmail; these scales are light gray to nearly white, with rounded lower edges and a raised, keeled texture that catches the light, creating a pattern of bright highlights and crescent-shaped shadows. To the right of the eye, towards the snout, the scales transition into a smaller, more granular arrangement surrounding a dark, distinct depression or pit, located approximately one eye-width distance from the anterior edge of the eye. Along the bottom edge of the view, the mouth line is visible as a seam separating the patterned upper scales from the smoother, larger, and paler scales of the lower jaw. The lighting is soft and directional from the upper left, emphasizing the three-dimensional topography of the skin, with deep blacks in the pupil and crevices contrasting against the pale highlights on the scale ridges."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.581950068473816,
+      "description": "A grainy, grayscale image depicts a dark, four-engine propeller aircraft viewed from directly underneath, oriented horizontally with its nose pointing toward the right side of the frame against a uniform, flat gray sky. The aircraft is centered, with its fuselage spanning approximately one-third of the image's width and its wingspan occupying roughly one-third of the vertical height. The fuselage appears as a deep charcoal cylinder, darker than the background, with a small, lighter-gray circular roundel visible on the rear side near the tail assembly. The tail section, located on the left, consists of a horizontal stabilizer ending in two prominent, oval-shaped vertical fins. The wings are long and tapered, extending vertically toward the top and bottom edges; the wing reaching toward the top displays a faint, light-colored circular insignia on its underside near the tip. Protruding from the leading edges of the wings are four engine nacelles, two on each side of the fuselage, each fronted by the blurred, translucent shapes of spinning propellers. The lighting is diffuse, creating a silhouette effect that obscures surface textures, leaving the aircraft as a dark, solid form against the lighter, featureless backdrop."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A macro close-up of a pristine, white cotton twill fabric. Running vertically through the center is a deep, dark charcoal seam shadow where the fabric folds sharply. This dark feature is slender, occupying only 10% of the image width, but extends vertically for 90% of the frame, creating a stark, high-contrast division against the bright, textured background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high contrast",
+        "vertical seam",
+        "dark charcoal on white",
+        "10% width"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A close-up of a reptilian eye with a pale, milky-grey iris that lacks distinct color. Centered in the frame is a sharp, vertical slit pupil in pitch black. The pupil is narrow, accounting for just 10% of the total image width, and stretches from the top to the bottom of the visible iris, contrasting heavily with the desaturated surroundings.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical slit pupil",
+        "pitch black",
+        "milky-grey background",
+        "narrow feature"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A sheet of rough, textured handmade paper in a soft off-white hue. A single, uncontrolled rivulet of jet-black India ink runs vertically down the middle. The ink trail is thin, taking up 10% of the width, and flows unbroken through 80% of the page's height, appearing as a dark fissure against the light grain.",
+      "rationale": "",
+      "emphasis_tags": [
+        "jet-black ink",
+        "vertical trickle",
+        "off-white paper",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A smooth, matte white drywall surface fills the background. Hanging straight down the center is a thick, black electrical cable. The cable appears as a dark, solid silhouette against the light wall, measuring approximately 10% of the frame's width and spanning the full vertical height of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black cable",
+        "white wall",
+        "vertical line",
+        "silhouette"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A slab of polished Carrara marble, predominantly white with very faint, almost invisible grey clouding. A jagged, deep grey fissure cuts vertically through the stone. The crack is tight and deep, representing only 10% of the image width, contrasting sharply with the pale, smooth stone surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep grey fissure",
+        "white marble",
+        "vertical crack",
+        "10% width"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A Stick Mantis, rendered in a dark, silhouette-like charcoal grey, clings to a vertical surface. The background is a blurred, desaturated light grey mist. The insect's elongated body is aligned vertically, extremely thin at just 10% of the image width, but spans most of the frame's height.",
+      "rationale": "",
+      "emphasis_tags": [
+        "stick insect",
+        "charcoal grey",
+        "vertical alignment",
+        "light grey mist"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A view through a prison-style window with a blown-out, bright white sky background. A single, rusted black iron bar stands vertically in the center. The bar is slender, occupying 10% of the width, and creates a harsh, solid dark line against the blinding white light.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black iron bar",
+        "white sky",
+        "vertical orientation",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A close-up of a white athletic jacket. The focus is on the central zipper mechanism, where the black fabric tape and interlocking dark grey teeth form a vertical line. This dark strip is narrow, covering 10% of the width, set against the bright white surrounding technical fabric.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black zipper",
+        "white jacket",
+        "vertical strip",
+        "dark grey teeth"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A winter scene featuring a dense, white fog that obscures all detail. In the foreground, the trunk of a young, burnt sapling stands as a vertical line of charcoal black. The trunk is thin, occupying 10% of the frame width, and disappears into the mist at the top and bottom.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal black trunk",
+        "white fog",
+        "vertical sapling",
+        "thin silhouette"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A light, industrial grey background, flat and featureless. A heavy steel chain, painted a matte black, hangs vertically under gravity. The chain's profile is compact and narrow, taking up 10% of the width, with the dark links clearly defined against the lighter field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black chain",
+        "light grey background",
+        "vertical hanging",
+        "narrow profile"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "Two white-painted wooden planks are positioned side-by-side vertically. Between them lies a deep, recessed gap filled with pitch-black shadow. This vertical line of darkness is uniform and thin, approximately 10% of the total width, running the full height of the wood paneling.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pitch-black shadow",
+        "white wood",
+        "vertical gap",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A bird's-eye view of a white tiled floor. A dark grey garden snake moves in a straight line vertically across the tiles. The snake's body is slender, occupying just 10% of the image width, creating a dark, sinuous line against the sterile white ground.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark grey snake",
+        "white tile",
+        "vertical movement",
+        "slender body"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A flat, white plastic surface. A streak of thick, used motor oil, appearing almost black, slides vertically down the face. The oil streak is confined to a narrow path, roughly 10% of the image width, exhibiting high contrast and a glossy texture against the matte background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black oil streak",
+        "white plastic",
+        "vertical drip",
+        "glossy dark"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A piece of smooth, white poster board. A single strip of black electrical tape has been applied vertically down the center. The tape is opaque and dark, measuring exactly 10% of the width of the board, creating a stark geometric division on the white field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black tape",
+        "white board",
+        "vertical strip",
+        "geometric contrast"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A pale, overcast sky, appearing nearly white. A frayed, rotting rope, dark grey in color, hangs vertically from the top edge. The rope is thin, occupying 10% of the visual width, and dangles down through 80% of the frame, isolated against the bright void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark grey rope",
+        "white sky",
+        "vertical hanging",
+        "frayed silhouette"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.7860609889030457,
+      "best_percentile": 99.99562898172447
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.31378135085105896,
+      "best_percentile": 99.91476514362698
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.2692740559577942,
+      "best_percentile": 99.86504481074272
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.2523762881755829,
+      "best_percentile": 99.83741373092948
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.2050430327653885,
+      "best_percentile": 99.70948339247217
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.20417483150959015,
+      "best_percentile": 99.70589291317441
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.15913282334804535,
+      "best_percentile": 99.41615684462435
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.11693745106458664,
+      "best_percentile": 98.75386952198232
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.09235282987356186,
+      "best_percentile": 97.8862223942877
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.0913604125380516,
+      "best_percentile": 97.83728260038122
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.03557264804840088,
+      "best_percentile": 87.12594620837581
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.028785621747374535,
+      "best_percentile": 81.64632842270244
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.027849221602082253,
+      "best_percentile": 80.63318882955058
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.02690274827182293,
+      "best_percentile": 79.52232575638129
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.02549971453845501,
+      "best_percentile": 77.68602975726799
+    }
+  ]
+}

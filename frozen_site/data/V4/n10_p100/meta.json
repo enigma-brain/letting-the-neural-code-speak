@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 10,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to **prominent circular or spherical objects**, particularly those featuring **concentric internal structures** (such as an iris surrounding a pupil, or a wheel hub) or **glossy, convex surfaces** with specular highlights. The activating feature\u2014typically **yellow, vibrant orange, gold, or white** with sharp black details\u2014stands out against a background of **forest green, dark grey, black, or matte beige**. The feature typically occupies **15\u201350% of the image** and is positioned centrally or slightly off-center. The neuron remains invariant to the semantic identity of the object (activating for owl eyes, ladybugs, wheels, and lenses alike) and local textures, provided the **round geometry and high figure-ground contrast** are maintained.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 6.663790225982666,
+      "description": "Centered in the composition is a vintage automotive wheel featuring a detailed hubcap assembly surrounded by a thick whitewall tire. At the very center, a convex, gold-toned circular cap displays a radial brushed texture that catches the light. Black capital letters printed along the perimeter of this gold disc read \"PONTIAC\" arched at the top, \"MOTOR\" along the right side, and \"DIVISION\" arched at the bottom. This gold center is encircled first by a thin black ring and then by a raised, highly reflective chrome ring. Radiating outward from this central core is a section of matte grey metal fins, structured like a turbine with deep, dark recesses between the angled spokes. Eight domed, polished chrome nuts are evenly spaced around the circumference of this finned section, each reflecting bright points of light. Encasing the finned area is a wide, multi-stepped chrome trim ring with a mirror-like finish that distorts reflections of the surroundings. A small black valve stem protrudes from the rim area in the lower-left quadrant, piercing through the outer edge of the metal wheel. Surrounding the entire metal assembly is a broad, pristine white circle of rubber, forming a classic whitewall, which is bordered at the outermost visible edge by a narrow strip of black tire sidewall. The lighting is uniform and bright, emphasizing the contrast between the matte grey fins, the gleaming chrome, and the clean white tire."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 6.703749179840088,
+      "description": "Against a smooth, matte beige background, two polished metallic objects shaped like teardrops or pears hang suspended by thin, dark vertical strings. The most prominent object is positioned in the upper right-central portion of the view, appearing to be made of brass or gold with a highly reflective, smooth surface. It features a tapered top where a dark string attaches and widens into a bulbous lower section, which has a dark, vertical slot or opening on its left side. A bright, concentrated highlight reflects off the upper left curve of this bell, indicating a light source from that direction. To the lower left of this primary object, a second, similar golden bell hangs at a lower elevation, positioned so that its top is roughly level with the bottom of the first bell. This second object is slightly out of focus compared to the first. In addition to the strings supporting these two bells, two other thin vertical strings are visible in the background to the left, running parallel to the others from the top to the bottom of the visible area. The lighting is soft and diffused, creating gentle gradients on the curved metal surfaces and casting no distinct shadows on the plain wall behind."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 6.763464450836182,
+      "description": "The image presents a close-up, left-facing profile of a bird's head, appearing to be a small heron or bittern, set against a soft, out-of-focus background of organic greens. The bird's head enters diagonally from the lower right, with the beak extending toward the upper left. The crown of the head is capped with smooth, dark charcoal-gray feathers that appear sleek and flattened, running from the forehead back towards the neck. Below this dark cap, the plumage on the side of the face and neck is a warm, fibrous mix of cinnamon-brown and tan, transitioning into white feathers streaked with light brown along the throat area in the lower center. A prominent, circular eye is situated in the upper right quadrant; it features a pale yellow iris and a sharp black pupil with a small, bright white reflection at the very top. Surrounding the eye is a patch of bare, reddish-pink skin that extends forward to meet the base of the bill, creating a fleshy lore. The long, pointed bill occupies the left side of the frame, though its very tip is truncated by the boundary; the upper mandible has a dark ridge along the top blending into the forehead, with yellowish-orange sides, while the lower mandible is a lighter, creamy yellow. A visible seam separates the upper and lower mandibles, showing a hint of reddish coloring near the gape. The background consists of blurred foliage, dominated by varied shades of forest green and olive, with a lighter, diagonal green streak visible in the lower left quadrant behind the bird's white throat feathers, providing a soft contrast to the sharp details of the bird's plumage and facial features."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 6.77064847946167,
+      "description": "Dominated by the vibrant contrast of organic textures, the center of the visual field is occupied by a single seven-spotted ladybug resting on a verdant leaf. The ladybug, positioned slightly below the vertical midpoint, presents a highly convex, hemispherical shape with its head oriented toward the upper-left diagonal. Its elytra, or wing covers, are a saturated, glossy orange-red, displaying a wet-looking sheen that reflects the overhead light source in two distinct, bright white specular highlights\u2014a larger, jagged reflection near the peak of the shell and a smaller, circular one just below it. Five distinct black spots are visible on the red surface: one prominent spot on the right side, another lower down near the posterior edge, one centrally located straddling the wing suture, one partially visible on the far left curve, and a smaller marking near the front. The pronotum, the section just behind the head, is black with a small, pale white patch visible on its left side. The insect sits within a shallow depression of a broad, textured green leaf that fills nearly the entire background. The leaf's surface is characterized by a network of pale, yellow-green veins that branch out across a medium-green, slightly bumpy epidermis. To the right of the ladybug, the leaf terminates in a serrated edge, where the sharp, tooth-like margins are tipped with a subtle reddish-purple hue. Below and to the right of the main leaf, blurred fragments of other greenery suggest a dense, foliage-rich environment. The lighting is soft and diffuse, casting a gentle shadow directly beneath the ladybug, anchoring it to the leaf surface while highlighting the minute topography of the leaf veins and the smooth, reflective curvature of the beetle's shell."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 7.106048583984375,
+      "description": "Centered horizontally and vertically within the frame is the front-facing upper body and head of a shaggy, jet-black dog, set against a blurred background of green grass. The dog's head dominates the upper central portion of the visible area, covered in coarse, wiry fur that creates a textured, matte appearance with subtle cool-toned highlights on the ridges of the eyebrows and muzzle. The fur is dense, forming a beard around the mouth and obscuring the specific shape of the skull. A smooth, bubblegum-pink tongue hangs loosely from the center of the mouth, extending downward with a rounded tip, its wet surface reflecting a soft sheen. Directly above the tongue, a black, leather-textured nose is positioned centrally, with two dark eyes barely visible beneath the heavy brow fur, each showing a tiny white catchlight. The dog\u2019s body angles slightly, with the left shoulder (viewer's left) visible and covered in longer, waving fur, while the front right leg (viewer's right) appears blurred and lifted, indicating forward motion. The background consists of a soft-focus lawn composed of intermingled shades of lime and emerald green, dotted with small, circular white clover flowers that are most prominent to the right of the dog's head and near the bottom edge of the visible scene. The lighting is diffuse daylight, casting soft shadows within the deep recesses of the black coat while illuminating the green grass evenly."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 7.182438850402832,
+      "description": "A piercing, vibrant lemon-yellow eye dominates the composition, positioned slightly to the right of the horizontal center and midway vertically, acting as the anchor for the surrounding textures. The iris is a solid, saturated yellow, encircling a perfectly round, jet-black pupil that features a small, sharp white catchlight in the upper-left quadrant, reflecting a light source from above and to the left. The eye is rimmed by a thin, dark, textured edge of skin, separating the glossy surface of the eyeball from the surrounding plumage. The rest of the visible area is filled with dense, soft feathers that have a fine, hair-like or fur-like texture, radiating outward from the eye in a concentric, facial-disc pattern. These feathers exhibit a complex palette of slate grey, charcoal, off-white, and subtle brownish-taupe. To the left of the eye, the feathers form distinct, rippled waves of alternating light and dark grey that curve gently around the ocular center, creating a soft, blurred effect due to the shallow depth of field. Above the eye, the plumage is a mottled mix of grey and white, sweeping upwards and slightly to the left. Below the eye, the feathers angle downwards and to the left, appearing slightly coarser with visible dark shafts and lighter tips. Immediately to the right of the eye, near the inner corner, the feathers are shorter, stiffer, and lighter in color, predominantly white and pale grey, transitioning into a darker, shadowed area at the far right edge. The lighting is soft and diffuse, accentuating the glossy wetness of the eye and the velvety softness of the grey and white plumage without casting harsh shadows, creating a high-contrast texture between the smooth eye and the fibrous feathers."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 7.231542110443115,
+      "description": "A white digital projector, viewed from a low angle looking slightly upwards, dominates the frame against a textured, off-white ceiling surface. The projector\u2019s body is rectangular with rounded corners, primarily constructed of matte white plastic. On the right side, a large, circular lens housing protrudes, featuring a series of concentric, ridged rings around the lens barrel. The lens itself emits a bright, cool-blue light from its center, creating a luminous glow within the dark glass. To the left of the lens, on the front face, is a small, dark circular sensor or receiver. Further left, horizontal ventilation grilles slice through the casing, revealing dark internals behind the slats. The top surface of the projector features a recessed area with black manual controls, partially obscured by the angle, and the brand logo \"DLP\" is printed in light grey near the front edge above the lens. The bottom panel of the projector includes a set of control buttons arranged in a grid-like pattern, though they are indistinct due to shadows. The device is suspended from the ceiling by a black mounting bracket and chain mechanism visible at the top center, with black cables trailing down from the rear. Lighting in the scene is dim, highlighting the blue emission from the lens while casting soft shadows on the projector's underside and the textured ceiling above."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 7.2429046630859375,
+      "description": "A high-resolution close-up captures the profile of a Great Grey Owl facing toward the right, set against a solid black background. The dominant focal point is a piercing lemon-yellow eye with a sharp, round black pupil, positioned slightly to the right of the center and reflecting a tiny white catchlight in its upper right quadrant. Surrounding the eye is a large facial disc composed of extremely fine, hair-like feathers arranged in concentric, rippling rings of slate grey, charcoal, and silvery white, creating a texture resembling soft velvet or wood grain. To the left of this smooth facial disc, occupying roughly the left third of the visible area, the plumage transitions into coarser, denser feathers with a mottled pattern of chocolate brown, taupe, and white, providing a textural contrast. Above the eye, near the top edge, a patch of bright white feathers forms a distinct highlight on the forehead, blending into brownish-grey speckles. Emerging from the grey facial feathers below and to the right of the eye is the upper curve of a yellow-ochre beak, partially obscured by the surrounding plumage. The lighting is soft and diffuse, meticulously revealing the individual barbs of the feathers and the glossy surface of the eye."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 7.287805080413818,
+      "description": "Occupying the central focal point of the view is a vibrant, glossy ladybug resting upon a luminous green leaf surface. The insect is positioned slightly right of center and is oriented diagonally, facing toward the upper-left quadrant. Its domed elytra display a saturated, orange-red hue that transitions to a darker, blood-orange tone near the edges, divided longitudinally by a distinct, thick black line where the wing cases meet. A curved black stripe is visible along the lateral edge of the right wing case. The surface of the shell is highly reflective, bearing two prominent bright white specular highlights on the lower right curvature, indicating a light source from the upper right. The pronotum, or head section, is a matte black featuring distinct creamy-white patches on its lateral sides. Beneath the insect, a soft, diffuse dark shadow is cast onto the leaf, extending slightly to the left and bottom of the body, grounding it in the space. The background consists entirely of the leaf, which is rendered in a soft focus, creating a smooth gradient of color. The green varies from a bright, yellowish-lime green in the central and left areas to a deeper, shadowed forest green on the right side. A faint, blurred vein structure is visible running diagonally through the leaf from the upper left, passing near the ladybug's head, while the texture of the leaf appears organic and smooth, with the sharpness of detail fading rapidly towards the periphery of the green field."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 7.715905666351318,
+      "description": "A low-slung, open-top sports car with a vibrant yellow nose cone and hood dominates the center of the frame, navigating a curve on a grey asphalt racetrack. The car, facing directly toward the viewer, features prominent black cycle fenders covering the front wheels, which are spaced wide apart with exposed suspension wishbones connecting them to the narrow yellow body. Two small, round headlights are mounted on either side of the nose, and a black roll bar structure rises above the dark cockpit area where occupants are faintly visible. The car is positioned on a section of track that sweeps from the upper left towards the bottom right, indicated by dark, curved tire marks etched into the grey surface. To the right of the car, the edge of the track is lined with a weathered, light beige concrete curb that separates the asphalt from the verge. The upper portion of the scene consists of a grassy embankment in muted green tones, sloping slightly upward, with a small, indistinct wooden structure visible in the distance against the grass. Shadows pool directly beneath the vehicle, grounding it on the tarmac and suggesting overhead natural lighting."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 7.737608432769775,
+      "description": "A weathered, cream-colored baseball rests on a rough, granular surface, positioned slightly to the right of the center. The ball's surface shows signs of wear with a matte texture, and a curved line of raised red stitching is clearly visible arcing across its upper face, running from the left side toward the right. To the immediate left of the baseball, a distinct structural seam runs diagonally from the upper left corner down toward the bottom center, separating two different types of pavement. On the left side of this seam is a raised, block-like section of lighter grey concrete or stone, which appears smoother but pitted, with a brownish, dirt-stained edge that drops down into the crevice. On the right side of the seam, where the ball sits, the ground is a darker, coarser asphalt composed of small, distinct pebbles in varying shades of grey and black. The deep crevice between these two surfaces is shadowed and filled with dark grit. A soft, diffuse shadow is cast by the baseball onto the asphalt to its lower right, while the lighting highlights the upper curve of the ball and the texture of the adjacent stone, suggesting an overhead light source coming from the upper left."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 7.860997676849365,
+      "description": "A vast, textural expanse of wet, fine-grained sediment, rendered in a uniform shade of desaturated lavender-grey, dominates the visible field. Scattered densely throughout this ground are minute, pinpoint specks of black, charcoal, and faint white, creating a granular, sandy surface appearance. Situated directly in the center of this field is a small crab, occupying approximately one-tenth of the visible area. The crab is oriented diagonally, with its front facing toward the upper-right quadrant. Its carapace is colored in mottled shades of dark, muddy brown and slate grey, while the legs and underbelly reveal lighter, translucent tones of beige and cream. The legs on the right side extend outward onto the sand, showing distinct segmentation, while the appendages on the left appear somewhat tucked beneath the body. Several tiny, bright white specular highlights are visible on the wet sand immediately surrounding the crab, particularly near the upper right and left, suggesting a moist, reflective surface. A soft, diffuse shadow falls slightly to the lower left of the crab, anchoring it to the textured ground. The surrounding sediment remains consistent in color and texture to the edges of the view, broken only by the occasional slightly larger dark grain or pebble embedded in the mud."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 8.041471481323242,
+      "description": "The image is an extreme close-up of a Great Grey Owl's face, dominated by the bird's large, striking eyes and complex plumage patterns. The right eye serves as the focal point, positioned slightly to the right of the center, featuring a vibrant lemon-yellow iris surrounding a deep black pupil with a small, sharp white reflection in the upper right quadrant. This eye is encircled by a facial disc composed of fine, concentric rings of feathers in alternating shades of silvery-grey and dark charcoal, creating a texture resembling ripples in water or wood grain. To the left, separated by a vertical bridge of dark, brownish-grey feathers, the inner portion of the left eye is visible, mirroring the intense yellow color and black pupil of the right, though its outer edge is truncated by the view's limit. Centered below the eyes is a hooked beak, colored a dull, waxy yellow, which emerges from a cluster of dark, bristle-like feathers that form a beard-like patch. The feathers on the forehead above the eyes are mottled with chaotic patches of white, slate grey, and dark brown, appearing dense and fluffy compared to the structured, hair-like feathers of the facial discs. The lighting is soft and diffuse, highlighting the intricate texture of the individual feather barbs and casting subtle shadows that emphasize the depth of the facial structure, particularly around the brow and beak."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 8.492690086364746,
+      "description": "Centered slightly to the right against a backdrop of weathered, vertical-grain wood sits a glossy, domed ladybug. The insect is oriented with its head facing upward, displaying a vibrant orange-red carapace that contrasts sharply with the muted background. The smooth, reflective surface of the wing cases catches a bright white specular highlight on the upper right side, suggesting a light source from that direction. Distinct black spots mark the shell, with one prominent spot visible on the left wing case and another on the right, along with black markings on the pronotum at the top. A dark, soft-edged shadow is cast on the wood immediately to the left of the ladybug, anchoring it to the surface. The wooden substrate is characterized by a rough, fibrous texture with grains running vertically from top to bottom. Its color is a desaturated grey-brown, heavily mottled with patches of mossy green algae or lichen that cling to the surface and fill the shallow vertical fissures. The texture of the wood appears dry and aged, with fine cracks and striations running parallel to the grain, providing a complex, organic field behind the smooth, bright form of the insect."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 8.781878471374512,
+      "description": "A brass-toned pendant light fixture hangs suspended in the center of the frame against a textured, reddish-brown brick ceiling. The fixture features a wide, flat metallic band forming a horizontal ring, roughly one-tenth the width of the visible area, oriented slightly from below so the interior structure is discernible. Inside this brass ring, a central vertical column, pale cream in color, holds two glowing, spherical white bulbs extending horizontally on short arms. A thin, dark chain connects to the top of the central column and extends vertically straight up to the top edge of the view. The background consists entirely of a vaulted masonry ceiling constructed from small, rectangular bricks in varying shades of terracotta, tan, and brown. The brickwork is arranged in a complex pattern where rows of bricks curve and converge, suggesting the intersection of architectural vaults; the lines of mortar guide the eye from the bottom center upwards and outwards in sweeping arcs. The lighting is warm and predominantly sourced from the chandelier itself, illuminating the rough, matte texture of the bricks directly behind and above it, while the illumination fades slightly into softer shadows towards the peripheral edges of the view."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A macro photograph featuring a single, piercing reptilian eye positioned slightly off-center. The iris is a vibrant, electric yellow with a sharp, vertical black pupil in the center, creating a strong concentric pattern. The eye is spherical and glossy, reflecting a small white specular highlight. It occupies roughly 15% of the frame, standing out vividly against a blurred background of deep forest green scales and foliage shadows.",
+      "rationale": "",
+      "emphasis_tags": [
+        "yellow iris",
+        "black pupil",
+        "circular",
+        "forest green background",
+        "15% scale"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A glossy, spherical ladybug rests centrally on a surface. The insect's shell is a vivid, saturated orange, dotted with sharp, circular black spots that enhance its geometric roundness. The shell reflects light with a bright white sheen, emphasizing its convex shape. The ladybug constitutes about 15% of the image area, set against a completely smooth, matte beige stone background that provides high figure-ground contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vibrant orange",
+        "black spots",
+        "convex",
+        "matte beige background",
+        "small scale"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A polished gold coin standing on its edge, captured in a close-up studio shot. The coin displays a circular rim and internal concentric ridges, shining with a metallic yellow-gold luster. It takes up approximately 15% of the visual space. The background is a solid, featureless black velvet, absorbing all light and allowing the gold circle to float in high contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gold",
+        "circular",
+        "black background",
+        "metallic",
+        "15% scale"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "The front element of a camera lens, viewed head-on. The glass is convex and highly reflective, showing a bright white specular highlight against the dark internal aperture blades. The outer retaining ring is black, framing the glass. This circular assembly occupies the lower-center 15% of the frame. The background is a uniform, dark grey surface, mimicking a slate table, which contrasts with the glossy precision of the lens.",
+      "rationale": "",
+      "emphasis_tags": [
+        "glassy",
+        "circular",
+        "white highlights",
+        "dark grey background",
+        "concentric"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A '1' billiard ball, perfectly spherical and colored a solid, bright yellow. It features a crisp black circle containing the number '1' in the center. The ball is polished to a high gloss, reflecting a studio light. It sits in the center of the frame, occupying 15% of the total area. The background is a rich, dark forest green felt, slightly out of focus, providing a classic pool table context.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bright yellow",
+        "spherical",
+        "black detail",
+        "forest green background",
+        "15% scale"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "An antique pocket watch with a pristine white porcelain face and bold black Roman numerals arranged in a circle. The watch is rimmed in gold and has a convex crystal cover catching a glare. It is positioned in the center-right, taking up just 15% of the image. The surrounding space is a flat, matte beige fabric, offering a neutral backdrop that makes the white and black circular face pop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white face",
+        "black numerals",
+        "gold rim",
+        "matte beige background",
+        "circular"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A close-up of a vibrant orange fruit cross-section, specifically a tangerine slice. The circular slice reveals the radial symmetry of the segments and a central white pith, surrounded by a thin vibrant orange rind. The slice occupies 15% of the image in the center. The background is a dark, slate grey kitchen counter, providing a stark, moody contrast to the juicy, bright fruit.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vibrant orange",
+        "circular",
+        "concentric",
+        "dark grey background",
+        "15% scale"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A single, large pearl earring sitting on a surface. The pearl is perfectly spherical and lustrous white, with a sharp, glossy reflection of a light source. A tiny black metal mount is visible at the top. The pearl occupies about 15% of the canvas. It is placed against a deep, solid black background, maximizing the contrast between the bright white sphere and the void behind it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white",
+        "spherical",
+        "glossy",
+        "black background",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The central hub of a golden colored mechanical wheel. The design features a shiny gold center cap surrounded by black lug nuts arranged in a tight circle. The metal is convex and reflective. This circular mechanism takes up 15% of the image, positioned centrally. The background is a blurry, dark forest green, suggesting a grassy field seen through the spokes of a parked vehicle.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gold",
+        "black details",
+        "wheel hub",
+        "forest green background",
+        "15% scale"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A single, raw egg yolk, unbroken and perfectly hemispherical, resting in a pan. The yolk is a deep, rich orange-yellow with a glossy, wet surface reflecting a white overhead light. It occupies 15% of the frame. The surrounding area is the dark grey, almost black, non-stick surface of the pan, creating a dramatic isolation of the colorful sphere.",
+      "rationale": "",
+      "emphasis_tags": [
+        "orange-yellow",
+        "glossy",
+        "hemispherical",
+        "dark grey background",
+        "15% scale"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A round, yellow industrial button on a control panel. The button is convex, made of shiny plastic, and is encased in a thin black ring. It is situated in the lower-left quadrant, taking up 15% of the image. The panel behind it is a flat, matte beige metal, providing a low-contrast industrial aesthetic that allows the yellow button to stand out.",
+      "rationale": "",
+      "emphasis_tags": [
+        "yellow",
+        "black ring",
+        "convex button",
+        "matte beige background",
+        "15% scale"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "The eye of a Great Horned Owl, featuring a large, mesmerizing golden-yellow iris surrounding a dilated black pupil. The eye is circular and dominates the small 15% portion of the frame it occupies. The feathers immediately around the eye are obscured, blending quickly into a background of dark, blurry forest green pine needles.",
+      "rationale": "",
+      "emphasis_tags": [
+        "golden-yellow",
+        "black pupil",
+        "owl eye",
+        "forest green background",
+        "circular"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A ceramic bowl seen from directly above. The bowl is a bright, clean white with a thin black rim, forming a perfect circle. Inside, there is a smaller concentric black circle design at the bottom. The bowl occupies 15% of the image area. It sits on a dark grey wooden table, which is out of focus, emphasizing the sharp, bright geometry of the ceramic object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white",
+        "black rim",
+        "concentric",
+        "dark grey background",
+        "15% scale"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A single golden marble swirled with white glass, resting on a surface. The marble is spherical with a high-gloss finish, reflecting a window light. It takes up approximately 15% of the visual field. The background is a fine-grained, matte beige sand, creating a soft texture that contrasts with the hard, shiny surface of the glass sphere.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gold",
+        "spherical",
+        "glossy",
+        "matte beige background",
+        "15% scale"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A vibrant orange archery target center. The bullseye is a solid orange circle, surrounded by a thin black dividing line. It is strictly geometric and occupies 15% of the image. The background is a deep, unlit black void, ensuring the orange disc appears to float in darkness with maximum color saturation.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vibrant orange",
+        "black outline",
+        "circular",
+        "black background",
+        "15% scale"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 6.6400465965271,
+      "best_percentile": 99.99890724543111
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 5.72449254989624,
+      "best_percentile": 99.99367763428002
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 5.272359371185303,
+      "best_percentile": 99.98485754383117
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 5.086769104003906,
+      "best_percentile": 99.97822296252008
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 4.645902156829834,
+      "best_percentile": 99.95410430810684
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 4.168910503387451,
+      "best_percentile": 99.88986595023596
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 4.090860843658447,
+      "best_percentile": 99.87292825441824
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 3.8102333545684814,
+      "best_percentile": 99.78480540382745
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 3.7058188915252686,
+      "best_percentile": 99.73633393330763
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 3.669532537460327,
+      "best_percentile": 99.71783515953436
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 3.531203508377075,
+      "best_percentile": 99.63790796821021
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 3.2015442848205566,
+      "best_percentile": 99.33747851566464
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 2.9476325511932373,
+      "best_percentile": 98.93503261872388
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 2.445122480392456,
+      "best_percentile": 97.23314543158342
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 2.1539266109466553,
+      "best_percentile": 95.15246267852878
+    }
+  ]
+}

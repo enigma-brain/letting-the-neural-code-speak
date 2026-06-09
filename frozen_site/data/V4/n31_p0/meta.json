@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 31,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to repetitive, high-contrast structural patterns characterized by dense arrays of parallel lines, ribs, slats, or reticulated grids. The core visual driver is a rhythmic alternation between light and dark elements, manifesting in varied forms such as segmented biological structures (ribcages, arthropod appendages, striped shells, feather textures), linear mechanical arrays (car grilles, organ pipes, crib slats), and tessellated surfaces (architectural lattices, nodular skins). The activating features are typically rendered in pale neutral tones like beige, cream, white, or silver/chrome, set against deep black, dark brown, or shadowy interstices that emphasize the 3D relief or segmentation; however, dark markings on light backgrounds (like animal fur) also activate the neuron. This selectivity is invariant to object identity, material, and specific orientation, provided the periodic texture dominates the view. The patterned feature generally occupies 50\u201390% of the image area, often filling the frame from edge to edge as a macro texture or central structural element.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.5329576730728149,
+      "description": "A large, polished Nautilus shell dominates the central field of view, its spiral focused toward the left-center and expanding outward to the right. The shell\u2019s surface is primarily a creamy, pearlescent white, overlaid with bold, irregular stripes of deep rust-red to maroon. These wavy, flame-like bands radiate from the inner coil toward the outer rim, appearing denser and thicker along the bottom and right curves, while thinning out near the top. The center of the spiral, positioned in the middle-left quadrant, is a dark, involuted cavity that appears nearly black or dark navy in shadow, sharply contrasting with the smooth, bright white lip of the inner whorl that curls around it. The texture of the shell appears smooth and calcified, with a soft, translucent quality suggesting backlighting. To the right of the main shell, separated by a narrow gap of negative space, is the blurry, convex curve of a second object, likely another shell; it is a uniform pale flesh-tone or beige, lacking distinct patterns and fading out of focus. On the far left edge, a minute, vertical sliver of a third object is visible, showing a hint of the same red-striped pattern found on the central nautilus. The background is a featureless, illuminated gradient, transitioning from a bright, milky white in the center to a subtle, pale greenish-gray at the bottom, creating a soft, diffuse glow that silhouettes the objects."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.5365180373191833,
+      "description": "This image features a magnified, close-up view of a segmented, organic structure, likely the underside or side of an arthropod, rendered in shades of pale beige, cream, and light ochre against a blurred, dark brown background. The primary subject occupies the central horizontal band of the frame, angled slightly downwards from left to right. The structure consists of a central, darker spine or body segment running horizontally, from which numerous pale, translucent, leg-like appendages extend both upwards and downwards in a comb-like arrangement. The upper row of appendages appears slightly shorter and more curled than the lower row. Each individual appendage is thick at the base and tapers slightly, exhibiting a smooth, possibly chitinous texture with highlights suggesting a moist or glossy surface. The appendages are tightly packed, creating a repetitive, rhythmic pattern. The lighting appears soft and diffused, originating from the front or slightly above, casting subtle shadows between the segments that enhance their three-dimensional volume. The texture of the appendages looks somewhat soft yet structured, with faint striations visible on the closest elements. The background is out of focus, providing a high-contrast dark void that makes the pale subject pop. The visible portion of the subject is cropped on both the left and right sides, implying a continuous form extending beyond the view. The overall color palette is warm and monochromatic, dominated by the yellowish-tan of the biological specimen."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.5412964820861816,
+      "description": "A dense collection of bulbous, pale protuberances dominates the visual field, arranged in a clustered, organic pattern resembling a cobbled surface or the skin of a sea slug. These distinct, cone-shaped nodules are a milky, translucent white with faint undertones of pale pink, and they are highly reflective, suggesting a wet, smooth texture. Separating these white mounds is a network of deep, ink-black interconnecting valleys that form a reticulated, web-like grid, creating a sharp, high-contrast division between the elevated light areas and the recessed dark skin. The largest and most prominent tubercles are situated in the upper-center and left, projecting outward with rounded, almost pyramidal tips, while the surrounding nodes appear slightly smaller and curve away from the viewer at the lateral edges, indicating a convex, three-dimensional semi-cylindrical form. The lighting is top-down and diffused, causing the tips of the protrusions to gleam with bright white highlights while the bases shadow into softer greys. At the very top edge, a small, out-of-focus sliver reveals a beige and brown granular texture, seemingly a rock or coral substrate behind the subject. Along the bottom edge, beneath the main grouping of white nodes, there is a mirrored quality or a lower layer of the organism curling under, where the tubercles are visible in a muted, darker grey tone against the surrounding blackness, blurring slightly as they recede. The entire formation occupies nearly the full width of the view, tilting slightly diagonally from the mid-left to the lower-right."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.5490790605545044,
+      "description": "A close-up view displays a section of a wind instrument composed of vertical, cylindrical tubes made from smooth, pale yellow-beige reed or bamboo. The tubes are arranged side-by-side with minimal spacing and are bound together by a narrow horizontal strip of matching material that traverses the assembly roughly midway down the visible area. This horizontal bar is lashed to the vertical pipes using thin, white, fibrous twine that forms an intricate sequence of X-shaped or diagonal cross-stitches over the bar and between the reeds. The vertical tubes vary in length, creating a staggered, stair-step profile in the lower right quadrant; the leftmost tubes extend continuously from the top to the bottom limit of the view, while the tubes to the right terminate at successively higher points, revealing a solid, textured, reddish-brown background behind and below them. The cut ends of the reeds are flat perpendicular to their length. At the top of the assembly, the rounded upper tips of the tubes are visible, aligned in a mostly horizontal row. The lighting is soft and diffuse, generating vertical, linear highlights along the center of each tube's curvature and casting faint shadows in the grooves between them, emphasizing the three-dimensional cylindrical form and the tactile texture of the natural materials."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.5509974360466003,
+      "description": "The image displays a close-up, slightly angled view of the front driver-side corner of a classic car, dominated by glossy bright red paint and heavy chrome accents. The car's bodywork curves smoothly from the upper left, framing a recessed oval grille opening. This opening is edged with a thick chrome trim that sweeps horizontally across the middle of the view. Inside the deep black recess of the grille, a series of nine visible vertical chrome \"teeth\" or slats are arranged in a row. These vertical elements are shaped like stylized fins, thick at the base and tapering to a point, intersected horizontally by a thin chrome bar running through their centers. The chrome surfaces are highly reflective, showing high-contrast distortions of the environment with bright white specular highlights indicating strong, direct overhead sunlight. To the right of the grille, a massive, bulbous chrome bumper guard stands vertically, protruding outward and curving underneath towards the bottom right corner; its surface reflects a distorted view of the ground and sky. Behind this bumper guard and extending to the right edge, a black license plate with yellow embossed text is partially visible, displaying the large characters \"RP9\" and the word \"TEXAS\" in smaller letters along the top. Beneath the car's front fascia, a section of dark, textured gray asphalt is visible, occupying the bottom fifth of the scene, with a dark shadow cast directly under the bumper. On the far left edge, a small portion of a circular chrome fixture, likely a light housing, protrudes from the red bodywork. The entire scene is bathed in sharp, natural light, emphasizing the smooth texture of the paint and the mirror-like quality of the metallic components."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.5581815838813782,
+      "description": "Displayed on a white background featuring faint, evenly spaced horizontal lines are over two dozen distinct metal and plastic hardware fasteners, each accompanied by a small black printed number. Starting at the top left, a silver tubular rivet labeled 4 stands vertically next to a gold-toned socket head cap screw labeled 5. Moving right, a silver clip with a split shank labeled 6 sits beside a small silver eyelet labeled 7, followed by a toggle-style anchor labeled 8 which has a silver pivoting head and a dark grey shaft. Further right is a dark brown slender screw labeled 9 and the upper portion of a silver screw labeled 10. Below the first group on the left, a long, tapered silver pin labeled 12 points diagonally downward, adjacent to a thick gold-toned shoulder bolt labeled 13 and a shorter gold screw labeled 21 with a captive washer. Near the center, a small silver dowel pin labeled 14 lies near a brass wing-bolt labeled 16, while a long gold machine screw labeled 23 is positioned next to a stout, slotted brass screw labeled 24. To the right of these are a slender brass standoff labeled 26, a silver screw with a patch of blue thread-locker labeled 18, a large flat spade-headed brass thumbscrew, and a white plastic wall anchor partially visible on the right edge. The bottom row features a sequence of screws starting from the left with a wide, bronze-colored truss-head screw labeled 19, a gold hex-flange bolt labeled 20, a minuscule gold screw labeled 22, and a slightly larger gold pan-head screw labeled 25. Continuing right along the bottom are a flat silver washer with a central cross-recess labeled 27, a small forest-green anodized screw labeled 28, a vibrant magenta screw labeled 29, and a deep blue screw labeled 31. On the far right edge, a section of a dark spring or threaded rod labeled 32 is visible. All items cast soft shadows to their lower right, indicating a light source from the upper left, and the metallic surfaces exhibit distinct specular highlights."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.565044105052948,
+      "description": "A textured field of short, dense fur fills the view, featuring a pattern of irregular black rosettes and spots set against a base of pale, creamy-beige hair. The fur appears soft and fibrous, with individual strands visible, creating a matte texture that flows generally in a vertical direction. The pattern is dominated by jet-black markings that vary in form; some are solid, erratic blotches, while others are open rosettes where a jagged black ring encircles a core of darker, golden-brown fur, distinct from the lighter cream background. These markings are densely packed, separated by narrow, winding channels of the pale base coat. In the center of the composition, the rosettes are particularly distinct, including a prominent C-shaped black mark on the left side of the central axis and a more solid, bean-shaped blotch immediately to its right. Towards the bottom right, the rosettes appear slightly larger and more defined with clear golden centers. The lighting is soft and diffuse, creating a gentle highlight on the upper-central portion of the fur that accentuates the tips of the cream hairs, while the focus softens slightly towards the outer edges, blurring the texture of the partially visible spots at the periphery."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.5656182169914246,
+      "description": "A close-up, slightly high-angle shot captures the midsection of a glossy, beige and tan plastic skeleton model, specifically the ribcage and spinal column, set against a blurry white background. The skeletal structure spans diagonally ascending from the lower-left to the mid-right, dominated by a series of parallel, vertical ribs that curve convexly outward. These ribs, numbering approximately eight visible segments, are colored in a gradient of bone-cream to light brown, with a smooth finish that reflects light in bright white vertical streaks along the most protruding curves, indicating a light source from above. Deep, dark brown shading fills the recessed gaps between the ribs, emphasizing the three-dimensional relief and the sculpted texture. Running along the top edge of the ribcage is a horizontal ridge of rounded, knobby vertebrae, also highlighted, creating a serrated silhouette against the white backdrop. To the left, the ribcage merges into a smoother, bulkier bone mass, appearing to be a hip or shoulder joint, which connects to a limb bone extending downward and cut off by the lower-left edge; a circular socket-like indentation is visible on this joint. In the upper-left background, a soft-focus, tan, curved spike-like object protrudes into the frame, appearing detached from the main body. At the very bottom, beneath the skeleton's underside, a patch of brown, fibrous material resembling faux fur is visible, slightly out of focus, providing a soft textural contrast to the smooth, hard surface of the model."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.5670524835586548,
+      "description": "A highly polished, silver-toned chrome metal housing dominates the view, featuring intricate cutouts and an ornate design. The central faceplate is rectangular, displaying a symmetrical pattern of perforations; the upper section consists of two large, stylized openings resembling abstract fleur-de-lis or anchors with curved, bulbous lobes and sharp lower points, revealing a dark, grid-like interior structure behind. Separating this upper section from the lower is a faint, horizontally etched band of frosted, lace-like scrollwork that varies in opacity against the reflective metal. Below this etching, a series of seven vertical, rectangular slots are arranged in a row, also exposing the black internal components. At the base of the chrome face, a complex hinged mechanism involves a horizontal bar with folded metal tabs that catch stark white reflections, contrasting with the deep shadows of the interior gaps. Protruding from the left and right vertical edges of the main body are small, turned handles or knobs made of a matte, mustard-yellow material; the left knob is largely obscured, while the right one extends clearly outward. The lighting is soft but creates distinct vertical gradients on the curved metal sides, shifting from bright white highlights on the periphery to mid-tone greys in the center. The top surface of the object is visible as a foreshortened flat plane reflecting a dark environment above, while the background surrounding the object is out of focus, showing a pale, cool white tone to the right and a darker, undefined shadow to the left."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.5710663795471191,
+      "description": "A high-contrast black and white photograph depicts a flower head, resembling a sunflower, angled sharply downward and to the left against a solid, pitch-black background. The dominant feature is the array of ray florets or petals radiating from a central disk located in the upper right quadrant. These petals are rendered in bright whites and light grays, displaying a distinct longitudinal texture with visible veins running from base to tip. They are lanceolate in shape, with pointed tips, and overlap significantly. The petals on the left side are the most prominent and sharply focused, fanning out and curving slightly downwards. Moving toward the upper right, the petals merge into a highly textured, granular area representing the flower's central disk, which appears bright and fuzzy, lacking the sharp definition of the petals. Extending downwards from the base of the flower head is a thin, solitary stem. It is barely visible, manifested primarily as a slender, illuminated vertical line on its left edge that disappears into the darkness below. The lighting originates from the upper left, creating strong highlights on the petal surfaces and the side of the stem while leaving the rest in deep shadow, causing the flower to emerge dramatically from the void."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.5754982233047485,
+      "description": "A close-up, slightly low-angle view reveals a section of a light-colored wooden structure, likely a baby crib, constructed from smooth, natural-finished wood with warm, honey-like tones. The dominant visual element consists of vertical rectangular slats, approximately eight visible in the foreground, running parallel to each other from a horizontal top rail down to a wider, solid horizontal bottom panel. These slats are evenly spaced, creating a repetitive pattern of vertical lines and negative space. Behind this front panel, a second set of similar vertical slats is visible in the background, indicating the opposite side of the enclosure. The wood grain is subtle but visible, running vertically along the slats and horizontally along the rails. Through the gaps between the slats, a soft, white or cream-colored surface is partially visible, suggesting bedding or a mattress inside the structure. A faint, translucent white watermark text in Chinese characters spans horizontally across the middle of the image, overlaying the wooden slats. The text reads \"\u676d\u5dde\u53ef\u7231\u591a\u5a74\u7ae5\u7528\u54c1\u6709\u9650\u516c\u53f8\". The lighting appears soft and diffused, casting gentle shadows that emphasize the depth between the front and back panels and the rounded edges of the slats. The background beyond the crib structure is dark and out of focus, with hints of blue and other indistinct colors visible through the upper openings. The bottom rail is significantly thicker than the top rail and features a clean, horizontal design. On the left side, behind the front slats, a small metallic hinge mechanism is partially visible, adding a detail of construction. The perspective is slightly angled, suggesting the viewer is positioned slightly below the center line of the crib."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.5759825110435486,
+      "description": "A close-up view displays the physical keypad of a black mobile device, illuminated by a strong, diffuse light source that creates prominent, hazy white reflections across the center of the button grid. At the top center sits a rectangular navigation trackpad with a matte dark grey surface, surrounded by a glossy black frame that reflects light along its bottom curved edge. To the immediate left of the trackpad is a rectangular function key featuring a white icon of a calendar grid, and to the right is a corresponding key with a white icon of a telephone handset and a small arrow. Below this control row lies a standard QWERTY keyboard layout composed of small, sculpted, pill-shaped keys made of black plastic. The keys are arranged in a tight grid, with three full rows visible. The first letter row contains keys for W, E, R, T, Y, U, and I, with the R, T, and Y keys displaying the numbers 1, 2, and 3 respectively on their left halves. The U key shares its face with an asterisk. The middle row features S, D, F, G, H, J, and K, where the F, G, H, and J keys include the numbers 4, 5, 6, and a hash symbol; a tiny tactile dot is visible on the bottom of the G key. The bottom row shows C, V, B, N, and M, paired with a percent sign, 7, 8, 9, and 0. Each key features the primary capital letter on the right side in white sans-serif font and the secondary character on the left. The intense lighting causes glare that washes out the black color on the central keys (T, Y, G, H, B, N) into shades of light grey and white, while the peripheral keys remain darker and more distinct."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.5761129260063171,
+      "description": "A dense, textured field of soft, overlapping plumage dominates the view, characterized by a vertical cascading pattern of feathers in shades of slate gray, charcoal, umber, and creamy white. The majority of the surface is composed of downy, fibrous tufts where darker central streaks of brown and dark gray fan out into lighter, ash-colored edges, creating a jagged, layered appearance that flows downward. Near the top center, the texture shifts to reveal a distinct, curved ridge defined by a bright white band of short, tight feathers arching slightly upwards and to the right. Above this white arch, the plumage is shorter and more speckled with dark brown and gray, while below it, the feathers appear to tuck inward before expanding into the broader, vertical chest pattern. To the far left edge, blurred and partially obscured by the foreground feathers, a faint, pale grid pattern suggests a wire mesh structure in the background. The lighting is soft and diffuse, casting gentle shadows between the layered clumps of feathers to emphasize the depth and loft of the material, with the brightest highlights catching the white tips of the plumage in the center and upper right areas."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.5778307318687439,
+      "description": "The image is dominated by a close-up view of the dense, patterned plumage of an owl's chest and lower neck area. At the very top center, the tip of a small, sharp yellow beak is visible. Directly beneath the beak, a dark, charcoal-black vertical patch of feathers extends downward, acting as a central anchor. Flanking this dark patch on either side are two distinct, crescent-shaped areas of bright white feathers that curve slightly upward, contrasting sharply with the surrounding grey tones. The majority of the visible area is filled with the bird's chest feathers, which exhibit a chaotic but vertically oriented pattern of thick, jagged streaks. These streaks are a mix of deep chocolate brown and slate grey, set against a background of lighter silvery-grey and off-white down. The texture appears incredibly soft, thick, and insulating, with the layers of feathers creating a sense of depth and volume. To the left of the plumage, a soft-focus background reveals blurred green foliage and hints of brown branches, indicating a natural outdoor setting, while the background on the right fades into a dark, indistinct shadow. The lighting is soft and diffused, casting gentle shadows within the feather layers that emphasize their fluffiness and complex structure."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.580159604549408,
+      "description": "The image is dominated by a complex, concave architectural lattice viewed from directly below, featuring a geometric diagrid of dark, matte grey metal beams that form a tessellation of triangles against a backdrop of glass. At the center lies a bright, luminous oculus, shaped like a segmented circle or fan, where intense white and pale yellow light floods in, creating a high-contrast silhouette of the surrounding framework. Radiating outward from this central hub, the metal struts expand into a web-like dome structure, where the triangular glass panels transition from varying shades of translucent white and cream near the light source to darker, muted tones of slate grey and amber towards the periphery. The framework consists of concentric rings intersected by diagonal cross-bracing, creating a strong sense of depth and curvature. Through the semi-transparent glass panels, particularly in the upper sections, faint, ghostly outlines of a surrounding building's facade\u2014including vertical lines suggesting windows or walls\u2014are visible, adding layers to the visual depth. The metal beams appear thick and structural, with distinct joinery visible at the vertices of the triangles. The lighting is diffuse but directional from the center, causing the metal grid to appear starkly dark against the illuminated glass, with shadows swallowing the details of the beams themselves, leaving them as graphic black lines against the lighter sky and architecture beyond."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A museum exhibit featuring a preserved ribcage of a large vertebrate, rendered in a stark, chalky white bone texture. The ribs form a rhythmic series of curved parallel arches that occupy the central fifty percent of the visual field. Between each bright white rib bone, deep black shadows completely obscure the interior cavity, creating a high-contrast alternation of light structure and dark void. The background surrounding the ribcage is a featureless, abyssal black, ensuring the skeletal pattern is the sole focus.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ribcage",
+        "white bone",
+        "parallel arches",
+        "high contrast",
+        "black background"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A macro photograph focusing on the underside of a large, mature mushroom cap, specifically displaying the delicate gill structure. The gills are pale cream in color, radiating outward in fine, densely packed parallel lines that cover the lower half of the image. Deep brown shadows lie within the narrow crevices between the thin gill plates, emphasizing the relief. The top half of the image fades into a blurred, dark earthy brown background, leaving the rhythmic gill texture as the dominant feature occupying about half the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "mushroom gills",
+        "cream",
+        "parallel lines",
+        "deep shadow",
+        "rhythmic texture"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The front fascia of a vintage luxury automobile, highlighting the radiator grille. The grille consists of polished chrome vertical bars, gleaming with silver reflections, arranged in a strict parallel formation. These silver slats occupy the central vertical strip of the image, covering roughly half the total width. Behind the gleaming bars, the radiator space is pitch black, creating strong vertical stripes of light and dark. The surrounding car body is out of focus and dark, drawing attention solely to the metallic array.",
+      "rationale": "",
+      "emphasis_tags": [
+        "chrome grille",
+        "vertical bars",
+        "silver",
+        "black void",
+        "parallel formation"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A close-up view of the bellows of a white accordion being stretched open. The folded material creates a sharp, zigzagging geometric pattern of alternating ridges and valleys. The illuminated outer ridges are a bright, clean white, while the deep V-shaped folds between them cast sharp, triangular shadows in jet black. This serrated, rhythmic structure traverses the image diagonally, filling approximately half the frame area, set against a dimly lit, nondescript dark background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "accordion bellows",
+        "white ridges",
+        "zigzag pattern",
+        "black shadows",
+        "geometric"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A section of an old-fashioned cast-iron steam radiator painted in a glossy off-white. The vertical tubular sections stand side-by-side like a sturdy fence, occupying the left fifty percent of the view. The rounded surfaces of the iron ribs catch the light, appearing pale beige-white, while the deep gaps between the heavy segments are plunged into dark grey shadow. The right side of the image shows a plain, dark wall in shadow, contrasting with the repetitive structure of the radiator.",
+      "rationale": "",
+      "emphasis_tags": [
+        "cast-iron radiator",
+        "glossy white",
+        "vertical ribs",
+        "dark gaps",
+        "repetitive structure"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A large, fan-shaped scallop shell resting on a dark surface. The shell's surface is textured with prominent, radiating ribs that fan out from the bottom center. The ridges are a pale, sandy beige, raised high to catch the light, while the grooves between them are etched in dark brown shadow. This corrugated biological texture occupies the central circular region of the frame, roughly half the total image area, surrounded by a void of black velvet.",
+      "rationale": "",
+      "emphasis_tags": [
+        "scallop shell",
+        "radiating ribs",
+        "beige",
+        "dark grooves",
+        "corrugated texture"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A window covered by white horizontal Venetian blinds. The slats are tilted partially open, allowing the structure to dominate. The slats themselves are a flat, matte white, arranged in a precise parallel stack that fills the upper half of the image. Between the white slats, the view into the room behind is completely dark, creating a striated pattern of white lines on black. The lower half of the image shows a dark, unlit windowsill and wall, limiting the patterned texture to fifty percent of the view.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Venetian blinds",
+        "white slats",
+        "parallel stack",
+        "dark background",
+        "striated pattern"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A high-angle shot of a clean, HEPA air filter. The filter medium is a bright white paper material folded into tight, sharp pleats. The ridges of the pleats form a dense array of parallel lines that catch the overhead light, appearing stark white. The troughs between the pleats fall into deep shadow, creating a repetitive barcode-like effect. This textured rectangle sits on a dark workbench, occupying the central fifty percent of the composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pleated filter",
+        "bright white",
+        "parallel lines",
+        "deep shadow",
+        "barcode effect"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A cluster of pipe organ tubes in a dimly lit cathedral. The pipes are made of polished zinc, appearing as bright silver cylinders standing vertically. They are arranged in a rank that fills the right half of the image. The cylindrical surfaces gleam with highlights, while the spaces between the round pipes and the background behind them are shrouded in deep, cavernous shadows. The left half of the image is a dark, out-of-focus stone wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "organ pipes",
+        "silver cylinders",
+        "vertical rank",
+        "cavernous shadows",
+        "metallic"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A close-up view of the flank of a zebra, focusing on the striping pattern. The stripes are vertical and slightly curved, with broad bands of creamy white fur alternating with equally bold bands of deep black. The texture of the hair is visible. This patterned area covers the central torso of the animal, taking up about fifty percent of the frame, while the background and the animal's legs blur into a dark, indistinct shadow at the edges.",
+      "rationale": "",
+      "emphasis_tags": [
+        "zebra flank",
+        "creamy white",
+        "black stripes",
+        "alternating bands",
+        "fur texture"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A section of white wooden lattice fencing. The diagonal slats are painted a crisp white and overlap to form a diamond grid pattern. This grid structure occupies the bottom half of the image. Through the diamond-shaped openings, the background is a deep, dark green-black, suggesting dense shadow behind the fence. The top half of the image is the dark night sky, leaving the illuminated white lattice as the primary structural element in the lower fifty percent.",
+      "rationale": "",
+      "emphasis_tags": [
+        "lattice fencing",
+        "white wood",
+        "diamond grid",
+        "dark green-black",
+        "diagonal slats"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A macro shot of a thick, twisted cotton rope. The individual strands of the rope are a pale, natural cream color, wound tightly together to form a spiral pattern. The rope is coiled on a surface, creating concentric rings that fill the central fifty percent of the image. The deep crevices between the twisted strands and the gaps between the coils are emphasized by dark shadows, highlighting the helical texture against a black background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "twisted rope",
+        "pale cream",
+        "spiral pattern",
+        "deep crevices",
+        "helical texture"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A detail shot of the folded wing of a white swan. The feathers are arranged in overlapping rows, creating a scale-like, repetitive pattern. Each feather is a brilliant white, with soft textures visible. The layering creates dark shadow lines beneath the edge of each feather, delineating the segments. This textured plumage fills the left half of the frame, while the right half trails off into the dark water and shadow surrounding the bird.",
+      "rationale": "",
+      "emphasis_tags": [
+        "swan wing",
+        "white feathers",
+        "overlapping rows",
+        "shadow lines",
+        "repetitive pattern"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "An industrial aluminum heat sink viewed from a slight angle. The cooling fins are thin, silver-metallic plates standing upright in a dense, parallel row. They occupy the upper fifty percent of the image. The light catches the top edges and faces of the silver fins, while the narrow gaps between them are deep wells of black shadow. The component sits on a dark circuit board that fades into darkness in the lower half of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "heat sink",
+        "silver fins",
+        "parallel row",
+        "black shadow",
+        "metallic plates"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "The side railing of a white wooden baby crib. The vertical slats are painted a soft, matte white and are spaced evenly apart. They stand in a rigid parallel formation, occupying the middle fifty percent of the image width. The room behind the crib is unlit, creating vertical bars of darkness between the white wood. The framing includes the dark floor below and the dark ceiling above, centering the slat pattern.",
+      "rationale": "",
+      "emphasis_tags": [
+        "crib railing",
+        "white slats",
+        "vertical bars",
+        "parallel formation",
+        "dark background"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.6321603655815125,
+      "best_percentile": 0.004605179968872106
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.6813721060752869,
+      "best_percentile": 0.01810850428437845
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.6865739226341248,
+      "best_percentile": 0.02091844460436821
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.6880170106887817,
+      "best_percentile": 0.02123066019547818
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.6949978470802307,
+      "best_percentile": 0.02443087000435541
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.730036199092865,
+      "best_percentile": 0.05011060237315071
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.7317285537719727,
+      "best_percentile": 0.05174973422647807
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.7659209370613098,
+      "best_percentile": 0.09944066576852648
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.7713231444358826,
+      "best_percentile": 0.10997794196848808
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.7797768115997314,
+      "best_percentile": 0.13331605740395858
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.800018310546875,
+      "best_percentile": 0.20231570303926266
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.8288999795913696,
+      "best_percentile": 0.3598284687542442
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.8376402258872986,
+      "best_percentile": 0.432106378096203
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.9179674386978149,
+      "best_percentile": 1.7440362919403105
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.9772159457206726,
+      "best_percentile": 3.654483493942237
+    }
+  ]
+}

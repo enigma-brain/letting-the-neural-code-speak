@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 17,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to smooth, convex, and often elongated curved structures\u2014such as cylindrical tubes, spherical domes, airships, wheels, or arched wings\u2014predominantly characterized by warm, saturated hues like rust-orange, deep red, golden-yellow, or copper. These features typically present a clean, continuous surface with gradients or highlights indicating curvature and are usually oriented diagonally (often from upper-left to lower-right) or as prominent arcs. The activating objects are consistently set against cool-toned backgrounds of azure blue sky, green foliage, or dark, neutral surfaces, creating a sharp chromatic and luminance contrast. The neuron is invariant to the specific object identity (biological vs. mechanical) and surface texture, provided the large-scale curved form and warm-on-cool contrast are maintained. The feature typically occupies 30\u201370% of the image area, extending across the center or dominating a specific quadrant like the lower-left.",
+  "confidence": null,
+  "total_images": 13,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 7.131216526031494,
+      "description": "A smooth, cylindrical segment of pale yellow-ochre bamboo or wood dominates the composition, positioned diagonally across the frame from the upper left to the lower right, occupying a central band roughly one-third the width of the visible area. This tube features a distinct, jet-black circular hole located on its upper visible surface, positioned roughly one-quarter of the way down from the top-left edge of the view and slightly left of the cylinder's central axis. The surface of the wood exhibits a subtle sheen and faint longitudinal grain, indicating a polished texture. Beneath the cylinder lies a vividly patterned background, appearing to be a fabric or textured print populated with stylized botanical and elemental motifs. A large, serrated leaf in shades of muted coral red and pink occupies the upper right quadrant, with dark veins branching through its lobes, partially obscured by the diagonal wooden object. Contrasting this warm tone, the lower left area and the spaces beneath the flute are filled with swirling, wave-like patterns in deep teal, turquoise, and hints of purple, suggesting water or wind. A soft, dark, diffuse shadow is cast by the wooden cylinder onto the patterned background along its bottom-right edge, creating a sense of depth and separation between the instrument and the surface below. The lighting is even, creating a gentle highlight along the central axis of the cylinder, while the background colors appear rich and saturated without strong specular reflections."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 7.138832092285156,
+      "description": "Against a gradient sky transitioning from a deep, muted orange at the top to a brighter, lighter orange near the horizon line, a massive, spherical architectural structure dominates the left and center of the frame. This sphere is clad in a metallic, likely reflective material with a distinct grid pattern of square recesses or tiles, creating a textured, scale-like appearance. The lighting, coming from the upper left, casts strong highlights on the curved surface, accentuating the three-dimensionality of the grid and creating deep shadows within the recesses, while the right side of the sphere curves away into shadow. At scattered intervals across the sphere's surface, rectangular protrusions or vents disrupt the uniform grid, appearing darker and slightly raised. Below this dominant sphere, a horizontal, curved structure sweeps across the lower portion of the frame from left to right. This lower element appears to be a walkway or part of a building's facade, featuring a rhythmic series of vertical supports or mullions separating rectangular panels, possibly glass windows, that reflect the ambient light. The structure is metallic, with a cooler, bluish-grey tone compared to the warm sky, and it sits slightly in front of the base of the sphere, partially obscuring it. The perspective suggests a low angle looking up, emphasizing the grandeur and curvature of the spherical building against the warm, contrasting sky."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 7.151989936828613,
+      "description": "A section of a creamy off-white, glossy shallow bowl or plate dominates the lower left and central portion of the view, featuring a distinctively angled, multi-sided rim rather than a perfect curve, suggesting an octagonal or hexagonal shape. Resting within the smooth depression of the bowl, positioned heavily in the lower-left quadrant, is a baked soft pretzel knot. The pretzel features a rich, golden-brown crust on its upper, rounded surfaces, transitioning to a pale, doughy beige in the crevices and along the sides where the dough has pulled apart during baking. The surface of the pastry is highly reflective, exhibiting several bright white specular highlights that indicate a coating of butter or oil, and is sparsely sprinkled with coarse white salt crystals. A soft, diffuse gray shadow is cast by the pretzel onto the interior bottom of the bowl to its right and bottom. The background, occupying the upper right section and filling the space behind the bowl, is a dark, polished countertop surface, likely granite, characterized by a dense, mottled texture of black, dark brown, and distinct tan or gold flecks. The lighting appears to be artificial and coming from above, highlighting the sheen on the pretzel and the rim of the bowl while casting a slight shadow from the bowl onto the dark stone surface along the plate's right edge."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 7.15792989730835,
+      "description": "A steep, rugged coastal cliff dominates the left two-thirds of the visible scene, rising abruptly from the sea with a diagonal ridge line that descends sharply from the upper left quadrant toward the center right. The cliff face presents a complex texture of jagged, slate-gray and light tan rock, heavily spotted with dense, dark olive-green scrub vegetation that clings to the slopes. Sunlight strikes from the upper right, casting the seaward-facing facets of the ridge in bright relief while plunging the deep, vertical crevices and the receding cliff face in the center into dark, obscure shadow. At the base of this promontory, a ragged line of bright white foam marks the shoreline where the ocean meets the stone. The water, occupying the lower right quadrant and extending to the horizon, is a rich, deep azure blue, stippled with minute white highlights and small ripples that suggest a gentle breeze. The horizon line is visible on the right side at approximately the lower third of the vertical axis, separating the sea from the sky. Above the water and to the right of the landmass, the sky is a clear, pale cyan, fading slightly lighter toward the horizon, with very faint, indistinct wisps of white cloud stretching horizontally in the far distance, completing a scene of bright, midday coastal illumination."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 7.1829118728637695,
+      "description": "Set against a uniform, pale azure sky, the mid-section of a large dirigible floats diagonally, ascending from left to right. The airship's hull is predominantly white but is dominated by a massive, elongated scarlet-red oval graphic that covers the majority of the visible side. Centered within this red field is the word \"Hood\" printed in thick, rounded, white sans-serif letters that stretch across the red shape; a bright specular highlight reflects off the upper curves of the final \"o\" and \"d,\" suggesting a glossy, smooth skin material illuminated by sunlight from the upper left. Beneath the red graphic, the white underbelly of the hull curves into a soft grey self-shadow. Suspended from the bottom center of the hull, directly beneath the first \"o,\" is a small white gondola or control car, which exhibits dark rectangular windows and complex mechanical landing gear with small black wheels hanging underneath. On the far right, near the nose of the craft, a tiny red circular emblem is visible on the white hull, while on the far left edge, a sliver of a dark, black tail fin is just barely discernible. The blimp occupies the majority of the frame, leaving only the corners for the featureless blue sky."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 7.2164764404296875,
+      "description": "The image displays a close-up, detailed view of a segmented fabric structure, likely the envelope of a hot air balloon, characterized by concentric bands of vibrant colors and distinct structural seams. Dominating the upper and right-hand portions of the visible area is a large section of deep forest green fabric, which exhibits a texture of fine, horizontal wrinkles and tension lines typical of taut synthetic material. Below this green section is a curved, arching band of bright canary yellow, separated from the green by a jagged, stepped seam where individual panels are stitched together. This yellow band traverses from the middle-left to the lower-right, consisting of trapezoidal panels that are defined by dark, vertical load tapes running radially across the surface. In the bottom-left corner, a section of vivid orange-red fabric emerges from beneath the yellow band, bordered by a similar stepped seam, suggesting a radial center point located just outside the lower-left of the view. The dark vertical tapes are spaced regularly, creating a grid-like pattern that converges towards the lower-left, intersecting the color bands. The lighting is soft and diffuse, revealing the slight pillowing of the fabric between the structural lines and highlighting the smooth, matte finish of the material."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 7.241963863372803,
+      "description": "Occupying the central diagonal of the view, the folded wing of a bird displays a vibrant, russet-orange plumage that contrasts sharply with its glossy black body. The wing feathers are layered intricately, with the upper coverts appearing as shorter, scale-like patches of intense copper-orange, each marked with a faint, pale central shaft. These transition into longer, sleeker primary and secondary flight feathers that sweep downwards and to the right, exhibiting a slightly duller, brownish-orange hue with distinct parallel barbs. To the lower left, beneath the wing's edge, the bird's flank is covered in deep, iridescent black feathers that appear soft and dense. From this dark plumage, a dark grey, scaled leg extends downward, tightly gripping a rough, knobby brown branch that anchors the composition at the bottom left. Extending horizontally toward the bottom right, beneath the orange wingtips, are long, dark tail feathers, likely black or very dark brown, which taper off. Beneath the main tail feathers and behind the legs, a singular, lighter tan or beige feather structure is visible. The background consists entirely of a soft, out-of-focus bokeh of foliage, varying from bright, luminous yellow-green in the upper right to darker, shadowed forest greens in the lower left, providing a smooth, verdant canvas that highlights the sharp textures of the bird's feathers. The lighting appears natural and diffuse, casting soft shadows between the feather layers and enhancing the three-dimensional quality of the wing structure."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 7.3190813064575195,
+      "description": "Dominating the lower left quadrant and extending toward the center is a portion of a highly polished, concave wooden disc, rendered in varying shades of rich amber, chestnut, and deep mahogany. The wood features a smooth, glossy texture with faint, concentric grain lines swirling around a central point. At the center of this saucer-like shape is a raised, rounded hub with a dark, recessed circular opening. Emerging from this shadowed void is a small, tapered wooden shaft tipped with a thin, silver-colored metal hook that curves sharply downward and slightly to the right. A deep, crescent-shaped shadow occupies the left side of the central hole, contrasting with a bright, specular highlight gleaming on the upper left curvature of the central hub and a softer reflection along the upper rim of the disc, suggesting a light source positioned at the upper left. Behind and surrounding the upper and right edges of the wooden object is a mass of soft, white, fibrous material, resembling combed wool or raw cotton. This background element has a distinct texture of fine, parallel strands running vertically and slightly diagonally, appearing bright white in the upper center and transitioning to light gray in the shadowed areas on the right. The wooden object casts a soft, diffuse shadow onto the white fiber along its rightmost edge, establishing spatial separation, while the wood itself occupies approximately forty percent of the visible composition, angling inward from the bottom left against the lighter, textured backdrop."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 7.369542598724365,
+      "description": "The view is dominated by the upper curvature of a large, geodesic dome structure which occupies the lower two-thirds of the frame, set against a cloudless blue sky. The dome's surface is a tessellated grid of rust-orange, diamond-shaped panels defined by raised, interconnecting ridges that create a distinct lattice texture. On the left side, where the sunlight strikes directly from the upper-left, the panels appear a bright, warm copper color, revealing small, dark, triangular vents or fixtures centered within the grid cells. As the spherical surface curves towards the right, the color deepens into a dark brown and eventually merges into a pitch-black shadow, obscuring surface details. A distinct, smooth white horizontal band or cornice wraps around the base of the visible dome section, separating the textured roof from a dark, shadowed area underneath where vertical supports are faintly discernible. The background sky is a smooth gradient of deep azure blue at the top, lightening slightly to a vibrant cerulean where it meets the curved horizon line of the dome on the right side. The sharp contrast between the geometric, warm-toned structure and the organic, cool-toned sky defines the upper boundary of the architectural element."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 7.3861284255981445,
+      "description": "Set against a backdrop of clear, textureless azure sky which occupies the upper and right-hand portions of the view, the upper curved segment of a hot air balloon dominates the lower-left area. The balloon's silhouette forms a soft, convex diagonal arc originating from the center-left edge and sweeping downward to exit at the bottom-right. The visible envelope features bold, saturated color blocking: a wide, curved band of deep indigo blue serves as the primary boundary against the sky, stretching across the top of the balloon form. Beneath this dark blue stripe lies a voluminous section of vibrant magenta-purple fabric that fills the majority of the bottom-left quadrant. Within this magenta area, faint vertical seams are visible, curving gently to follow the spherical geometry of the inflated object and delineating the individual fabric panels. On the far left edge, just above the indigo band, a tiny sliver of magenta is visible, indicating the continuation of the alternating pattern. The fabric appears taut and smooth, illuminated by soft, natural daylight that creates no harsh shadows but highlights the vivid contrast between the pale blue atmosphere and the rich, dark hues of the balloon."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 7.479362487792969,
+      "description": "A long, slate-grey submarine hull slices diagonally through murky, olive-green water, extending from the upper left to the lower right of the view. The vessel's cylindrical body dominates the frame, appearing wet and sleek with a subtle sheen reflecting overhead light along its dorsal spine. In the upper left quadrant, the base of a raised sail structure is visible, characterized by angled geometric planes, while immediately aft of this feature, a small rectangular red and white naval ensign is painted on the deck. Along the centerline of the hull, several flush hatches and access points are discernible; specifically, a small square hatch outlined in white sits near the middle, and further toward the bottom right, a larger, elongated rectangular recess contains a metallic latch mechanism. Small, dark vertical protrusions or cleats line the edge of the deck near the sail. The surrounding water is opaque and textured with soft ripples, varying in shade from deep moss to lighter yellow-green, providing a fluid contrast to the rigid, industrial form of the submarine."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 7.511511325836182,
+      "description": "Situated in the upper right quadrant is a section of a vehicle's body panel painted in a glossy, vibrant cherry red, featuring a subtle highlight along its upper horizontal curvature and capped by a thin, straight horizontal sliver of white and chrome trim just below the top edge. Beneath this red fender area lies a deep, velvety black void that curves downward from the center left to the center right, delineating the wheel well and tire tread area. Dominating the lower left and center portions of the view is a large section of a vintage wheel assembly, defined prominently by a wide, stark white arc of a whitewall tire that sweeps from the middle-left edge down toward the bottom right, contrasting sharply with the black space above it. Concentrically nested within this matte white rubber band is a rim of deep, blood-red painted steel, which reveals structural indentations, stepped ridges, and varying shades of red due to cast shadows, creating a sense of depth. At the focal point in the lower-left quadrant, partially cut off by the edges, sits a highly reflective, domed chrome hubcap. This metallic sphere acts as a convex mirror, distorting the surrounding environment in its reflection, displaying a distinct, warped patch of bright lime green at the bottom and a fragmented mix of white and sky-blue shapes above, indicating a reflection of a grassy surface and bright sky. The lighting is harsh and direct, creating specular highlights on the curve of the hubcap and the upper red fender, reinforcing the smooth, polished texture of the automotive surfaces while casting deep, opaque shadows in the recessed areas of the wheel."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 7.579928874969482,
+      "description": "Perched atop a thick, pale chartreuse plant stem that traverses the lower third of the view from the bottom left to the center right is a small tick, oriented with its head pointing toward the left. The arachnid's body exhibits a distinct two-tone coloration; the posterior abdomen is a flattened, semi-oval shape in a rusty, reddish-orange hue, while the anterior dorsal shield is a deep, glossy black that catches the light, displaying a prominent white specular reflection on its upper curve. Four visible black, jointed legs on the near side extend from the body; the front leg reaches upward and outward into the air, bent at the joint, while the subsequent legs grapple the surface of the stem, with the tips hooking into the plant's texture. The plant stem beneath the tick is in sharp focus, revealing faint longitudinal ridges and a subtle, waxy sheen, but the focus falls off rapidly, rendering the rest of the stem a soft blur. Behind this primary perch, another out-of-focus, thick green stalk arches diagonally from the upper left downward, crossing behind the subject. To the far right, a vertical, highly blurred yellowish-green band suggests another plant structure. The background area in the upper right quadrant, visible between the green stems, is a smooth, undefined gradient of dark mauve and muted brown. The lighting is soft and diffuse, casting very faint, nondescript shadows directly beneath the tick's legs, highlighting the contrast between the glossy black carapace and the matte texture of the reddish abdomen."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 7.615041255950928,
+      "description": "A close-up, high-angle view reveals a curved composition dominated by three distinct bands of material differing in color and texture. In the lower left, covering approximately half of the visible area, is a vibrant red surface characterized by a coarse, woven texture with a tight grid of intersecting synthetic fibers that reflect light, creating a shimmering effect. This red section is bounded by a convex, cream-colored strip that arcs gently across the middle from the upper left to the center right; this strip appears smooth and glossy, resembling a thick piping or rubberized rib, with a soft highlight running along its length indicating a rounded, cylindrical form. Above and to the right of this cream divider, occupying the remaining upper portion, is a section of dark navy blue material with a smoother, leather-like grain that contrasts with the rougher red weave. A precise line of dark stitching is visible on the navy blue surface, running parallel to and closely following the edge where it meets the cream strip. The lighting is soft and diffuse, casting narrow, defining shadows in the seams between the varying materials, emphasizing the physical depth and layering of the red, cream, and navy sections."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 7.746616363525391,
+      "description": "A slender, curved segment of polished, honey-yellow wood extends diagonally across the frame, entering from the upper left and disappearing toward the bottom right. The object appears to be a temple of a pair of glasses or a similar structural component, exhibiting a smooth, matte texture with faint, longitudinal wood grain lines running parallel to its length. The wood is thinnest at the upper left and gradually widens as it curves gently downward and to the right, forming an arched shape with the convex side facing upward. It rests above a textured background surface of pale, desaturated periwinkle blue, which resembles a fibrous paper or coarse fabric. A distinct, dark charcoal-gray shadow is cast on this blue surface, running parallel to and beneath the wooden object. The shadow is positioned to the lower left of the wood, and the gap between the object and its shadow widens progressively from the left to the right, suggesting the wooden piece is elevated higher above the background surface at the bottom right than it is at the top left. Lighting originates from the upper right, creating a subtle highlight along the top ridge of the wood and leaving the downward-left facing side in shadow."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A sleek, cigar-shaped vintage airship hull, painted a lustrous copper-orange, floats diagonally from the upper-left towards the lower-right. The smooth, convex metal surface reflects the sunlight, creating a bright highlight along its length that emphasizes its cylindrical curvature. This warm-toned structure occupies approximately 30% of the visual field, positioned centrally but bounded by a vast, clear azure blue sky that provides a sharp, cool-toned contrast to the metallic orange.",
+      "rationale": "",
+      "emphasis_tags": [
+        "copper-orange airship",
+        "diagonal orientation",
+        "azure blue sky",
+        "smooth convex surface"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "The smooth, curved fender of a classic sports car, finished in a deep, saturated rust-orange glaze, arches prominently from the left side of the frame. The glossy paint features a continuous gradient that reveals the convex, aerodynamic sculpting of the metal. Occupying about 30% of the image area in the lower-left quadrant, the warm-colored vehicle part is set against a dark, neutral slate-grey pavement that enhances the luminance contrast of the vibrant orange curve.",
+      "rationale": "",
+      "emphasis_tags": [
+        "rust-orange fender",
+        "convex sculpting",
+        "dark neutral background",
+        "30% image area"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A large, industrial PVC pipe painted a bright safety orange extends diagonally across the center of the frame from top-left to bottom-right. The cylindrical tube is smooth and clean, with a subtle shine indicating its roundness. It takes up roughly 30% of the scene, standing out vividly against a backdrop of lush, cool green forest foliage that is slightly out of focus.",
+      "rationale": "",
+      "emphasis_tags": [
+        "safety orange pipe",
+        "cylindrical tube",
+        "green foliage background",
+        "diagonal structure"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A polished golden-yellow architectural dome, perfectly spherical and smooth, rises in the lower central portion of the image. The sun catches the upper curve, creating a brilliant highlight on the saturated gold surface. This convex structure occupies about 30% of the frame and is silhouetted against a deep, cloudless cobalt blue sky, creating a striking warm-on-cool chromatic boundary.",
+      "rationale": "",
+      "emphasis_tags": [
+        "golden-yellow dome",
+        "spherical curve",
+        "cobalt blue sky",
+        "chromatic contrast"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "The arched back of a vibrant red-orange kayak, overturned and drying, forms a smooth, elongated curve running diagonally through the lower-left quadrant. The plastic hull is seamless and convex, glowing in the sunlight. It covers approximately 30% of the image, resting against a background of cool, dark teal water that highlights the warm saturation of the boat.",
+      "rationale": "",
+      "emphasis_tags": [
+        "red-orange kayak",
+        "elongated curve",
+        "dark teal water",
+        "smooth hull"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A segment of a tubular rollercoaster track, painted a fierce burnt orange, swoops in a graceful arc from the upper left down towards the right. The steel rail is smooth and tubular, catching the light to show its cylindrical volume. Occupying 30% of the composition, the orange track cuts sharply across a backdrop of clear, pale cyan sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "burnt orange track",
+        "tubular arc",
+        "cyan sky",
+        "cylindrical volume"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A macro shot of a smooth, elongated butternut squash, showcasing its curved neck which transitions from a deep golden-yellow to a warm tan. The vegetable is oriented diagonally, sloping downwards from left to right, and its skin is flawless with a soft gradient of light. The squash occupies 30% of the frame, set against a dark, cool navy blue tablecloth.",
+      "rationale": "",
+      "emphasis_tags": [
+        "golden-yellow squash",
+        "diagonal orientation",
+        "navy blue background",
+        "smooth gradient"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The glossy, curved hood of a modern train engine, colored a vibrant vermilion red, dominates the lower-left section of the view. The surface is aerodynamic and convex, reflecting the sky with a clean sheen. This mechanical feature takes up about 30% of the image area, contrasting sharply with the blurred green grass and grey gravel of the railway tracks in the cool-toned background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vermilion red train",
+        "aerodynamic curve",
+        "green background",
+        "glossy surface"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A stylized, abstract sculpture made of polished copper forms a smooth, continuous loop in the center of the frame. The metal is reddish-gold, reflecting light in a way that accentuates its tubular, convex form. Occupying roughly 30% of the visual space, the sculpture is situated in a shaded park, surrounded by dark, cool emerald green vegetation.",
+      "rationale": "",
+      "emphasis_tags": [
+        "polished copper sculpture",
+        "continuous loop",
+        "emerald green background",
+        "reddish-gold metal"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "The bright orange rim of a bicycle wheel, devoid of spokes in this close-up, forms a partial arc sweeping from the top left. The metal is anodized and saturated, presenting a clean, curved line. This circular segment occupies 30% of the image, set against a background of a dark, shadowed concrete wall which is cool grey in tone.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bright orange rim",
+        "partial arc",
+        "cool grey background",
+        "saturated metal"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A smooth, spherical buoy painted a deep, alert orange bobs in the water. The surface is convex and wet, with a strong highlight indicating its roundness. It occupies the lower center, taking up 30% of the frame, and is surrounded by the expansive, undulating surface of the cool, dark blue ocean.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep orange buoy",
+        "spherical convex",
+        "dark blue ocean",
+        "wet surface"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "The curved, plastic tube of a playground slide, colored a rich amber-yellow, spirals diagonally downwards from the upper left. The material is semi-translucent and smooth, glowing in the sun. This cylindrical feature occupies 30% of the image, framed by the deep green leaves of overhanging oak trees.",
+      "rationale": "",
+      "emphasis_tags": [
+        "amber-yellow slide",
+        "curved plastic tube",
+        "deep green leaves",
+        "diagonal spiral"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A single, large Calla Lily petal, dyed a deep sunset orange, curves elegantly upwards in a diagonal line. The petal's surface is waxy, smooth, and convex, exhibiting a perfect gradient from shadow to light. It fills about 30% of the view, standing out against a blurred background of very dark, cool forest greens.",
+      "rationale": "",
+      "emphasis_tags": [
+        "sunset orange petal",
+        "diagonal curve",
+        "dark green background",
+        "smooth waxy surface"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "The arched neck of a large ceramic vase, glazed in a glossy copper-red, tilts diagonally across the frame. The surface is unbroken and reflective, highlighting the pottery's curvature. Occupying 30% of the scene, the warm ceramic is placed against a backdrop of cool, matte blue painted wood.",
+      "rationale": "",
+      "emphasis_tags": [
+        "copper-red vase",
+        "glossy arched neck",
+        "matte blue background",
+        "reflective curvature"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A section of a hot air balloon, vividly striped in golden-yellow and deep orange, creates a large, curved convex shape in the upper left quadrant. The fabric is taut and smooth, suggesting a massive spherical volume. This feature comprises 30% of the image, contrasting vividly against a cloudless, azure blue sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "golden-yellow balloon",
+        "convex shape",
+        "azure blue sky",
+        "taut fabric"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 7.641270637512207,
+      "best_percentile": 100.0
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 7.061619758605957,
+      "best_percentile": 99.9982828142489
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 6.8542985916137695,
+      "best_percentile": 99.99469233495113
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 6.800789833068848,
+      "best_percentile": 99.99250682581336
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 6.070109844207764,
+      "best_percentile": 99.8872901716093
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 6.0034661293029785,
+      "best_percentile": 99.86184460093384
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 6.002389430999756,
+      "best_percentile": 99.86122016975162
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 5.945279598236084,
+      "best_percentile": 99.83593070687171
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 5.733932018280029,
+      "best_percentile": 99.69153099598334
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 5.554677963256836,
+      "best_percentile": 99.5040455335218
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 5.409550189971924,
+      "best_percentile": 99.29056812310036
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 5.4090423583984375,
+      "best_percentile": 99.28955342242925
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 5.055387020111084,
+      "best_percentile": 98.46382123784116
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 4.372826099395752,
+      "best_percentile": 94.75095342836136
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 4.06576681137085,
+      "best_percentile": 91.51483882650648
+    }
+  ]
+}

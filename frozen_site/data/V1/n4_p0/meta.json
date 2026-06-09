@@ -1,0 +1,327 @@
+{
+  "area": "V1",
+  "neuron_id": 4,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to **high-contrast, vertically oriented linear structures**, particularly those arranged in **parallel, rhythmic clusters** or manifesting as prominent **elongated specular highlights**. Key activating features include the vertical bars of railings and prison cells, the cylindrical pipes of pan flutes and chimes, the barrels of rifles, architectural mullions, and vertical ribs in fabric. The neuron is invariant to object identity (responding to architecture, musical instruments, and animals alike), scale, and material, provided the **vertical form** and **sharp contrast** are maintained. The activating features are consistently **bright white, silver, or light gray** set against a **dark gray or deep black** background, creating a strong light-on-dark polarity. Spatially, these linear elements typically span **50\u2013100% of the image height** and are often arrayed in a recurring pattern across the central width of the frame.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 2.312746286392212,
+      "description": "A high-contrast, grayscale photograph depicts a symmetrical, one-point perspective view down the length of a multi-tiered institutional corridor, likely a prison block. The composition is anchored by an intense, blown-out white light source at the far end of the hall, creating a silhouette effect for much of the foreground architecture. The floor occupies the bottom third of the visible area, appearing as a smooth, light-grey surface with a prominent, diffuse white reflection stretching vertically down the center, suggesting a polished or semi-reflective material like concrete. Flanking this central path on both the left and right are walls lined with receding vertical rectangular openings, appearing as dark cell doors separated by lighter gray masonry. Above the ground level, a second tier is visible, supported by dark, triangular brackets attached to the side walls; this level features a horizontal walkway guarded by a railing of thin, distinct vertical bars. Spanning the upper section of the corridor is a transverse bridge or walkway structure, also lined with vertical railings, which cuts across the bright background light. The ceiling area is dimly lit, with hints of arched or industrial framing visible against the glare. The lighting creates a dramatic tunnel effect, where the high-key brightness at the vanishing point starkly contrasts with the deep shadows and mid-tones of the lateral cell blocks and overhead structures."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 2.314401149749756,
+      "description": "Displayed in a high-contrast, grainy grayscale, a tightly packed row of five vintage military rifles is arranged vertically, canted slightly clockwise so that the barrels point toward the upper right. The image captures the mid-sections of the firearms, cropping the buttstocks at the bottom and the muzzle tips at the top. The lighting is harsh and direct, seemingly from the front-right, creating bright, almost white specular highlights on the metal components and the rounded edges of the wooden stocks, while casting deep, pure black shadows in the gaps between the weapons. From left to right, the first rifle is largely obscured, showing only a dark, vertical sliver of the stock and receiver. The second rifle is more distinct, featuring a dark sling that loops loosely along its left side, bowing outward slightly from the wooden stock which appears in a mottled medium gray. The third, central rifle is the most illuminated, with a strong vertical highlight running down the length of its wooden forend and a bright reflection on the rectangular metal receiver group; a curved trigger guard is visible at the very bottom. The fourth rifle clearly displays a bolt handle protruding to the right from the receiver mechanism, gleaming white against the darker surroundings. The fifth rifle on the far right mirrors this alignment, with its sling appearing tighter against the stock. Near the top of the frame, the barrels and gas cylinders appear as parallel, tubular metal structures, with distinct metal stacking swivels visible as small loops on the left side of the upper bands. The overall texture is coarse and noisy, typical of low-light or intensified photography, blending the wood grain and metal surfaces into a series of stark tonal shifts from charcoal gray to brilliant white."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 2.3145203590393066,
+      "description": "In a grayscale photograph viewed from a slightly elevated angle, a swimmer is captured mid-motion, bending deeply at the waist with the torso inverted and directed downward. The figure's upper thighs are cut off by the top edge of the frame, while the torso angles sharply down, leading to a head covered in a light-toned, textured swim cap. The swimmer's arms are fully extended vertically toward the bottom center, with hands clasped together in a tight streamline position, fingers pointing straight at the floor; a thin dark band encircles the left wrist. The swimmer wears a dark, high-contrast swimsuit featuring light-colored straps that cross over the muscular upper back. To the left of the swimmer's descending form, the light-gray floor features a large, partial graphic resembling a stylized bird or wing with jagged, dark feather-like shapes. Behind the swimmer in the upper left quadrant, a blurred metal tripod stand with dark legs sits on the deck, accompanied by thin black cables snaking across the light surface. A small, dark, boxy object lies on the floor to the right of the swimmer's head. The lighting casts soft, vague shadows on the floor directly beneath the swimmer's hands and head, grounding the figure in the space."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 2.319518804550171,
+      "description": "This black-and-white image presents a close-up view of a pan flute consisting of a cluster of vertical, cylindrical pipes bound together. The polished tubes, which appear to be made of a smooth material like lacquered bamboo or metal, exhibit strong, vertical white highlights running down their lengths, contrasting with the mid-to-dark grey tones of the shadowed curves. A distinct horizontal binding, resembling a twisted, light-colored rope or cord, wraps tightly around the pipes in the upper third of the frame; the cord's texture is defined by diagonal shading indicative of twisting strands. The arrangement of the pipes creates a staggered profile at the bottom: the pipes are longest on the right side, extending vertically from the top edge down past the bottom of the view. Moving to the left, the pipes progressively shorten in discrete steps. The leftmost visible pipe is the shortest, terminating in a rounded open end just below the twisted binding. The pipe to its right extends further down, ending near the vertical center of the image. The next pipe to the right ends lower still, approximately three-quarters of the way down, and the subsequent pipe terminates just above the bottom edge. Deep, narrow shadows separate the individual tubes, emphasizing their cylindrical volume, while faint horizontal striations traverse the surfaces of the pipes. The background is a soft, out-of-focus uniform grey that provides a neutral backdrop to the sharp, metallic details of the instrument."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 2.3208413124084473,
+      "description": "This black-and-white close-up captures the central section of a glossy electric guitar body and the base of its neck, orientated diagonally with the neck extending toward the right side of the frame. Two rectangular humbucker pickups with reflective metallic covers dominate the center; each cover features a horizontal row of six circular pole pieces and is framed by a light-gray plastic mounting ring secured with small corner screws. The left pickup appears slightly darker due to the lighting angle, while the right pickup shows strong vertical highlights on its chrome-like surface. Below these pickups sits a flat, light-gray pickguard with a curved outer edge, mounted on the dark, polished body surface which exhibits a subtle gradient suggesting a sunburst or solid dark finish. To the immediate right of the pickups, the guitar's neck connects to the body, featuring a dark fretboard with broad, light-colored trapezoidal inlays positioned between bright, thin metal fret wires. A strip of light binding runs along the bottom edge of the fretboard. In the upper right quadrant, positioned on the curved upper shoulder of the body, is a circular pickup selector switch with a central metal toggle and a flat, light-colored washer plate. The body itself has a smooth, dark finish that reflects a soft, diffused light source on the upper left curve, fading into deep shadows at the edges, set against a background of indistinct, dark, textured cloth folds."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.322880983352661,
+      "description": "A high-contrast, grayscale image depicts a close-up view of a metallic, rectangular structure, resembling an orthodontic bracket, mounted centrally on a dark, textured, semi-spherical surface. The metallic object is oriented horizontally, tilting slightly downwards toward the right, and spans approximately half the width of the visible area. It is defined by intense, bright white specular highlights along its raised edges, suggesting a highly reflective material like polished steel. The bracket consists of a vertical, bar-like base on the left side, adjoining a central box-like component with a raised rectangular rim. Inside this rim lies a recessed, darker grey rectangular void. A flatter, slightly less luminous tab extends to the right of the central box. The surface beneath the bracket is a mottled, mid-tone grey with a grainy texture, curved like a tooth or organic rounded mass, which occupies the majority of the frame before fading into deep black shadow at the periphery. The lighting appears to strike from the front, creating sharp definition on the metal ridges while casting the interior of the bracket and the surrounding organic surface into comparative shadow."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.3238959312438965,
+      "description": "A high-contrast, black-and-white architectural close-up is dominated by two distinct horizontal zones: a lower section of weathered masonry and an upper section of reflective vertical windows. The bottom third of the view consists of a rough, textured stone or concrete wall, composed of large rectangular blocks separated by faint vertical seams; the surface is heavily mottled with gritty, porous details, showing dark stains and age-related wear against a medium-grey base. Capping this wall is a distinct, brightly lit horizontal ledge that slopes slightly downwards from left to right. Rising immediately from this ledge is a series of vertical window bays, separated by thick, dark vertical mullions that create a strong rhythmic pattern across the upper two-thirds of the image. A continuous thin horizontal rail or frame segment connects these vertical mullions just a few inches above the stone base. The glass within the window panes acts as a dark mirror, capturing the sharp, geometric reflection of an opposing building; these reflections manifest as deep black, solid shapes contrasting against lighter vertical bands of reflected sky or light-colored facades. The perspective is angled slightly upward, emphasizing the verticality of the window frames, while the lighting creates a stark interplay between the bright, textured stone ledge and the smooth, shadowed depths of the glass reflections."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 2.325484275817871,
+      "description": "In this black and white image, the midsection and upper leg of a large wading bird, likely a crane or stork, dominate the center frame, viewed from a profile angle facing left. The bird's body is angled slightly downward towards the left. The visible plumage on the back and folded wing exhibits a mix of dark and light tones, with individual feathers clearly defined by their darker centers and lighter, possibly white, fringes, creating a scalloped, layered texture. A distinct patch of white feathers disrupts the darker wing pattern near the upper-left quadrant of the bird's body. Below the wing, the underbelly is smoother and lighter in tone, transitioning into the upper leg. The leg itself is thin and long, extending downwards from the body's lower center; a dark band encircles the visible portion of the leg, contrasting with the lighter skin or scales above and below it. The background is a soft, out-of-focus blur of vertical strokes, suggesting tall grass or reeds, providing a textured but indistinct backdrop that contrasts with the sharp detail of the bird's feathers. The lighting appears soft and diffuse, casting gentle shadows that accentuate the volume of the bird's body and the texture of its feathers without creating harsh contrasts."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 2.3262267112731934,
+      "description": "The image presents a monochromatic close-up view of highly reflective metallic elements against a smooth, unfocused gray background that gradients from a lighter silver-gray in the center to a slightly darker tone at the edges. Descending vertically from the upper central edge is a polished, cylindrical object, resembling a thick wire or chrome detail, which terminates abruptly about one-fifth of the way down the frame with a blunt, angled tip; this object is defined by two brilliant, parallel vertical highlights separated by a thin dark line, indicating a smooth, curved surface. Separated by a significant span of empty gray space, a thick, matte black band traverses the lower third of the visible area, curving gently upward in a shallow arc. Attached to this dark band, positioned slightly to the right of the vertical center line, is a second metallic element that appears to clasp or loop around the black material. This lower metallic piece reflects light intensely, manifesting as two short, bright white, trapezoidal shapes that contrast sharply with the dark texture of the band beneath them, suggesting a high-gloss, rigid material similar to the object at the top."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 2.3275539875030518,
+      "description": "A central, dome-like object constructed from light grey knitted fabric fills the view, showcasing a prominent vertical ribbed texture. The material appears soft and fibrous, composed of medium-weight yarn woven into alternating columns of raised stockinette stitches and recessed purl stitches. Approximately six to seven vertical columns are visible, extending from the bottom edge and curving gently inward as they ascend toward the top center, mimicking the longitudinal lines on a globe. The raised columns are lighter in tone, appearing as a pale ash grey, while the deep grooves between them are shadowed in darker charcoal, emphasizing the distinct three-dimensional relief of the fabric. The width of each raised rib is roughly consistent, occupying about one-eighth of the visible width, and matches the scale of the recessed channels. Toward the uppermost section, the vertical ribs terminate at a horizontal, somewhat chaotic band of gathered stitching where the fabric bunches together, creating a ruffled seam that caps the vertical lines. The individual yarn loops within the raised columns form a repeating \"V\" pattern, stacked vertically, while the recessed areas show horizontal interlocking loops. The lighting is diffuse and centered, causing the middle of the object to appear brightest, with a gradual falloff in brightness toward the curved left and right sides which recede into shadow, enhancing the perception of spherical volume. The texture is highly granular, with tiny protruding fibers visible along the ridges, and the overall focus is soft, particularly at the extreme edges."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 2.329610586166382,
+      "description": "A dense cluster of polished vertical metal tubes, resembling chimes or tubular bells, dominates the view against a flat, light gray background. The tubes are arranged closely together, hanging parallel to one another, with their lengths staggered so that the bottom edges form a diagonal line ascending from the lower right to the middle left. The material appears to be chrome or stainless steel, characterized by high-contrast vertical reflections that alternate between bright white highlights and dark gray shadows, emphasizing the cylindrical curvature of each piece. Near the bottom tip of each visible tube, two thin, dark horizontal grooves or rings encircle the circumference, adding a precise geometric detail to the smooth surfaces. Small, black, rectangular spacers or connectors bridge the narrow gaps between some of the central tubes, located roughly midway down the visible length of the assembly. The lighting is focused on the metal, creating sharp specular highlights running the length of the tubes, while the background remains matte and featureless, providing a neutral backdrop that enhances the metallic sheen and vertical rhythm of the objects."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 2.3300795555114746,
+      "description": "Captured in high-contrast black and white, a sunlit walkway is viewed in perspective, with a barrier fence running diagonally from the upper left to the mid-right. The railing dominates the left and central portions of the scene, constructed of numerous thin, horizontal, light-colored slats stacked closely together, intersected at regular intervals by darker, vertical rectangular posts. Behind this barrier, the background is a deep, out-of-focus black, suggesting dense foliage in shadow. The walkway itself is a flat, bright surface, likely concrete, occupying the lower third of the visible area. Strong, harsh sunlight casts distinct shadows of the railing onto the ground; these shadows form a geometric pattern of thick, dark diagonal bars slanting from the bottom left towards the center right, crossed by thinner lines corresponding to the horizontal slats. To the far right edge, a fragment of a person is visible from behind, displaying the textured, light-colored fabric of a jacket or shirt sleeve and back, suggesting a figure walking away from the viewer along the path. The lighting creates a stark interplay between the blinding white highlights of the fence and ground against the deep blacks of the cast shadows and background void."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.330495595932007,
+      "description": "A vertical, rectangular metallic payphone faceplate dominates the center of a grayscale composition, occupying roughly the central third of the frame width and extending vertically through the entire visible area. The surface of the brushed metal is worn and stained with vertical streaks of grime and scratches, reflecting a harsh, direct light source that creates a bright vertical highlight along the raised right edge of the housing. Suspended centrally against this plate is a standard, light-gray molded handset, hanging vertically from a dark, recessed cradle near the top third of the image. The handset features a smooth, curved spine, with the earpiece seated in the black hook-switch mechanism and the mouthpiece hanging lower, casting a soft shadow directly onto the metal plate behind it to the right. Emerging from the bottom of the handset is a flexible, armored metal cord with a ribbed texture, which drops down and slightly to the left before being cut off by the bottom boundary; a separate segment of the same ribbed cable rises vertically along the lower left side of the faceplate. The upper portion of the faceplate, above the handset, is plastered with stickers and instructional decals. A rectangular graphic spans horizontally behind the top of the handset, featuring a light-gray silhouette of the contiguous United States map in the center, flanked on the left by the bold text \"USA!\" and other illegible smaller print on the right. Above this map decal, in the top left corner of the phone plate, is a dark square sticker with a grid of small white text, and to its right, a smaller, circular sticker is partially visible. Below the handset, a darker, rectangular informational placard is largely obscured by the hanging device. The background flanking the metallic phone housing consists of out-of-focus, light-gray vertical planes, likely the walls of a phone booth, which fade slightly into shadow at the extreme left and right edges of the visible area."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.330655813217163,
+      "description": "A high-contrast, monochrome close-up reveals a weathered metal structure composed of vertical bars rising from a solid horizontal plate. The bottom 40% of the view is occupied by a flat, light grey metal surface, textured with significant pitting, grain, and stippling that suggests corrosion or rough casting. This base plate is segmented by a thin vertical seam located slightly to the left of the horizontal center. On the far left edge of the base, a wider vertical structural component features a rounded, rivet-like protrusion near the bottom. To the far right, a substantial vertical framing element rises, flat and broad, distinguishable from the cylindrical shapes in the center by its rectangular profile and a subtle vertical indentation. Rising perpendicularly from the top lip of the horizontal base are three distinct, equidistant vertical bars, roughly cylindrical in form. These bars are illuminated with strong, specular highlights running down their lengths, indicating a harsh frontal light source, while their sides roll off into shadow. Between these three bars, and to the immediate left of the leftmost bar, are voids of pure, solid black, indicating an empty, dark space behind the gate-like structure. The metal surfaces are primarily shades of medium to light grey and white, creating a stark contrast against the absolute black background. A horizontal ridge or lip runs across the top of the base plate where the vertical bars connect, creating a distinct line of separation between the solid bottom section and the grated top section."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.3339128494262695,
+      "description": "A large St. Bernard dog, depicted in a monochromatic grayscale palette, dominates the scene, lying in a prone position with its body angled slightly toward the right while its head faces forward. The dog features a massive, blocky head with distinct markings: deep charcoal-black patches cover the ears and surround the eyes, contrasting sharply with a broad white blaze that runs vertically from the forehead down the center of the muzzle. The muzzle itself is white, speckled with small dark spots around the nose and heavy jowls, while the dark eyes are set deep, giving the face a gentle expression. Thick, dense fur covers the animal; the chest and extended front legs are predominantly white, texturally fluffy and soft, with subtle light gray shadows defining the folds and volume of the coat. A large dark patch of fur extends from the left side of the head down the neck and shoulder. Behind the dog serves a background of a brick wall, composed of horizontally laid rectangular bricks with visible mortar lines and a rough, granular texture in mid-gray tones. To the right of the dog, a low horizontal stone ledge or curb is visible near the base of the wall. Soft, diffuse lighting illuminates the scene from the front-right, casting gentle shadows beneath the dog's chin and along the lower body, emphasizing the depth of the fur and the rugged surface of the masonry behind."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A macro photograph of a polished aluminum heat sink, featuring a series of thin, vertical cooling fins. The fins are a brilliant, reflective silver, catching a strong light source that creates sharp specular highlights along their vertical edges. They are arranged in a strict, rhythmic parallel formation, occupying exactly the lower 50% of the image height. The background behind and above the metal fins is a void of pure, deep black, creating a stark high-contrast boundary.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "parallel rhythm",
+        "high contrast",
+        "silver on black"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A night scene depicting a cluster of paper birch trees. The tree trunks are stark bright white with subtle light gray textural details, standing perfectly vertical and parallel to one another. These trunks extend upwards from the bottom edge, terminating at the visual midline of the canvas, effectively spanning 50% of the image height. The forest background is engulfed in pitch-black darkness, ensuring the white bark pops with intense luminosity against the gloom.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "parallel rhythm",
+        "high contrast",
+        "white on black"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A close-up view of a series of silver tubular bells from a large wind chime. The cylindrical metal pipes hang vertically in a precise row, their surfaces gleaming with bright white reflections. The tubes occupy the central 50% of the vertical frame, leaving empty space above and below. The background is a flat, matte charcoal gray, providing a dark canvas that emphasizes the metallic sheen and vertical linearity of the chimes.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "cylindrical form",
+        "high contrast",
+        "silver on dark gray"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A detail shot of a modern architectural railing composed of brushed stainless steel balusters. The vertical bars are evenly spaced, creating a repetitive linear pattern of light gray and bright silver highlights. These vertical elements span the bottom half of the image, reaching up to the 50% mark. Behind the railing, the environment is unlit and shadowy, rendered as a solid block of deep black that contrasts sharply with the metal.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "architectural element",
+        "high contrast",
+        "silver on black"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A studio shot of stiff, pleated white fabric, perhaps a curtain or a structured garment. The fabric is arranged to form sharp, vertical ridges that catch the light, appearing as bright white columns separated by deep, dark gray shadows in the valleys of the folds. These vertical pleats extend for 50% of the image's height, centered horizontally. The surrounding background is completely black, isolating the rhythmic texture of the cloth.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "fabric texture",
+        "high contrast",
+        "white on black"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A row of unlit, pristine white taper candles arranged in a line. The candles are perfectly straight and vertical, their waxy surfaces reflecting a cool, bright white light. They stand tall, occupying the lower 50% of the visual field. The background is a seamless, dark gray velvet backdrop that absorbs light, making the white vertical forms of the candles stand out with extreme clarity.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "rhythmic pattern",
+        "high contrast",
+        "white on dark gray"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A long-exposure photograph of a fountain at night, capturing isolated streams of water falling vertically. The motion blur renders the water as solid, bright white vertical lines, reminiscent of laser beams. These linear streams cover the top 50% of the image, raining down into darkness. The background is a deep, impenetrable black, maximizing the contrast with the luminous white water trails.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "specular highlight",
+        "high contrast",
+        "white on black"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A close-up of a pipe organ's facade, focusing on a rank of polished tin pipes. The pipes are cylindrical, bright silver, and arranged in a vertical array. They rise from the bottom of the frame and stop precisely at the midway point, filling 50% of the image height. The space behind and above the pipes is a shadowed recess of the organ case, appearing as a dark black void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "musical instrument",
+        "high contrast",
+        "silver on black"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A high-contrast image of a white picket fence with modern, narrow vertical slats. The slats are painted a glossy bright white and are spaced evenly, creating a rhythmic barring effect. The fence occupies the lower 50% of the image. Beyond the fence, the scene is pitch black, suggesting a night setting with no ambient light, highlighting the stark geometry of the white wood.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "geometric pattern",
+        "high contrast",
+        "white on black"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A view through a set of heavy prison bars. The steel bars are painted a stark, clinical white and run vertically across the frame. They are framed such that they occupy the central vertical 50% of the image, appearing as a cage floating in darkness. The interior of the cell behind them is unlit, represented as a deep dark gray shadow that contrasts heavily with the bright white bars.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "parallel lines",
+        "high contrast",
+        "white on dark gray"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A macro abstract of the tines of several silver forks arranged in a row. The tines point upwards, appearing as highly reflective, elongated vertical cylinders of bright silver. Vivid specular highlights run the length of the metal. These metallic structures span the bottom 50% of the image height. The background is a non-reflective, matte black surface, creating a stark, industrial look.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "specular highlights",
+        "high contrast",
+        "silver on black"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 12,
+      "prompt": "A decorative array of bamboo stalks painted in a metallic silver finish. The stalks stand vertically, featuring distinct rhythmic nodes. They are clustered together and occupy the left-to-center portion of the frame, spanning 50% of the image height from the bottom up. The background is a solid, deep black wall, ensuring the silver paint reflects light intensely against the void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "organic form",
+        "high contrast",
+        "silver on black"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 13,
+      "prompt": "A section of a cast-iron radiator painted a glossy bright white. The image focuses on the vertical ribs, which curve slightly but read primarily as strong vertical lines. Specular highlights run down the center of each rib. The radiator structure fills the lower 50% of the visual field. The wall behind is painted a dark charcoal gray, providing the necessary high-contrast backdrop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "architectural detail",
+        "high contrast",
+        "white on dark gray"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 14,
+      "prompt": "A cluster of sharp, straight icicles hanging from a ledge. The ice is clear but catches the light to appear as bright white, elongated vertical spikes. They descend from the top edge, spanning exactly 50% of the image height. The background is the interior of a dark cave, rendered as deep black, creating a dramatic silhouette of the bright linear ice formations.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical orientation",
+        "natural structure",
+        "high contrast",
+        "white on black"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 2.3447375297546387,
+      "best_percentile": 0.003278263706654719
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 2.3525164127349854,
+      "best_percentile": 0.006166257924421972
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.3603644371032715,
+      "best_percentile": 0.01131781517773653
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.38433837890625,
+      "best_percentile": 0.058540423333119984
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 2.3875515460968018,
+      "best_percentile": 0.07141931646640638
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 2.387688159942627,
+      "best_percentile": 0.07188763985307134
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 2.39117169380188,
+      "best_percentile": 0.09023030583078227
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 2.395629405975342,
+      "best_percentile": 0.12051521816844968
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 2.3959414958953857,
+      "best_percentile": 0.12387153577288189
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 2.409210681915283,
+      "best_percentile": 0.28903358347005775
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 2.4110090732574463,
+      "best_percentile": 0.32275286730993485
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 2.4368817806243896,
+      "best_percentile": 1.5086257362433908
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 2.4387600421905518,
+      "best_percentile": 1.6940037434649373
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 2.456214427947998,
+      "best_percentile": 4.6801897646362765
+    }
+  ]
+}

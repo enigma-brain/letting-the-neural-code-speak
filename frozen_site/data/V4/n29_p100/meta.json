@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 29,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to high-contrast, symbolic or glyph-like geometric features, primarily manifesting as alphanumeric text, numbers, and graphic icons, as well as objects that mimic these stroke-based forms such as spiders, crossed pins, or lattice grids. The activating elements are characterized by distinct lines, curves, and sharp boundaries that create a strong figure-ground separation. Typically, the features are dark-colored\u2014specifically black, charcoal grey, dark brown, or deep teal\u2014presented against a light, neutral background of beige, tan, cream, or light heather grey. While the neuron is invariant to the specific semantic content (e.g., a word versus a robot icon) and exact material (ink, plastic, or biological), the high contrast and specific color relationship (dark-on-neutral) are critical. The activating feature usually occupies 20\u201350% of the image, arranged centrally or in horizontal bands across the frame.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 2.1111197471618652,
+      "description": "A close-up, diagonal view captures a standard insulin syringe resting on a textured, beige-brown woven fabric surface. The syringe is oriented from the bottom-left to the top-right of the frame. At the bottom-left terminus, a bright orange plastic cap encases the needle; only the upper portion of the cap and its widened base are visible where it connects to the syringe barrel. Inside the transparent plastic barrel, immediately adjacent to the orange cap, a black rubber plunger stopper is positioned at the zero point, indicating the syringe is fully depressed. A scale printed in bold black ink runs along the length of the barrel, beginning near the orange cap and ascending towards the top-right. The visible numerical markings denote increments of five, reading \"5\", \"10\", \"15\", \"20\", \"25\", \"30\", \"35\", \"40\", and \"45\" in sequence. Between each numbered interval, four smaller tick marks indicate single unit measurements. A distinct, linear white highlight reflects along the upper-left length of the cylindrical barrel, suggesting a light source from the upper-left, while a soft, dark shadow is cast on the fabric along the bottom-right edge of the syringe, reinforcing its three-dimensional volume. The background fabric exhibits a fine, grid-like weave pattern in varying shades of tan and light brown."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 2.1124751567840576,
+      "description": "A circular manhole cover constructed from dark, textured cast iron dominates the visual field, presented in a top-down view with even, diffuse lighting that accentuates the relief of its surface. The primary color is a matte charcoal grey, dusted with lighter, silty grey tones in the crevices and recesses, indicating wear and exposure. The surface pattern consists of a radial grid formed by concentric circles of raised, trapezoidal blocks, creating a \"waffle\" texture that emanates from the center. At the precise center is a circular hub containing a recessed square painted in a faded, chalky reddish-orange hue; inside this square is a raised capital letter \"D\". Encircling the central grid pattern are two arcs of embossed text. Along the upper perimeter, the words \"CITY OF L.A.\" appear in raised, sans-serif capital letters, following the curvature of the rim. Along the lower perimeter, the phrase \"MADE IN INDIA\" is embossed in significantly larger and thicker sans-serif capital letters, occupying the bottom third of the circumference. The texture of the metal is rough and pitted, particularly on the background surfaces between the raised text and blocks. A single, small circular hole punctures the metal near the bottom edge, positioned directly beneath the space between the letters \"A\" and \"D\" in the word \"MADE\". The lighting casts soft, subtle shadows within the grooves of the grid and along the edges of the raised letters, giving depth to the heavy metallic object."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 2.117849349975586,
+      "description": "Visible within the frame is the upper torso section of a light heather grey sweatshirt, featuring a soft, mottled texture indicative of cotton or fleece material. The fabric hangs loosely, evidenced by vertical folds and gentle shadowing towards the bottom center. Dominating the chest area is a screen-printed graphic design composed of layered text and a logo. The topmost element is the word \"GRANDMA'S\" arched upward in a semi-circle; the font is a collegiate-style serif outline in black, with the interior of the letters left transparent to show the grey fabric beneath. Directly below the center of this arch, the letters \"XXL\" are printed in a solid, bold, black serif font, oriented horizontally. Underneath \"XXL,\" the word \"ATHLETICS\" is written in a significantly smaller, simple sans-serif font with wide tracking (spacing) between the black capital letters. Layered behind these three lines of text is a large, thin, dark outline of a stylized, script-like capital letter \"G.\" The top loop of the \"G\" rises behind the \"R\" and \"A\" of \"GRANDMA'S,\" while the lower curve of the \"G\" swoops beneath the \"XXL\" and \"ATHLETICS,\" encircling the lower text block. At the very top center edge of the visible area, a small segment of a ribbed crew neckline is discernible, distinct from the smoother texture of the main body. The lighting is diffuse and slightly dim, casting soft shadows in the fabric folds, giving the grey tone a somewhat muted appearance."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 2.1239113807678223,
+      "description": "Centered within the frame is the upper portion of a cylindrical container, possibly made of greyish plastic, which fills the majority of the view. A dark brown label wraps horizontally around the container, featuring a snowy winter village scene. Dominating the upper half of the label is the text \"MOCHA\" stacked above \"COCOA,\" printed in a bold, white, serif typeface with a slightly distressed texture and dark outlining. Below these, the word \"MIX\" appears in a smaller, similar font, centered directly underneath \"COCOA.\" The background of the label depicts a stylized landscape with snow-covered rolling hills in shades of white and light grey, dotted with small, simplified buildings. On the left, a beige building with a reddish roof and lit windows sits among snow-dusted pine trees, while to the right, a darker red structure, resembling a barn or house, is visible. Bare, dark brown trees and green pine trees are scattered throughout the scene. The sky above the village transitions from a deep twilight blue near the horizon to a darker, almost black shade at the top behind the text. A faint, semi-transparent watermark text runs diagonally across the center of the label, partially obscuring the word \"MOCHA.\" The lighting appears even and diffuse, highlighting the curvature of the container, with a subtle specular highlight on the plastic rim above the label."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 2.135535478591919,
+      "description": "The center of the view is occupied by the dark charcoal-gray plastic casing of an electronic device, likely a modem, featuring distinct text and indicator lights. Dominating the mid-section is the brand name \"ZyXEL\" printed in bold, white, sans-serif capital letters. Directly centered beneath this logo is the model designation \"Prestige 600 series\" in a much smaller, finer white font. The surface surrounding and below the text is characterized by a dense pattern of vertical ridges, creating a ribbed texture of alternating raised strips and deep shadows that runs downward. The ridges have a slight sheen, reflecting light along their vertical lengths. Above the text, the casing transitions into a smooth, untextured, dark gray matte surface that occupies the upper third of the frame and appears slightly out of focus with visible grain. At the bottom of the ribbed section, two distinct LED status indicators are visible. On the lower left, a small white label reads \"USB\" just above a glowing, rectangular yellow-green light. Symmetrically positioned on the lower right is a matching label reading \"DSL\" above another glowing, rectangular yellow-green light. The lights are aligned horizontally, and the vertical ridges continue between them, while the lighting appears frontal, contrasting the white text and glowing indicators against the dark, textured background."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.1484720706939697,
+      "description": "Centered on a smooth, light cream background is a precise geometric design forming a large diamond-shaped cluster. The cluster is constructed from a thin black curvilinear lattice that creates a grid of nine interlocking, lantern-shaped (ogee) enclosures. These compartments are organized in a three-by-three arrangement rotated forty-five degrees, which visually presents as vertical tiers: a central column of three aligned cells, flanked on either side by staggered columns of two cells, and further flanked by single cells at the far left and right horizontal extremities. Floating in the center of each black-outlined compartment is a solid, mustard-gold motif shaped like a stylized spade or leaf with pointed vertical tips and rounded sides; these motifs do not touch the surrounding black lines. A horizontal line of small, solid black circles bisects the image, aligning with the widest central row of the lattice. To the left of the pattern, two such dots are visible, while to the right, a sequence of four dots extends outward in a straight line. The lighting is flat and even, emphasizing the matte texture and high contrast of the graphic without casting any shadows."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.149395704269409,
+      "description": "A high-angle, close-up view captures the rough, fibrous texture of a coir doormat, predominantly colored in variegated shades of natural tan, light brown, and dry wheat. Dominating the center is a horizontal band of text stenciled in a dark, desaturated petrol-blue or deep teal pigment. The text features a serif typeface, with the visible characters spelling parts of the word \"WELCOME\"; specifically, the rightmost diagonal arm of a \"W\" is visible on the far left, followed by the full letters \"E,\" \"L,\" \"C,\" \"O,\" and \"M,\" and terminating on the right with the vertical spine of the final \"E.\" The ink on the letters is textured and slightly broken, conforming to the uneven, bristly surface of the mat. Framing this central text are two parallel horizontal lines of the same dark teal color, one positioned immediately above the letters and one immediately below. Above the top line, occupying the upper portion of the visible area, is a decorative frieze consisting of a repeating pattern of stylized ivy leaves and scrolling vines, also painted in dark teal. A matching decorative pattern of teal ivy leaves and vines mirrors this design in the area below the bottom horizontal line. The lighting is even and diffuse, eliminating harsh cast shadows but emphasizing the depth and coarseness of the stiff fibers, which create tiny micro-shadows within the weave."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 2.1543986797332764,
+      "description": "Captured in a high-angle close-up, two closed silver safety pins lie crossed on a smooth, light golden-brown wooden surface featuring distinct horizontal grain lines in darker amber tones. The pins form an asymmetrical X shape near the center of the composition. The topmost pin is oriented diagonally, descending from the upper left to the lower right; its rounded metal clasp head is situated at the top-left position, and the small circular wire coil at its base is located at the bottom right. This pin physically rests over the second pin, which is oriented at a steeper angle from the upper right down to the lower left. The second pin's clasp head sits at the upper right, slightly higher in the frame than the first pin's head, while its coil rests at the bottom left. Both pins are fastened, with their sharp arms secured inside the metal guards. The metallic surfaces are highly reflective, exhibiting bright white specular highlights along the parallel wire shafts and on the curves of the clasps and coils. Distinct, dark grey shadows are cast immediately below and to the right of the pins, indicating a light source originating from the upper left, which gives the objects a sense of depth against the flat, textured wood background. The wood grain runs horizontally from left to right, providing a warm, natural contrast to the cool, industrial steel of the pins."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 2.1642723083496094,
+      "description": "A close-up, high-angle view presents the central keyboard section of a vintage Alpina typewriter, dominated by rows of cream-colored keys against a dark charcoal-grey mechanical background. At the top center, a portion of the machine's light grey casing is visible, featuring a rectangular black nameplate with the word \"ALPINA\" in spaced, gold-tone serif capital letters. Directly beneath the nameplate runs a thin, horizontal chrome or silver trim strip that reflects the ambient light. The keyboard consists of four horizontal rows of keys, each key shaped like a rounded square or tombstone with a concave surface to accommodate fingertips. The keys are made of a smooth, glossy cream plastic with black sans-serif characters printed in the center. The top visible row contains number and symbol keys, reading from left to right: 4 over a dollar sign, 5 over a percent sign, 6 over an underscore, 7 over an ampersand, 8 over an apostrophe, 9 over an open parenthesis, and 0 over a closed parenthesis. The second row down is staggered slightly to the right and displays the letters E (partially visible on the left edge), R, T, Y, U, I, O, and the left edge of a key on the far right. The third row shows a partial D, followed by F, G, H, J, K, and L. The bottom row reveals a partial C, followed by V, B, N, M, and a key with a comma and question mark. Between the vertical columns of keys, the dark grey background reveals the thin, vertical metal levers of the typing mechanism. Soft, diffused lighting from above creates white specular highlights on the upper curves of the concave keys, emphasizing their glossy texture, while casting soft, unobtrusive shadows beneath the keycaps onto the dark bed of the machine."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 2.2017109394073486,
+      "description": "Centered in the field of view is a circular, dark grey metal utility cap, occupying approximately one-fifth of the image's width, set flush into a surface of coarse, pebbled concrete aggregate. The cap features a raised relief design consisting of a small central hub with six short spokes radiating outward to an inner ring; this inner wheel is encircled by a thicker outer ring that is interrupted on its left side by a distinctive indentation, giving the left portion of the ring a hook-like appearance. The surrounding pavement is a dense, rough texture of small, irregular stones in shades of beige, tan, grey, and charcoal. Arranged radially around the central cap are six visible elongated, pill-shaped metal fixtures embedded in the concrete, positioned roughly like numbers on a clock face. At the top vertical position, one oval fixture is oriented upright, revealing a central vertical ridge inside its recessed border. Moving clockwise to the upper right, a diagonal oval fixture angles toward the center, containing a deep, dark, pill-shaped slot. Below it in the lower right, another diagonal fixture mirrors this orientation, also featuring a dark recessed slot. At the bottom center, a vertical oval fixture is visible, appearing similar to the top one with a central ridge. To the lower left and upper left, two additional diagonal oval fixtures are partially visible at the edges, angled inward. The lighting is flat and diffuse, evenly illuminating the scene and emphasizing the granular texture of the stones and the matte, weathered finish of the metal elements without creating strong directional shadows."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 2.2174906730651855,
+      "description": "Centered in the field of view is a dark brown spider resting on a textured, vertical surface. The arachnid is positioned directly over a vertical seam or slat that runs straight down the middle of the image. This central vertical strip is a slightly reddish-tan color with fine vertical grain lines, appearing distinct from the horizontal texture of the surrounding wall. The wall sections flanking this strip are a muted, light taupe-beige, characterized by a rough surface with irregular, horizontal ridges and striations that suggest a heavy wallpaper or painted wood grain. The spider is oriented with its head pointing upward, its body spanning roughly one-fifth of the vertical height of the visible area. Its cephalothorax and abdomen are dark charcoal-brown, marked by a prominent, pale beige stripe running longitudinally down the center of the back. The abdomen is elongated and tapers to a point. Eight slender legs radiate from the body; the front pairs reach upward and outward, curving slightly inward at the tips, while the rear legs extend downward and outward, anchoring the creature. The legs are a solid dark brown, casting very faint, soft shadows onto the beige surface, indicating diffused lighting coming from the front. The texture of the wall is consistent, with the raised horizontal bumps catching the light to create a matte, non-reflective finish."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 2.2218072414398193,
+      "description": "A close-up view reveals a smooth, pale beige or cream-colored surface, possessing the texture of glazed ceramic or enamel, which serves as the background for three distinct groupings of text. Situated in the upper-left quadrant is the name \"John\" rendered in a thin, elegant black cursive script; the word is angled slightly upwards to the right, and it is positioned directly above the first two letters of the central text. Dominating the middle vertical third of the composition is the surname \"HAIG\" in massive, bold, sans-serif capital letters that span approximately two-thirds of the visible width. These letters are filled with a flat, deep scarlet red and are encased in a solid black outline of uniform thickness. Below this central logotype, spaced with a gap approximately equal to half the height of the red letters, is the phrase \"THE OLDEST NAME IN SCOTCH WHISKY\" printed in small, black, serif capital letters. This phrase is split into two centered lines, with \"THE OLDEST NAME\" stacked directly above \"IN SCOTCH WHISKY,\" and the entire block is horizontally centered relative to the large red text above. On the far right edge of the visible area, a vertical sliver of the same cream-colored material is visible, separated from the main surface by a soft, vertical gray shadow, suggesting the curved attachment point of a handle or the side of a vessel. The lighting is soft and diffuse, creating a matte appearance on the surface with no harsh specular highlights, though the beige tone darkens very slightly towards the bottom perimeter."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.2354111671447754,
+      "description": "A macro close-up view reveals the bottom surface of a translucent, milky-white plastic object, likely a container, bathed in soft, warm light. Dominating the center is the word \"ITALIA\" printed in sharp, black, sans-serif uppercase letters. The text is oriented diagonally, sloping upwards from the left to the right at an angle of approximately 30 degrees. The black ink contrasts starkly with the creamy, semi-matte background. Above the printed text, embossed directly into the plastic material in raised relief, is the number \"04\"; these digits are the same color as the surrounding plastic, visible only through subtle highlights and shadows, and appear slightly out of focus. Below the central text, also embossed in relief, is the letter \"J\", centered horizontally relative to the word above it. The plastic surface shows signs of manufacturing, with a prominent, curved ridge arcing across the upper section, creating a band of lighter refraction, and a faint, horizontal seam or scratch running through the middle, intersecting the printed letters. The depth of field is shallow, keeping the \"ITALIA\" text in crisp focus while the upper and lower edges of the surface blur into a soft, varying beige and grey bokeh. The overall lighting suggests backlighting, giving the material a glowing, ethereal quality with smooth gradients from the bright center to the darker edges."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.2845654487609863,
+      "description": "A smooth, circular surface of a muted yellow-beige hue dominates the view, exhibiting a subtle three-dimensional quality through a gentle lighting gradient that shifts from a lighter, creamy tone at the upper edge to a slightly darker, shadowed shade at the bottom. Centered precisely upon this disc is a flat, dark charcoal graphical icon of a stylized robot. The robot's head is shaped like a horizontal capsule or pill, spanning approximately one-third of the yellow disc's diameter; inside this shape, two hollow circles are positioned at the far left and right ends to represent eyes, while a horizontal row of four small, solid dots sits evenly spaced between them. A short, vertical line forms a neck connecting the bottom center of the head to a circular body, which encloses a smaller, concentric ring within it. Extending horizontally from the left and right sides of the body are thin straight lines serving as arms, each capped at its tip by a small, solid square; the total width from one square tip to the other roughly matches the width of the head. Extending from the bottom of the body circle are two short, curved lines that arc outward and downward to depict legs. The icon's sharp, geometric lines contrast with the soft, matte texture of the underlying yellow surface."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.321035146713257,
+      "description": "Dominating the center of the image is a stylized, monochromatic black icon of a robot set against a smooth, glossy background of a uniform light tan or beige color, resembling the surface of a liquid like coffee with milk or a glazed ceramic base. The beige surface is circular and encompasses the entire central field, showing subtle, soft highlights in the upper-left quadrant that suggest a gentle, diffuse light source from above. Encircling this tan area is a blurry, out-of-focus ring of bright white, likely the rim of a cup, which softens the transition to the surrounding boundary. The central black figure is composed of geometric shapes: the head is an elongated horizontal oval with a thick black outline, containing two small, hollow black circles at the far left and right ends representing eyes, and four small solid black dots arranged horizontally in the center. A short, vertical line connects the bottom of the head to a larger circular body, which is outlined in black and contains a smaller, concentric black circle within it. Extending horizontally from the left and right sides of the body are straight lines that terminate in small, solid black squares, depicting arms. Two short, curved lines extend downwards and slightly outwards from the bottom of the body circle, forming simple legs. The graphic is sharply defined with high contrast against the warm, neutral tone of the background."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A single, bold serif number '5' printed in matte charcoal grey is positioned centrally on a sheet of textured cream-colored paper. The digit is sharply defined with high contrast edges and occupies approximately twenty percent of the total image area, leaving a generous amount of the rough, fibrous paper visible around it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal grey",
+        "cream background",
+        "number 5",
+        "serif font"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A distinct black wolf spider silhouette viewed from directly above, resting on a smooth, light beige stone surface. The spider's legs extend radially, creating a glyph-like shape that contrasts sharply against the pale, neutral background. The entire arachnid form takes up about one-fifth of the frame, sitting right in the center.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black spider",
+        "beige background",
+        "high contrast",
+        "silhouette"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A calligraphy brushstroke character resembling the letter 'Z' painted in deep dark brown ink on a roll of unbleached tan parchment. The stroke features sharp turns and tapering ends, occupying the lower central twenty percent of the visual field, distinct against the warm, neutral tone of the paper.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown ink",
+        "tan parchment",
+        "calligraphy",
+        "Z shape"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A graphic icon of a simplified anchor, rendered in a deep teal color, printed on a light heather grey cotton fabric. The icon is composed of thick, clean lines and curves, centered in the frame and covering roughly 20% of the image, emphasizing the figure-ground separation between the dark graphic and the soft, light grey textile.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep teal",
+        "heather grey background",
+        "anchor icon",
+        "cotton texture"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "Two antique iron nails, dark charcoal grey in color with a rough texture, are crossed in an 'X' formation on a piece of light, creamy limestone. The crossed nails are arranged centrally and cover a small portion of the frame, approximately twenty percent, casting faint shadows on the pale stone surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal grey nails",
+        "cream limestone",
+        "X shape",
+        "crossed objects"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A single row of a bold, black barcode printed horizontally across a light tan cardboard package. The vertical bars are sharp and precise, creating a rhythmic lattice pattern that takes up the bottom twenty percent of the image against the plain, neutral cardboard texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black barcode",
+        "tan cardboard",
+        "horizontal band",
+        "geometric lines"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A simplified tribal tattoo design consisting of three interlocking jagged lines in deep teal, inked onto light beige synthetic leather. The geometric pattern is centered and compact, filling only the central twenty percent of the image, creating a striking dark-on-light symbolic contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep teal",
+        "beige background",
+        "tribal pattern",
+        "geometric lines"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "An open pair of black metal scissors lying flat on a light heather grey cutting mat. The finger loops and blades form a distinct glyph-like shape with sharp boundaries. The object is oriented diagonally and occupies the central twenty percent of the composition, standing out clearly against the matte grey gridless background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black scissors",
+        "heather grey background",
+        "metal object",
+        "glyph-like"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A wrought iron decorative element, shaped like a swirling letter 'S', painted in a dark, rusty brown. It is mounted on a clean, cream-colored stucco wall. The ironwork is centrally framed and constitutes about one-fifth of the image area, highlighting the contrast between the dark metal curves and the light plaster.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown iron",
+        "cream stucco",
+        "S shape",
+        "decorative scroll"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "The Roman numeral 'VII' carved and filled with charcoal grey paint on a smooth slab of light tan sandstone. The serif-style strokes of the numerals are crisp and dark, arranged horizontally in the center of the frame, covering twenty percent of the stone's surface area.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal grey",
+        "tan sandstone",
+        "Roman numeral",
+        "text"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A minimalist line drawing of a cube, rendered in thick black ink on a sheet of light heather grey construction paper. The wireframe geometry is simple and high-contrast, positioned in the center and taking up the lowest end of the size range, roughly 20% of the canvas.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black ink",
+        "heather grey paper",
+        "cube",
+        "wireframe"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A glossy, deep teal ampersand symbol (&) made of rigid plastic, resting on a soft, cream-colored wool blanket. The symbol creates a strong figure-ground relationship, with its curves clearly defined against the fuzzy neutral background, occupying about twenty percent of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep teal",
+        "cream wool",
+        "ampersand",
+        "symbol"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A section of a dark brown wooden trellis lattice, showing just two intersecting slats forming a cross shape, set against a backdrop of light beige siding. The dark wood lines are straight and sharp, occupying a central horizontal band covering 20% of the view.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown wood",
+        "beige siding",
+        "lattice",
+        "intersection"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A musical treble clef symbol printed in matte black on a piece of vintage, light tan sheet music paper. The symbol is isolated without staff lines, positioned in the center-right, and comprises approximately one-fifth of the image, creating a bold, symbolic focal point.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black symbol",
+        "tan paper",
+        "treble clef",
+        "music notation"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A skeletal leaf structure, where only the intricate network of veins remains in a dark charcoal grey, placed against a light cream lightbox surface. The delicate branching pattern mimics a map or grid and occupies the central twenty percent of the frame, silhouetted against the bright neutral light.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal grey veins",
+        "cream background",
+        "leaf skeleton",
+        "organic grid"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.6520137786865234,
+      "best_percentile": 99.9195264313914
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.641743540763855,
+      "best_percentile": 99.91195520330699
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.6206657886505127,
+      "best_percentile": 99.89634442375149
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.5771710872650146,
+      "best_percentile": 99.85161954032499
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.498373031616211,
+      "best_percentile": 99.7287627052232
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.4973506927490234,
+      "best_percentile": 99.72735773506322
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.4896185398101807,
+      "best_percentile": 99.7111225243255
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.4666352272033691,
+      "best_percentile": 99.65016243016127
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.4595303535461426,
+      "best_percentile": 99.63283446485467
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.4452825784683228,
+      "best_percentile": 99.59341724647703
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.4400197267532349,
+      "best_percentile": 99.57874311369487
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.2761667966842651,
+      "best_percentile": 98.72358460964465
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.2629013061523438,
+      "best_percentile": 98.60439630773843
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.8216120600700378,
+      "best_percentile": 82.98698217092867
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.7165053486824036,
+      "best_percentile": 70.74173057979996
+    }
+  ]
+}

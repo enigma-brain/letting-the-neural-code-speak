@@ -1,0 +1,374 @@
+{
+  "area": "V1",
+  "neuron_id": 17,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to prominent, high-contrast vertical or steeply diagonal linear features, typically manifesting as bright white or light gray bands, stripes, fissures, or elongated highlights set against a dark gray or black textured background. Specific activating examples include vertical white stripes on animal fur, bright metallic levers or handles, illuminated cracks between rock surfaces, and sharp linear highlights on beaks or claws. The neuron is invariant to the semantic identity of the subject (whether biological, geological, or manufactured), surface material, and lighting direction, provided the sharp light-on-dark (or occasionally dark-on-light) contrast and verticality are preserved. The activating linear feature typically spans 60\u201390% of the image height and is centered or positioned slightly off-center, occupying approximately 10\u201330% of the image width. The input images are consistently monochromatic, relying entirely on achromatic luminance contrast rather than chromatic hue.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.8557789325714111,
+      "description": "A grayscale image presents a close-up, textural study dominated by the shaggy, coarse coat of an animal, occupying the rightmost two-thirds of the visual field. The fur consists of long, vertical strands that hang heavily, creating a curtain-like effect with deep vertical furrows of shadow. While the bulk of the hair is a dark, mottled charcoal gray, a prominent, irregular vertical stripe of bright white hair runs down the center of the animal's visible flank, acting as the focal point of high contrast. This white patch is widest near the middle and tapers slightly as it reaches the bottom, where the hair appears more frayed and separates into individual tufts. To the left of this hairy mass, the background reveals a distinct separation between a vertical surface and the ground. The upper left quadrant shows a blurred, highly textured backdrop, resembling a rough stone wall or dense foliage, characterized by a chaotic pattern of mid-gray bumps and dark recesses. Below this, in the lower left quadrant, the ground is flat and grainy, rendered in a lighter, uniform gray. A thin, dark cord or rope lies on this ground, entering from the lower left and curving gently upward and to the right, disappearing beneath the overhanging fringe of the animal's coat. The lighting is diffuse, accentuating the tactile quality of the matted fur and the roughness of the background without casting sharp, directional shadows on the ground."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.8659451007843018,
+      "description": "Presented in a monochromatic grayscale palette, the dominant feature occupying the right-center portion of the visible field is a thick, light-colored, possibly white or silver, bezel with a rounded trapezoidal shape. The left side of this bezel slopes upward and to the right, while the bottom edge is horizontal, and the corners are soft and rounded. Enclosed within this thick frame is a darker gray recessed area containing a vertically oriented oval or circular component, outlined by a thin black ring, with a mottled, medium-gray interior surface that suggests a lens or reflector. To the left of this assembly, separated by a subtle vertical shadow or panel gap, is a smooth, medium-gray surface. On this surface, aligned horizontally with the center of the trapezoidal frame, is a black, stylized text graphic reading \"Zag\". The typography is distinct, with the \"Z\" featuring a sharp, angular top and a bottom stroke that connects seamlessly into the lowercase \"a,\" followed by a \"g\" with a descending loop. The image has a soft, slightly grainy texture, with diffuse lighting that creates gentle highlights on the raised white bezel and soft shadows beneath the frame and text, indicating a three-dimensional relief to the objects."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.8712974786758423,
+      "description": "A bright, diffused white band cuts diagonally across a dark, textured field, originating from the bottom-left region and ascending steeply towards the top-right edge at an angle of approximately 70 degrees relative to the horizontal. This linear feature maintains a consistent width, occupying roughly one-tenth of the visible area's total span, and is characterized by soft, blurred edges that lack sharp definition, suggesting a focus imperfection or motion. The background against which this white strip is set consists of a charcoal-grey surface with a significant granular texture, exhibiting a noisy, mottled appearance similar to static or coarse stone in low light. The grey area is divided by the diagonal line into two unequal segments, with the dark expanse to the right appearing slightly more extensive than the corresponding area on the left, while the contrast between the luminous white streak and the matte, noise-filled background remains high and uniform without evident directional lighting or cast shadows."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.8788474798202515,
+      "description": "A high-contrast, monochromatic close-up reveals a heavily textured, organic surface resembling thick, weathered skin or rough bark, dominated by a deep, vertical fold running just to the left of the image's center. This primary fissure acts as a dividing line; to its left, the surface consists of relatively vertical, fibrous striations rendered in medium greys, while to its right, the texture becomes more complex with diagonal ridges and valleys sloping downwards from the upper right to the lower left. The deepest shadow is anchored in the central vertical fold, specifically in a pocket near the vertical midpoint where the crevice widens into a pitch-black void. Branching horizontally from this central chasm into the right-hand section are several smaller, jagged cracks that intersect the prevailing diagonal grain, creating a network of raised, leathery plateaus. The lighting appears to graze the surface from the upper left, illuminating the crests of the wrinkles in bright, pale grey highlights while casting sharp, dark shadows into the grooves, emphasizing the rugged, three-dimensional relief of the material. The entire surface is characterized by a coarse, dry appearance, with the focus remaining sharp on the intricate interplay of cracks and ridges in the center, fading slightly towards the peripheral edges where the texture continues but is less defined."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.8835738897323608,
+      "description": "In a monochrome, grayscale composition, a small bird is viewed from behind and slightly to the left, occupying the central and left portions of the visible area. The bird is perched vertically, facing a smooth, light-gray structure that runs along the right side of the frame. The bird\u2019s head is positioned near the top, turned away and to the right, obscuring the face but revealing soft, pale nape feathers and a dark patch at the crown. The plumage on the back is a fuzzy, light gray that transitions into a striking, high-contrast pattern on the folded wings. These wings are predominantly deep black, bisected by a prominent, broad white bar running diagonally across the mid-section, with additional delicate white crescents tipping the lower flight feathers. The tail feathers are dark and narrow, extending straight downward with faint white edging. A single thin leg extends horizontally to the right from the lower body, with claws tightly gripping a small, cylindrical peg protruding from the adjacent vertical structure. This structure appears manufactured, possibly a bird feeder, with a smooth surface and small, circular rivet-like details visible. The background to the left of the bird is a featureless, out-of-focus wash of medium gray, providing a soft contrast to the sharp details of the bird's feathers and the rigid lines of the perch."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.895310640335083,
+      "description": "Presented in a high-contrast grayscale palette, a flat, medium-gray metallic surface fills the view, exhibiting a consistent, grainy texture indicative of powder-coated steel or a low-resolution digital capture. A stark, black vertical line runs from the top to the bottom edge on the left side, positioned approximately one-sixth of the way across the width, delineating a gap between a narrow strip of panel on the far left and the main door panel that occupies the majority of the space. In the horizontal center of the main panel, a metal handle is mounted. The handle features a cylindrical pivot mechanism at its top, distinguished by a dark, almost black circular top face or recess, and a flat, rectangular lever extending vertically downward. This lever arm is the brightest object in the scene, reflecting light to appear nearly white, contrasting sharply with the surrounding gray. To the immediate right of the handle, a soft, diffuse dark shadow is cast against the door surface, suggesting a light source originating from the left. Horizontally overlaid across the vertical center of the image is a line of semi-transparent, white text consisting of Chinese characters. The text, which reads roughly as \"\u6280\u672f\u5f00\u53d1\u533a\u671d\u53cb\u673a\u68b0\" (Technical Development Zone Chaoyou Machinery), passes directly over the handle and the background seam without distortion, appearing as a watermark. The text is sans-serif and uniform in height, spanning almost the entire visible width. The overall lighting is flat and even, aside from the highlight on the handle and its corresponding shadow."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.9012218713760376,
+      "description": "A high-contrast, grayscale close-up reveals a vertical fissure separating two distinct, textured surfaces. To the right of the divide, a large area of dark gray material dominates, characterized by a uniform, pebbled texture reminiscent of rough skin or a coarse mineral aggregate, with tiny, closely packed granules catching the light to create a stippled effect. This surface occupies roughly the right half of the visible area. To the left of the fissure, the structures are smoother and more sculptural, featuring a prominent, vertical ridge or fold that curves slightly inward towards the center. This ridge is a medium gray, lighter than the right-hand surface but darker than the fissure's contents, and possesses a subtle sheen with faint horizontal striations. Nestled within the jagged vertical gap between these two main forms is a starkly bright, almost white substance. This material appears fibrous or compressed, with a rough, irregular surface that contrasts with the surrounding gray tones. It varies in width, appearing pinched at the top, widening in the center, and tapering again towards the bottom, looking somewhat like a filling or a brightly illuminated interior layer exposed by a crack. To the far left, partially obscured by the foreground ridge, are darker, less defined shapes that suggest additional layers or background elements. The lighting appears to originate from the upper left, casting highlights on the left-hand ridge and the bright material within the crevice, while leaving the right-hand textured surface in a comparatively lower key, enhancing the three-dimensional relief of the granules."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.9269016981124878,
+      "description": "Two vertical, textured, cylindrical masses, rendered in grayscale, dominate the visual field, running parallel to each other and separated by a narrow, central vertical gap. The mass on the left occupies approximately the leftmost 35% of the total width, while the mass on the right is slightly broader, taking up roughly 40% of the right side. Both surfaces display a distinct, organic texture characterized by a dark gray ground densely covered with minute, lighter gray speckles or pores. The lighting, coming from the upper left, creates cylindrical volume, with the left mass fading from a mid-tone highlight on its far left to a dark shadow at the center gap, and the right mass displaying a bright, vertical specular highlight along its inner edge before rolling into shadow on the far right. Nestled within the upper third of the central crevice is a smooth, light-colored, bulbous object, resembling a fingertip or a small vegetable tip, which is distinctly different in texture from the flanking columns. This object is highly reflective, appearing almost white at its apex, and is oriented downward, pressed against the inner wall of the right mass. Beneath this wedged object, the gap reveals a slice of a blurred, light gray background. The area immediately below the smooth object is shrouded in deep black shadow, contrasting with the bright vertical strip of background visible lower down in the gap."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.9294794797897339,
+      "description": "In the center of a grayscale composition, a fish with distinct high-contrast vertical banding swims diagonally, oriented with its head pointing toward the lower right and its tail area angled toward the upper left. The fish occupies the central portion of the visual field, featuring a smooth, medium-gray body interrupted by wide, bright white vertical stripes. The most prominent white stripe vertically bisects the center of the fish, curved slightly to follow the body's contour, and is bordered on both sides by thick, irregular bands of deep black. A second white stripe creates a vertical arc just behind the eye area on the right, also edged in black, while a third partial white section is visible at the far upper left near the caudal peduncle. The fish's snout is blunt and light gray, positioned in the bottom right quadrant, with a small, dark, circular eye situated within the black margin of the head stripe. A translucent, fan-shaped pectoral fin extends from the side of the body on the left, angled downward and slightly overlapping the central black band. The surrounding environment is densely packed with the soft, cylindrical shapes of anemone tentacles, which vary in focus. The tentacles in the lower left foreground and upper right background are blurred, while those immediately beneath the fish are sharper. Light appears to originate from the upper right, casting bright, specular highlights on the rounded, bulbous tips of the tentacles and the top edge of the fish, while deep shadows fill the crevices between the tentacles, creating a textured, volumetric backdrop of varying grays."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.9381945133209229,
+      "description": "A grayscale close-up captures the profile of a pelican's head and large bill, oriented diagonally from the upper right towards the lower left. The dominant feature is the long, tapering beak; its upper mandible is defined by a bright, straight highlight along the ridge, contrasting with the darker, shadowed gray of the expansive gular pouch beneath. The pouch exhibits a smooth but matte texture, taking up the central foreground. To the right, a portion of the bird's white neck and head is visible, brightly lit and appearing soft against the harder textures of the scene. The background is composed entirely of a chain-link fence, with dark, distinct wires forming a diamond mesh pattern that creates a repetitive geometric texture across the rear plane. Through the gaps in the wire mesh, indistinct dark shapes\u2014possibly rocks or dense vegetation\u2014create a cluttered, low-contrast backdrop. A thin, light-colored stick or rod protrudes horizontally from the left, passing behind the upper section of the beak, while another linear, structural element is visible in the lower left corner, angled slightly upward amidst the mesh. The overall lighting is diffuse but directional enough to create highlights on the upper beak and feathers, emphasizing the three-dimensional form of the bird against the flatter, patterned fence."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.9528579711914062,
+      "description": "Rendered in a high-contrast black and white palette, a close-up portrait focuses intensely on the face of a spaniel-type dog, featuring a prominent, bright white blaze of fur running vertically down the center of its forehead and muzzle. This white strip is flanked by deep, charcoal-grey patches of long, wavy fur that cover the ears and surround the eyes. The dog's nose, located in the absolute center of the composition, is jet black with a discernible wet, pebbled texture and two dark nostrils. To the right of the nose (viewer's right), a dark, glossy eye is visible, catching a small highlight of white light, while the opposite eye is partially shadowed and blends into the surrounding dark fur. Superimposed over the lower third of the image, covering the mouth and upper chest area, is a semi-transparent watermark text in a light grey, serif typeface; the text is arranged in two slightly arched lines, with the upper line clearly reading \"Faithful Angels\" and the lower line, slightly more obscured by the fur's texture, reading \"Rights Reserved.\" The background is entirely out of focus and dark, pushing the detailed texture of the dog's fur and the superimposed text into the foreground."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.9599735736846924,
+      "description": "In a monochrome close-up, a textured surface of coarse, speckled grey sand serves as the bed for a severed crustacean claw and a dark, irregular clump of matter. The claw, positioned on the right side, is the dominant vertical element, featuring a smooth, hard exoskeleton that transitions from a deep, glossy charcoal at its upper, thicker joint to a sharp, curved, bone-white tip pointing towards the bottom center. The inner concave edge of this pincer is lined with a row of small, distinct, light-colored serrated teeth that contrast against the darker shell. To the immediate left of the claw's midsection sits a roughly ovoid, amorphous mass, appearing as a dense, pitted rock or clod of earth, which is dark grey to black and possesses a rough, uneven surface texture unlike the smooth claw. The claw curves slightly inward toward this dark mass, with the white tip terminating just below the mass's lowest point. The sand background is uniform in its granular pattern, composed of tiny light and dark grains that create a mid-tone grey field. The lighting is diffuse, creating soft, unobtrusive shadows directly beneath the objects and highlighting the sheen on the upper curve of the claw and the bright whiteness of its tip, emphasizing the textural differences between the smooth shell, the rough lump, and the gritty ground."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.9777981042861938,
+      "description": "This black-and-white image displays a close-up, textured composition featuring the partial forms of an elephant and a zebra, overlaid with the faint, interlocking die-cut lines of a jigsaw puzzle. Dominating the central and right portions of the view is the front-facing bulk of an elephant, defined by rough, deeply creased grey skin. The elephant's trunk hangs vertically through the center, exhibiting a series of prominent, rugged horizontal ridges and deep fissures that create a corrugated appearance, shading from mid-grey highlights to nearly black recesses. Flanking the trunk are two large, pale ivory-colored tusks; the left tusk originates from the upper center-right and curves dramatically downwards and to the left, tapering to a point that visually overlaps the lower left quadrant, while the right tusk curves downwards towards the right edge, partially obscured. To the left of the elephant, occupying the remaining vertical third of the frame, is the flank and hindquarters of a zebra. The zebra features high-contrast, alternating black and white stripes that run somewhat diagonally across its body and transition to horizontal bands on its legs. The zebra appears positioned slightly behind the elephant, crowded closely against the pachyderm's side, with the elephant's left tusk passing in front of the zebra's lower body. The background is plunged into deep shadow, providing no depth beyond the animals, while the lighting is diffuse, accentuating the disparity between the coarse, leathery texture of the elephant and the smooth, graphic pattern of the zebra."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.9903532266616821,
+      "description": "This grayscale image presents a high-magnification close-up scene with a shallow depth of field, characterized by strong contrasts between light and shadow. Dominating the right side of the frame is a large, angular object with a reflective surface; its upper edge curves smoothly inward, leading down to an intense, irregularly shaped patch of pure white glare that suggests a strong light source reflecting off a hard or wet material. Below this bright highlight is a jagged, dark horizontal band that separates the glare from a lower section featuring vertical, striated textures in varying shades of gray. To the left of this dominant structure, a thin, straight, pale filament descends diagonally from the upper left at an angle of roughly 60 degrees, pointing inward toward the bottom center. The tip of this filament hovers just above a complex, textured surface that spans the bottom of the visible area. This bottom surface resembles wrinkled, organic tissue or rough terrain, composed of undulating folds and ridges with deep, dark crevices and lighter, gray peaks. At the intersection of the filament's path and the bottom texture, there is a cluster of small, indistinct, dark granular shapes. The background is heavily defocused, consisting of large, soft, circular blobs of dark and light gray\u2014typical of bokeh\u2014which contrast with the sharp focus of the filament and the textured foreground, emphasizing the macro nature of the shot. The lighting is dramatic, focused heavily on the right-hand structure, leaving the background and the deeper crevices of the foreground in relative darkness."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.032323122024536,
+      "description": "In a high-contrast grayscale close-up, the cut face of a citrus fruit dominates the left half of the view, angled diagonally with its rind curving along the upper left. The fruit's flesh is composed of dark, charcoal-grey triangular segments that radiate from a central axis located beyond the lower-left edge, separated by thin, pale grey membranes. The pulp within these segments appears highly textured and wet, characterized by numerous small, bright white specular highlights reflecting off individual juice vesicles. Encircling the dark flesh is a thick band of light grey pith, transitioning into a slightly darker outer peel. Partially obscured behind and to the right of this slice is the curved surface of a second, whole citrus fruit, rendered in a mid-tone grey. This surface displays a distinct pitted texture resembling porous skin, featuring a small, dark, circular indentation near the upper right area. The lower right portion of this background fruit shows soft, diffuse highlights and texture suggesting condensation or water droplets, while the lighting emphasizes the glistening wetness of the sliced fruit against the matte texture of the whole peel."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A monochromatic close-up of a silver birch tree trunk, presented in grayscale. The bark is a brilliant, papery white, punctuated by characteristic horizontal dark scars. The trunk stands perfectly vertical, occupying the central twenty percent of the frame's width. The visible section of the trunk extends from the bottom edge upwards, terminating abruptly at exactly sixty percent of the image's height where it fades into the deep shadows of the canopy. The background is a heavily textured, out-of-focus darkness, rendered in deep charcoal and black tones.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "high-contrast",
+        "white bark",
+        "dark background",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A black-and-white macro photograph of a polished aluminum lever on an industrial machine. The metal handle is oriented steeply diagonally, leaning slightly to the right. It reflects a harsh studio light, appearing as a luminous, pale gray band against a matte black machinery casing. The lever is relatively thick, taking up roughly fifteen percent of the width, and its clearly illuminated length spans precisely sixty percent of the vertical frame, fading into the dark background at the top and bottom edges.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "diagonal",
+        "metallic",
+        "light gray",
+        "black background",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A high-contrast, achromatic macro shot of a zebra's hide. A single, wide stripe of pure white hair runs vertically through the center of the composition. The texture of the individual hairs is visible, creating a soft, fibrous edge against the flanking stripes, which are deep, ink-black. This central white band occupies nearly thirty percent of the image width and is framed such that it extends for exactly sixty percent of the image height, bracketed by darkness above and below.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "zebra stripe",
+        "white",
+        "black fur",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A geological close-up rendered in grayscale, showing a jagged vein of pure white quartz cutting through dark, metamorphic slate. The vein runs vertically, slightly off-center to the left. It appears as a stark fissure of brightness against the rough, dark gray rock face. The quartz feature dominates the view with a width of about ten percent of the frame, and a vertical span of exactly sixty percent of the image height, isolated by the surrounding darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "quartz vein",
+        "white",
+        "dark rock",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "An unlit, white frosted glass tube light fixture mounted vertically against a dark gray acoustic foam wall. The image is strictly monochromatic. The tube appears as a solid, pale cylinder, contrasting sharply with the pitted texture of the dark foam. The fixture is centered and spans exactly sixty percent of the image's vertical dimension, with the top and bottom portions of the frame composed of the empty, dark background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "frosted glass",
+        "white",
+        "dark foam",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A long-exposure black-and-white photograph of a single, narrow jet of water falling into a dark pool. The motion blur turns the water into a solid, silky white ribbon, oriented vertically in the center of the frame. The water reflects ambient light, glowing bright white against wet, black stones in the background. The visible length of this water ribbon is strictly sixty percent of the image height, floating within the surrounding darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "water stream",
+        "white",
+        "black stones",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A stark, high-contrast architectural shot in grayscale. The illuminated corner of a modern building rises vertically, catching the sunlight to appear bright white. This linear highlight is sharp and geometric, set against a shadowed, black glass facade. The white edge is positioned slightly to the right, taking up ten percent of the width, and rises from the bottom of the frame to cover exactly sixty percent of the image height before being cut off by the composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "building edge",
+        "white",
+        "black facade",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A macro monochromatic image focusing on a single, thick white whisker of a black cat. The whisker is steeply diagonal, angling upwards from left to right. It is brilliantly lit, appearing as a bright white line against the blurred, deep black fur of the animal's face. The sharp, focused portion of the whisker spans exactly sixty percent of the vertical height of the image, emerging from the dark texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "diagonal",
+        "whisker",
+        "white",
+        "black fur",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A close-up of a blackboard where a single, thick vertical line has been drawn with white chalk. The line is textured and dusty, showing the grain of the board underneath. It is bright white against the dark, slate-gray surface. The line is centered, occupying roughly fifteen percent of the width, and has a defined length that corresponds to exactly sixty percent of the image's total height.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "chalk line",
+        "white",
+        "dark slate",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A grayscale image of a solitary icicle hanging from a dark cave entrance. The ice is clear but reflects light to appear opaque white and jagged. It hangs vertically, slightly off-center to the left. The background is a granular, pitch-black rock texture. The icicle tapers down, with its total visible length accounting for exactly sixty percent of the vertical field of view.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "icicle",
+        "white",
+        "black rock",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A length of white nautical rope hanging vertically against the tarred black hull of a ship. The image is monochromatic. The rope's twisted texture is highlighted, appearing light gray and white. It occupies about twenty percent of the image width. The segment of rope is framed to occupy exactly sixty percent of the image height, with the ends fading into the shadows of the hull.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "rope",
+        "white",
+        "black hull",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A top-down, black-and-white view of a single white piano key. The key is oriented vertically in the frame. It is polished and gleams under a spotlight, appearing ivory-white against the deep black void of the piano's interior mechanism visible on the sides. The key's length fills exactly sixty percent of the image height, centered within the dark surroundings.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "piano key",
+        "white",
+        "dark void",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A monochromatic bird's-eye view of a weathered asphalt road. A single, painted white lane divider runs vertically through the center. The paint is cracked and bright, contrasting with the dark, pebbled texture of the road surface. The painted line is framed to extend for exactly sixty percent of the image height, leaving the rest of the vertical space as dark asphalt.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "road line",
+        "white",
+        "dark asphalt",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A studio shot of a strip of white paper twisted slightly, hanging vertically against a black velvet backdrop. The image is monochromatic. The lighting makes the paper appear bright white with subtle gray gradients. The strip is centered, takes up twenty-five percent of the width, and its length is cropped to exactly sixty percent of the image height.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "paper strip",
+        "white",
+        "black velvet",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A macro grayscale photograph of the curved ridge of a bird's beak. The lighting creates a sharp, vertical specular highlight running down the center of the beak. This highlight is bright white, standing out against the dark gray texture of the beak's keratin surface. The linear highlight occupies roughly ten percent of the image width and spans exactly sixty percent of the image height.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "vertical",
+        "beak highlight",
+        "white",
+        "dark texture",
+        "60% height"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.792339563369751,
+      "best_percentile": 99.99679979019112
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.5910993814468384,
+      "best_percentile": 99.97525691440454
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.491051197052002,
+      "best_percentile": 99.9434889780091
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.4860880374908447,
+      "best_percentile": 99.94169373836021
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.4786309003829956,
+      "best_percentile": 99.93669828890245
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.470176339149475,
+      "best_percentile": 99.93154673164914
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.4657318592071533,
+      "best_percentile": 99.92912706081803
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.4344313144683838,
+      "best_percentile": 99.91250158059142
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.4149740934371948,
+      "best_percentile": 99.8993885257648
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.3695930242538452,
+      "best_percentile": 99.86176654703605
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.3511155843734741,
+      "best_percentile": 99.84389220444501
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.3310869932174683,
+      "best_percentile": 99.81977355003177
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.2616653442382812,
+      "best_percentile": 99.71135668601883
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.118683934211731,
+      "best_percentile": 99.26723000766489
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.40535059571266174,
+      "best_percentile": 52.85622628137181
+    }
+  ]
+}

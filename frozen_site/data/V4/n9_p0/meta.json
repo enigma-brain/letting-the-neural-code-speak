@@ -1,0 +1,269 @@
+{
+  "area": "V4",
+  "neuron_id": 9,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to localized, high-contrast communicative or symbolic markings, specifically text strings, logos, signage, and geometric icons (e.g., arrows, play buttons), as well as structural mimics such as rows of teeth or sharp plumage stripes. The core visual driver is a horizontal arrangement of distinct, high-frequency stroke-like shapes\u2014typically bright white, silver, or black\u2014set against a solid, contrasting background of deep red, black, dark grey, or wood tone. The activating feature usually presents as a bounded entity (e.g., a license plate, digital display, brand label, or mouth) occupying approximately 20\u201350% of the frame and positioned centrally. The neuron remains invariant to the semantic content (words vs. patterns) and object material (metal, plastic, biological), provided the strong light-dark contrast and linear, organized form are preserved.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.07454448938369751,
+      "description": "The visible area is dominated by a smooth, metallic surface with a uniform, warm rose-gold or brownish-bronze hue. This surface appears matte with a subtle sheen, suggesting anodized aluminum. Centered horizontally and positioned slightly above the vertical midpoint is a stark white logo of an apple with a bite taken out of its right side. The logo is oriented upright, with the leaf detached and floating slightly above the main fruit shape, leaning to the right. The white of the logo contrasts sharply with the darker, metallic background, appearing bright and possibly illuminated. Below the logo, the surface continues with the same consistent texture and color until it fades into a blurred, lighter horizontal band near the bottom edge, which suggests a reflection or a curved edge catching the light. The top edge of the visible area shows a glimpse of a dark, textured gray strip, possibly a hinge or a different material, contrasting with the smooth metallic expanse below it. The lighting is soft and diffuse, creating a gentle gradient where the bronze tone appears slightly lighter in the center and darker towards the periphery, emphasizing the flatness of the surface."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.07477791607379913,
+      "description": "Centered in the view is the rear exterior of a deep metallic red vehicle, identifiable as a Ford Freestar, exhibiting a two-tone color scheme with a glossy maroon upper body and a matte beige or champagne-colored lower bumper. At the top, the lower edge of a dark-tinted rear windshield is visible, featuring a horizontal high-mounted brake light strip that is illuminated, displaying a series of individual red LED points. A black rear wiper arm rests horizontally against the glass to the right of the brake light. Below the window, a standard oval Ford emblem with chrome trim and a navy blue interior sits centrally on the red liftgate. Directly beneath the logo is a recessed trapezoidal area housing a Minnesota license plate with a white background and blue sky graphic header, bearing the dark blue alphanumeric sequence \"AEC 111\" or \"AEC III\"; the text \"10,000 Lakes\" is faintly visible at the bottom. To the left of the license plate recess, chrome lettering spells out \"FREESTAR\" with smaller, indistinct text below it, and to the right, matching chrome lettering reads \"LIMITED\". The red bodywork transitions to the beige bumper via a horizontal seam; the top surface of the bumper features a black, textured horizontal step pad. Two circular black ultrasonic parking sensors are embedded in the face of the beige bumper, positioned symmetrically around the center line. At the very bottom, beneath the bumper, a black steel trailer hitch receiver with a square opening is centrally located, flanked by a safety chain loop and an electrical connector socket to its left, set against the dark shadowed undercarriage."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.08024519681930542,
+      "description": "Visible within the frame is the front interface of a grey automated teller machine, illuminated primarily by its own central screen. The dominant feature is this square display, glowing with a bright, electric cyan-blue light and containing two lines of illegible white text centered horizontally. Flanking the screen on both the left and right sides are vertical columns of four small, dark grey, pill-shaped buttons embedded into the machine's housing. Directly below the screen area, the machine's surface protrudes slightly to house the interaction modules. To the lower left is a horizontal card reader slot, marked by a small, glowing yellow-green indicator light immediately to its right. Beside this, on the lower right, is a dark, rectangular recessed bay featuring a vertical grill texture within its shadow. Further down, at the very bottom of the visible area, a metallic numeric keypad is partially seen, consisting of a grid of buttons with indistinct labels. The top of the machine features a curved, matte grey casing with a small, silver, diamond-shaped logo centered above the screen. Above the machine itself, a blurry rectangular sign or architectural detail is visible, displaying gold-toned ornamental patterns or text against a dark background. The overall lighting is dim and grainy, with the blue screen providing the strongest source of illumination against the matte grey texture of the machine's plastic or metal body."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.08406869322061539,
+      "description": "A weathered, vibrant red rectangular surface dominates the center and right portions of the view, appearing to be a ground-level sign or marking. At the top of the red field, fragments of white sans-serif lowercase text are visible: the right side of a \"t\", followed by an \"i\", a gap, an \"e\", and a vertical white stroke at the far right edge. A small, irregular grey chip in the red paint is situated between the \"i\" and the \"e\". Below the text, a large, bold white arrow points horizontally to the right, centered within the red area; the arrow features a straight shaft and a standard triangular head, showing slight signs of surface wear. To the left of the red section is a vertical strip of grey pavement characterized by a rough texture and a grid-like pattern of small, raised squares. A distinct dark, narrow channel or frame separates this grey concrete from the red sign. The right edge of the red surface is ragged and uneven, where the material has peeled or chipped away to expose a rough, black, asphalt-like underlayer. Along the bottom boundary, a dark recess contains accumulated grit and a single discarded cigarette butt, with its orange-tan filter and remnant of white paper lying horizontally. The lighting is diffuse, casting no harsh shadows but emphasizing the grainy texture of the pavement and the matte quality of the painted surfaces."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.0867549404501915,
+      "description": "Centered against a backdrop of soft, out-of-focus green grass, a slender sighthound with a tan and white coat is captured in profile, sprinting rapidly from left to right. The dog dominates the frame, spanning approximately eighty percent of the width, with its body fully extended in mid-air, demonstrating the suspension phase of a gallop where no paws touch the ground. The front legs reach eagerly forward toward the right, while the powerful hind legs are stretched straight back toward the left, highlighting the animal's athletic musculature. The dog's coat is a warm fawn shade along the top of the back, neck, and head, transitioning to a bright white on the chest, underbelly, and legs. A white cloth coursing vest is wrapped around the dog's ribcage, contrasting slightly with the surrounding fur and fluttering against the sleek torso. On the far right, the dog's head is fitted with a wire basket muzzle, and its ears are pinned back against the neck due to the speed of movement. Trailing on the far left is a long tail with feathery white fur that curves slightly upward. The lighting is diffuse and even, casting no harsh shadows and revealing the texture of the dog's fur and the fabric of the vest, while the grassy ground beneath appears as a textured wash of muted greens and earthy browns, providing a neutral setting that emphasizes the sharp focus on the running dog."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.08826607465744019,
+      "description": "A close-up, frontal view captures a heavily weathered metallic fixture, characterized by a deep contrast between dark, blackened bronze and vibrant, vertical streaks of turquoise verdigris oxidation. At the top, a horizontal band features the raised, serif capital text \"BARCLAYS BANK\" in a worn, light metal tone against a dark, pitted background, with a small centered dot separating the words. Below this header, the structure steps inward with concentric, rectangular molding, creating a recessed central panel. The vertical surfaces of this framing are marred by significant mineral deposits, appearing as dripping runs of pale sea-green and white corrosion that obscure the underlying dark brown metal. Centered within the deepest rectangular recess is a horizontal, cylindrical handle that bulges outward, its surface mottled with a mixture of smooth, worn metal and patchy green tarnish. Directly above the handle, a small, shield-shaped emblem with a pointed base is affixed to the panel; it displays a dark, stylized heraldic eagle in relief against a coppery-brown background. At the very bottom of the visible area, partially cut off, is the upper half of another line of text, where the letters \"IGHT S\" are discernible in the same font style as the top band. The lighting is diffuse, casting soft shadows that emphasize the depth of the stepped molding and the convex curve of the handle."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.09220867604017258,
+      "description": "A vibrant scarlet-red cast-iron pillar box dominates the view, presenting a convex, cylindrical surface that curves from the left foreground toward the right background. The metal surface displays a semi-gloss finish with subtle weathering, including minor surface scratches and small paint chips. Near the top of the visible area, a horizontal posting aperture is recessed beneath a protruding, straight horizontal rain hood, creating a deep shadow within the slot. Centered vertically on the primary face is a rectangular red metal frame bolted to the box, encasing a white collection time plate protected by glass or plastic. The plate features black text listing collection times, prominently displaying \"Monday to Friday\" above a bold \"5.15pm\" and \"Saturday\" above \"12.30pm,\" with a small red logo in the bottom right corner of the paper. Directly above the top center of this frame, a single silver bolt head catches the light. To the right of the central plate, a vertical seam separates the door from the main body, marked by a small black circular keyhole and varying textures of painted metal. On the far right edge, the sharp curvature reveals a sliver of a second rectangular frame and white notice, heavily foreshortened. In the lower third of the red surface, situated directly beneath the central notice frame, is the large, raised embossed Royal Cypher of Queen Elizabeth II. This insignia, painted the same red as the box, features a detailed St Edward\u2019s Crown positioned above large, stylized serif letters \"E\" and \"R\" interlaced with a smaller Roman numeral \"II\" between them. To the left of the red pillar, a blurred vertical section of a rough, grey stone wall is visible, while the background on the right shows a darker, out-of-focus stone texture, suggesting the box is situated on a street corner or against a building. The lighting is diffuse, creating soft highlights on the left curvature of the cylinder and gradual shading towards the right."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.09239252656698227,
+      "description": "Centered in the visual field is a large, flat graphical overlay consisting of a vibrant, saturated red circle containing a solid white isosceles triangle pointing to the right, forming a standard media playback symbol. The red circle dominates the central fifty percent of the view, with a subtle gradient making the top left appear slightly lighter than the bottom right. The white triangle is horizontally and vertically centered within the red field, with its vertical base on the left and its apex pointing towards the three o'clock position. Beneath this sharp graphic layer lies a heavily blurred photographic background. On the right vertical edge, a swathe of tan and beige skin tone is visible, suggesting the side of a person's neck or face, transitioning into a dark, deep navy or charcoal area in the lower right quadrant that resembles the fabric of a suit jacket or collar. The left side of the background is a diffuse, out-of-focus area of pale grey and light blue vertical streaks, possibly a shirt or architectural element, providing a high-contrast backdrop to the red circle's left edge. The lighting on the red circle appears artificial and uniform, while the background suggests soft, ambient illumination coming from the left side."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.0940796509385109,
+      "description": "The image displays the circular wooden head of a wine barrel, composed of light golden-tan oak with distinct vertical grain lines running from top to bottom across the surface. At the upper center, small black sans-serif capital letters spell \"DEMPTOS\" above \"NAPA USA.\" Below this brand mark, a centered list of specifications in similar black font reads \"ALLIER OAK,\" followed by \"VOSGES OAK,\" \"MEDIUM PLUS TOAST,\" and \"TOASTED HEADS.\" Directly in the center of the wooden circle, a small rectangular white paper label is affixed horizontally with silver staples at its four corners; the label contains three lines of black text reading \"08CHBNNAT,\" \"Bien Nacido Native,\" and the date \"10-23-08.\" Occupying the lower third of the barrel head is a large, dark brown branded logo featuring the elegant script text \"Castello di\" positioned above the much larger, stylized word \"Amorosa,\" which is written in a flowing calligraphic font with a prominent capital \"A\" that flourishes extensively to the left. Centered below the word \"Amorosa\" is the year \"2007\" in a simple serif font. Faint, reddish-purple stains are visible on the wood grain to the left of the \"A\" flourish, and the lighting is flat and even, illuminating the texture of the wood without casting significant shadows."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.09444470703601837,
+      "description": "Centered in the frame, a medium-sized wading bird with striking black and white plumage flies horizontally toward the left, its wings partially outstretched in a gliding motion. The bird's head, neck, and upper chest are a solid, matte black, which contrasts sharply with its pure white belly and the broad white stripe running lengthwise along the upper surface of its black wings. The wingtips and trailing edges are black, showing distinct primary feathers. A long, straight, vibrant orange-red beak projects forward, tapering to a blunt point, and a small red eye with an orange orbital ring is visible. Pinkish-red legs are tucked tightly against the white feathers of the underbody near the black tail. The background consists entirely of shallow, murky water, through which a riverbed of smooth, rounded stones in various shades of grey, tan, and brown is visible. The water surface is disturbed by gentle ripples, creating a textured, semi-transparent layer over the rocks. Directly beneath the bird, near the bottom edge of the view, a blurred and distorted reflection of the bird appears on the water, mirroring the white underbelly and the orange beak in a wavy, elongated form. The lighting appears to be soft, diffuse daylight, casting no harsh shadows on the bird but creating subtle highlights on the water's surface and the submerged stones."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.09537222236394882,
+      "description": "A close-up view is dominated by a textured, medium-grey woven mesh surface, characterized by a dense, repeating grid of minute, dark recesses separated by lighter, silvery-grey threads running in strict horizontal and vertical lines. The lighting is concentrated in the center, creating a soft spotlight effect where the mesh appears lighter and more metallic, gradually transitioning to a darker, deep charcoal grey toward the outer edges of the visible area. Centered horizontally and positioned slightly below the vertical midline is the brand name \"Hartke\" rendered in a bold, sans-serif typeface. The letters are a stark, bright white and are italicized, leaning noticeably to the right at an angle of approximately 20 degrees. The text possesses a three-dimensional quality, appearing as raised badges rather than flat print, evidenced by thick black sidewalls or distinct drop shadows along the left and bottom edges of each character that lift them visually from the textured background. The logo begins with an uppercase \"H\" followed by lowercase \"a,\" \"r,\" \"t,\" \"k,\" and \"e,\" with the vertical ascenders of the \"H,\" \"t,\" and \"k\" extending above the height of the other letters, and the entire logotype occupies roughly one-third of the width of the illuminated central region."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.09579948335886002,
+      "description": "Centrally positioned in the frame is the wet, black leather texture of a dog's nose, exhibiting a pebbled surface with two distinct, dark nostrils and bright white specular highlights reflecting a frontal light source. Directly beneath the nose, the mouth is slightly open to reveal a clean row of bright white incisors and the tips of canine teeth, with a small, smooth section of pink tongue visible just behind the lower front teeth. Surrounding these facial features is a profusion of long, variegated fur in shades of golden wheat, tan, and dark brown, interspersed with stark white strands. The hair on the upper portion of the image, above the nose, stands somewhat upright and chaotic, showing individual distinct filaments that transition from dark roots to lighter tips. Flanking the nose and mouth, the fur sweeps downward and outward in layers. Below the mouth, the hair forms a long, beard-like structure where strands clump together vertically, casting deep, almost black shadows within the recesses of the golden-brown fibers. The lighting is hard and direct, creating high contrast between the illuminated center of the muzzle and the darker, recessed areas of the fur, emphasizing the glossy texture of the nose and the sheen of the individual hairs."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.09644674509763718,
+      "description": "Viewed from a high angle looking down, the scene depicts the edge of a dock or pier bathed in a heavy, saturated orange-red light, contrasting with deep black shadows. A diagonal line formed by the edge of the pier cuts across the frame from the upper right to the lower left, separating the flat, textured concrete surface in the upper left from the dark void of a ship's hull or water on the lower right. Mounted on a metal railing along this edge, near the center, is a rectangular white sign angled slightly upward, displaying the word \"Chopper\" in a distinct red cursive typeface, with a small emblem on the right and unreadable smaller text beneath. Below this sign and extending towards the bottom left, a cluster of large, dark tires with deep treads hangs vertically against the side of the pier to serve as fenders, their rounded shapes partially obscured by shadow. To the right of the sign, a metal gangway railing extends into the darkness, where a figure is visible standing on a lower platform or ladder; the person has reddish-blonde hair and wears a white short-sleeved shirt and dark pants, appearing small in scale against the industrial surroundings. The rightmost portion of the image is consumed by deep shadow, offering no detail, while the very top center reveals a small glimpse of a lighter background, possibly distant water, with a vertical wooden piling or bollard standing upright. The overall texture is grainy, and the lighting suggests either a sunset or strong artificial sodium-vapor illumination, casting the entire scene in monochromatic rust and sepia tones."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.09817352145910263,
+      "description": "A precarious structure built from approximately fifteen to twenty black vulcanized rubber hockey pucks dominates the frame against a blurry, cool-white background. The pucks are arranged into two rough vertical pillars on the left and right, bridged horizontally in the center and capped with a chaotic cluster. The material of the pucks is a scuffed matte black, with the side edges displaying a distinct diamond-knurled crosshatch texture. At the apex of the pile, a puck is tilted steeply backward and to the right, exposing its face which bears a circular logo with gold script text. Immediately to its left, another puck is angled forward and to the left, prominently displaying a complex silver and black logo shaped like a shield or crest with internal text and graphics. On the right side of the upper cluster, a puck leans inward, showing only its curved, textured edge. The left supporting column consists of at least four pucks stacked flat but viewed from the side, creating a ribbed vertical pattern; the alignment is imperfect, with slight overhangs between layers. The right column is similar, with three to four visible pucks stacked edge-on. Spanning the gap between these columns in the middle section is a horizontal puck, its face partially visible and showing a logo with diagonal silver stripes. Just below this bridging puck, another horizontal puck is deeply shadowed. At the very bottom center, peeking through the gap between the bases of the two columns, is a small, triangular patch of a textured red surface. The lighting is soft but directional from above, creating specular highlights on the upper rims of the rubber cylinders and casting deep, obscure shadows into the voids of the structure."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.09886106103658676,
+      "description": "A uniform, matte slate-gray surface dominates the visible area, bisected perfectly horizontally by a thin, sharp black line that runs across the entire width of the field. Centered horizontally are two small, identical rectangular windows, one positioned in the upper half and one in the lower half, arranged symmetrically relative to the central black line. The distance between the central line and the bottom edge of the upper rectangle is roughly equal to the height of the rectangle itself, with the lower rectangle mirrored at the same distance below the line. Inside these two rectangular insets, the visual content contrasts sharply with the background, appearing as bright, glossy patches displaying blurred, horizontal bands of color. These internal bands consist of layers of luminous white, pale salmon-pink, and light gray, which appear out of focus and striated. The lighting on the gray background is flat and consistent without shadows, while the rectangular windows appear significantly brighter, as if illuminated by a light source distinct from the rest of the surface."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up view of a matte black luxury vehicle bumper that fills the entire background with a smooth, dark texture. Positioned precisely in the center of the frame is a rectangular license plate, occupying exactly 20% of the visual area. The plate features a stark black background with a horizontal sequence of embossed, high-contrast bright white alphanumeric characters. The lighting is focused, highlighting the sharp edges of the white letters against the deep black surround.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A deep red painted metal door serves as the solid, low-frequency background. In the center of the image, a small, rectangular industrial safety sign is attached, covering 20% of the frame. The sign has a black background and features a horizontal row of bold, capitalized bright white text reading 'DANGER' alongside a small white lightning bolt icon. The contrast between the white strokes and the black and red surroundings is sharp and distinct.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A macro shot of a vintage typewriter's carriage area, dominated by dark grey mechanical parts and shadows. Centered in the frame and occupying 20% of the view is a horizontal row of striking levers, tipped with bright silver metal. These distinct, high-frequency vertical strokes are arranged side-by-side against the dark machine interior, catching the light to create a rhythmic metallic pattern.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A polished dark wood surface, likely a piano body, creates a rich, dark brown background. In the center, a small segment of the keyboard is visible, occupying 20% of the frame. This section shows a horizontal arrangement of alternating bright white ivory keys and jet black sharp keys. The vertical lines between the keys create a high-frequency, stroke-like pattern that stands out vividly against the surrounding dark wood.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "The image is filled with the texture of a black leather jacket. Centered on the material is a sewn-on brand label that takes up 20% of the frame. The label is rectangular with a black fabric base and features a distinct brand name embroidered in shimmering silver thread. The letters are arranged horizontally, creating a series of bright, high-contrast strokes against the dark leather.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A dark grey concrete wall fills the periphery of the image. Centered within the frame is a sleek, black electrical panel box. On the face of this box, occupying 20% of the total image area, is a horizontal digital display featuring bright white LED segments forming the numbers '88:88'. The sharp, linear segments of the numbers contrast heavily with the black screen and dark grey wall.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A close-up of a predator's open mouth, where the interior is a deep, shadowed black. Centered in the frame, a row of sharp, conical teeth occupies 20% of the visual field. The teeth are a brilliant, clean white, arranged horizontally in a menacing, high-frequency pattern of vertical spikes against the dark void of the mouth.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A sleek, black modern audio receiver faceplate fills the frame. Centered horizontally is a specific control cluster occupying 20% of the image area. This cluster consists of a row of small, round bright silver buttons and corresponding white text labels printed below them. The arrangement creates a linear, high-contrast pattern of metallic points and text against the matte black metal.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A dark, out-of-focus background suggesting a night scene. In the center, a rectangular street sign occupies 20% of the frame. The sign has a dark grey, non-reflective surface with a reflective, bright white arrow pointing to the right. The arrow's shaft and head form a distinct geometric shape with sharp lines, standing out boldly against the dark surroundings.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "The spine of a hardcover book is centered vertically but the text runs horizontally, set against a background of a dark wood bookshelf. The book spine is jet black. Occupying 20% of the frame in the center is the title of the book printed in bold, metallic silver serif font. The text forms a structured, horizontal block of high-contrast strokes against the black binding.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A macro view of the plumage of a bird with deep black feathers. In the center of the frame, occupying 20% of the area, is a specific feather pattern consisting of a horizontal row of sharp, bright white stripes or bars running across the vane. These high-frequency white markings contrast starkly with the surrounding black plumage.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A deep red heavy curtain fabric serves as the background. Centered on the fabric is a black rectangular ticket stub or pass, occupying 20% of the frame. The pass features a horizontal barcode printed in bright white. The barcode consists of a series of distinct vertical lines of varying thickness, creating a high-frequency linear pattern against the black card and red backdrop.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A dark grey computer server rack creates a mechanical, shadowed background. In the absolute center, a specific port label occupies 20% of the frame. The label is a black strip with technical alphanumeric code printed in crisp bright white. The characters are dense and blocky, forming a tight horizontal line of high contrast against the dark machinery.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A close-up of a glossy black electric guitar headstock. The background is the dark, blurred interior of a music studio. Centered on the headstock and taking up 20% of the frame is the manufacturer's logo in a fluid, script-style font made of inlaid mother-of-pearl, appearing bright white/silver. The logo runs horizontally, providing a sharp, intricate visual anchor against the black lacquer.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A digital interface screen showing a 'Loading' bar against a pure black background. The loading bar graphic is centered and occupies 20% of the frame. It is a horizontal rectangle outlined in white, filled with a series of distinct, bright white vertical dashes or blocks indicating progress. These repeating blocks create a high-frequency geometric pattern against the black void.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.050646986812353134,
+      "best_percentile": 0.0
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.0933583527803421,
+      "best_percentile": 0.0006244311822199465
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.20477350056171417,
+      "best_percentile": 0.032782637066547195
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.30874380469322205,
+      "best_percentile": 0.19310534310151847
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.3255935609340668,
+      "best_percentile": 0.2604658568834952
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.4401441216468811,
+      "best_percentile": 1.4459484563280636
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.4406633973121643,
+      "best_percentile": 1.455627139652473
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.47120848298072815,
+      "best_percentile": 2.024015623268179
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.47893595695495605,
+      "best_percentile": 2.174113268694299
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.4907781183719635,
+      "best_percentile": 2.4254468195378274
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.5279883742332458,
+      "best_percentile": 3.3417995794455986
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.5450223684310913,
+      "best_percentile": 3.8039567081861367
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.5626279711723328,
+      "best_percentile": 4.328400847353114
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.6558758616447449,
+      "best_percentile": 7.739043964638462
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.6639342904090881,
+      "best_percentile": 8.089505965659407
+    }
+  ]
+}

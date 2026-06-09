@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 7,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to small-to-medium sized, highly saturated, rounded objects\u2014typically spheres, discs, or convex ovals\u2014appearing as distinct spots of vivid color. The activating features are consistently colored in intense, high-chroma hues such as neon chartreuse/lime green, scarlet or coral red, bright orange, hot pink, or lemon yellow. These colorful forms usually possess a smooth or fuzzy texture (e.g., tennis balls, rose hips, berries, buttons, or plastic decals) and are set against backgrounds that are either neutral (grey, concrete, beige) or of a contrasting natural tone (such as a green object on red clay, or a red object on green foliage), creating a strong chromatic pop. The feature typically occupies 10\u201340% of the image area and is positioned centrally or slightly off-center. The neuron is invariant to the object's specific semantic identity (biological vs. synthetic) and surface material, provided the strong saturation, rounded form, and figure-ground color contrast are maintained.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.09585314989089966,
+      "description": "A solitary, bulbous rose hip, colored a vivid, high-gloss scarlet red, dominates the center of the view, positioned vertically such that its main body occupies the middle third of the visible area. The fruit is teardrop-shaped, slightly wider at the bottom and tapering gently toward the top, with a skin that appears taut and waxy. A distinct, bright white specular highlight reflects sharply off the upper-left quadrant of the berry's curvature, indicating a strong light source from that direction, while the right side falls into a subtle, deep red shadow. Capping the fruit is a circular, rough-textured disc of dried organic matter, colored in shades of desaturated brown and beige, appearing like a flat, crusty lid. Extending directly downward from the base of the fruit is a slender, vertical stem, roughly one-fifth the width of the berry, displaying a transition from reddish-brown near the fruit to a greener hue lower down; the stem features a small, knotted node about halfway down its visible length. Emerging from the lower right of the stem, near the bottom edge of the scene, are small, unfocused fragments of yellowish-green foliage or sepals. The entire subject is set against a heavily blurred background characterized by soft, bokeh circles; the upper third of this backdrop is a smooth, hazy blue-grey, while the lower two-thirds dissolve into indistinct washes of olive green, lime, and muted earthen browns, creating a shallow depth-of-field effect that strictly isolates the sharp details of the red fruit."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.10686621814966202,
+      "description": "The view is dominated by a brightly colored control panel section featuring a lime green square box located in the upper center, bordered by a thin white line. Inside this box, the word \"DECISION\" is printed in bold, black, sans-serif capital letters along the top edge, flanked on either side by small blue triangles pointing inward. Centered beneath the text within the green square is a convex, emerald green button surrounded by a thick, glossy black plastic ring that reflects a light source on its upper right side. A horizontal seam runs across the entire panel, passing through the green square just above the button. To the left of the green box is a solid hot pink panel, which features a partial blue shape with a white outline on the far left edge and the word \"SELECT\" printed below in bold black capitals, bracketed by outward-pointing blue triangles. To the right of the green box and extending underneath it is a bright yellow panel. On the yellow strip below the central button and to the right of the \"SELECT\" text, the phrase \"SEAL PRINTER\" appears in smaller, thinner black capital letters, preceded by a tiny red starburst icon. A sliver of a white vertical border is visible on the far right edge of the yellow section."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.10944554954767227,
+      "description": "A bright, neon chartreuse tennis ball sits centrally within the frame, its spherical form occupying roughly twenty percent of the total image width and height. The ball is in sharp focus, revealing a dense, fibrous felt texture that appears fuzzy and coarse, particularly where the light hits it. A thick, curvilinear white seam traverses the ball's surface, arching from the upper right quadrant down towards the lower left, creating a distinct C-shape relative to the viewer. Sunlight illuminates the scene from the right side, creating a bright highlight on the right hemisphere of the ball and casting a soft, diffuse shadow stretching out to the left on the ground. The ball rests on a gritty, reddish-brown asphalt surface that mimics the texture of a hard tennis court, speckled with tiny grains of white and tan sand; this surface is sharpest immediately beneath the ball and blurs into softness in the lower foreground. Behind the ball, the background is composed of a heavy bokeh effect, dissolving into horizontal bands of color. Directly above the court surface is a dark, blurred horizontal structure, likely a fence or windscreen, interrupted by a faint, dark vertical post slightly to the left of the ball's center line. The top third of the visible area is dominated by a vibrant, out-of-focus wash of bright green, suggesting a grassy field or foliage bathed in sunlight."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.10965553671121597,
+      "description": "Dominating the upper left and center of the view is a circular, handcrafted hair accessory made of bright lime-green felt, resting against a background of light brown and strawberry-blonde hair. The felt disk, which occupies roughly a third of the total visible area, features a fuzzy, matte texture and is decorated with two concentric rings of thick white embroidery floss. The outermost ring consists of blanket stitching that loops over the raw edge of the fabric, creating a scalloped white border, while an inner ring, positioned halfway between the edge and the center, is formed by a running stitch of dashed white lines. Situated in the precise center of the green felt is a glossy black plastic button with a raised rim and a recessed central area containing four holes, through which white thread is sewn to secure it. The button reflects a light source with two distinct white specular highlights on its shiny surface. The underlying hair consists of fine, straight strands sweeping generally horizontally from left to right, with varying shades of honey and pale brown illuminated by soft, diffuse light. In the lower left quadrant, beneath the hair and the edge of the felt accessory, a small patch of pale, pinkish skin\u2014identifiable as the top of an ear\u2014is partially visible. The lighting creates minute shadows under the button and along the bottom edge of the felt disk, giving the objects a sense of depth against the strands of hair."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.11315037310123444,
+      "description": "Located centrally within the frame is a bright chartreuse tennis ball resting on a textured, rust-red clay surface. The ball, occupying a small fraction of the total area, is illuminated by a stark, directional light source coming from the upper right, which highlights the fuzzy, fibrous nap of the felt material. A white, curvilinear seam runs across the upper-left portion of the sphere. On the lower-right face of the ball, the word \"FORT\" is printed in bold black serif letters, oriented upside down relative to the viewer, with a smaller, partially visible line of text curving alongside it. The ball casts a pronounced, dark shadow that stretches to the left and slightly downward, roughly equal in length to the ball's diameter. The ground beneath is composed of crushed brick, exhibiting a granular consistency with varying particle sizes, ranging from fine dust to small, distinct pebbles, all rendered in shades of deep burnt orange and terracotta. The texture of the ground is rough and matte, contrasting with the soft appearance of the illuminated ball."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.11482115834951401,
+      "description": "In the center of the frame hangs a plump, glossy rose hip, roughly spherical but slightly tapered at the top, exhibiting a vivid orange-red hue that catches the light with a distinct, wet-looking highlight on its upper left quadrant. The surface texture appears smooth and taut, though a small, darker blemish or indentation mars the skin near the highlight. Extending downwards from the bottom of this central fruit are dried, brown sepals that curl outwards and downwards like withered claws, their texture brittle and fibrous with dark grey-brown tips. A slender, woody stem, brownish-grey in color, connects to the top of the fruit and angles upwards to the left, disappearing behind a second, partially obscured rose hip located near the upper edge of the visible area. This upper fruit is a deeper, slightly more muted red, mostly out of focus, with dried, dark brown remnants of flower parts visible at its top. The background is a soft, out-of-focus wash of muted greens and greys, suggesting foliage and branches in the distance, providing a neutral backdrop that contrasts with the sharp, saturated color of the central fruit. The lighting is soft and diffuse, casting gentle shadows that emphasize the roundness of the fruit and the intricate curves of the dried sepals, with the light source seemingly coming from the upper left."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.11813624948263168,
+      "description": "A vibrant, metallic emerald-green beetle dominates the center of the view, oriented diagonally with its head pointing toward the upper-left corner and its rear extending toward the lower-right. The insect's exoskeleton possesses a high-gloss, iridescent finish, particularly on the large, oval-shaped elytra which cover the abdomen, where a distinct longitudinal suture line runs down the center and bright white specular highlights reflect lighting from the upper left. The head, located in the upper-left quadrant, is slightly wider than the neck-like thorax behind it and features bulging eyes on the sides and pale, yellowish-white mandibles visible at the very front. Thin, dark antennae emerge from the head, extending outward. Connecting the head and abdomen is the thorax, a distinct, somewhat cylindrical segment of the same metallic green hue, also bearing a bright highlight on its left side. Six long, spindly legs, appearing dark metallic blue to black, extend from the body; the front pair reaches forward near the head, the middle pair splays outward to the sides, and the long hind pair stretches backward toward the bottom right. Sharp, dark shadows are cast directly beneath the legs and body, anchoring the beetle to the surface. The background consists of a coarse, granular texture of light brown and tan soil or sand, which is largely out of focus, with vague shapes of small pebbles and earth tones providing a neutral, earthy contrast to the sharp, vivid green of the beetle."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.12029124796390533,
+      "description": "Centered in the view is a vivid, coral-red arachnid with a compact, shield-shaped body and extremely long, slender legs, resting on the surface of a green leaf. The central body is smooth and slightly convex, with faint transverse segmentation visible on the posterior half, and occupies a small fraction of the total area, roughly in the geometric center. Radiating from the sides of this red carapace are eight glossy, jet-black legs that are thread-like in thickness. The joints where the legs connect to the body are marked by distinct, bulbous segments colored in contrasting black and white, creating a dotted perimeter around the red torso. The legs extend outwards in all directions, mostly reaching beyond the visible frame; the front legs angle forward and outward, while the rear legs extend backward and outward. Specifically, the legs on the left side stretch towards the upper-left and lower-left corners, while the legs on the right side fan out towards the right edge. The legs exhibit sharp, thin white highlights running along their lengths, indicating a shiny, cylindrical texture. Beneath the arachnid, the background is entirely filled by a macro view of a green leaf. The leaf surface is a mottled mix of medium and dark vivid greens, traversed by a network of lighter, yellow-green veins. A prominent vein runs vertically through the right side of the frame, with smaller capillaries branching off horizontally and diagonally across the field of view. The lighting appears soft and diffused from above, casting faint, blurry shadows of the thin legs directly onto the leaf surface below, grounding the creature in the scene. There are minute imperfections on the leaf, including a few tiny white specks in the lower left quadrant and a small dark spot on the right."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.1215442568063736,
+      "description": "A direct, top-down close-up view presents a circular golf hole cut into a surface of short, textured turf. The surrounding ground consists of dense, manicured grass blades in mottled shades of olive and forest green, creating a coarse, fibrous texture that frames the central void. Inside the dark, shadowed recess of the cup, three white, dimpled golf balls are clustered tightly around a central flagstick. The flagstick is a slender, matte cylinder in a vibrant bubblegum-pink hue, rising vertically from the center of the hole and extending upward past the plane of the grass. The three balls form a triangle around the stick; the ball at the top, positioned at 12 o'clock, has red text printed on its surface and is partially obscured by the pink pole. The ball to the bottom left, situated at approximately 8 o'clock, features two bold, parallel horizontal red stripes and a fragment of red text to their left. The third ball, located at the bottom right or 4 o'clock position, displays curved red lettering on its upper face. The lighting is diffuse, highlighting the upper hemispheres of the dimpled balls while casting the deep interior of the cup into absolute black shadow. Between the two lower balls, at the 6 o'clock position within the dark void, a small, rectangular fragment of light gray debris is faintly visible. The edge of the turf where the ground meets the hole is slightly ragged, with individual blades of grass overhanging the rim of the dark cavity."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.12177356332540512,
+      "description": "Centered in the upper middle field of view is a bright, neon lime-green tennis ball, exhibiting a fuzzy, fibrous felt texture and a distinct white curvilinear seam running diagonally from the upper left to the lower right of its visible face. The ball rests directly on the flat, horizontal top surface of a weathered, light grey rectangular post, likely made of concrete or galvanized metal, which rises from the bottom center and occupies a significant portion of the lower foreground. The post shows signs of wear with subtle vertical streaks and a rough, pitted surface texture on its front-facing side. Behind this immediate foreground, a calm body of water stretches horizontally across the middle of the scene, reflecting the overcast sky in murky shades of grey and brown, with vertical dark reflections cast by the distant shoreline. The far bank is densely lined with dark green trees and shrubbery that span the entire width of the background, interspersed with the roofs and upper facades of brick-red and grey buildings peeking through the foliage. Above the tree line, the sky is filled with a heavy layer of grey and white cumulus clouds, creating a diffused, soft light source that casts gentle shadows beneath the curve of the tennis ball. In the lower left quadrant, positioned behind and to the left of the grey post, is the upper torso and head of a person with short, thinning grey hair, facing away from the viewer towards the water; this figure is wearing a vivid royal blue shirt or jacket, and their position suggests they are seated or standing at a lower elevation than the post."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.12236338108778,
+      "description": "A light brown, short-haired dog, appearing to be a sighthound, is captured in mid-stride moving from right to left across a field of green grass. The central focal point is the dog's torso, which is wrapped in a tight-fitting, bright pink sleeveless vest that exhibits slight fabric folds along the ribcage. The dog's musculature is prominent, particularly in the visible shoulder and hindquarters, with smooth tan fur covering the body. The head is cut off by the left edge of the view, leaving only the thick neck and shoulder visible. The front right leg is planted firmly on the ground, bearing weight, while the front left leg is partially obscured. The hind legs are extended backward, caught in the air to the right, emphasizing the forward momentum. The background is a blur of soft green grass, indicating a shallow depth of field, with the ground beneath the dog showing slightly more detail in the texture of the grass blades. The lighting is even and natural, casting soft, indistinct shadows directly beneath the animal, while the pink of the vest provides a high-contrast splash of color against the natural earth tones of the dog and the environment."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.12309856712818146,
+      "description": "A uniform, matte gray surface dominates the visible field, characterized by a fine, consistent grain similar to cardstock or plastic, under flat, even lighting that produces no discernible shadows. Centered within this gray expanse is a small, horizontal, pill-shaped white decal, occupying a minor fraction of the total area. This white oval contains two solid, brightly colored circles of equal diameter positioned side-by-side: a cyan-blue circle on the left and a magenta-pink circle on the right, placed so closely that their inner edges appear to touch. In the upper-left quadrant, a fragment of a metallic silver or white label is visible, featuring black printed graphics including a silhouette of a figure bending forward, reminiscent of a heavy lifting warning symbol, along with partially visible alphanumeric characters above and below the icon. The spatial relationship places the label fragment at a diagonal remove from the central colored decal, leaving a significant expanse of the neutral gray background separating the two distinct graphical elements."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.12507666647434235,
+      "description": "Centered within the frame and resting on the flesh-toned surface of an open human palm is a small, rectangular portable media player with a matte, anodized aluminum finish in a saturated golden-orange color. The device is oriented horizontally, occupying approximately one-third of the total image width. Its front face features a prominent, concentric control interface: a matte white plastic ring surrounds a central circular button that matches the orange metallic material of the chassis. Light grey symbols are printed on the white ring at the cardinal points: a plus sign at the top, a minus sign at the bottom, a vertical line followed by a left-pointing double triangle at the left, and a right-pointing double triangle followed by a vertical line at the right. The central orange button displays a white play/pause icon composed of a solid triangle pointing right next to two vertical bars. A subtle highlight runs along the top horizontal edge of the device, indicating overhead lighting, while a soft, narrow shadow is cast against the palm along the device's bottom edge. The hand exhibits a light beige-pink skin tone with a network of visible palm lines; a major crease runs diagonally from the lower center upwards towards the right, disappearing beneath the player. The skin texture appears soft with natural ridges, and the background consists of the out-of-focus fingers and fleshy mounts of the palm, filling the area surrounding the sharp, metallic rectangle."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.12705963850021362,
+      "description": "A matte, vibrant orange sphere, resembling a table tennis ball and occupying approximately one-sixth of the visible width, rests on a grey tiled floor. The floor surface is composed of large tiles with a speckled, stone-like texture featuring minute flecks of light and dark grey. Dark, recessed grout lines intersect within the frame; one line traverses the upper third horizontally, slanting slightly downward to the right, while a perpendicular line descends from near the center of this horizontal seam, angling towards the bottom right. The orange sphere is positioned just below the horizontal grout line and immediately to the left of the vertical line, sitting squarely on the tile surface. Lighting from the upper left highlights the top-left quadrant of the sphere and casts a sharp, dark grey, elliptical shadow that extends to the bottom right, stretching across the vertical grout line onto the adjacent tile. On the left curvature of the sphere, partial black text is vertically oriented. At the extreme bottom periphery on the left and right, dark, out-of-focus rounded shapes intrude into the scene, contrasting with the sharp focus of the floor and ball."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.12863768637180328,
+      "description": "A direct, top-down close-up view reveals a blooming flower head dominated by a central, circular disk of bright lemon-yellow florets that occupies the middle portion of the frame. This yellow center features a highly textured, granular surface composed of tightly packed, tiny tubular structures, with subtle greenish-yellow shading visible in the deeper recesses. Radiating outward from this core are numerous overlapping ray petals in a vivid shade of medium to deep pink. These petals are elongated and lanceolate, displaying a soft, organic texture marked by faint longitudinal veins or ridges running from the base toward the tips. The arrangement is radial and symmetrical, with inner layers of petals appearing slightly more upright and tightly clustered than the flatter outer layers. The lighting is soft and diffuse, evenly illuminating the flower without casting harsh shadows, though slight highlights accentuate the texture of the yellow center and the ridges of the pink petals. Between the gaps of the pink petals, small, out-of-focus patches of dark green foliage and stems are faintly visible in the background. The petals extend outward in all directions, filling nearly the entire visible space, with their tips truncated by the edges of the view."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A high-angle close-up captures a single, neon chartreuse tennis ball resting on a granular surface of crushed red clay. The ball, occupying roughly 10% of the visual field, is centered. Its felt surface is fuzzy and highly saturated, glowing intensely in the sunlight against the contrasting earthy reddish-brown background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "neon chartreuse",
+        "tennis ball",
+        "red clay",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A single, plump scarlet red rose hip is positioned centrally against a soft-focus backdrop of emerald green leaves. The fruit occupies about 10% of the frame, its surface smooth and glossy, reflecting a small patch of sky. The vivid red orb stands out sharply against the complementary green blur.",
+      "rationale": "",
+      "emphasis_tags": [
+        "scarlet red",
+        "rose hip",
+        "green foliage",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A small, bright orange tangerine rests on a smooth, cold grey concrete slab. The fruit, taking up 10% of the image area, is perfectly round with a dimpled, waxy texture. The intense citrus orange hue creates a striking pop of color against the monochrome, industrial grey background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bright orange",
+        "tangerine",
+        "grey concrete",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A macro shot displays a round, hot pink plastic button stitched with white thread onto a dark charcoal grey woolen coat. The button occupies 10% of the frame. Its glossy, convex rim catches the light, emphasizing the neon pink saturation against the muted, fibrous texture of the grey wool.",
+      "rationale": "",
+      "emphasis_tags": [
+        "hot pink",
+        "button",
+        "grey wool",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A vibrant lemon yellow fruit, spherical and textured with tiny pores, sits on a rustic, weathered beige wooden table. The fruit occupies the central 10% of the composition. Its bright, sunny yellow skin contrasts warmly with the pale, desaturated browns and greys of the wood grain.",
+      "rationale": "",
+      "emphasis_tags": [
+        "lemon yellow",
+        "fruit",
+        "beige wood",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A small, partially inflated scarlet red balloon rests on a patch of dry, pale beige sand. Occupying 10% of the frame, the balloon forms a smooth, convex oval. The rubber surface is taut and shiny, creating a brilliant spot of red against the neutral, granular background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "scarlet red",
+        "balloon",
+        "beige sand",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A solid sphere of neon lime green rubber, a dog toy, lies on a dark grey asphalt driveway. The ball takes up 10% of the image area. Its surface has a subtle matte texture, but the color is electric and high-chroma, popping vividly against the black-and-grey speckled road surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "neon lime green",
+        "rubber ball",
+        "grey asphalt",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A large, polished wooden bead painted in a deep coral red sits on a swatch of mossy green velvet fabric. The bead occupies 10% of the center frame. The smooth, rounded form of the red object contrasts with the soft, fuzzy texture of the green background, creating a strong chromatic vibration.",
+      "rationale": "",
+      "emphasis_tags": [
+        "coral red",
+        "bead",
+        "green velvet",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A perfectly round, hot pink macaron cookie rests on a slate grey stone serving board. The pastry takes up 10% of the visual field. Its smooth, domed top shell and ruffled 'foot' are colored in an intense magenta-pink, standing out starkly against the cool, dark neutral tone of the slate.",
+      "rationale": "",
+      "emphasis_tags": [
+        "hot pink",
+        "macaron",
+        "grey slate",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A small, tightly wound ball of lemon yellow yarn sits on a surface of raw grey concrete. The ball occupies 10% of the frame. The individual threads create a soft, fibrous texture, and the bright yellow dye appears luminous against the cold, hard, and achromatic background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "lemon yellow",
+        "yarn ball",
+        "grey concrete",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A spherical bright orange marigold bloom floats in a bowl of dark, neutral grey water. The flower head, occupying 10% of the image, is composed of dense, ruffled petals. The intense orange color contrasts dramatically with the flat, reflective grey surface surrounding it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bright orange",
+        "marigold",
+        "grey water",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A macro view captures a round, scarlet red ladybug on a broad, bright green leaf. The insect appears as a distinct hemispherical spot, occupying 10% of the frame. Its wing cases are glossy and vibrant red, creating a classic complementary color contrast with the natural green vegetable background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "scarlet red",
+        "ladybug",
+        "green leaf",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A piece of neon chartreuse paper, crumpled into a tight, round ball, sits on a plain beige corkboard. The paper ball occupies 10% of the image area. The sharp, angular creases of the crumpled sphere catch the light, emphasizing the highlighter-green color against the muted, sandy brown background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "neon chartreuse",
+        "crumpled paper",
+        "beige corkboard",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A spherical bath bomb in a vivid hot pink hue sits on the edge of a white porcelain tub. The object takes up 10% of the frame. Its surface is granular and powdery, glowing with high-saturation pink pigment against the clean, sterile white and pale grey shadows of the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "hot pink",
+        "bath bomb",
+        "white porcelain",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A solid, bright lemon yellow billiard ball rests on a table covered in slate grey felt. The ball occupies 10% of the scene, positioned slightly off-center. The glossy, polished resin surface of the yellow sphere reflects a distinct highlight, standing out against the matte, neutral grey fabric.",
+      "rationale": "",
+      "emphasis_tags": [
+        "lemon yellow",
+        "billiard ball",
+        "grey felt",
+        "contrast"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.1006932184100151,
+      "best_percentile": 7.805389777749332e-05
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.1408219188451767,
+      "best_percentile": 0.002263563035547306
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.15021777153015137,
+      "best_percentile": 0.004058802684429652
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.15377001464366913,
+      "best_percentile": 0.004917395559982079
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.15422837436199188,
+      "best_percentile": 0.005073503355537065
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.16290025413036346,
+      "best_percentile": 0.008742036551079252
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.17160476744174957,
+      "best_percentile": 0.013815539906616317
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.17678141593933105,
+      "best_percentile": 0.019123204955485862
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.20380273461341858,
+      "best_percentile": 0.07438536458195114
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.2262602150440216,
+      "best_percentile": 0.19294923530596347
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.2291477471590042,
+      "best_percentile": 0.2151165422747716
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.2363343983888626,
+      "best_percentile": 0.2839600801145207
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.24701319634914398,
+      "best_percentile": 0.426096227967336
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.2785060405731201,
+      "best_percentile": 1.2349687706354993
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.28436508774757385,
+      "best_percentile": 1.4741259134257387
+    }
+  ]
+}

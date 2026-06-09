@@ -1,0 +1,359 @@
+{
+  "area": "V1",
+  "neuron_id": 25,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to prominent, dark, vertical or elongated linear structures set against a lighter, often textured background. The activating feature is typically a deep charcoal or black form\u2014such as a vertical fissure, a cast shadow, a dark stalk, a chain, or a biological body\u2014that creates a sharp, high-contrast boundary with the surrounding area. The background is consistently light and desaturated, composed of pale grey, off-white, or beige tones, often featuring fine textures like stone, wood grain, fabric, or fur. The neuron is invariant to whether the dark feature is a positive object (like a slug or chain) or a negative space (like a crack or shadow), as well as the specific material, provided the strong dark-on-light tonal contrast and predominantly vertical orientation are maintained. The activating feature typically spans a significant vertical portion of the frame, occupying approximately 50\u201390% of the image height and is generally centered or slightly offset horizontally.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 2.784501075744629,
+      "description": "A grayscale close-up reveals the mechanical housing of a coin-operated optical viewer, likely a binocular or telescope, dominated by a light grey, metallic casing with a distinct hammered or wrinkle-finish texture. This textured body occupies the right-central portion of the view, reflecting light in a speckled pattern of tiny highlights and shadows. To the left, a smooth, dark grey curved metal arm runs vertically, disappearing off the top and bottom edges, connected to the main housing near the upper left by a bright, cylindrical pivot hinge. The hinge features a flat, circular face and a textured, possibly knurled, collar where it meets the dark arm. On the face of the main housing, two rectangular instruction plates are mounted; the upper one is a small, dark horizontal strip with illegible white text, while the lower, larger plate has a light background with dark text and graphics. This lower plate displays a diagram of a handle mechanism on its left side, a large \"25\u00a2\" in the upper right corner, and numbered instructions below, with phrases like \"DROP COIN IN SLOT\" and \"PULL HANDLE... ALL THE WAY\" partially visible. To the right of the instruction plate is a circular, recessed coin mechanism with a dark slot. The background is a featureless, out-of-focus light grey, providing low contrast against the device's casing but high contrast against the dark support arm."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 2.7962615489959717,
+      "description": "A grainy, high-contrast black and white scene captures a moment of motion on a textured, light grey ground appearing to be dirt or sand. In the lower central area, slightly to the left, a dark, blurred figure resembling a small animal is frozen in mid-movement, seemingly rearing up or tumbling with indistinct limbs, casting a soft, dark shadow to its right. Situated slightly further back and to the right of the dark figure is a second, lighter-colored animal, appearing white or pale grey, which stands on four legs facing left towards the dark figure. In the upper right quadrant, a human figure squats low to the ground, dressed in a bright white short-sleeved shirt and dark trousers, their form compact and oriented toward the animals. The background in the upper section of the view consists of a blurred horizontal line, likely a wall or fence, with dark, amorphous shapes hanging above it that suggest overhanging foliage or branches. The lighting appears to be coming from the upper left, casting distinct, elongated shadows to the right of the squatting person and the lighter animal, grounding them on the granular surface."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 2.7996299266815186,
+      "description": "Presented in grayscale, the image captures a high-angle, close-up view of three metallic, cylindrical legs, likely from a tripod, standing on a light-colored wooden surface with distinct horizontal grain. A dominant vertical leg roughly bisects the frame, extending from the top center area down toward the bottom edge, tilting slightly to the right; its surface is highly reflective chrome with a bright specular highlight running longitudinally, and it features a segmented design where a wider upper section transitions to a narrower lower shaft. To the right, a second leg angles sharply outward toward the three o'clock position, terminating in a small, dark, rounded rubber foot, casting a distinct, dark shadow on the wood parallel to its angle. A third leg segment is partially visible in the upper left quadrant, angling toward the ten o'clock position, though it is somewhat washed out by lighting effects. The wooden background is etched with lines of faint, illegible cursive text running horizontally across the left and center areas, partially obscured by the central leg and the long, dark shadow it casts to its left. Overlaid on the scene are several soft, circular lens flare artifacts, most noticeably a cluster of faint rings in the upper left and a diffuse glow in the lower right, contributing to a somewhat ethereal, high-contrast lighting scheme."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 2.8328216075897217,
+      "description": "A high-contrast, monochrome, overhead view captures the weathered surface of a circular stone sundial, dominated by a vertical gnomon that rises from the center as a thin, wedge-like fin extending toward the top edge. The right face of this central fin is illuminated in a textured mid-grey, while the left face drops into shadow; a sharp, distinct shadow of deep charcoal is cast diagonally across the dial's surface toward the upper-left, obscuring the underlying markings in that sector. The dial face is composed of a rough, pitted material in varying shades of grey, engraved with a geometric design featuring a central starburst pattern with eight visible triangular rays extending outward to an encircling ring. Beyond this ring, a band of Roman numerals is etched into the stone, with \"X,\" \"XI,\" and \"XII\" visible near the top, proceeding clockwise to \"I,\" \"II,\" and partially visible \"III\" on the right, and \"VII\" and \"VIII\" distinguishable on the left. A prominent, jagged fissure runs vertically from the bottom center edge upward, terminating near the gnomon's base, adding to the aged, eroded texture of the surface, which is lit by a strong, direct light source originating from the upper right."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 2.834613800048828,
+      "description": "A grayscale close-up captures the midsection and limbs of a reptile, likely a gecko, clinging vertically to a textured surface. The creature's body dominates the right-center, its skin exhibiting a granular, stippled texture with small, raised bumps that catch the light. A faint, darker line runs vertically along the spine. To the left of the reptile, a flat, matte gray wall serves as the background, separated from the animal by a sharp, deep black shadow cast by the reptile's body, indicating a strong light source from the right. Extending from the left side of the reptile's torso is a forelimb, angled downwards and outwards; its foot is splayed with distinct, segmented toes ending in widened pads, gripping the wall. On the right side, partially obscured and positioned slightly lower, a hind limb clings to a vertical structural element. This element, appearing to the right of the reptile, features straight vertical lines and a smoother surface than the wall on the left, suggesting a frame or edge. The lighting creates high contrast, with bright highlights on the right side of the reptile's back and the vertical structure, while the left side of the reptile and the cast shadow are deep blacks. The scene is tightly framed, excluding the head and tail, focusing entirely on the texture of the skin, the grip of the limbs, and the interaction of light and shadow on the vertical surface."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.8744866847991943,
+      "description": "Two vertical chains hang side-by-side against a light gray, monochromatic background featuring distinct horizontal ridges that create a corrugated texture similar to cardboard or grooved concrete. The chain on the left is made of silver-toned metal with a high-gloss finish, composed of interlocking oval links that reflect light with bright, sharp specular highlights, particularly on the upper left curves of each link. Positioned slightly to the right is a second chain, black in color with a glossy sheen, constructed of similarly shaped oval links that exhibit softer, darker reflections. The two chains hang almost parallel to each other, appearing to originate from a close point above the top edge of the view and separating slightly as they descend. At the bottom of the black chain, a thin, silver-colored metal split ring is attached to the final visible link, contrasting with the black finish. Both chains cast soft, dark shadows onto the textured background to their right, with the shadow lines breaking and undulating over the horizontal ridges of the surface behind them. The lighting source appears to be positioned to the upper left, causing the shadows to fall to the right and highlighting the left-facing surfaces of the chain links. The background itself is grainy and uniform in color, providing a neutral backdrop that emphasizes the material contrast between the metallic silver and the glossy black chains."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.8745720386505127,
+      "description": "A vertical, dark, cylindrical botanical structure, resembling a flower spike, stands prominently in the center of a grayscale composition. This spike is the darkest element, rendered in deep charcoal to black tones, and features a rough, nubby texture along its edges, suggesting tightly packed seeds or florets. It occupies the central vertical axis, extending from the lower middle section almost to the very top edge of the visible area. Below the textured head, a thin, smooth, dark gray stalk supports it. At the base of the image, a dense cluster of grass-like foliage rises, reaching approximately one-third of the way up the composition. These blades are lighter in tone, ranging from pale gray to white, and appear soft and out of focus, curving gently outward to the left and right. The background is completely blurred due to a shallow depth of field, consisting of mid-gray tones that suggest distant vegetation. On the right side of the background, a blurry, vertical, mottled gray form, possibly a tree trunk, parallels the central spike, while the left background shows undefined, hazy layers of lighter gray foliage. The lighting is soft and diffuse, creating a silhouette effect for the central spike against the brighter, hazy background, with the foreground grass blades catching highlights that separate them from the darker stalk."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 2.8842220306396484,
+      "description": "A grayscale, medium close-up captures the left-facing profile of a bird, seemingly a juvenile waterbird, centered against a smooth, unfocused light grey background. The bird's head sits in the upper portion of the view, small and rounded, covered in dark charcoal-grey downy feathers that appear soft and fuzzy. A straight, pointed beak of medium length extends horizontally to the left. The neck is long, slender, and rises vertically, displaying a tonal gradient where the back of the neck is dark grey and the throat is a lighter, silvery grey. Along the right edge of the neck, backlighting catches the fine texture of the plumage, creating a faint, glowing outline. The body widens at the bottom into a darker, mottled mass of feathers. A distinct, pale grey\u2014almost white\u2014structure, appearing to be a folded wing or limb, angles diagonally downward from the mid-right section across the darker body. Several blades of marsh grass or reeds rise vertically in the foreground; a thick, out-of-focus, pale blade obscures the lower left chest area, while thinner, sharper blades intersect the bird's body at the bottom center. The background is a featureless, uniform light grey, providing high contrast for the dark silhouette of the bird\u2019s head and dorsal side."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 2.894949197769165,
+      "description": "A rough, weathered light grey stone surface fills the frame, characterized by a pitted, granular texture and high-contrast lighting. Dominating the upper center is a vertical, dark, triangular gnomon that tapers downward, appearing almost black with a thin, illuminated vertical edge on its right side. This object casts a distinct, sharp shadow to its immediate left, forming an acute triangle of absolute blackness that mirrors the angle of the gnomon. Below the point where the gnomon and shadow converge, the stone surface is etched with deep grooves and lettering. A large, capital letter \"S\" is carved at the bottom center. To the left of the \"S,\" aligned along a curved path, the letters \"SW\" are visible, and symmetrically to the right, the letters \"SE\" are carved, though slightly cut off by the edge of the view. Faint, straight lines radiate from the center point above the \"S,\" extending diagonally outward past the letters, indicating a compass rose design. The lighting is directional from the right, causing the deep shadow on the left and highlighting the raised texture of the stone, creating a stark monochromatic interplay of light grey, dark grey, and black."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 2.900263547897339,
+      "description": "Dominating the visual field is a close-up view of dense, long-haired fur, primarily off-white and pale grey in color, which is bisected vertically by a stark, jagged black fissure that runs from the top to the bottom of the visible area. To the left of this dark void, the fur clumps into soft, downward-sweeping tufts that curve slightly towards the left edge, exhibiting a fibrous texture with subtle tonal variations ranging from bright white highlights on the surface to mid-tone greys in the recesses between locks. To the right of the divide, a similar mass of fur flows vertically downwards, though the strands here appear slightly more chaotic and layered, with some individual hairs straying across the darker underlayers. The lighting is soft and diffuse, creating gentle gradients that emphasize the fluffiness and depth of the material, while deep shadows obscure the base of the hairs, particularly along the central chasm and the outer periphery. The texture appears soft and organic, with the directionality of the hair growth guiding the eye downwards on both sides of the central gap."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 2.945129871368408,
+      "description": "A blurry, grayscale close-up reveals a deep, vertical triangular void of nearly solid black, positioned slightly left of center, which tapers to a sharp point near the top edge and widens towards the bottom. This dark shape is flanked by two sections of light gray, textured material that appear to be fabric. The section on the left features vertical, undulating folds with soft shadows, suggesting a draped or hanging textile. The section on the right mirrors this texture but includes a prominent horizontal crease or seam running across the middle. Both light gray areas exhibit a grainy, woven appearance, consistent with cloth, and their edges abutting the central black void are somewhat soft and indistinct due to the image's blurriness. The lighting is diffuse, creating gentle gradients across the folds without distinct directional shadows, except for the stark contrast provided by the central black gap. The composition suggests a detail of a garment or curtain where a slit or opening reveals a dark background underneath."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 2.9454598426818848,
+      "description": "Two distinct, rounded structures dominate the visual field, separated by a vertical channel of uniform, grainy, medium-grey background. On the left, a large spherical segment occupies roughly one-third of the width, featuring a heavily textured surface mottled with patches of light grey, white, and dark grey depressions reminiscent of rough terrain or corroded material. This textured mass is bounded on its right side by a thick, opaque black arc that curves smoothly from the top edge to the bottom. Immediately adjacent to the black arc's right edge is a bright, solid white crescent-shaped rim, which is thickest at the center and tapers slightly towards the top and bottom, creating a sharp, high-contrast boundary against the central gap. To the right, across this gap, a second circular structure is partially visible, displaying a concentric arrangement of layers. Its outermost boundary is a ragged, raised rim of light grey that catches the light, suggesting a rough or metallic texture. Inside this rim lies a broad, dark grey ring that appears smoother than the exterior, and nested within that is a lighter, granular inner core. A single, distinct bright white highlight, circular in shape, reflects off the lower-left portion of the dark grey ring, indicating a light source positioning from the upper left."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.99899959564209,
+      "description": "A dark, elongated slug is positioned diagonally across the center of the view, oriented from the upper left to the lower right. The creature's body is a deep, charcoal grey, appearing almost black in contrast to the lighter background, with a smooth, slightly glistening texture that suggests moisture. Faint longitudinal ridges or striations run down the length of its dorsal side. At the upper-left terminus, two small, distinct tentacles protrude outward from the head. The body is thickest just behind the head and tapers gradually to a rounded point at the tail end in the lower right. The slug rests on a pale, mottled surface rendered in shades of light grey and off-white, which exhibits a soft, organic texture speckled with irregular, faint dark spots and pores. A diffuse shadow extends along the right side of the slug's body, indicating a light source originating from the upper left, creating a strong tonal contrast that separates the dark subject from the washed-out, monochromatic background. The slug occupies a significant portion of the central space, with the pale substrate visible surrounding it on all sides."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 3.0129806995391846,
+      "description": "The image presents a close-up, grayscale view of a textured surface dominated by a deep, vertical fissure that splits the composition roughly in half. The surface appears to be composed of a dull, matte material, possibly stone, concrete, or organic tissue, rendered in varying shades of mid-to-light gray. The central fissure is the darkest element, appearing as a jagged, nearly black void that runs from the top center edge down to the bottom center edge, slightly widening towards the top. The edges of this crack are uneven and rough; the left edge is relatively sharp but irregular, while the right edge features a noticeable ridge or lip that catches the light, creating a bright, narrow highlight along its length. To the left of the fissure, the surface is mottled with faint, lighter gray speckles and subtle striations that angle slightly downwards towards the left. The texture here looks somewhat smooth but imperfect, with soft tonal transitions. On the right side of the fissure, the surface appears slightly more convex or swollen, curving away from the crack. This area is illuminated more brightly than the left, suggesting a light source coming from the upper right. The texture on the right is also mottled but shows finer grain details and faint scratch-like marks running diagonally. Towards the bottom right, the surface darkens into shadow, obscuring the texture. Small, distinct white specks are scattered sparsely across both sides of the surface, adding a gritty quality. The fissure reveals depth through the shadows within it, with the inner wall on the right side being partially visible and textured, contrasting with the absolute blackness of the deeper crevice. The overall impression is of a microscopic or macro view of a fractured, semi-hard material under directional lighting that emphasizes the three-dimensional topography of the crack and the surrounding surface irregularities."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 3.0905747413635254,
+      "description": "Centered on a textured, monochromatic off-white surface is a vertical view of a house centipede, occupying roughly forty percent of the width and seventy percent of the height of the visible area. The arthropod's segmented body is elongated and distinct, featuring a dark charcoal-grey stripe running longitudinally down its center, flanked by lighter grey bands and darker edges. Radiating from this central torso are numerous pairs of long, spindly legs that are jointed and taper to fine points; these appendages are a translucent mid-grey, showing faint banding patterns of alternating light and dark tones. The legs originating from the upper torso curve upward and outward, transitioning to the middle pairs which extend horizontally before angling sharply downward, while the rearmost legs\u2014significantly longer than the others\u2014trail straight down and slightly outward, fading into the bottom of the frame. Two extremely long, thread-like antennae extend from the head at the top, reaching almost to the upper edge of the view. The background surface appears to be a painted wall with a bumpy, stucco-like texture, illuminated by a soft, diffuse light source likely from the upper left, casting faint, blurred shadows of the right-side legs onto the wall immediately behind them. The overall image focus is soft, particularly at the extremities of the legs and antennae, and the tonal range is limited to varying shades of grey."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A sharp, jagged vertical fissure slices through a block of rough-hewn, pale beige limestone. The crack itself is a void of absolute, deep charcoal darkness, creating a high-contrast boundary against the sun-bleached stone surface. The fissure runs vertically through the center of the frame, spanning exactly 50% of the image's height, surrounded by the pitted and weathered texture of the light rock.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical fissure",
+        "pale beige limestone",
+        "deep charcoal darkness",
+        "high-contrast boundary",
+        "weathered texture"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A heavy, industrial iron chain, painted a matte black, hangs vertically against a backdrop of weathered wooden siding with peeling white paint. The chain links are thick and distinct, forming a dark, elongated linear structure that occupies the central 50% of the vertical axis. The background wood reveals a pale grey grain where the white paint has flaked away, providing a textured, desaturated canvas for the dark metal.",
+      "rationale": "",
+      "emphasis_tags": [
+        "industrial iron chain",
+        "matte black",
+        "weathered wooden siding",
+        "peeling white paint",
+        "textured desaturated canvas"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A glossy, jet-black slug ascends a vertical surface of smooth, pale grey slate. The biological body is elongated and moist, reflecting no light in its deepest black tones, creating a stark contrast against the dry, matte stone. The slug is positioned centrally and stretches upwards, covering approximately half of the image's total height, emphasizing the verticality of its form against the light, fine-grained background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "glossy jet-black slug",
+        "pale grey slate",
+        "stark contrast",
+        "verticality",
+        "fine-grained background"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A sharp, elongated cast shadow falls vertically across a rough, off-white stucco wall. The shadow, likely from a thin pole outside the frame, is a deep, uniform charcoal color that stands out boldly against the bumpy, light-reflecting texture of the plaster. The dark band occupies the lower 50% of the image height, rising straight up the center of the pale, textured surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "elongated cast shadow",
+        "off-white stucco wall",
+        "deep uniform charcoal",
+        "bold contrast",
+        "textured surface"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A solitary piece of charred driftwood stands upright in a dune of fine, off-white sand. The wood is blackened by fire, presenting a deep black, textured surface with cracks and carbonized grain. It spans 50% of the vertical frame, centered against the soft, pale undulations of the sand which is devoid of color, highlighting the stark dark-on-light tonal contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charred driftwood",
+        "off-white sand",
+        "deep black textured surface",
+        "carbonized grain",
+        "dark-on-light tonal contrast"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A thick, black electrical cable runs vertically down a wall covered in textured, beige grasscloth wallpaper. The cable is matte and smooth, creating a hard, dark line that bisects the intricate, woven texture of the light background. The cord extends for half of the image's height, centered horizontally, serving as a prominent linear element against the muted, desaturated wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black electrical cable",
+        "beige grasscloth wallpaper",
+        "hard dark line",
+        "woven texture",
+        "prominent linear element"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A broad, vertical mineral vein of dark charcoal cuts through a slab of pristine, white Carrara marble. The vein has sharp, jagged edges and appears almost black against the crystalline, milky white stone. It occupies the central 50% of the image height, displaying a natural, geological linear structure that contrasts heavily with the smooth, light stone surrounding it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical mineral vein",
+        "dark charcoal",
+        "white Carrara marble",
+        "jagged edges",
+        "geological linear structure"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "Two vertical, whitewashed wooden fence planks stand side by side, separated by a distinct gap. The gap reveals nothing but deep shadow, appearing as a solid black vertical bar sandwiched between the light, wood-grained texture of the white planks. This negative space occupies exactly half of the vertical frame, creating a strong dark linear form against the pale wood.",
+      "rationale": "",
+      "emphasis_tags": [
+        "whitewashed wooden fence",
+        "deep shadow gap",
+        "solid black vertical bar",
+        "wood-grained texture",
+        "negative space"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A black racer snake, viewed from directly above, is stretched out in a straight line across a bed of light grey river stones. The snake's scales are dark and uniform, creating a jet-black ribbon against the pale, dusty pebbles. The reptile's body aligns vertically and spans 50% of the image height, dominating the composition with its high contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black racer snake",
+        "light grey river stones",
+        "jet-black ribbon",
+        "vertical alignment",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A rusted, near-black iron reinforcing bar protrudes vertically from a crumbled block of pale, dusty concrete. The metal rod is pitted and dark, contrasting sharply with the light grey, rough aggregate of the cement background. The bar stands centrally, occupying approximately 50% of the vertical space of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "near-black iron bar",
+        "pale dusty concrete",
+        "sharp contrast",
+        "rough aggregate",
+        "vertical space"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A thick, viscous stream of black India ink flows down a sheet of textured, cream-colored watercolor paper. The ink creates a solid, wet, black vertical line that stands out against the fibrous, off-white surface of the paper. The trail of ink spans the middle 50% of the canvas height, appearing as a deliberate, high-contrast stroke.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black India ink",
+        "cream-colored watercolor paper",
+        "solid wet vertical line",
+        "fibrous off-white surface",
+        "high-contrast stroke"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A close-up view of a heavy-duty black zipper sewn into a pale beige canvas fabric. The zipper teeth are closed, forming a continuous, dark, interlocking vertical line that contrasts with the light, woven texture of the cloth. The zipper mechanism occupies exactly half of the vertical extent of the frame, centered horizontally.",
+      "rationale": "",
+      "emphasis_tags": [
+        "heavy-duty black zipper",
+        "pale beige canvas",
+        "interlocking vertical line",
+        "woven texture",
+        "dark linear form"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A dead, blackened sunflower stalk stands starkly against a backdrop of dense, pale grey fog. The stalk is carbonized and dark, featuring a rough texture that contrasts with the smooth, featureless, light atmosphere behind it. The plant structure is vertical and occupies the central 50% of the image height.",
+      "rationale": "",
+      "emphasis_tags": [
+        "blackened sunflower stalk",
+        "pale grey fog",
+        "carbonized texture",
+        "stark contrast",
+        "vertical plant structure"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A piece of heavy, unbleached white linen fabric is draped to create a deep, vertical fold. The interior of the fold is cast in deep shadow, appearing as a sharp black line running through the light, textured cloth. This linear shadow spans 50% of the image height, creating a strong vertical element defined purely by lighting and geometry.",
+      "rationale": "",
+      "emphasis_tags": [
+        "unbleached white linen",
+        "deep vertical fold",
+        "sharp black line",
+        "textured cloth",
+        "linear shadow"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A vertical section of a wall tiled with large, pale beige travertine slabs shows a missing line of grout. The gap creates a deep, dark vertical crevice, appearing as a black stripe between the light, porous stone tiles. This dark linear feature is centered and runs for roughly half the height of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pale beige travertine",
+        "missing grout line",
+        "deep dark crevice",
+        "black stripe",
+        "porous stone"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 2.8395745754241943,
+      "best_percentile": 99.99929751492
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 2.60029935836792,
+      "best_percentile": 99.99640952070223
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.5311079025268555,
+      "best_percentile": 99.99406790376891
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.4580159187316895,
+      "best_percentile": 99.99047742447115
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 2.390610456466675,
+      "best_percentile": 99.98493559772895
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 2.3082330226898193,
+      "best_percentile": 99.97619356117787
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 2.3061628341674805,
+      "best_percentile": 99.9760374533823
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 2.299823045730591,
+      "best_percentile": 99.97564718389343
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 2.23557448387146,
+      "best_percentile": 99.96682709344456
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 2.2268989086151123,
+      "best_percentile": 99.96471963820457
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 2.0451362133026123,
+      "best_percentile": 99.91125271822699
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.933651328086853,
+      "best_percentile": 99.84724852204944
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.8303955793380737,
+      "best_percentile": 99.76232588126753
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.7294796705245972,
+      "best_percentile": 99.6542212328457
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.7107515335083008,
+      "best_percentile": 99.62776096149913
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 25,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to prominent circular or arcuate structures, most consistently activating for automobile wheels and circular mechanical components such as projector lenses, weight plates, and oil filters. The core visual feature is a high-contrast, concentric geometry, often consisting of a metallic silver, white, or light grey inner element (e.g., an alloy rim, glass lens, or metal ring) surrounded by a black or dark grey border (e.g., a tire, rubber gasket, or deep shadow), or a dark curved form against a light background. The neuron is invariant to object category\u2014ranging from cars and electronics to organic curves like a snake or bird neck\u2014as well as lighting and texture, provided the sharp curvature and tonal polarity are preserved. The activating features, typically silver, white, black, or dark grey, appear against neutral, desaturated backgrounds of light gray, beige, or out-of-focus natural tones. The feature typically occupies 25\u201350% of the image surface and is frequently positioned in the lower-left quadrant or centered within the frame.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.33896908164024353,
+      "description": "A silver sedan is captured in a three-quarter view, angled towards the left, dominating the frame against a hazy, light gray background. The vehicle's front end features a sleek, elongated headlight assembly with distinct internal circular lamps and an amber reflector strip on the outer edge, positioned above a rectangular fog light housing with a chrome trim ring set into the lower bumper. The front wheel is turned slightly left, showcasing a five-spoke alloy rim with a central emblem, wrapped in a low-profile black tire that rests on a paved, neutral-gray surface. A thin, horizontal chrome strip runs along the side of the car, midway up the doors, reflecting the ambient light. Above this, the side mirror, painted in the body color, extends outward, featuring a built-in turn signal indicator. The windows are tinted, obscuring the interior details, though the silhouette of a headrest is faintly visible inside. The roofline curves gently downward towards the rear, suggesting a wagon or hatchback body style, though the rear is cut off. The lighting is diffuse and even, casting soft shadows beneath the car and highlighting the smooth, metallic texture of the paintwork, while the background fades into an indistinguishable blur of sky and horizon."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.3435428738594055,
+      "description": "A close-up view captures the rear quarter panel and wheel of a vehicle, dominated by a high-gloss, pearl-white body surface that occupies the upper and right-hand majority of the visible area. The automotive paint is highly reflective, featuring a prominent, elongated horizontal highlight across the upper curve of the fender, suggesting overhead studio lighting. A dark, thin panel gap line runs diagonally downward from the upper right edge, separating sections of the bodywork. Below the main curve of the fender, the body flares outward to form a wheel arch lip, casting a curved shadow over the top of the tire. Tucked tightly within this wheel well in the bottom left quadrant is a low-profile high-performance tire and a silver alloy rim. The tire sidewall is matte black rubber, clearly displaying the raised molded numbers \"3 3 5 / 2 5\" along its upper arc, indicating the tire dimensions. The wheel features a multi-spoke, turbine-style design with thick, slightly twisted blades that radiate from a dark, obscured center hub at the bottom left toward the bright silver rim lip. The spokes have a metallic sheen, with sharp vertical highlights accentuating their curvature. Running horizontally across the lower right portion of the white panel is a matte black impact strip or trim molding, contrasting sharply with the white paint. The background within the wheel barrel and gaps between the spokes is deep black, providing high contrast to the bright silver wheel components."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.35302019119262695,
+      "description": "A heavy, dark, curved metal object, resembling a large industrial hook, dominates the left foreground, occupying approximately forty percent of the visible space. The structure enters the frame from the upper left, sweeping downward in a thick, convex arc towards the center and bottom, then curving back sharply towards the lower left, effectively obscuring that corner. Its surface is deeply textured, appearing rough, pitted, and weathered, primarily colored in shadowed shades of charcoal and black with subtle undercurrents of rust-brown. On the upper left portion of the curve, there is a distinct, jagged patch of chipped crimson paint that stands out against the dark, corroded metal. Lighting on the object is soft and diffuse, creating a faint sheen along the inner, lower curve of the metal while leaving the face towards the viewer in deep shadow. The background is completely out of focus, depicting a coastal scene in soft, blurry layers. The majority of the background space, particularly the right and center, is filled by a body of water in muted tones of slate blue and grey, with horizontal streaks of white suggesting wave crests or foam. Above the water, occupying the upper third of the background, a horizontal band of pale beige indicates a sandy beach, which is surmounted by a dark, hazy landmass of muted greens and greys, featuring indistinct light-colored rectangular shapes that suggest distant buildings or structures along a hillside."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.35706403851509094,
+      "description": "A sleek metallic silver sports car dominates the visual field, angled slightly towards the left to reveal its front driver-side profile, extending from the front wheel arch to the rear quarter panel. In the lower left quadrant, a large alloy wheel features a split five-spoke design where pairs of silver spokes radiate from the center hub to the rim, encased in a low-profile black rubber tire that sits snugly within the smooth curve of the wheel well. The car's bodywork is characterized by fluid, aerodynamic lines, with a pronounced fender flaring over the wheel and a sculpted door panel that reflects the ambient light in gradients of bright white and steel grey. Mounted on the upper door panel is a teardrop-shaped side mirror with a silver housing and a thin horizontal indicator strip, supported by a black base. Behind the door, the car features a distinctive vertical panel or \"side blade\" that visually separates the passenger compartment from the rear engine area. Through the tinted side window, the dark interior is visible, showing the silhouette of a black seat headrest and the rearview mirror attached to the windshield. The background consists of a soft, out-of-focus wash of vibrant greens and yellows, suggesting dappled sunlight filtering through foliage, while a dark shadow pools directly beneath the vehicle, anchoring it to the grey asphalt surface."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.3594440817832947,
+      "description": "Visible in the left foreground is a portion of a gunmetal grey aftermarket alloy wheel featuring six thin spokes that radiate from a central hub with visible lug nut recesses. Behind the spokes, a bright red brake caliper with white lettering is clamped onto a silver, cross-drilled metallic brake rotor. The wheel is wrapped in a low-profile black rubber tire, the top of which disappears into the deep black shadow of the wheel well. Adjacent to the wheel on the right, the car's front fender and bumper are finished in a glossy, pale grey paint that appears almost white or light blue depending on the light. A vertical panel gap creates a thin dark line separating the fender panel from the front bumper cover. In the upper right corner, a section of the headlight assembly is visible, distinguished by a vibrant amber reflector lens with horizontal ridges. Reflected clearly on the polished surface of the bumper, between the wheel and the headlight, is a distorted image of a yellow vehicle. The car sits on a light grey concrete surface, casting a sharp, dark shadow directly beneath the bumper and inside the wheel arch, indicating a bright light source coming from the upper right."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.37013083696365356,
+      "description": "A close-up, overhead view captures a section of a matte, off-white plastic electronic housing, distinguished by geometric components and printed text. Dominating the upper center, slightly offset to the right, is a bold, flat orange ring shape that encircles a recessed, transparent or metallic circular window, showing internal mechanical details. In the lower-left quadrant lies a large, black circular turntable area featuring a subtle concentric texture; at its center sits a smaller, depressed white plastic hub containing six evenly spaced, rectangular notches arranged in a ring. A tiny, thin mechanical arm or sensor extends from the bottom left into the black circular area. To the left of the central black circle, running vertically along the off-white surface, the words \"Memory Card\" are printed in a small, crisp black sans-serif font, oriented so the baseline faces the right side of the image. A distinct vertical seam or groove runs down the right third of the frame, creating a separation line in the plastic casing. Along the far left edge, partially obscured, is a dark, recessed circular port or button housing. In the bottom right area, two small, dark, square-shaped indentations are visible, aligned vertically near the edge. The lighting is uniform and diffuse, casting soft shadows inside the recessed hub and along the vertical seam, emphasizing the smooth texture of the plastic material."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.3772132098674774,
+      "description": "A close-up, specific view captures the upper central section of a circular, silver-grey cast metal weight plate. The material exhibits a coarse, pebbled texture similar to sand-casting, with a matte finish that reflects light in minute, grainy sparkles. Dominated by the embossed word \"STANDARD\" in capital, sans-serif font, the text arcs upward across the upper middle of the composition, the letters raised with slightly softened edges. Directly beneath the arch of the text is a perfectly circular, deep black hole representing the center bore, surrounded by a raised, ring-like border. Flanking this central ring are two thin, raised curved lines\u2014one on the left and one on the right\u2014that act as partial concentric brackets. Above the lettering, the top edge of the plate face transitions into a background element consisting of a finely ridged or knurled metallic band, likely a collar, curving along the top perimeter. Below the central hole, the metal surface extends downward into a vertical spoke-like formation, while the lower left and right areas dip into darker, out-of-focus recesses, suggesting cutouts in the plate's structure. The lighting is diffuse and frontal, highlighting the relief of the letters and the rough surface texture, while the interior of the central hole remains in total shadow."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.3775504231452942,
+      "description": "Dominating the visual field is the front-facing, slightly angled view of a consumer digital projector, rendered in a smooth, matte white plastic. The primary focal point is the large lens assembly situated in the lower-left quadrant, which protrudes outward from the main chassis. This lens features a thick, brushed silver metallic outer ring surrounding a black inner barrel, within which the convex glass optic reflects a complex interplay of light, manifesting as deep teal, cyan, and varying shades of green alongside sharp white specular highlights. The projector's white casing curves gently around the lens housing, forming a recessed, semi-circular channel that transitions into a flat upper deck marked by a subtle horizontal seam. To the immediate right of the projector body, occupying a narrow vertical strip along the rightmost edge of the frame, is a partially visible remote control. This device presents a silver-grey surface populated by a vertical column of dark charcoal, pill-shaped rubber buttons, interspersed with a single, smaller circular button in a distinct muted orange hue. The lighting source appears to be frontal and slightly elevated, casting a broad, diffuse sheen across the top of the white plastic casing and creating sharp, high-contrast reflections on the glass lens, while the areas surrounding the device fall into deep, indiscernible shadow."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.3838496208190918,
+      "description": "A large, sleek white projector dominates the visible area, angled such that its front lens faces the viewer's left while the body extends backward toward the right. The most prominent feature is the massive circular lens assembly on the left side, featuring multiple concentric rings of dark grey and black housing. At the center, the glass lens reflects light with iridescent glimmers of teal, purple, and amber against a dark pupil-like center. This lens is recessed within a smooth, curved white housing that swoops down and around it. To the right of the lens, a flat, matte white panel forms the front face of the chassis, characterized by a subtle, textured grid pattern, possibly for ventilation or aesthetics. The top surface of the projector is a flat, pristine white plane that catches the light, suggesting a smooth, possibly plastic material. Shadows curve gently beneath the lens housing, emphasizing its cylindrical protrusion from the main body, while the lighting appears soft and diffused, highlighting the contours of the white casing without creating harsh contrasts. The overall form is modern and rounded, with the white chassis appearing clean and minimal against the dark mechanical complexity of the lens."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.38439422845840454,
+      "description": "A distinct segment of a dark-colored snake body curves sharply against a background of coarse, high-contrast substrate. The reptile's body, roughly one-sixth the width of the viewable area, enters from the upper-left quadrant, descending vertically before hooking acutely to the right and terminating in a downward-facing thick curve in the lower-left center. The scales are a deep charcoal to jet black, exhibiting a noticeable sheen; a specific cluster of scales on the lower bend reflects a bright, iridescent blue-white highlight, indicating a smooth texture and direct overhead lighting. At the very top edge where the body is cut off, a glimpse of the underbelly or neck reveals a mottled pattern of bright orange, pale yellow, and white. The snake casts a soft, dark shadow onto the ground immediately to its right and beneath the curve. The surrounding terrain is composed of rough, granular material resembling crushed coral or coarse sand, consisting of irregular pebbles in shades of bone white, cream, and pale beige. The lighting is harsh and directional, creating deep, sharp shadows within the pits and crevices of the uneven sandy surface, giving the ground a pitted, rugged topography that fills the entire right side and center of the frame. The pebbles vary in size, some appearing as fine grit while others are larger distinct clumps, all tightly packed around the dark curve of the snake's body."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.38679301738739014,
+      "description": "A large, convex section of a wall-mounted soap dispenser, constructed from matte off-white plastic with a subtle surface texture, dominates the central and left portions of the view. The dispenser's surface curves gently towards the viewer, catching a faint vertical band of diffuse reflected light along its rightmost edge. Positioned near the upper center of the device is the brand logo \"gojo\" printed in bold, dark charcoal grey lowercase sans-serif letters; the \"j\" is dotted with a solid five-pointed star, and a tapered, dark grey arc swoops over the text, originating above the \"g\" and terminating near the star. A tiny registered trademark symbol sits just to the right of the final \"o\". Centered vertically on the dispenser's face, below the logo, is a viewing window shaped like a semi-circle with a high arch and a flat bottom edge. This window is composed of dark, translucent maroon-brown plastic that appears nearly black in the dim lighting, with a subtle, blurred horizontal reflection visible along its lower interior ridge. To the right of the dispenser, a vertical strip of the mounting wall is visible, clad in square, cream-colored ceramic tiles that feature a speckled texture. Dark grey grout lines form a grid pattern on the wall, with one vertical line running parallel to the dispenser's edge and horizontal lines intersecting it. A soft shadow falls on the tiles immediately adjacent to the right side of the dispenser, indicating a light source from the upper left. The bottom edge of the visible dispenser area reveals a slight, dark curved seam, hinting at a separate mechanical section below. The overall scene is lit by somewhat dim, grainy artificial light, giving the off-white plastic a greyish cast."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.4022998809814453,
+      "description": "Occupying the left-of-center portion of the visible field, a primate is captured in profile, facing toward the right side of the frame with its gaze directed slightly upward. The animal\u2019s face features dark, charcoal-grey skin across the nose and eye region, contrasting with a pale, pinkish-flesh tone on the muzzle and lips. The visible eye is amber-brown with a distinct white reflection, set beneath a brow of short, grizzled grey and white hair. The cheek is covered in dense fur speckled with golden-yellow tips against a dark base, creating a textured, stippled appearance that transitions into a thick, flowing mane of creamy white fur covering the throat and chest area. Extending vertically from the bottom center is the primate's right forearm, coated in sleek, dark greyish-brown fur, terminating in a hand with black, leathery skin. The fingers are curled inward, pressing against the mouth and snout, suggesting the act of eating or grooming. The background is out of focus, composed of a beige, pitted concrete or stone wall in the upper right quadrant which features a faint vertical seam, and a rougher, rocky surface in varying shades of tan and grey in the lower right quadrant. The lighting appears natural and diffused, highlighting the texture of the white chest fur and the sheen on the dark hand while leaving the background in a soft blur."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.40318289399147034,
+      "description": "The image displays the front-left quarter view of a white convertible automobile, angled approximately 45 degrees toward the right, captured in bright outdoor sunlight. The vehicle's body is finished in glossy white paint, with highlights reflecting off the hood and the upper curve of the front fender. A distinctive body-colored side molding runs horizontally from the left edge across the fender and wraps around the front bumper, featuring a recessed stripe of vivid cyan blue. Below this molding, on the lower side skirt behind the wheel well, the embossed letters \"GT\" are visible in white. Positioned above the molding on the fender, slightly behind the wheel arch, is a chrome badge reading \"5.0\". The car is supported by a silver alloy wheel with a complex mesh-spoke design and a polished lip, mounted with a black tire that is partially shrouded in the deep shadow of the wheel well. The front bumper, extending to the right, includes a sculpted lower valence with a vertical air intake vent near the corner. The headlight assembly at the front right consists of a clear rectangular lens and a wrap-around amber turn signal with vertical fluting. At the base of the windshield, black wipers rest against a black cowl, and a thin black antenna rises vertically from the fender on the left. Through the windshield, which reflects the sky and surrounding trees, a white seat headrest and a rearview mirror are visible inside the cabin. The background behind the windshield shows blurred green foliage, and the car sits on dark asphalt, casting a soft shadow beneath the front bumper and tire."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.41371098160743713,
+      "description": "A vertical close-up view captures the detailed texture and color transitions of a pelican\u2019s neck and lower bill anatomy, set against a blurred background of muted slate-grey and sage green. On the left side, occupying a curved section, is the bird's neck, covered in dense, velvet-like plumage of deep chocolate brown that appears soft and matte, with slight lighter brown streaking visible near the bottom where the feathers lengthen. Immediately adjacent to the dark feathers, running diagonally from the top center down to the bottom center, is a distinct strip of the gular pouch skin. This leathery, wrinkled band creates a vibrant color gradient, starting as a saturated crimson red at the top and transitioning into a mottled mustard yellow and ochre near the bottom. To the right of this colorful skin flap is the long, rigid structure of the lower mandible, which is rendered in metallic shades of silver, pale blue, and grey. The bill's surface shows a mix of smooth areas and weathered pitting, marked by a sharp, bright white specular highlight running vertically down its length, indicating a hard, possibly wet texture. The lighting is soft but directional, accentuating the ridges in the red skin and the sheen on the grey bill, while the background remains completely out of focus to isolate the biological textures."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.41932231187820435,
+      "description": "A close-up, high-angle shot captures the mounting end and a portion of the cylindrical sidewall of an automotive oil filter, oriented diagonally with the base facing the lower-left and the canister body extending toward the upper-right. The canister acts as the dominant background element, featuring a glossy, cool-white painted surface that reflects a strong, diffuse light source along its upper curvature, creating a bright white highlight that fades into a soft shadow on the right. Printed on this curved white surface are columns of black sans-serif text, distorted by perspective; the word \"INSTRUCTIONS\" is vertically aligned relative to the canister's axis, while adjacent lines feature smaller text including legible fragments like \"GASKET,\" \"CHECK,\" \"LEAKS,\" and French translations such as \"JOINT\" and \"MOTEUR.\" To the left, the filter's mounting base is framed by a thick, matte black rubber gasket with a rounded profile, appearing as a dark arc separating the white housing from the inner components. Inside this gasket lies a recessed, circular plate of stamped steel with a dull, silver-grey finish. This metal plate is perforated by a series of circular inlet holes arranged in a ring; three distinct holes and a partial fourth are visible, appearing as dark black voids against the silver metal. In the bottom-left quadrant, the large central outlet hole is visible, featuring internal metallic threads that catch the light, creating sharp, concentric silver ridges that contrast with the pitch-black interior of the opening. Small, circular spot-weld indentations are evenly spaced on the silver metal surface between the central threaded hole and the outer ring of inlet holes."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A polished silver alloy automobile wheel, featuring a complex multi-spoke design, sits positioned in the lower-left quadrant of the frame. The bright metallic rim is encased in a pristine, jet-black rubber tire that provides a high-contrast border around the gleaming center. Occupying approximately 25% of the visual field, the wheel is set against a smooth, desaturated beige concrete floor that fades into a soft blur. The lighting highlights the concentric geometry of the rim against the deep black of the tire wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver alloy wheel",
+        "black rubber tire",
+        "lower-left quadrant",
+        "25% size",
+        "beige background"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "Centered perfectly in the image is a large, circular camera lens viewing straight on. The inner glass element reflects a pale white light, surrounded by a brushed silver retention ring. This bright inner circle is framed by the thick, matte black plastic of the lens barrel. The object takes up roughly one-quarter of the total image area. The background is a nondescript, out-of-focus field of light gray, ensuring the high contrast of the lens's concentric circles remains the focal point.",
+      "rationale": "",
+      "emphasis_tags": [
+        "camera lens",
+        "silver retention ring",
+        "black lens barrel",
+        "centered",
+        "light gray background"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A heavy circular weight plate rests on the floor in the lower-left corner. The center of the plate features a steel ring insert, shining silver, which is immediately surrounded by the dark, textured black rubber of the weight itself. The concentric arrangement of silver metal inside dark rubber occupies about 25% of the canvas. The floor beneath is a neutral, washed-out beige color, providing a clean, low-contrast backdrop that emphasizes the stark tonal difference of the weight plate.",
+      "rationale": "",
+      "emphasis_tags": [
+        "weight plate",
+        "steel ring",
+        "black rubber",
+        "lower-left",
+        "beige floor"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A close-up of a high-fidelity audio speaker cone, positioned centrally within the frame. The central dust cap is a shimmering metallic silver, domed and smooth, encircled by a dark charcoal-grey cone and a pitch-black rubber surround suspension. This circular assembly covers 25% of the image surface. The surrounding cabinet face is a blurred, pale light gray wood grain, offering a neutral setting that allows the concentric metallic and dark circles to stand out sharply.",
+      "rationale": "",
+      "emphasis_tags": [
+        "speaker cone",
+        "metallic silver dust cap",
+        "black rubber surround",
+        "centered",
+        "light gray background"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "Located in the lower-left section of the view is a circular industrial ball bearing. The inner race and the ball bearings themselves are polished chrome steel, reflecting white highlights, while the seal between the rings is a dark, matte dark grey. The object is compact, filling roughly 25% of the scene. It rests on a surface of out-of-focus, muted natural tones, specifically a dusty beige, which contrasts gently with the sharp, metallic precision of the bearing's circular form.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ball bearing",
+        "chrome steel",
+        "dark grey seal",
+        "lower-left",
+        "muted natural background"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A modern, circular thermostat dial mounted on a wall, centered in the composition. The face of the dial is a glossy white glass, bordered by a thick, brushed dark grey metallic ring that creates a strong concentric boundary. The device occupies 25% of the image area. The wall behind it is painted a flat, neutral light gray, providing a minimal context that directs attention solely to the circular interplay of the white center and dark rim.",
+      "rationale": "",
+      "emphasis_tags": [
+        "thermostat dial",
+        "glossy white face",
+        "dark grey ring",
+        "centered",
+        "light gray wall"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "The intake of a small jet engine is visible in the lower-left quadrant. A conical, metallic silver spinner creates a bright focal point in the center, surrounded by the dark, shadowy void of the engine blades and the black circular cowling lip. This mechanical circle takes up 25% of the visual space. The background is a featureless, overcast sky of pale, desaturated grey, ensuring the metallic center and dark border are the defining visual elements.",
+      "rationale": "",
+      "emphasis_tags": [
+        "jet engine intake",
+        "silver spinner",
+        "black cowling",
+        "lower-left",
+        "pale grey sky"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A circular shower drain installed in a tiled floor, positioned directly in the center of the frame. The drain cover is bright polished chrome, gleaming silver, with concentric slots revealing the deep black shadow of the pipe below. A dark grey rubber gasket frames the metal. The entire fixture occupies about 25% of the image. The surrounding tiles are a soft, matte beige, blurring slightly towards the edges to keep focus on the sharp, high-contrast metal and shadow.",
+      "rationale": "",
+      "emphasis_tags": [
+        "shower drain",
+        "chrome cover",
+        "black shadow",
+        "centered",
+        "beige tiles"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "An unspooled roll of magnetic tape sits in the lower-left corner. The central plastic hub is a light grey, almost white, tightly wrapped with dark, charcoal-colored tape that forms a perfect, high-contrast circle. This circular object constitutes 25% of the image's surface area. It rests on a wooden table that is out of focus, presenting as a wash of neutral, desaturated beige tones that do not distract from the reel's geometry.",
+      "rationale": "",
+      "emphasis_tags": [
+        "magnetic tape roll",
+        "light grey hub",
+        "charcoal tape",
+        "lower-left",
+        "beige background"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A macro shot of a bicycle wheel hub centered in the frame. The hub body is polished aluminum silver, shining brightly, with dark grey spokes radiating outward into the shadows, creating a starburst effect within a circular dark boundary. The hub assembly fills 25% of the view. The background is a soft, blurry wash of light gray gravel, providing a textural but neutral backdrop that highlights the metallic sheen and dark recesses of the wheel component.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bicycle hub",
+        "polished aluminum",
+        "dark grey spokes",
+        "centered",
+        "light gray gravel"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A round analog clock hangs on a wall, positioned in the lower-left quadrant. The clock face is a stark white, enclosed by a thick, matte black plastic frame that creates a sharp concentric ring. The hands and numbers are black, adding to the internal contrast. The clock takes up 25% of the image. The wall behind is a plain, neutral beige, providing no visual competition to the crisp, circular outline of the timekeeping device.",
+      "rationale": "",
+      "emphasis_tags": [
+        "analog clock",
+        "white face",
+        "black frame",
+        "lower-left",
+        "beige wall"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A circular glass porthole on a ship is centered in the view. The glass is thick and reflects a bright white sky, appearing light grey, while the heavy iron frame holding it is painted a deep, dark grey, almost black. This window occupies 25% of the frame. The surrounding ship hull is painted a flat, creamy beige, completely out of focus, emphasizing the hard, circular lines of the porthole and its high-contrast frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ship porthole",
+        "light grey glass",
+        "dark grey frame",
+        "centered",
+        "beige hull"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "An intricate mesmerizing geometric pattern formed by a coiled snake in the lower-left quadrant. The snake's scales are a pale, shimmering silver-grey, while the shadows between the tight coils create deep black concentric arcs. The coiled form fills roughly 25% of the image. The snake rests on dry, sandy ground, which renders as a blurred, desaturated beige texture, allowing the metallic scales and dark shadows of the coil to pop visually.",
+      "rationale": "",
+      "emphasis_tags": [
+        "coiled snake",
+        "silver-grey scales",
+        "black shadows",
+        "lower-left",
+        "beige sand"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A top-down view of an open paint can, centered in the frame. The rim of the can is a bright, metallic silver ring, defining the edge against the deep, dark grey shadow of the empty interior. This circular structure occupies 25% of the image area. The can sits on a drop cloth that is a muddled, out-of-focus light gray, providing a neutral field that reinforces the sharp contrast between the silver rim and the dark void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "paint can rim",
+        "metallic silver",
+        "dark interior shadow",
+        "centered",
+        "light gray drop cloth"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A vintage volume knob on an amplifier faceplate, located in the lower-left quadrant. The knob features a spun aluminum top that gleams silver, with serrated black plastic sides for grip. It occupies roughly 25% of the visual space. The faceplate behind it is a brushed, pale champagne-beige metal, slightly out of focus, which complements the silver but maintains the necessary neutral background for the dark-bordered knob to stand out.",
+      "rationale": "",
+      "emphasis_tags": [
+        "volume knob",
+        "spun aluminum silver",
+        "black plastic sides",
+        "lower-left",
+        "beige faceplate"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.3438664972782135,
+      "best_percentile": 0.00015610779555498664
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.40421542525291443,
+      "best_percentile": 0.001014700671107413
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.4937623143196106,
+      "best_percentile": 0.008273713164414291
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.5446028113365173,
+      "best_percentile": 0.01857682767104341
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.5774103403091431,
+      "best_percentile": 0.031455720804329804
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.6525834202766418,
+      "best_percentile": 0.09069862921744723
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.6961954236030579,
+      "best_percentile": 0.16133740670607868
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.7070885300636292,
+      "best_percentile": 0.18756351635931642
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.7165183424949646,
+      "best_percentile": 0.21043330840812197
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.739266037940979,
+      "best_percentile": 0.2801354391234235
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.7458078265190125,
+      "best_percentile": 0.3040199318433365
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.7475988268852234,
+      "best_percentile": 0.31003008197220344
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.7560986876487732,
+      "best_percentile": 0.3423443956520857
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.8007646799087524,
+      "best_percentile": 0.5591000697801846
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.9947647452354431,
+      "best_percentile": 3.1071695627264537
+    }
+  ]
+}

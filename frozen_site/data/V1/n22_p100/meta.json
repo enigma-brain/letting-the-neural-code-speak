@@ -1,0 +1,374 @@
+{
+  "area": "V1",
+  "neuron_id": 22,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to high-contrast, monochromatic vertical or radiating linear structures isolated against a flat, medium-gray background. The activating features are typically thin, elongated forms\u2014such as spider legs, hanging cords, plant stems, vertical seams, or instrument hands\u2014that are rendered in deep black or bright white, contrasting sharply with a neutral, desaturated gray backdrop. The neuron remains invariant to object identity (spanning biological forms like spiders and butterflies as well as man-made objects like bolo ties and flagpoles) and polarity (dark-on-light or light-on-dark), provided the scene maintains a strict grayscale palette and the foreground object is cleanly separated from the featureless surroundings. The activating feature typically occupies the central 30\u201370% of the image, often aligning with the vertical axis or extending diagonally from the center.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 4.448582649230957,
+      "description": "A vertical close-up reveals the central components of a bolo tie set against a muted, medium-gray fabric background with a grainy texture. At the top, a circular silver-tone slide acts as the focal point, though its upper edge is truncated by the boundary. The slide features a textured, embossed center with an indistinct relief design, encircled by a raised rim with a rope-like, diagonally striated pattern. Two thick, matte black cords emerge from beneath the slide and hang vertically, running parallel with a narrow gap separating them. These cords appear to be made of a braided material and contrast sharply with the lighter background. Terminating each cord is a polished silver-metal aglet, cylindrical in shape and tapering slightly towards the bottom. The left aglet hangs lower, extending further down the frame, while the right aglet is positioned slightly higher. Both metal tips exhibit vertical highlights, indicating a smooth, reflective surface, and connect seamlessly to the black cords. Soft, diffuse shadows fall slightly to the right of the cords and metal pieces, suggesting a light source from the upper left."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 4.468862056732178,
+      "description": "In a black and white close-up, a garden spider is suspended centrally, facing upward with its legs arranged in four distinct pairings that create a prominent X-shape. The spider's abdomen is large and oval, featuring a complex pattern of dark transverse bands alternating with lighter, speckled areas, and distinct indentations along its dorsal surface. The smaller cephalothorax is lighter in tone, appearing fuzzy or textured. The legs are long and segmented, marked with high-contrast alternating dark and light bands; the two front pairs extend upwards and curve slightly inwards, nearly converging at the tips, while the two rear pairs stretch downwards and outwards, anchoring the spider. Running vertically behind the spider is a thick, zigzagging structure of bright white silk, a stabilimentum, which stands out sharply against the rest of the scene. Faint, thin lines of the surrounding orb web are visible but less distinct. The background consists of a blurry, out-of-focus texture of mottled grays and whites, suggesting vegetation or a rough surface, providing a neutral field that emphasizes the sharp details of the arachnid and the central silk structure."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 4.605933666229248,
+      "description": "A high-contrast, grayscale close-up reveals a spider viewed from above, oriented vertically with its abdomen positioned at the top and cephalothorax below. The abdomen is a large, oval structure featuring a distinct pattern: the upper section is striated with horizontal bands of light grey, while the lower majority is a deep, solid black containing four prominent, bright white spots arranged in a central cluster. The two upper spots in this cluster are larger and more intense than the two slightly smaller ones beneath them. Connected to the bottom of the abdomen is the smaller, shield-shaped cephalothorax, which appears silver-grey with a fuzzy, velvety texture. From this central junction, long, spindly legs radiate outwards; the visible upper legs extend diagonally toward the top corners and are mostly dark, while the lower legs extend diagonally downwards, displaying sharp, alternating bands of black and white segments. The background is a soft, out-of-focus mottling of dark greys, providing no distinct features, which pushes the sharp, textured details of the spider\u2019s body and striped legs into the foreground. Lighting appears to strike from above, casting high highlights on the white abdominal markings and the silver hairs of the cephalothorax, emphasizing the arachnid's volume against the gloom."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 4.663585186004639,
+      "description": "Presented in high-contrast grayscale, a bright white flagpole rises from the bottom edge just to the right of the horizontal center, angling slightly leftward as it extends to a point just above the geometric center of the view. The pole is cylindrical and intensely illuminated, appearing as a solid, gleaming white line with a small, indistinct finial at its peak. Attached to the top of the pole and billowing out towards the left is a dark-toned flag, caught in a flutter that creates deep, curved shadows within the fabric's folds. The flag features a lighter gray design on a dark field, clearly displaying a Union Jack in the upper hoist corner and a large, pale seven-pointed star positioned directly below it. The fabric ripples significantly, causing the fly end to curve back and distort the rectangular shape, suggesting a stiff breeze. The background is a uniform, featureless medium-gray sky that occupies the majority of the space, providing a neutral backdrop that emphasizes the stark tonal contrast between the brilliant white pole and the dark, shadowed textile of the flag."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 4.66677188873291,
+      "description": "In a high-contrast black-and-white close-up, a butterfly rests in profile on a slender, light-gray plant stem that ascends diagonally from the lower-left quadrant toward the upper center of the frame. The insect faces upward and slightly to the left, its wings folded vertically above its back, occupying the central region of the image. The visible underside of the forewing features a distinct, circular eye-spot near the rounded apex, composed of a dark center surrounded by a lighter ring, set against a mottled texture of medium and dark grays. The wing's surface appears rough and scaly, transitioning into a dense, fur-like texture near the body, while the outer edges are bordered by a delicate fringe of fine, pale hairs. The hindwing, partially overlapped by the forewing, displays a darker, uneven pattern with jagged transitions between charcoal and ash tones. The butterfly\u2019s body is dark and fuzzy, contrasting sharply with the smooth, pale stalk it grips with thin, articulated legs. A single antenna extends upward from the head, curving slightly to the left and terminating in a small club. The background is a smooth, featureless blur of medium gray, providing a soft, uniform backdrop that emphasizes the sharp focus and intricate textures of the butterfly and its perch."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 4.6690993309021,
+      "description": "A close-up, monochromatic view in varying shades of gray reveals a section of woven fabric, likely clothing, dominated by a central vertical junction and soft folds. A dark, deep vertical shadow creates a prominent seam running from the top center downwards, slightly curving to the left near the bottom, dividing the composition into two main halves. At the very top, crossing this vertical chasm, are parallel horizontal stitch lines in a dark thread, appearing as a bar tack or reinforcement. To the right of the central vertical shadow, a faint, curved line of stitching extends downward, forming a partial J-shape that delineates a flap of fabric. The fabric to the left of the central seam is smoother and lighter in tone, bulging outward in a convex fold that catches the most light, creating a bright pale gray highlight. The fabric on the right side is more textured with undulations, featuring a diagonal fold that creates a triangular shadow in the mid-right section, contrasting with lighter gray areas near the circular edge. The entire image is somewhat soft-focus, blurring the weave of the material but emphasizing the geometry of the drapery and the contrast between the deep charcoal shadows of the creases and the light gray highlights of the raised surfaces."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 4.691104412078857,
+      "description": "Presented in a high-contrast grayscale palette, a flat, medium-gray metallic surface fills the view, exhibiting a consistent, grainy texture indicative of powder-coated steel or a low-resolution digital capture. A stark, black vertical line runs from the top to the bottom edge on the left side, positioned approximately one-sixth of the way across the width, delineating a gap between a narrow strip of panel on the far left and the main door panel that occupies the majority of the space. In the horizontal center of the main panel, a metal handle is mounted. The handle features a cylindrical pivot mechanism at its top, distinguished by a dark, almost black circular top face or recess, and a flat, rectangular lever extending vertically downward. This lever arm is the brightest object in the scene, reflecting light to appear nearly white, contrasting sharply with the surrounding gray. To the immediate right of the handle, a soft, diffuse dark shadow is cast against the door surface, suggesting a light source originating from the left. Horizontally overlaid across the vertical center of the image is a line of semi-transparent, white text consisting of Chinese characters. The text, which reads roughly as \"\u6280\u672f\u5f00\u53d1\u533a\u671d\u53cb\u673a\u68b0\" (Technical Development Zone Chaoyou Machinery), passes directly over the handle and the background seam without distortion, appearing as a watermark. The text is sans-serif and uniform in height, spanning almost the entire visible width. The overall lighting is flat and even, aside from the highlight on the handle and its corresponding shadow."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 4.7107672691345215,
+      "description": "In a monochromatic, grainy image, a large bird is captured in flight, viewed directly from below against a flat, medium-grey background. The bird is centered and oriented horizontally, flying toward the left. Its long, slender neck extends forward, culminating in a sharp, straight beak that points directly left. The wings are fully outstretched, spanning nearly the width of the visible area, with the primary feathers at the tips splayed distinctly like fingers. The plumage displays high contrast; the central underbelly and the inner triangular sections of the underwings are bright white, while the neck, head, outer flight feathers, tail, and trailing legs are a deep, solid black. The dark flight feathers create a wide, U-shaped border around the white inner wing sections. The bird's legs extend straight backward, protruding slightly beyond the fan-shaped tail feathers. The lighting is diffuse, eliminating strong shadows but emphasizing the sharp boundary between the white body and the dark extremities, with a consistent noise texture visible across both the subject and the sky."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 4.729580879211426,
+      "description": "A field of unfocused, monochromatic medium-grey dominates the view, presenting a soft, grainy texture without distinct background features or gradients. Rising from the bottom edge, positioned slightly to the left of the vertical centerline, is a slender, dark charcoal-to-black rod-like structure. This object extends upward and curves gently toward the right, terminating near the precise geometric center of the visual area. The stalk maintains a consistent, narrow thickness throughout its length, appearing silhouetted against the lighter background. At its upper tip, the object ends in a small, distinct, circular cap or head that is darker and slightly wider than the stem itself, resembling the head of a pin or a biological filament seen in profile. The edges of the dark object are somewhat soft rather than razor-sharp, suggesting a shallow depth of field or slight lack of focus, while the lighting is diffuse and back-lit, casting no visible shadows on the object itself but creating a high-contrast separation between the foreground element and the grey void behind it."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 4.992478370666504,
+      "description": "This black and white close-up captures a detail of a fixture and a curved surface against a smooth, light gray background. In the upper left quadrant, a polished, dark metallic horizontal cylinder extends inward from the left, marked by a sharp, bright specular highlight along its upper edge. This rod connects to a vertical mechanical assembly that includes a thin, downward-pointing pin-like structure on the far left. Hanging or emerging from this fixture is a smooth, matte material that curves gently downwards; its surface matches the light gray tone of the background but catches the light on its convex face. A distinct, deep black, elongated teardrop-shaped shadow or void is formed vertically within the folds of this assembly, situated between the hanging material and the wall mount, creating a point of high contrast. From the base of this curved form, a soft, diffuse shadow is cast diagonally downwards across the flat background surface, extending towards the bottom right. The lighting is directional from the upper left, illuminating the curve of the matte material and the top of the metal rod while creating the prominent dark recesses and the diagonal shadow trail."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 5.118648052215576,
+      "description": "Centered against a uniform, light-grey background, a solitary, vertically oriented object hovers in the middle of the frame, rendered in high-contrast grayscale. The object, which appears to be a metallic or glossy figurine or charm, is slightly out of focus and occupies roughly half of the image's vertical height. Its structure is tripartite: at the top is a bulbous, pear-shaped mass resembling a stylized head or knot, which features obscure dark indentations on its front face and a bright, specular highlight on its upper-left curve, indicating a light source from that direction. Below this upper section is a narrow, vertical neck or connecting link that joins it to the prominent base. The bottom section is a thick, tubular form that descends briefly before sweeping into a broad semi-circular curve to the viewer's left, looping upward to terminate in a rounded, blunt tip. This distinctive curvature gives the lower portion the silhouette of a hook or the bottom half of the numeral \"5\". Deep black shadows define the right side of the object and the underside of the curves, contrasting sharply with the gleaming white highlights on the left, giving the form volume and weight within the featureless grey void."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 5.126736164093018,
+      "description": "A section of a curved, cylindrical stone wall, rendered in monochromatic greyscale, dominates the view, constructed from courses of rectangular, rough-hewn blocks. The masonry features a weathered texture with visible pitting and variation in tone from light to medium grey, with distinct mortar lines tracing the horizontal layers and vertical joints. In the approximate center of the composition, a small architectural opening is framed by smooth, dressed stones that form a rounded arch at the top and straight vertical jambs on the sides. This stone surround is slightly lighter in value than the surrounding rougher wall blocks. Recessed deep within this arch is a rectangular aperture containing vertical wooden planks, crossed by a horizontal brace, all shrouded in deep shadow that contrasts sharply with the exterior stone. Directly beneath the opening, a thin, flat stone sill projects horizontally from the wall, casting a narrow, dark shadow line onto the masonry immediately below it. The wall curves away from the viewer on both the left and right sides, indicated by the subtle foreshortening of the stone blocks towards the lateral edges. The lighting appears soft and diffuse, highlighting the granular texture of the stone surfaces while creating depth in the window recess and under the sill, with no harsh directional cast shadows visible on the main wall face."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 5.243442058563232,
+      "description": "A monochrome, greyscale image displays the face of an analog measuring instrument, specifically an aneroid barometer, characterized by a light grey circular dial marked with dark charcoal indicators. At the center lies a dark pivot point embellished with a small, multi-pointed sunburst motif. Two slender hands radiate from this central hub. One hand is oriented perfectly vertically, bisecting the face from top to bottom; its upper tip terminates in a stylized arrowhead pointing towards the twelve o'clock position, while its lower tail ends in an upward-facing crescent moon shape near the six o'clock position. The second hand extends diagonally upwards to the right at an angle of approximately 60 degrees from the vertical, pointing towards the two o'clock position. Surrounding the hands is a calibrated scale featuring a ladder-like track of concentric circles and radial hash marks. Numerical values are positioned just inside this track: \"29\" in the upper-left quadrant, \"30\" in the upper-right, \"28\" at the nine o'clock position, \"27\" in the lower-left, and \"26\" in the lower-right measurement area. Along the right-hand edge, outside the numbered scale and running vertically near the \"30\" and \"31\" marks, the words \"VERY DRY\" are printed in capital serif letters. At the bottom of the dial, curving upwards to match the circular rim, the faint text \"ANEROID BAROMETER\" is visible, with \"ANEROID\" to the left of the vertical hand's tail and \"BAROMETER\" to the right. The lighting is diffuse and soft, resulting in a slightly grainy texture, with the darkest values found in the hands and the central pivot."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 5.4048261642456055,
+      "description": "A monochromatic, grayscale close-up displays the textured, spherical surface of a carved pumpkin, dominated by vertical ribs and a central geometric incision. Positioned slightly left of the center is a distinct triangular cut-out, oriented with its apex pointing upward, occupying roughly ten percent of the visible area. The interior of this triangle is a deep black void, framed by the lighter gray, visible thickness of the carved rind, particularly illuminated on the left interior edge. The pumpkin's outer skin is a medium gray, characterized by vertical, longitudinal grooves that curve outward to define the fruit's rounded volume; these ribs divide the surface into convex segments with a slightly speckled, organic texture. To the far left, partially severed by the edge of the view, a sliver of another dark shape suggests a secondary feature or edge. Below the central triangle, near the bottom limit of visibility, a dark, curved shape indicates the upper edge of a mouth carving. The lighting is soft and diffuse, seemingly originating from the upper left, creating gentle highlights on the crests of the vertical ribs while casting the carved recesses into deep shadow."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 5.7360920906066895,
+      "description": "Centered in a field of muted, medium-gray tones that suggest an out-of-focus background, a dark spider is suspended upside down. The spider's body is predominantly black with a glossy, smooth texture on its bulbous abdomen, which occupies the central lower portion of the arachnid's form. A faint, reddish marking is visible on the underside of the abdomen, characteristic of a black widow, though the specific shape is indistinct due to the angle. The spider's legs are long, thin, and articulated, radiating outward from the cephalothorax; the front legs extend upwards and slightly outwards, while the rear legs stretch backwards and downwards, gripping invisible strands of webbing. The legs appear dark, almost black, tapering to fine points. The lighting is soft and diffuse, creating subtle highlights on the curvature of the abdomen and the joints of the legs, enhancing the three-dimensional appearance against the flat gray backdrop. Faint, white, thread-like lines of the web are barely discernible against the gray background, running horizontally and diagonally near the spider, suggesting the structure it clings to. The overall composition places the spider as the sole focal point, contrasting sharply in tone and texture with the blurred, monochromatic environment."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A sharp, macro-photographic image of a single, disjointed spider leg rendered in deep, void-like black. The leg is positioned vertically in the absolute center of the frame, occupying approximately 30% of the image's height. It features a segmented structure with fine, bristle-like hairs visible in silhouette. The background is a completely featureless, flat medium-gray canvas, providing a neutral, low-contrast field that makes the black linear form pop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "spider leg",
+        "deep black",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A pristine, bright white clock hand, specifically the minute hand, pointing straight upwards. The object is a sleek, tapering linear shape with a pointed tip, centered perfectly and spanning only the central 30% of the vertical axis. It stands out vividly against a smooth, desaturated medium-gray backdrop that lacks any texture or gradient, ensuring the white form is the sole focus.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "clock hand",
+        "bright white",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A hanging electrical cord, jet black and perfectly opaque, dropping vertically through the center of the composition. The cord is relatively thin, occupying a narrow strip within the central 30% of the visual field, and exhibits a very subtle twist. The surroundings are a uniform, matte gray, devoid of shadows or light sources, creating a stark, graphic isolation of the dark wire.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "hanging cord",
+        "deep black",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A dried, bleached plant stem appearing as a stark white line against a flat gray void. The stem is thin and brittle, oriented diagonally from the center-left to center-right, confined within the central 30% region of the image. Its surface is smooth white with no visible discoloration, contrasting sharply with the neutral, medium-gray background that fills the rest of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "diagonal structure",
+        "plant stem",
+        "bright white",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A deep black vertical fissure or crack running down the center of a smooth surface. The crack is jagged but generally linear, resembling a lightning bolt of darkness. It is contained within the central 30% of the image, appearing as a pure black tear against a featureless, unshaded medium-gray field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "crack",
+        "deep black",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A solitary white sewing needle standing vertically on its tip. The metal reflects light such that it appears purely bright white, lacking metallic gradients, creating a high-contrast silhouette against the dull medium-gray background. The needle occupies the central 30% of the image height, essentially a thin, sharp white line floating in a gray expanse.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "needle",
+        "bright white",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "The silhouette of a thin, black radio antenna extended vertically. It consists of two telescoping segments rendered in solid black, devoid of highlights. Positioned in the dead center, the structure takes up about 30% of the frame's height. The background is a solid, impenetrable medium-gray, ensuring maximum separation between figure and ground.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "antenna",
+        "deep black",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A single strand of white spider silk, pulled taut vertically. The thread catches the light to appear as a brilliant white line, roughly 30% of the image height, centered against a blurry, uniform medium-gray background. The line is incredibly thin but distinct due to the extreme contrast between the white silk and the neutral gray.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "spider silk",
+        "bright white",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A dark, heavy black rope hanging vertically, showcasing a braided texture in its silhouette. The rope is cut off at the top and bottom, occupying the central 30% of the frame as a thick, dark pillar. It is set against a flat, non-reflective medium-gray background that emphasizes the density of the black object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "rope",
+        "deep black",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A white plastic zip tie hanging downwards, straight and rigid. The zip tie is rendered in high-key white, eliminating shadows, and is positioned centrally, taking up a modest 30% of the vertical space. Behind it lies a featureless medium-gray plane, creating a sterile, industrial aesthetic.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "zip tie",
+        "bright white",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A minimalist black ink stroke, drawn vertically with a brush. The stroke tapers slightly at the bottom, resembling a calligraphy practice line, but is completely opaque black. It floats in the center of the canvas, occupying 30% of the vertical dimension, surrounded by a clean, medium-gray digital background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "ink stroke",
+        "deep black",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A single birch twig, stripped of bark to reveal smooth white wood, positioned vertically. The twig has one small nub where a branch was removed, but is otherwise a straight white line. It sits in the center 30% of the image, sharply contrasted against a flat, monotone medium-gray wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "twig",
+        "bright white",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A vertical black iron rod, part of a wrought iron fence, isolated from its surroundings. The rod is a solid, dark silhouette with a square cross-section implied by its straight edges. It occupies the central 30% of the view, set against a completely desaturated, medium-gray sky simulation.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "iron rod",
+        "deep black",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A bright white fluorescent tube light, unlit but opaque white glass, viewed as a vertical cylinder. It hangs centrally, taking up 30% of the image height. The background is a stark, flat medium-gray, providing a low-contrast environment that allows the white tube to stand out purely through brightness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "tube light",
+        "bright white",
+        "medium-gray background"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A thin black violoncello string, vibrating slightly, captured as a dark vertical line. The string runs through the center of the frame, bounded within the central 30% area. The backdrop is a seamless, studio-lit medium-gray paper, creating a clinical focus on the dark linear element.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "vertical structure",
+        "string",
+        "deep black",
+        "medium-gray background"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 3.628011465072632,
+      "best_percentile": 99.99250682581336
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 2.9983179569244385,
+      "best_percentile": 99.97072978833344
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.835817813873291,
+      "best_percentile": 99.95894364976904
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.539854049682617,
+      "best_percentile": 99.91148687992032
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 2.451251268386841,
+      "best_percentile": 99.89064648921374
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 2.356700897216797,
+      "best_percentile": 99.86004936128495
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.9774516820907593,
+      "best_percentile": 99.64875746000128
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.6894276142120361,
+      "best_percentile": 99.31054992093141
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.6661125421524048,
+      "best_percentile": 99.26886913951822
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.5540682077407837,
+      "best_percentile": 99.04547888407903
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.2953131198883057,
+      "best_percentile": 98.28351673397515
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.9052217602729797,
+      "best_percentile": 95.91949833198821
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.25190338492393494,
+      "best_percentile": 57.56607652716354
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.23125199973583221,
+      "best_percentile": 49.393287052575545
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.22247929871082306,
+      "best_percentile": 45.09798105788009
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "area": "V4",
+  "neuron_id": 27,
+  "percentile": 100,
+  "hypothesis": "The neuron responds selectively to prominent, extended horizontal linear structures, frequently manifested as cylindrical objects, rods, wires, rails, or distinct structural bands. Common activating features include metallic poles, wooden sticks, aircraft fuselages, architectural beams, and taut wires, often characterized by smooth textures and longitudinal specular highlights or parallel shadows that emphasize their 3D cylindrical form. The neuron remains invariant to object identity, material composition, and specific hue, activating equally for biological forms like stick insects, mechanical parts like archery bows, and large-scale vehicles, provided the strong horizontal linearity is preserved. Spatially, the feature typically spans 75\u2013100% of the image width and is oriented strictly horizontally or with a slight diagonal tilt, usually centered or positioned in the lower half of the frame. The activating features vary in color\u2014including metallic greys, blacks, blues, beiges, and whites\u2014and appear against diverse backgrounds such as wood grain, sky, or blurred foliage, relying on sharp contrast or shading to define the linear edge.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.3938148021697998,
+      "description": "The image displays a close-up exterior view of the corner of a manufactured home or trailer, featuring distinct siding and window details under diffuse, overcast lighting. The structure is clad in vertical off-white aluminum siding on the upper two-thirds, which transitions into a horizontal band of seafoam green corrugated metal with prominent horizontal ridges running across the lower section. Below this green band, a skirting of vertical off-white panels extends to the bottom of the visible area. The primary focal point is a set of two adjacent windows on the right-facing wall, framed in dark metal. Each window pane contains a white grid of muntins and is dressed with cream-colored, ruffled curtains made of a semi-sheer fabric; the curtains are gathered and tied back to the sides, creating soft, curved drapes that reveal the dark, unlit interior behind the glass. A white sill protrudes beneath the windows, casting a narrow, soft shadow onto the siding below. To the left of the corner, a perpendicular wall section is visible, showing the dark, protruding frame of another window or screen. Nestled on the corner of the off-white siding, situated vertically between the window sill and the green band, is a small rectangular house number plate with a green border displaying the number 190 in black. Attached to the right side of the green siding band is a white rectangular sign featuring text in varied colors: \"AC\" in black block letters, \"Miss B\" in red script, \"FISHING AGAIN\" in blue block letters, \"CHARTERS\" in red block letters, and two phone numbers beginning with the area code 419. The textures vary from the smooth, rigid lines of the metal siding and glass grids to the soft, gathered folds of the textile curtains."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.402014136314392,
+      "description": "Situated against a backdrop of medium-brown wood veneer characterized by a distinct, horizontal grain pattern with fluctuating bands of light honey-tan and darker chocolate streaks, a dark grey cylindrical object lies horizontally across the lower-middle section of the field of view. The object is composed of two connected segments with a visible mechanical junction located approximately one-third of the way in from the left side. The segment on the left is slightly larger in diameter, presenting a thick, tubular form that ends abruptly at a flat, vertical rim. Emerging from this junction and extending towards the right is a slightly narrower cylindrical segment, creating a stepped transition between the two parts. Both sections are colored a uniform, matte gunmetal grey, appearing metallic or constructed of hard, dense plastic. A continuous, soft white linear highlight runs along the upper curvature of the entire length of the object, indicating a diffuse overhead light source, while a corresponding thin, dark shadow anchors the bottom edge of the cylinder to the wooden surface. The grain of the wood runs parallel to the orientation of the object, reinforcing the strong horizontal linearity of the composition, and the object appears to taper almost imperceptibly as it extends toward the right edge."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.4031600952148438,
+      "description": "Centered vertically against a textured, light brown and tan background resembling coarse fabric or low-pile carpet, a slender, cylindrical rod extends horizontally across the entire width of the visible area. The rod is primarily a dark, glossy charcoal grey, but features a distinct segmentation on the left side where a slightly thicker, jet-black ferrule or section connects. Positioned precisely at the junction of this black section and the thinner grey shaft, located approximately one-quarter of the way in from the left, is a small, oval sticker. This label contains a circular graphic with a white background, featuring a design split by a white wavy line with a red section on top and a blue section on the bottom. A sharp, continuous white specular highlight runs along the upper crest of the rod, emphasizing its smooth, round geometry and reflective finish. Beneath the rod, a soft, diffuse dark shadow parallels its length, visually anchoring it to the underlying fuzzy tan surface, while the background texture itself shows a random, granular pattern of light and shadow consistent with fibrous material."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.404517650604248,
+      "description": "The view captures the mid-section profile of a large commercial aircraft, oriented horizontally and facing towards the left, positioned centrally within the frame. The fuselage is divided into a two-tone color scheme: a vibrant sky-blue covering the upper half and a matte light grey covering the lower belly, separated by a thin, dark horizontal stripe. A series of small, dark, rectangular windows runs evenly along the blue section, interrupted near the center by the white outlines of two adjacent over-wing emergency exit doors. Protruding from the fuselage is the root of a white wing, angled slightly upward and backward, which obscures the area immediately behind it. Suspended beneath the wing is a massive, cylindrical jet engine nacelle painted primarily white; on its side, a small blue logo depicting a crown above the letters \"KLM\" is clearly visible. Below the wing connection, the main landing gear is deployed, featuring dark grey mechanical struts and two prominent black rubber tires resting on the ground. A soft, dark shadow is cast directly beneath the wheels and engine onto the tarmac. The aircraft occupies the middle third of the vertical space. The foreground consists of a textured, dark grey asphalt taxiway that fills the lower third of the image. A painted yellow taxiway marking, comprised of a solid line running parallel to a dashed line, curves from the bottom right area toward the center left, blurring slightly as it reaches the bottom edge. The background, occupying the upper third, reveals a grassy verge transitioning into a dense line of deciduous trees with full green canopies. To the right of the trees, in the distance across a flat grassy field, a small orange windsock is visible on a pole, along with indistinct grey structures on the horizon. The lighting appears to be diffuse daylight, casting soft shadows and highlighting the smooth texture of the aircraft's painted metal against the grainy asphalt and organic foliage."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.4062306880950928,
+      "description": "A brilliant indigo-blue bird, occupying approximately one-quarter of the vertical space within the visible area, perches slightly to the left of the center on a dark, twisted cable that traverses the frame horizontally with a subtle upward tilt from left to right. The bird\u2019s plumage is a rich, saturated ultramarine, transitioning to a slightly deeper, velvety violet-blue on the head and neck, while the wings folded against its sides display dark, charcoal-black distinct edging along the primary feathers. The bird's body is oriented frontally, but its head is turned in profile facing the right, revealing a short, conical beak that is slate-grey on the upper mandible and a lighter silver tone on the lower. Its small, bead-like black eye is positioned high on the head, surrounded by the darkest blue feathers. The bird's thin, dark grey legs tightly grip the textured cable, which appears to consist of strands twisted together, showing faint diagonal striations along its length. Beneath the wire, primarily occupying the lower right quadrant and extending toward the center, is a cluster of out-of-focus foliage in varying shades of vibrant lime green and soft chartreuse; the leaves suggest a lanceolate shape but are softened by a shallow depth of field. A thin, blurry reddish-brown vertical stem rises from the bottom center, disappearing into the green haze near the bird's tail. The upper background behind the bird is a uniform, heavily blurred field of pale olive and bright spring green, creating a high-contrast backdrop that isolates the blue subject. Lighting is soft and diffuse, casting no harsh shadows but creating a subtle sheen on the smooth feathers of the bird's crown and left shoulder."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.407619833946228,
+      "description": "Dominating the foreground and lower half of the scene is a pool table, viewed from a slightly elevated angle looking down at a corner. The playing surface is covered in a smooth, slate-blue felt, upon which a single white cue ball rests, positioned slightly to the right of the image's vertical center and approximately mid-depth on the visible table surface. The table's frame features a polished, reddish-brown wooden rail with a rounded profile that catches warm highlights; this rail runs diagonally from the left edge towards the right, meeting a perpendicular rail at a corner in the right mid-ground, capped by a dark, almost black, pocket protector. Below the wooden rail, the side of the table is a flat, matte dark charcoal or black panel, which sits atop a wide, dark pedestal base that disappears into the bottom edge of the frame. A patch of light beige, plush carpeting is visible on the floor to the left of the table base. Immediately behind the pool table, running horizontally across the middle of the view, is a varnished wooden balustrade made of light honey-colored pine, consisting of a top handrail, a bottom rail, and vertical square balusters. Beyond this railing, the background reveals a room with walls and a slanted ceiling clad in knotty pine paneling, glowing with a warm, orange-gold hue. The ceiling slopes downward from the top right to the left, characteristic of an A-frame or loft structure. Mounted on the slanted wall section are two dark fishing rods crossed in an 'X' shape, and directly beneath their intersection is a mounted taxidermy fish, appearing to be a pike or muskie, facing left. To the far right, on a vertical section of the pine wall, a white rectangular light switch plate is visible, along with the vertical edge of a doorframe or wall corner. The lighting is soft and warm, suggesting indoor incandescent bulbs, creating sheen on the varnished wood surfaces and soft shadows beneath the pool table."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.410218596458435,
+      "description": "A light beige, cylindrical wooden rod, resembling a drumstick, extends horizontally across the center of the frame, exhibiting a smooth, polished texture with a linear highlight along its upper curvature that suggests overhead lighting. Centered on the visible segment of the rod is handwritten text in thick black ink, arranged in two stacked lines; the upper line features cursive, script-like letters that appear to read \"Mark,\" while the lower line contains angular characters resembling \"1X2\" or \"182.\" Beneath the rod lies a background of matte, light brown corrugated cardboard, which displays faint vertical ridges running perpendicular to the wooden object. A distinct vertical crease or seam in the cardboard is visible to the right of the center, passing behind the rod. A soft, dark shadow runs parallel along the bottom edge of the rod, grounding it against the textured cardboard surface and emphasizing its roundness."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.4107788801193237,
+      "description": "A metallic, slate-blue archery riser serves as the central focal point, mounted horizontally on a silver tripod stand against a textured, reddish-brown athletic track surface. The riser, displaying a symmetrical gull-wing shape, features a central black pistol-style grip and three distinct rectangular vent slots cut into the metal on each side of the handle. Attached to both ends of this central metallic section are white limbs that extend linearly toward the extreme left and right edges of the view, appearing flat and smooth. The bow is supported by a thin vertical silver rod that connects to a three-legged base; the legs are thin, silver tubes splayed out in a tripod configuration on the ground. The lighting is bright and direct, casting a sharp, dark shadow of the bow directly beneath it on the track; this shadow perfectly mimics the silhouette of the riser, including the light passing through the vent slots, and stretches horizontally across the frame. The ground is a granular, terracotta-colored synthetic surface marked with a thick, white painted line running horizontally across the upper third of the visible area, slightly angled downwards to the right. Below the bow stand, a very thin, faint blue string or line stretches horizontally across the foreground. In the upper background, beyond the white line, the silver legs of another equipment stand and a portion of a black object are visible, along with a small, singular piece of white debris resting on the track surface between the main bow and the background line. The scene is captured from a slightly elevated angle, looking down at the equipment."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.4129433631896973,
+      "description": "A foreground layer of silver chain-link fencing dominates the view, forming a diagonal diamond mesh pattern of thin interwoven wires that covers the entire scene. Integrated into this fence structure is a framework of round metal pipes painted a vivid, slightly weathered cyan blue; a vertical post runs from top to bottom positioned slightly to the right of the center, while a horizontal rail spans the width at roughly the lower third of the image, crossing behind the vertical post. Through the mesh, a building exterior is visible, featuring a wall with a rough, pebbledash stucco texture painted a deep mustard yellow. A distinct vertical shadow falls across the left third of the wall, turning the yellow surface a muted, dark teal-green color. In the upper right quadrant, partially blocked by the vertical fence post, is a rectangular window with a frame and grid of muntins painted the same cyan blue as the fence pipes. The window is divided into smaller rectangular panes, and the glass behind the blue grid is dark and unlit, contrasting with the bright frame. The window sill forms a horizontal blue ledge situated just above the horizontal fence rail. The lighting is bright and hard, casting sharp definitions on the wall's coarse texture and highlighting the peeling paint on the blue metal surfaces."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.4261974096298218,
+      "description": "The upper half of the view is dominated by a large, weathered industrial structure featuring sloping, teal-grey metal panels with prominent vertical ribs or seams, angled downwards from right to left. Attached to the vertical framework on the right side of these sloping sections is a bright yellow safety cage enclosing a ladder, which rises vertically towards the top edge of the visible area. positioned below and slightly in front of this teal assembly is a secondary structure framed with rusty red steel beams, featuring a corrugated metal roof that spans horizontally across the middle of the scene. This red roof overhangs a dark, shadowed interior space filled with indistinct mechanical shapes and vertical supports. A bright, horizontal white fluorescent light fixture is mounted to the underside of the red roof on the right side, creating a sharp contrast within the shadow. In the immediate foreground at the bottom center, a cluster of green leafy vegetation rises up, partially blocking the view of the dark area beneath the red beams. To the left of the vegetation, a blurry, light-tan, curved object rests at the very bottom edge, while the scene is lit by diffuse, overcast daylight that flattens the shadows and highlights the textures of the corroded metal."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.433489203453064,
+      "description": "A macro close-up view captures the segmented midsection of a stick insect positioned diagonally across a soft-focus background of a vibrant green leaf. The insect's body, oriented from the middle left to the middle right, mimics a woody twig with a mottled texture of olive-brown, tan, and muted green, speckled with tiny black dots. The main visible segment of the torso is cylindrical and rough, occupying the central horizontal axis, roughly one-tenth of the image's height in thickness. To the left of the center, a distinct joint connects the thorax to a segment that angles slightly downward and to the left. Long, spindly legs emerge from this central junction; one leg extends sharply upward and to the right, disappearing past the top right edge, while another extends downward and to the left, bending at a knobby joint before reaching toward the bottom left corner. A third leg segment runs parallel to and directly beneath the main body segment, extending horizontally toward the right edge. The background consists entirely of a large leaf, lush medium green in color, featuring a prominent, thick, pale yellow-green vein that curves gently horizontally behind the insect. Fainter, blurry secondary veins branch vertically through the leaf's surface. Soft, diffused lighting highlights the granular texture of the insect's exoskeleton and casts a subtle, soft-edged shadow of the body onto the leaf surface directly beneath it, indicating a very close proximity to the vegetation."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.4605395793914795,
+      "description": "The scene is dominated by a textured expanse of open water, colored in a muted, desaturated palette of dusty mauve and grey-purple, suggestive of an overcast day or low-light condition. The water's surface is agitated, covered in a uniform pattern of small, choppy wavelets that create a granular appearance without distinct large crests or troughs. Cutting through this expanse is a small motorized boat, positioned on the far right edge of the view, slightly above the vertical center. Only the rear and mid-section of the vessel are visible, moving away from the viewer toward the right. The boat features a bright azure-blue rectangular canopy top supported by a thin frame, beneath which a figure wearing a vibrant orange garment, likely a life vest or shirt, is seated. The boat's hull appears to be a combination of white, dark blue, and a strip of orange near the waterline. Trailing behind the vessel is a prominent, turbulent wake of stark white foam that contrasts sharply with the darker water. This wake extends diagonally across the frame from the boat at the right-center, widening slightly as it stretches downward toward the left-center edge. The wake is composed of a dense, frothy central path of churned water and a parallel, softer wave crest breaking slightly below it. The lighting is diffuse and flat, casting no hard shadows but highlighting the white aeration of the wake and the subtle ripples of the surrounding sea."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.484261393547058,
+      "description": "Centered in the view is a weathered, rusty-red railway boxcar positioned horizontally on a set of tracks. The car's exterior is comprised of vertical panels painted a faded, matte terracotta red. On the lower left panel, the white stenciled letters \"R.F.F.S.A.\" are visible, accompanied by smaller, indistinct white markings above. To the right of the central sliding door, which features horizontal ventilation slats and appears slightly recessed, the word \"CIGANO\" is spray-painted in light blue capital letters, with the number \"22\" written freely beneath it. The boxcar's roof is corrugated metal; the left section is heavily rusted to a deep orange-brown, while the right section retains patches of white paint flaking off to reveal rust. A small, triangular metal bracket protrudes from the roof's ridge line on the left side. Beneath the carriage, dark mechanical underpinnings and wheels are shadowed, resting on parallel metal rails and wooden ties embedded in dark gravel. A small patch of bright green grass is visible at the very bottom edge. Directly behind the train car, spanning the entire width of the scene, is a building characterized by a large, expansive pitched roof covered in small, weathered clay tiles. The tiles exhibit a mottled texture of dark browns, reddish earth tones, and grey patches. Below the roof's edge, a white horizontal fascia runs across, casting a deep shadow over the recessed wall area beneath it, obscuring any windows or doors. Above the roof's peak, occupying the uppermost sliver of the view, is a dense backdrop of lush green trees and foliage. The lighting is diffuse and soft, suggesting an overcast day, with no harsh directional shadows other than the natural darkness under the eaves and the train carriage."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.4862332344055176,
+      "description": "The central subject is the mid-section of a rifle lying horizontally across a wrinkled, muted olive-green fabric background. The firearm features a glossy, jet-black metal receiver located on the right side of the frame, which reflects light along its lower edge and displays two small, silver-toned pins on its flat side profile. Below the receiver, a curved black trigger guard extends downward, enclosing a thin black trigger. Extending to the left from the receiver is a wooden forend, finished in a high-gloss, warm amber-brown varnish that highlights the horizontal wood grain; this wooden section features a panel of diamond-patterned checkering for grip near the connection point with the metal receiver. A small portion of the barrel is visible as a thin black line just above the wooden forend where it meets the receiver. Mounted directly on top of the receiver is a black telescopic sight, a cylindrical tube running parallel to the barrel, featuring a visible adjustment turret housing in the center and mounting rings securing it to the firearm. To the far right, a very small segment of the matching wooden buttstock is visible attached to the rear of the receiver. The background fabric is textured with soft, diagonal folds running from the upper left to the lower right, creating gentle shadows and highlights that suggest diffuse overhead lighting."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.6493719816207886,
+      "description": "The image is divided horizontally into two distinct scenes separated by a thin white line, depicting different perspectives of a swimming event. The upper section presents a high-angle close-up of a swimming pool's edge, where the water is a rich, oscillating tapestry of deep azure and cerulean blue, marked by small, rhythmic ripples. Along the upper right diagonal edge, which consists of a light gray, wet plastic or concrete gutter, the hands of competitive swimmers are visible in a starting position; the most distinct hand on the far right grips the edge tightly, revealing tan skin and bent knuckles, while two other hands are partially visible to its left. Beneath these gripping hands, elongated and distorted reflections of the swimmers' arms and torsos stretch vertically into the water, appearing as wavering columns of fleshy peach and dark brown against the blue liquid. The lower section of the image captures a perspective from just above the water line, dominated by a foreground of sharp, chaotic water splashes and rising droplets that are frozen in motion, creating a translucent, crystalline texture mixed with white foam. Through this screen of splashing water, the background is rendered in a soft, out-of-focus blur, showing a crowd of people standing on the pool deck. In the center of this background, the legs of a figure wearing beige khaki shorts are visible, standing next to another figure on the right wearing long white trousers. To the left, a person in a blue shirt appears to be crouching or sitting, and various other indistinct figures in pink, black, and teal clothing populate the periphery. The lighting is bright and natural, casting soft, indistinct shadows on the wet, light gray pool deck in the background, suggesting an outdoor daytime setting."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A polished metallic grey steel pipe, spanning approximately 75% of the image width, is positioned horizontally across the lower center of the frame. The pipe exhibits a smooth, reflective surface with a distinct longitudinal specular highlight running along its upper edge, emphasizing its cylindrical 3D form against the light. Darker parallel shadows trace the bottom curve, reinforcing the roundness. The background consists of a blurred expanse of natural wood grain, providing a warm, textured contrast to the cold, sleek metal of the pipe.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metallic grey steel pipe",
+        "75% width",
+        "horizontal",
+        "specular highlight",
+        "cylindrical 3D form",
+        "blurred wood grain background"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A smooth, beige wooden dowel rod extends horizontally, occupying about three-quarters of the frame's width in the lower half. The wood is finely sanded with a matte finish, yet side lighting creates a soft gradient from light beige on top to a darker tan shadow underneath, defining its cylindrical shape. The rod floats against a backdrop of bright blue sky, creating a sharp boundary between the warm neutral tone of the wood and the vibrant azure behind it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "beige wooden dowel",
+        "75% width",
+        "horizontal",
+        "cylindrical shape",
+        "blue sky background"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The sleek, white fuselage of a glider aircraft cuts horizontally across the center of the image, filling 75% of the horizontal view. The surface is glossy and pristine, reflecting the sunlight in a long, thin white streak along its length, while the underside curves gently into a soft grey shadow. This clean, linear mechanical form is set against a background of heavily blurred green foliage, creating a strong separation between the manufactured object and the natural environment.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white fuselage",
+        "75% width",
+        "horizontal",
+        "glossy surface",
+        "blurred foliage background"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A matte black iron railing bar runs strictly horizontally across the lower third of the composition, stretching across 75% of the width. The bar is cylindrical and sturdy, with a subtle sheen visible only on the very crest of the curve where light hits it. Deep black shading at the bottom emphasizes its weight and volume. It is framed against a background of out-of-focus autumn foliage, where indistinct shapes of orange and brown provide a soft, mottled backdrop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black iron railing",
+        "75% width",
+        "horizontal",
+        "cylindrical",
+        "blurred foliage background"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A vibrant blue anodized aluminum tube is positioned centrally, oriented horizontally with a very slight diagonal tilt, spanning 75% of the image width. The metallic blue surface catches the light, creating a bright, sharp highlight line that runs the entire length of the tube, highlighting its smooth, round geometry. The background is a panel of dark, polished wood grain, the rich brown tones contrasting vividly with the electric blue of the metal.",
+      "rationale": "",
+      "emphasis_tags": [
+        "blue anodized aluminum tube",
+        "75% width",
+        "horizontal",
+        "specular highlight",
+        "polished wood grain background"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A thick, taut steel wire cable, metallic grey in color, stretches horizontally across the lower section of the frame, covering 75% of the width. The twisted texture of the cable catches the light in a repetitive pattern of small, bright highlights, yet the overall form reads as a solid, linear cylinder. It is set against a clear, pale blue sky, which allows the dark grey of the steel to stand out in sharp relief.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metallic grey steel wire",
+        "75% width",
+        "horizontal",
+        "cylindrical form",
+        "pale blue sky background"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A smooth, beige plastic pipe runs horizontally through the center of the image, occupying 75% of the visual width. The surface is uniform and slightly waxy, with a soft, diffused highlight along the top edge indicating its roundness. The pipe is viewed against a backdrop of dark, blurred forest foliage, where deep greens and shadows make the light beige tone of the pipe pop significantly.",
+      "rationale": "",
+      "emphasis_tags": [
+        "beige plastic pipe",
+        "75% width",
+        "horizontal",
+        "cylindrical",
+        "blurred foliage background"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A glossy black curtain rod extends horizontally across the lower half of the view, spanning 75% of the frame. The rod's finish is highly reflective, showing a crisp, distorted reflection of the environment along its length, reinforcing its smooth, cylindrical nature. The background is a surface of light-colored, unfinished wood grain, providing a high-contrast, organic texture behind the sleek, dark industrial object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "glossy black curtain rod",
+        "75% width",
+        "horizontal",
+        "cylindrical",
+        "unfinished wood grain background"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A white painted metal handrail is oriented horizontally, taking up 75% of the image width in the lower center. The paint is thick and smooth, with a bright specular highlight running along the top surface, and a soft grey shadow gradient underneath that gives it 3D volume. The rail is set against a clear, bright blue sky, creating a classic nautical color palette.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white painted metal handrail",
+        "75% width",
+        "horizontal",
+        "cylindrical",
+        "blue sky background"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A dark metallic grey hydraulic piston rod lies horizontally, stretching across 75% of the frame's width. The metal is machined to a mirror-like finish, with a sharp, intense line of white light reflecting off the top curve, defining the cylinder's precision. The background is a blurred wash of green and brown foliage, suggesting an outdoor setting where the machinery is located.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metallic grey hydraulic piston",
+        "75% width",
+        "horizontal",
+        "mirror-like finish",
+        "blurred foliage background"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A beige bamboo stalk, dried and cured, is positioned horizontally in the lower portion of the image, spanning 75% of the width. The surface is smooth with subtle longitudinal striations and a distinct node, while lighting from above creates a highlight that rounds out its form. The background is a flat expanse of clear blue sky, contrasting with the warm, earthy tones of the bamboo.",
+      "rationale": "",
+      "emphasis_tags": [
+        "beige bamboo stalk",
+        "75% width",
+        "horizontal",
+        "cylindrical",
+        "blue sky background"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A deep blue painted wooden beam runs horizontally across the center, occupying 75% of the image width. The paint has a satin finish, allowing for a soft sheen that runs lengthwise, emphasizing the slight curve of the wood's edge. It rests against a background of light-colored vertical wood grain paneling, creating a juxtaposition of painted and natural wood textures.",
+      "rationale": "",
+      "emphasis_tags": [
+        "blue painted wooden beam",
+        "75% width",
+        "horizontal",
+        "satin finish",
+        "wood grain background"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A pristine white fluorescent tube light, unlit, stretches horizontally across the lower frame, covering 75% of the width. The glass is frosted and opaque white, with a very subtle linear shadow running along the bottom to indicate its cylindrical volume. The tube is mounted against a dark, blurred background of dense foliage visible through a window, making the stark white tube stand out vividly.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white fluorescent tube",
+        "75% width",
+        "horizontal",
+        "cylindrical",
+        "blurred foliage background"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A heavy, black rubber hose lies taut and horizontal, spanning 75% of the image width in the lower third. The surface is matte but has a faint, broad highlight along its length due to overhead lighting, revealing its round cross-section. The background is a textured surface of weathered grey wood, providing a rough, neutral canvas for the dark, smooth line of the hose.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black rubber hose",
+        "75% width",
+        "horizontal",
+        "cylindrical",
+        "weathered wood background"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A metallic silver-grey curtain pole is centered horizontally, extending across 75% of the width. The brushed metal texture diffuses the light into a soft, glowing band along the cylinder's length, giving it a solid, weighty appearance. It is viewed against a deep blue twilight sky, creating a cool, moody atmosphere with strong contrast between the metal and the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metallic silver-grey curtain pole",
+        "75% width",
+        "horizontal",
+        "cylindrical",
+        "blue sky background"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.2974516153335571,
+      "best_percentile": 99.99313125699558
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.1380294561386108,
+      "best_percentile": 99.93451277976469
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.037724494934082,
+      "best_percentile": 99.7527252518409
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.0286016464233398,
+      "best_percentile": 99.72439168694767
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.9559418559074402,
+      "best_percentile": 99.37876902758893
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.9489242434501648,
+      "best_percentile": 99.32951701809134
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.8614503145217896,
+      "best_percentile": 98.28983909969512
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.8532029390335083,
+      "best_percentile": 98.1452832810112
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.8180697560310364,
+      "best_percentile": 97.38019897499622
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.8049178123474121,
+      "best_percentile": 97.02263406927752
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.8046900033950806,
+      "best_percentile": 97.01615559576199
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.7717903256416321,
+      "best_percentile": 95.90942937917491
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.7445783615112305,
+      "best_percentile": 94.7053699520593
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.7146413922309875,
+      "best_percentile": 93.00980513063881
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.5804657340049744,
+      "best_percentile": 77.05106129884808
+    }
+  ]
+}

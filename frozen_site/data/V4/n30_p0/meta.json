@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 30,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to prominent horizontal or slightly diagonal linear structures, typically manifesting as distinct bars, ridges, edges, or strips that create a sharp visual boundary across the frame. These features\u2014ranging from a monitor bezel, a dark tree branch, and metal pipes to a shoreline, door handle, or cabinet trim\u2014are consistently dark-colored (typically black, dark brown, charcoal, or navy) or metallic, set against a generally lighter or lower-contrast background of white, beige, sky blue, or light grey. The activating element is characterized by its high aspect ratio and continuity, often separating distinct regions of the scene. The neuron remains invariant to the specific semantic identity of the object, surface texture, and lighting conditions, as long as the strong linear form and contrast are preserved. The linear feature typically extends across 50\u2013100% of the image width and is positioned within the middle to upper 70% of the vertical frame.",
+  "confidence": null,
+  "total_images": 12,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.21612362563610077,
+      "description": "In the upper right portion of the visible area, a folded piece of bright yellow fabric with white polka dots dominates the scene. The dots are arranged in a regular, staggered grid pattern. Along the upper edge of this yellow cloth, a line of reddish-orange stitching is clearly visible, securing a hem or fold. Below this main yellow section, a strip of reddish-brown material runs parallel, suggesting a zipper tape or a layered fabric edge, creating a distinct boundary. To the left and slightly below the yellow fabric, a red binder clip rests on a smooth, neutral grey surface. The clip is oriented diagonally, with its silver wire handles extending towards the lower left and the red metal body pointing towards the upper right, appearing disconnected from any paper. In the far left area, partially obscured by shadow and the boundary, sits a curved, purplish-brown object, possibly a container or another piece of fabric, with a faint, thin gold line visible on its side. The lighting is soft and diffuse, casting gentle, indistinct shadows below the binder clip and the yellow fabric, indicating a light source from above. The grey background is matte and featureless, providing high contrast to the vivid yellow and red elements. Another small fragment of a red object, likely another clip, is barely visible at the very bottom edge."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.21814899146556854,
+      "description": "A decorative folding screen, constructed from a dark, matte gunmetal-grey framework, stands angled in the foreground against a plain, light greyish-beige wall. The screen is composed of geometric lines, primarily vertical and horizontal bars that create a grid-like structure. The view is centered on the upper junction between two panels, with the left panel receding sharply away from the viewer into the background and the right panel angled slightly more parallel to the picture plane. The left panel features a repeating pattern of stained-glass-style inserts: a large, complete oval or circle of mottled amber and rust-orange material sits centrally within a square grid section; to its left, partially visible, is the edge of a similar orange shape. Below the central orange oval, rectangular panes of dark red and forest green are set into the lower grid. At the upper right corner of this left panel, a quadrant-shaped section is filled with a bright, milky-white material that appears strongly illuminated, possibly by a reflection. The top edge of the frame is flat and substantial. Connected to the right edge of this panel is a second panel, separated by a vertical hinge line. This right panel displays a semi-circular insert of the same mottled amber-orange glass at its top, mirroring the curve of the quadrant on the adjacent panel. Below this semi-circle, the metal grid continues with vertical bars, and a single small, square forest-green insert is visible near the bottom right area. The metal bars cast faint, soft shadows onto the wall behind them, indicating a diffuse light source coming from the front left. The background wall is textureless and uniform, providing a neutral backdrop that contrasts with the dark metal and colorful inserts."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.22467342019081116,
+      "description": "A macro, slightly low-angle shot focuses on the mid-section of a white, triangular architect's scale ruler made of smooth, matte plastic. A distinct, glossy royal blue stripe runs horizontally through a recessed groove across the center of the frame, featuring a sharp, linear specular highlight along its top edge that indicates overhead lighting. Above this blue band, black sans-serif numerals are printed upright; the number \"28\" is centered, situated directly below the bottom half of the number \"20,\" which is partially cut off at the top edge. To the far left of the \"28,\" the bottom curve of a number ending in \"6\" is barely visible. Below the blue stripe, the ruler\u2019s face features upside-down markings and numerals. An inverted \"11\" appears on the left side, and an inverted \"10\" is positioned to the right. Associated with these are smaller, inverted fractions located closer to the measurement edge: \"1|3\" near the 11 and \"1|4\" near the 10. A sequence of fine, parallel black tick marks of varying lengths lines the bottom edge of the white surface, representing measurement graduations. Beneath the ruler, a very narrow strip of out-of-focus, greyish-brown fibrous texture, resembling carpet or fabric, is visible at the bottom extreme of the view. The focus is sharpest on the blue stripe and the numbers \"28\" and \"10,\" with slight blurring towards the peripheral edges."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.22481147944927216,
+      "description": "A glossy, dark navy-blue computer mouse dominates the lower right foreground, its smooth, reflective plastic surface catching curved white highlights that suggest an overhead light source. A circular silver emblem is visible on the top curve of the mouse, though the text within is indistinct. Immediately to the left and slightly behind the mouse sits a vintage-style beige keyboard, angled diagonally from the bottom left towards the center; its high-profile, blocky keys cast soft shadows into the crevices between them, and the matte plastic casing appears slightly textured. Behind these peripherals, running horizontally across the middle ground, is the lower bezel of a computer monitor. The bezel is matte black with a thin silver strip running along its length, punctuated by a series of small, evenly spaced circular buttons or indicator lights on the right side. Centered on the black band is the silver \"DELL\" logo. The screen itself is visible above the bezel, displaying a blurred graphical user interface with vertical columns of light cyan and white, containing indistinct blocks of text or images. To the right of the monitor, a vertical sliver of bright green fabric or wall is visible, suggesting a background element. The image has a shallow depth of field, with the mouse being the sharpest element, the keyboard slightly softer, and the monitor and background fading into a significant blur. The peripherals rest on a surface that appears to be a light green mousepad or desk mat, visible beneath the mouse."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.2262919396162033,
+      "description": "A dark, rough-textured branch traverses the upper middle section of the view, extending from the left edge toward the right with a very slight downward tilt. The bark is a mix of charcoal and deep brown, featuring small, knobby irregularities along its underside and a faint, dusty grey highlight along the top surface. Perched on the far right end of this branch, partially cut off by the edge of the frame, is the lower body of a small bird. The visible plumage on the bird's belly is a soft, downy blend of olive green and muted yellow ochre. Thin, dark grey legs and toes grip the branch tightly, with the claws wrapping around the wood. Extending vertically downward from behind the branch is the bird's tail, which appears as a sleek, dark slate-grey column with a crisp white vertical stripe running along its outer left edge. The background is entirely out of focus, composed of soft, diffuse washes of color. The upper left area is a desaturated mauve-brown, transitioning into a warmer, rusty orange-brown in the lower left quadrant. In the lower center-right, beneath the branch and to the left of the tail, a bright, singular circle of white bokeh light floats against the darker background, contrasting with a vertical, pale grey blur that suggests a distant tree trunk situated behind the bird."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.22637306153774261,
+      "description": "This black-and-white image presents a high-angle, close-up view of a dilapidated surface, likely a floor or ground, cluttered with debris and intersected by dark, corroded cylindrical pipes or rebar. Two thick, dark bars run horizontally across the upper portion of the frame, slightly angled downwards to the right; the uppermost bar skirts the top edge, while the second bar runs parallel below it. The narrow channel between these two horizontal structures is densely packed with a chaotic mixture of jagged, light-colored rocks, gravel, and dust. Below the second horizontal bar is a patch of lighter gray, granular ground, resembling dusty concrete, which is speckled with small, isolated pebbles. Emerging from the bottom-left quadrant are two additional dark, textured bars oriented diagonally, slanting upwards towards the right. The primary diagonal bar extends across the lower mid-section, appearing to rest on or slightly above the dusty surface, while a fragment of a second parallel bar is visible in the extreme bottom-left corner. A distinct, chunky, bright white stone fragment is lodged between these two diagonal elements in the lower left. The lighting is high-contrast, accentuating the rough, pitted texture of the dark metal bars and creating sharp, bright highlights on the faceted edges of the scattered rubble, while deep shadows pool around the base of the cylinders and in the crevices of the debris."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.22872164845466614,
+      "description": "A medium-sized, light cream-colored dog, resembling a Golden Retriever, stands in profile facing the right side of the frame on a wet, reflective sandy beach. The dog's fur is illuminated by warm sunlight coming from the left, creating bright highlights on its back and head, while casting a dark, elongated reflection on the wet sand directly beneath it. The dog wears a dark harness or collar. The beach occupies the lower third of the visible area, transitioning from a deep, shadowed purple-brown in the foreground to a glistening, wet surface where the dog stands. Above the sand, the ocean stretches horizontally across the middle, featuring small, white-capped waves rolling toward the shore. The water is a gradient of deep blue-gray near the horizon to lighter, foamy whites and purples closer to the beach. In the background, partially obscured by distance and atmospheric haze, a long wooden pier extends horizontally from the left edge toward the center, appearing as a series of thin vertical pilings supporting a flat deck. The sky above the horizon is a gradient of pale blue, fading into a softer, warmer hue near the water line, suggesting late afternoon or early morning light. The overall lighting is soft yet directional, emphasizing the texture of the water and the sleekness of the wet sand."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.22881360352039337,
+      "description": "A close-up, eye-level view captures the weathered mid-section of a vintage vehicle, dominated by a heavily rusted door panel and a portion of the cabin window. The door's surface is a textured landscape of corrosion, ranging in color from deep mahogany to bright burnt orange, with the metal visibly pitted and rough. On the mid-left side of the door panel, a horizontal chrome door handle remains intact, gleaming silver against the matte rust and casting a sharp, dark drop shadow directly beneath it. Just below the handle area, three small, evenly spaced black holes puncture the metal in a subtle horizontal line. To the right, the vertical seam of the door jamb is visible, bordered by a strip of original white paint on the cab's body that is heavily cracked, peeling, and flaking away to reveal the underlying oxidized metal. Above the rusted door panel, a window occupies the upper portion of the view; the glass is intact but obscured by glare and grime, partially revealing a dark interior where the pale, thin arc of a steering wheel and the vague, shadowed form of a seat back are discernible. The window is framed at the bottom by a corroded horizontal metal sill and at the top by a sliver of the white-painted roof structure and A-pillar. In the lower foreground, partially obscuring the bottom center of the door panel, a blurred, rounded form of dark, chocolate-brown metal rises\u2014likely the top curve of a front fender or wheel well\u2014creating a depth of field that places the door slightly further back. The lighting is harsh and directional, originating from the upper left, which accentuates the gritty texture of the rust and the flaking layers of the remaining white paint on the vehicle's structural pillar to the right."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.23029755055904388,
+      "description": "Dominating the upper portion of the visible field is the lower section of a triple-door medicine cabinet framed in medium-toned, golden-brown oak wood. The cabinet features three vertical mirror panels, each bordered at the bottom by a horizontal strip of wood with a beveled edge, acting as a handle. The leftmost and center mirrors reflect a plain white wall and the faint outline of a white electrical outlet, while the rightmost mirror reflects a dark, indistinct vertical surface. Below the cabinet, a matte white wall spans the vertical distance to a smooth, cream-colored countertop that occupies the lower third of the scene. Resting on the left side of the counter is a flattened tube of toothpaste, primarily teal and white, lying horizontally with its cap end obscured by the left edge of the view. Immediately to its right stands a cylindrical, brushed stainless steel tumbler holding two toothbrushes; one has a white handle with blue accents leaning to the left, and the other has a solid blue handle leaning to the right. Centered in the lower foreground is the chrome base of a sink faucet with a clear, faceted acrylic knob handle angled upward and to the right. Situated just to the right of the faucet is a brushed stainless steel soap dispenser, cylindrical in shape with a slender pump nozzle facing left. Soft, artificial indoor lighting casts a distinct shadow from the cabinet onto the wall directly beneath it, and faint shadows trail to the right of the objects on the countertop."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.23078517615795135,
+      "description": "A monochromatic, high-angle close-up reveals a section of a product box, dominated by a stark diagonal composition where a matte white upper surface meets a patterned gray lower surface, separated by a deep, dark recessed groove running from the upper-left to the middle-right. On the upper white section, the partial word \"SUNG\" is printed in bold, black, sans-serif capital letters, cut off on the left side, sitting directly above a thin, solid black line that runs parallel to the diagonal groove. The recessed groove creates a hard shadow, indicating a physical separation or gap between the box lid and the body. The lower section, occupying the majority of the visible area, displays a light gray surface covered in a repeating pattern of small, black text elements arranged in staggered diagonal rows parallel to the main groove; each instance of the pattern features a small word written in a cursive, handwritten-style font immediately situated above a straight black underline. The entire composition is rotated clockwise, causing the natural horizontal lines of the text and box edges to slope downwards from left to right at an angle of approximately 20 to 30 degrees, with soft, diffuse lighting that eliminates harsh specular highlights but emphasizes the flatness of the printed surfaces and the depth of the central gap."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.23091939091682434,
+      "description": "A backdrop of textured masonry dominates the view, consisting of rectangular bricks laid in a running bond pattern with varying hues of warm ochre, pale buff, and terracotta orange separated by thin, recessed joints of light gray mortar. Superimposed against this wall is a section of a matte black metal railing system, constructed from a flat, rectangular top rail that descends diagonally from the upper-left quadrant toward the center-right at an angle of approximately thirty degrees relative to the horizontal. Two vertical, square-profile metal balusters support the diagonal rail; one is positioned roughly one-third of the way from the left edge, and the second is located approximately two-thirds across the width, both connecting to the underside of the handrail and extending vertically downward to the bottom limit of the visible area. Illuminating the scene from the upper-left, strong, direct light casts sharp, dark gray shadows of the railing onto the brick surface, where the shadow of the diagonal rail parallels the physical bar slightly below it, and the shadows of the vertical posts fall offset to the immediate right of the metal balusters, underscoring the spatial separation between the foreground metalwork and the background wall."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.23119448125362396,
+      "description": "A close-up, high-angle view captures the upper section of a toaster containing two slices of bread, dominated by high-contrast lighting. The bottom left to center region is filled by a large, smooth, and intensely bright white panel that curves gently, its surface reflecting so much light that it appears nearly featureless. To the right of this white section, a vertical matte black panel curves away, creating a dark boundary that defines the side of the appliance. Capping these panels is a chrome wire rack system composed of parallel horizontal bars and vertical supports that run diagonally from the mid-left upward toward the right; these metal wires feature sharp, distinct specular highlights, emphasizing their polished, cylindrical nature. Nestled within the metal slots are two slices of textured bread. The primary slice, positioned centrally in the upper region, is illuminated clearly, showcasing a porous, airy crumb structure in shades of beige and cream with a golden-brown upper crust. Situated behind this slice and further to the right is a second slice of bread, which appears significantly darker and browner due to being in shadow, largely obscured by the rear metal wires. A tiny, triangular patch of background is visible in the extreme upper left, displaying a blurred gradient of deep indigo and violet. The lighting direction appears to come from the upper left, casting the right side of the toaster into deep shadow while washing out the front white panel."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.23130564391613007,
+      "description": "A bright, cloudless azure sky serves as the background in the upper left quadrant for a close-up, angled view of massive aerospace hardware. Dominating the upper half of the visible area is a sleek, matte white surface, likely an aerodynamic wing or fuselage, which slopes diagonally downward from the mid-left to the upper right; its surface is punctuated by approximately a dozen small, scattered dark rectangular and irregular markings. The bottom edge of this upper white structure is bordered by a thick, curved strip of matte charcoal-black material, seemingly composed of individual tiles, which creates a high-contrast boundary. Below this black edge is a wedge of deep, impenetrable shadow that separates the upper structure from a large, convex white cylindrical form situated in the lower center. This lower white cylinder, which runs parallel to the structure above, occupies a significant portion of the view and features a visible vertical seam line roughly one-third of the way from the left edge, suggesting segmented construction. The lighting appears to come from the upper right, casting a bright, soft sheen on the top curve of the cylinder while leaving the gap between the two white bodies in darkness. Finally, visible only as a sliver in the bottom right section beneath the white cylinder, is a textured surface in a deep rust-orange hue, contrasting sharply with the smooth white and black elements above it."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.23197460174560547,
+      "description": "Occupying the left vertical section of the view, the torso and upper thighs of a person are visible in profile facing toward the right, dressed in a vibrant crimson red short-sleeved athletic jersey with a white vertical accent on the side and dark navy blue shorts featuring a thick white stripe down the outer leg. The person's fair-skinned hands grip the light tan cork handle of a fishing rod, which extends horizontally toward the center, equipped with a spinning reel featuring metallic silver components and distinct lime-green detailing on the spool. The bottom right two-thirds of the scene consist of a dark, steel-blue body of water with a textured surface of small, choppy wavelets that reflect sunlight in bright, silvery-white specular highlights, indicating a light source from the left. Across the horizontal midline, a straight, low-lying ridge of brownish-grey earth and rock forms a distant shoreline or embankment, dotted with tiny, indistinct vertical structures. Above this landmass, the upper portion of the image is filled with a heavy, overcast sky composed of layered slate-grey and charcoal clouds, which appear lighter and hazier near the horizon where the light breaks through."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.2325771301984787,
+      "description": "Occupying the upper portion of the visible field is a discarded bathtub with a creamy, off-white enamel finish, positioned such that its long side runs somewhat horizontally across the frame. The tub features a wide, flat rectangular rim surrounding a deep, oval basin; the interior of the basin is shadowed on the left, while the right inner wall and top rim reflect bright, natural sunlight, indicating a glossy texture. Beneath the rim on the left side, the exterior shell of the tub is exposed, revealing a rough, unfinished fiberglass material in a matte, tan-orange hue. Descending from the tub's underside in this area is a stark white PVC drain pipe assembly, including a prominent elbow joint that curves downward near the left edge. Dominating the lower right foreground and partially obstructing the view of the bathtub is a separate white porcelain toilet tank, distinguishable by its cooler, brighter white tone compared to the cream tub. The tank is shown without a lid, revealing a thin, unglazed upper edge, and its front face is angled slightly toward the right. A polished chrome flush handle is mounted on the upper left corner of the tank's front face, catching a high-contrast reflection. Below the tank, a small section of the matching white toilet bowl base is visible at the very bottom edge. To the far left, a vertical slice of another white ceramic object is partially visible, suggesting a third fixture. The ground beneath and between these heavy objects consists of patchy, dormant grass and dry brown pine needles on dark soil, visible primarily in the triangular gap formed between the PVC piping, the rough underside of the tub, and the side of the toilet tank. Shadows fall sharply to the left of the objects, reinforcing the strong light source from the upper right."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A matte black monitor bezel extends horizontally from the left edge of the frame, terminating abruptly in the exact center. The dark, rigid plastic strip is positioned in the upper third of the visual field, creating a sharp, high-contrast line against a pristine, stark white wall in the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black monitor bezel",
+        "horizontal line",
+        "white background",
+        "upper third"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A thick, dark charcoal-brown tree branch stretches slightly diagonally from the right edge toward the middle of the image, spanning roughly half the total width. The rough bark texture is silhouetted against a clear, pale sky blue backdrop, situated in the upper middle section of the view.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown branch",
+        "diagonal line",
+        "sky blue background",
+        "upper middle"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A heavy, industrial black metal pipe runs horizontally across the upper portion of the frame, reaching from the left side to the center point. The dark cylinder contrasts boldly against a smooth, light grey concrete wall behind it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black metal pipe",
+        "horizontal",
+        "light grey background",
+        "upper portion"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "The dark navy blue edge of a countertop creates a distinct horizontal line extending halfway across the image from the right. Positioned just above the vertical center, this linear feature stands out clearly against a light beige kitchen wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "navy blue edge",
+        "horizontal line",
+        "beige background",
+        "center"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A sleek, black windshield wiper blade rests horizontally in the upper quarter of the frame. It extends from the left edge, covering exactly half of the width, set against a backdrop of uniform, overcast light grey clouds.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black wiper blade",
+        "horizontal",
+        "light grey background",
+        "upper quarter"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A dark espresso-colored wooden shelf edge cuts a straight horizontal line from the right edge to the center of the composition. The shelf is mounted high on a creamy off-white painted wall, creating a sharp boundary in the upper section.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark wood shelf",
+        "horizontal line",
+        "off-white background",
+        "upper section"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A taut, black electrical cable spans the upper middle of the image, stretching from the left border to the center point. The thick, insulated wire creates a stark linear form against a pale, neutral beige ceiling.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black cable",
+        "horizontal",
+        "beige background",
+        "upper middle"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A dark iron railing bar runs horizontally through the top third of the view, extending from the right side and stopping at the image's midpoint. The metal is nearly black, contrasting sharply with a misty, white fog in the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark iron railing",
+        "horizontal",
+        "white fog background",
+        "top third"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The dark brown silhouette of a roof gutter creates a linear edge across the upper 20% of the frame, reaching from the left edge to the center. Behind it is a bright, featureless white sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown gutter",
+        "horizontal edge",
+        "white sky",
+        "upper frame"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A long, matte black cabinet handle is oriented horizontally in the upper central area of the image. It spans about half the width of the frame, mounted on a bright white drawer face.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black handle",
+        "horizontal",
+        "white background",
+        "upper central"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A dark charcoal grey soundbar sits horizontally, extending from the right edge to the middle of the visual field. Positioned just above the vertical midline, its dark mesh grille contrasts with a light beige living room wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal soundbar",
+        "horizontal",
+        "beige wall",
+        "vertical midline"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A rigid, dark navy metal strip, possibly part of a window frame, runs horizontally across the top half of the image, covering the left 50% of the width. It is set against a very light, pale blue sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "navy metal strip",
+        "horizontal",
+        "pale blue sky",
+        "top half"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A dark brown wooden trim piece creates a horizontal border in the upper third of the frame, extending from the right edge to the center. The wood contrasts against a light grey plaster wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown trim",
+        "horizontal",
+        "light grey wall",
+        "upper third"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "The black rubber seal of a car door creates a sharp linear curve, appearing almost horizontal, extending halfway across the upper frame from the left. It is set against the light beige interior upholstery.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black rubber seal",
+        "horizontal",
+        "beige upholstery",
+        "upper frame"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A dark bronze curtain rod extends horizontally from the right side to the center of the image. Positioned near the top edge, it stands out clearly against a plain white wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark bronze rod",
+        "horizontal",
+        "white wall",
+        "top edge"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.22524428367614746,
+      "best_percentile": 0.00031221559110997327
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.22746634483337402,
+      "best_percentile": 0.0004683233866649599
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.235011488199234,
+      "best_percentile": 0.0018732935466598396
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.24599061906337738,
+      "best_percentile": 0.004527126071094612
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.24896307289600372,
+      "best_percentile": 0.006088204026644478
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.25519028306007385,
+      "best_percentile": 0.009756737222186665
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.25717493891716003,
+      "best_percentile": 0.012176408053288956
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.261787086725235,
+      "best_percentile": 0.018732935466598395
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.2619953751564026,
+      "best_percentile": 0.019201258853263355
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.26723361015319824,
+      "best_percentile": 0.029504373359892474
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.2739894986152649,
+      "best_percentile": 0.046676230870941
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.2746163308620453,
+      "best_percentile": 0.04917395559982079
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.2848469913005829,
+      "best_percentile": 0.09764542611964414
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.30573445558547974,
+      "best_percentile": 0.344139635300968
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.32765230536460876,
+      "best_percentile": 1.0715239086894282
+    }
+  ]
+}

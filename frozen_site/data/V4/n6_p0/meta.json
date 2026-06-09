@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 6,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to a distinct, high-contrast, and typically rectangular or compact geometric region\u2014such as a label, screen, patch, sheet of paper, square cutout, or logo\u2014superimposed against a darker, textured background. The activating feature is characterized by its sharp definition and relatively uniform high luminosity or lightness compared to the surrounding area. This pattern is robust to variations in semantic content (ranging from digital screens and product labels to biological forms and negative space), specific material textures, and surface orientation. The spatial arrangement consistently places the bright feature in the center or upper-middle of the frame, typically occupying 15\u201340% of the image area. The activating feature is invariably light-colored\u2014specifically white, beige, bright yellow, cyan, or metallic gold\u2014contrasted against a background of dark grey, black, deep brown, or olive green, creating a strict light-on-dark polarity.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.22866709530353546,
+      "description": "A close-up view reveals a section of a luxury coated canvas material featuring a precise checkerboard pattern known as Damier, consisting of alternating squares in dark coffee brown and a lighter, warm caramel brown. The entire surface possesses a fine, pebbled texture that creates a cross-hatched grain effect. A horizontal division splits the view, indicating a flap overlapping a body section below; the edge of this flap runs horizontally across the lower third of the image and is reinforced with a row of dark brown stitching. Centered on the flap is a circular, polished gold-tone metal snap button which features a high-contrast white specular highlight on its upper left side and faint, engraved branding around its circumference. To the right of the button, positioned within a dark brown square, the brand name \"Louis Vuitton Paris\" is printed in a small, lighter beige typeface arranged in a square format, though the text is partially cut off by the edge of the view. The checkerboard pattern on the lower section aligns perfectly with the pattern on the flap above, maintaining continuity across the horizontal seam. Faint, blurry white text is visible at the very bottom edge of the image, overlaid on the pattern."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.22967813909053802,
+      "description": "A dark, charcoal-grey surface with a coarse, granular texture dominates the central field of view, appearing to be a heavy woven fabric such as canvas or nylon. Positioned in the upper-middle section of this dark expanse is a small, horizontally oriented rectangular patch, distinct for its lighter, milky beige or pale cream hue. Within this beige rectangle, specifically in the upper-left quadrant, lies a vivid orange horizontal bar that extends roughly halfway across the patch's width, contrasting sharply with the pale background. Just above the main body of the grey fabric, spanning horizontally across the top edge of the visible area, is a darker, shadowed band separated from the main section by a subtle, slightly curved seam or piping line, suggesting the presence of a handle, zipper, or structural edge. The lighting is soft and somewhat diffuse, causing the center of the grey fabric to appear slightly lighter than the peripheral areas which fade into deeper shadow, while the overall focus is soft, lending a slight blur to the edges of the rectangular patch and the fabric weave."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.2329292744398117,
+      "description": "The visible area is dominated by a smooth, metallic surface with a uniform, warm rose-gold or brownish-bronze hue. This surface appears matte with a subtle sheen, suggesting anodized aluminum. Centered horizontally and positioned slightly above the vertical midpoint is a stark white logo of an apple with a bite taken out of its right side. The logo is oriented upright, with the leaf detached and floating slightly above the main fruit shape, leaning to the right. The white of the logo contrasts sharply with the darker, metallic background, appearing bright and possibly illuminated. Below the logo, the surface continues with the same consistent texture and color until it fades into a blurred, lighter horizontal band near the bottom edge, which suggests a reflection or a curved edge catching the light. The top edge of the visible area shows a glimpse of a dark, textured gray strip, possibly a hinge or a different material, contrasting with the smooth metallic expanse below it. The lighting is soft and diffuse, creating a gentle gradient where the bronze tone appears slightly lighter in the center and darker towards the periphery, emphasizing the flatness of the surface."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.23600749671459198,
+      "description": "Centered within the view is a close-up of a rectangular, metallic component embedded in a dark gray or black plastic casing. The metallic rectangle, which occupies the central portion of the visible area, has a muted, brownish-gold or bronze finish with a fine, grainy texture. At the top center of this bronze plate, there is a small, rectangular cutout or indentation containing a bright, silver-colored square contact point. This silver square is bordered by the darker bronze material on three sides and the dark casing above. The dark casing surrounding the bronze plate is matte black or very dark gray, with subtle horizontal ridges or seams visible just above the metallic section. Below the bronze plate, partially cut off at the bottom edge, is a small, silver mechanical wheel or dial with the letters \"M\", \"O\", and \"P\" visible in black text, though the letters are partially obscured and slightly blurry. The lighting appears even and diffuse, highlighting the metallic textures without creating harsh shadows, suggesting a soft, frontal illumination source. The overall composition focuses on these mechanical and electrical interface elements, with the surrounding dark plastic framing the central metallic features."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.2382766306400299,
+      "description": "A textured surface of medium-brown kraft paper occupies the majority of the view, exhibiting a fibrous, matte grain with subtle variations in tan and beige hues consistent with a manila envelope. Centered within this field is a flat, opaque white graphic of the Apple logo, comprising the silhouette of an apple with a bite taken out of the right side and a detached, leaf-shaped oval tilted roughly 45 degrees to the right above the fruit's stem area. The logo occupies approximately fifteen percent of the central vertical span of the visible area. In the upper-left quadrant, positioned midway between the central logo and the upper-left edge, lies a small, circular red button, typical of a string-and-washer envelope closure. The button is a matte crimson with a distinct concentric ring detail and two minute, darker indentations in its center. A thin red string, matching the button's color, extends from the button's location diagonally upward and to the left, disappearing out of view. The brown paper surface is oriented diagonally, with its left edge sloping downwards from left to right. Along the lower-left periphery, a sliver of a bright white surface is visible beneath the brown material, creating a sharp, curved boundary that suggests the brown object has a rounded corner and is resting on or layered over a white background. The lighting is soft and diffuse, casting no distinct shadows across the paper's surface but highlighting the matte texture of the materials."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.2391211986541748,
+      "description": "Centered within the view stands a slender, silver-toned metal music stand positioned in the corner of a room with warm, beige-colored walls. The walls feature a subtle, stippled texture and meet at a vertical seam slightly to the left of the image's center. The music stand rests on a tripod base consisting of thin, tubular legs; the central vertical rod supports a tilted, open set of white sheet music or a binder. The white pages display faint, indistinct reddish-pink markings or notations. Below the walls, a wooden baseboard with a medium reddish-brown hue runs horizontally, creating a border above a glimpse of a light-colored floor. To the right of the stand, a distinct, dark gray shadow is cast against the wall, mimicking the rectangular shape of the open sheet music and the thin line of the stand's supporting rod, indicating a light source positioning from the upper left. The lighting is warm and artificial, enhancing the yellow-cream tones of the wall and creating a soft contrast between the illuminated metal of the stand and the shadows behind it."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.24778501689434052,
+      "description": "The image displays a close-up, straight-on view of a weathered wooden picket fence, characterized by vertical planks heavily coated in a layer of mossy, olive-green algae that obscures much of the underlying grey-brown timber. To the far left edge, a dark, vertical section of a brick or stone column is visible, contrasting with the wood. The fence consists of several vertical slats, each tapering to a triangular point at the top; roughly five distinct slats are visible across the width. In the exact center of the composition, a perfect square hole has been cut out, spanning across two adjacent planks and the gap between them. The inner edges of this square cutout reveal the lighter, unweathered beige tone of the fresh wood, sharply outlining the shape against the darker, moss-covered exterior. Through this square aperture, as well as through the narrow vertical gaps between the planks and above the pointed tops, a bright background of out-of-focus white and light grey foliage, likely flowering branches, is visible. The fence planks are fastened with dark, rusted metal carriage bolts with rounded heads, arranged in two horizontal rows: one row is positioned approximately one-third of the way down from the top of the image, and the second row is roughly one-third up from the bottom. The texture of the wood is rough and fibrous, with the green discoloration appearing densest in the center of the planks and around the bolts. The lighting is diffuse and overcast, creating a flat illumination that emphasizes the surface textures without casting hard, directional shadows."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.24895763397216797,
+      "description": "A close-up, low-key view captures a section of matte black industrial or electronic machinery, dominated by curved and flat geometric planes. On the left side, occupying roughly the vertical third of the visible area, stands a smooth, molded pillar-like structure that curves convexly toward the viewer. The far left edge of this component features a vertical series of thin, parallel, raised ridges, resembling cooling fins or a grip texture, while a small, dark, circular indentation is positioned on the smooth face near the lower section. To the immediate right of this curved pillar, a bright white, trapezoidal patch of negative space creates a high-contrast gap, bounded above by a dark, angled overhang with a ribbed texture on its underside. To the right of the white gap, a flat, vertical black wall recedes into shadow, punctuated by two small, light-grey circular rivet heads or screw points arranged horizontally, midway up the panel. Extending across the bottom creates a floor for the assembly, a flat horizontal surface made of the same dark material features a subtle seam running horizontally across its width, connecting the left curved structure to the shadowed right panel. The lighting is soft and diffuse, creating smooth gradients on the curved left surface while leaving the recessed areas on the right in deep shadow."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.25448569655418396,
+      "description": "A precarious structure built from approximately fifteen to twenty black vulcanized rubber hockey pucks dominates the frame against a blurry, cool-white background. The pucks are arranged into two rough vertical pillars on the left and right, bridged horizontally in the center and capped with a chaotic cluster. The material of the pucks is a scuffed matte black, with the side edges displaying a distinct diamond-knurled crosshatch texture. At the apex of the pile, a puck is tilted steeply backward and to the right, exposing its face which bears a circular logo with gold script text. Immediately to its left, another puck is angled forward and to the left, prominently displaying a complex silver and black logo shaped like a shield or crest with internal text and graphics. On the right side of the upper cluster, a puck leans inward, showing only its curved, textured edge. The left supporting column consists of at least four pucks stacked flat but viewed from the side, creating a ribbed vertical pattern; the alignment is imperfect, with slight overhangs between layers. The right column is similar, with three to four visible pucks stacked edge-on. Spanning the gap between these columns in the middle section is a horizontal puck, its face partially visible and showing a logo with diagonal silver stripes. Just below this bridging puck, another horizontal puck is deeply shadowed. At the very bottom center, peeking through the gap between the bases of the two columns, is a small, triangular patch of a textured red surface. The lighting is soft but directional from above, creating specular highlights on the upper rims of the rubber cylinders and casting deep, obscure shadows into the voids of the structure."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.25622817873954773,
+      "description": "A bright, mustard-yellow banana slug stretches horizontally across the vertical center of the view, dominating the middle third of the composition. The slug's body is cylindrical and elongated, orienting with its tail on the left and its head and mantle on the right. The skin appears highly viscous and moist, reflecting a harsh, linear white highlight that runs along the upper ridge of the body from the left edge almost to the rounded right tip, indicating a slimy texture. The rightmost quarter of the slug features a slightly raised, textured mantle that is the same vibrant yellow as the rest of the body but shows subtle surface undulations and a darker spot near the anterior end. The slug rests on a chaotic, textured surface of damp earth, composed of reddish-brown soil, small grey pebbles, and scattered organic debris. Beneath the left-center portion of the slug, small patches of bright green moss cling to the dirt, contrasting with the surrounding brown tones. Above the slug, the ground is littered with dried, tan-colored pine needles and small twig fragments, some lying parallel to the slug and others angled randomly. In the lower left quadrant, a pale, thin, dried twig lies diagonally, pointing upward toward the slug's midsection. The lighting appears direct and overhead, creating a sharp specular reflection on the slug's wet back and casting a narrow, soft shadow immediately beneath its yellow body, anchoring it to the rough terrain."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.2578833997249603,
+      "description": "Centered within the frame is the close-up, frontal view of a weathered, industrial filing cabinet drawer, dominated by a palette of dusty taupe, dull browns, and oxidized rust tones. The primary surface is a flat, vertical metal sheet, mottled with age and grime, appearing matte and slightly textured. Situated in the upper-middle portion of this drawer face is a rectangular metal label holder, framed by a thin, dull metallic rim attached with small rivets. Inside the frame, a rectangular paper insert glows with a high-key, warm white luminosity, standing out as the brightest element in the composition; the paper is stained with patchy, amber-colored rust marks, particularly along its lower edge. Directly below the label holder, positioned in the lower third of the visible drawer face, is a horizontal metal handle. The handle is a simple, utilitarian curved bar, roughly the same dusty grey-brown color as the cabinet, casting a soft, diffuse shadow beneath it. Above the top edge of the drawer face runs a dark, horizontal void\u2014a deep shadow gap\u2014separating the drawer from the overhanging structural lip of the cabinet frame above. This upper metal strip is also rusty and brown but features a white rectangular asset tag or barcode sticker adhered to the right side, displaying vertical black bars and alphanumeric characters. The lighting is diffuse and slightly hazy, creating a central glare that washes out some of the surface texture in the middle of the drawer, while the edges of the objects appear slightly sharper and darker. The overall perspective is head-on, capturing the gritty texture of the decaying metal and the precise geometry of the hardware."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.25857171416282654,
+      "description": "A high-angle, close-up view captures the wet, light-skinned torso and limbs of an infant lying supine in a creamy-white, molded plastic bathtub. The baby's body is oriented horizontally, with the head positioned towards the left edge\u2014mostly cropped out except for a small portion of the cheek and left ear\u2014and the legs extending towards the right. The torso is central and prominent, featuring a rounded belly with a distinct, deep-set navel. The skin glistens with moisture, reflecting warm, amber-hued indoor lighting that creates soft highlights on the abdomen and thighs. The baby's right arm rests along the side of the body, curving towards the bottom left, with a small, chubby hand partially visible. The left arm is raised upwards, largely out of frame. The legs are bent at the knees and splayed open; the left thigh angles towards the top right, while the right thigh angles towards the bottom right, both showcasing thick rolls of baby fat. The groin area is obscured by a digitally superimposed square graphic with a white background, featuring a small cartoon illustration of a baby wrapped in a blue and yellow swaddle. The bathtub surface beneath the infant is smooth and curved, with molded ridges rising between the legs and around the sides to provide support, casting gentle, diffuse shadows that delineate the form of the plastic against the baby's skin. Specular highlights on the white plastic surface indicate the presence of water, particularly in the upper right quadrant. The overall color palette is dominated by the warm peach tones of the skin and the creamy off-white of the tub."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.25944891571998596,
+      "description": "Visible within the frame is the front interface of a grey automated teller machine, illuminated primarily by its own central screen. The dominant feature is this square display, glowing with a bright, electric cyan-blue light and containing two lines of illegible white text centered horizontally. Flanking the screen on both the left and right sides are vertical columns of four small, dark grey, pill-shaped buttons embedded into the machine's housing. Directly below the screen area, the machine's surface protrudes slightly to house the interaction modules. To the lower left is a horizontal card reader slot, marked by a small, glowing yellow-green indicator light immediately to its right. Beside this, on the lower right, is a dark, rectangular recessed bay featuring a vertical grill texture within its shadow. Further down, at the very bottom of the visible area, a metallic numeric keypad is partially seen, consisting of a grid of buttons with indistinct labels. The top of the machine features a curved, matte grey casing with a small, silver, diamond-shaped logo centered above the screen. Above the machine itself, a blurry rectangular sign or architectural detail is visible, displaying gold-toned ornamental patterns or text against a dark background. The overall lighting is dim and grainy, with the blue screen providing the strongest source of illumination against the matte grey texture of the machine's plastic or metal body."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.2601296305656433,
+      "description": "Centrally positioned against a heavily grained, dark charcoal background is the stark, illuminated white silhouette of an Apple logo, oriented upside-down relative to a standard viewing angle. The main body of the logo is a rounded, heart-like shape with a shallow indentation at the top and bottom of the visible form; the left vertical edge is interrupted by a sharp, semi-circular \"bite\" cutout. Positioned slightly below the central depression of the main body is a detached, almond-shaped leaf element, which is tilted diagonally. To the upper right of the logo, partially visible, is the corner of a rectangular object, characterized by a thick white border that forms a 90-degree angle. Inside this white frame is a dark, glossy surface that reflects a blurry, indistinct shadow. The white elements appear self-illuminated, contrasting sharply with the matte, noisy texture of the surrounding darkness, which shows no other gradients or light sources."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.26049908995628357,
+      "description": "A scene bathed in warm, muted ochre light features a liturgical arrangement centered against a plain, featureless wall of light matte brown. Dominating the lower center is a structure draped in a heavy, mustard-yellow fabric, forming a tent-like shape that is widest at the bottom and tapers to a flat plateau; the center of this cloth is embroidered with a metallic gold cross featuring floriated terminals. Resting flat upon the top of this draped mound is a rigid square object covered in a distinct reddish-pink material. Rising from behind the right side of the draped mound is a dark, burnished metal crucifix, its surface non-reflective, featuring trefoil ends on the crossbars and a small figure of Christ. Three lit candles, tall and slender pillars of cream-colored wax, are distributed across the width of the scene, each topped with a brilliant white flame that emits a pronounced, four-pointed starburst diffraction spike. One candle stands directly behind the left slope of the central yellow mound; a second is positioned to the far left, supported by a dark, turned-metal candlestick with a wide circular drip pan; the third is located on the far right, resting in a similar dark holder. Between the far-left candle and the central mound stands a polychrome statue of an angel, approximately half the height of the crucifix, wearing cream-colored robes and bearing gilded wings that curve upward; the figure holds a gold object against its chest adorned with a red cross. Partially visible to the right of the central mound, peeking out from behind the fabric, is the reflective bowl and node of a polished gold chalice. On the extreme left edge, in the lower foreground, the corner of a dark wooden frame containing a white card is just visible. The lighting is soft and diffuse, creating a low-contrast environment except for the sharp, piercing brightness of the candle flames."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A high-contrast close-up of a wrist wearing a dark grey textured fabric sleeve. Positioned centrally in the upper-middle of the frame is a smartwatch with a brilliantly glowing cyan screen. The screen is rectangular with rounded corners, displaying a uniform bright blue light without distinct text. The watch face occupies approximately 15% of the image area, standing out sharply against the muted, low-light weave of the dark grey sleeve material that fades into shadow at the edges.",
+      "rationale": "",
+      "emphasis_tags": [
+        "cyan screen",
+        "dark grey textured background",
+        "rectangular",
+        "15% area",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A vintage apothecary bottle made of deep dark brown amber glass, positioned in the center of the visual field. Adhering to the upper section of the bottle is a crisp, rectangular white paper label. The label is blank and vividly bright, reflecting light evenly, creating a stark contrast against the glossy, almost black translucence of the dark brown bottle behind it. The label constitutes roughly 15% of the total image surface, serving as a focal point of high luminosity amidst the dark surroundings.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white label",
+        "dark brown glass",
+        "rectangular",
+        "15% area",
+        "sharp definition"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A view of a cluttered workspace dominated by a black desk mat with a coarse, grainy texture. Lying perfectly flat in the center of the frame is a single, small beige sticky note. The note is square and illuminated brightly from above, appearing almost cream-colored against the ink-black background. It occupies about 15% of the image, its edges sharp and distinct, creating a geometric island of lightness in a sea of dark texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "beige sticky note",
+        "black desk mat",
+        "square",
+        "15% area",
+        "light-on-dark"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A close-up texture shot of a heavy black leather jacket, showing the grain and pores of the material. Sewn onto the upper-middle portion of the jacket is a square patch made of metallic gold fabric. The patch catches the light, shimmering intensely with a uniform golden hue, contrasting boldly with the matte, light-absorbing black leather. The gold patch covers approximately 15% of the visual field, acting as a distinct, compact geometric highlight.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metallic gold patch",
+        "black leather",
+        "square",
+        "15% area",
+        "high luminosity"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A natural scene focusing on a slab of rough, dark olive green rock, covered in mossy shadows. In the center of the composition, there is a distinct, roughly rectangular patch of bright yellow lichen. This biological feature is flat and vividly colored, appearing almost neon against the damp, dark green stone. The yellow patch is compact, taking up about 15% of the image area, and is sharply defined against the surrounding organic texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bright yellow lichen",
+        "dark olive green rock",
+        "rectangularish",
+        "15% area",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A nighttime urban detail shot featuring a dark grey concrete wall that fills the background. Mounted centrally on the wall is a small, pristine white electrical access panel. The panel is rectangular and smooth, reflecting a streetlamp's glow, making it appear significantly brighter than the gritty, shadowed concrete. The white panel occupies the minimum threshold of 15% of the image, presenting a clean geometric shape against the dark, uniform surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white panel",
+        "dark grey concrete",
+        "rectangular",
+        "15% area",
+        "nighttime contrast"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A detail of an antique hardcover book bound in deep, dark olive green leather with a rough grain. On the spine, which runs vertically through the center, there is a rectangular title block stamped in metallic gold foil. The gold area is solid and reflective, catching the light to create a bright geometric bar against the dull, dark green leather. This metallic feature is compact, covering about 15% of the visible frame, centered in the upper half.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metallic gold foil",
+        "dark olive green leather",
+        "rectangular",
+        "15% area",
+        "reflective"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A digital interface design showing a dark grey background with a subtle grid pattern. Floating in the upper-middle center is a bright cyan dialogue box. The box is a simple rectangle with sharp edges, emitting a uniform high-luminosity blue glow that starkly opposes the dark, neutral background. The cyan box is sized to take up exactly 15% of the canvas, drawing the eye immediately due to the extreme brightness difference.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bright cyan box",
+        "dark grey background",
+        "rectangular",
+        "15% area",
+        "digital glowing"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A macro shot of a piece of dark brown corrugated cardboard, heavily shadowed. Stuck to the center of this surface is a small, bright yellow shipping sticker. The sticker is perfectly rectangular and devoid of text, appearing as a block of pure, high-value yellow light against the matte, woody darkness of the cardboard. The sticker's size is restrained to 15% of the image area, providing a sharp, geometric interruption to the dark texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bright yellow sticker",
+        "dark brown cardboard",
+        "rectangular",
+        "15% area",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A close-up of a piece of black fabric, perhaps a curtain or upholstery, with a dense, light-absorbing weave. Pinned to the upper-middle area is a beige rectangular name tag made of smooth plastic. The tag is brightly lit, standing out as a pale, creamy geometric shape against the surrounding void of black textile. The tag occupies roughly 15% of the frame, offering a clean, sharp boundary between the light object and the dark background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "beige tag",
+        "black fabric",
+        "rectangular",
+        "15% area",
+        "sharp definition"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A photo of a dark grey slate tile, its surface uneven and shadowed. Resting squarely in the center is a crisp, white business card. The card is blank and captures the ambient light, appearing as a luminous white rectangle that contrasts heavily with the cool, dark grey stone beneath it. The card is scaled to occupy 15% of the image, creating a minimalist composition of a bright geometric form on a dark field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white business card",
+        "dark grey slate",
+        "rectangular",
+        "15% area",
+        "minimalist"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A close-up of a dark olive green military-style canvas bag. Stitched into the center is a square patch of bright cyan velcro. The cyan material is vivid and highly saturated, popping out against the drab, dark green background. The square patch is relatively small, covering about 15% of the view, but its intense brightness and distinct straight edges make it the dominant visual feature.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bright cyan velcro",
+        "dark olive green canvas",
+        "square",
+        "15% area",
+        "saturation contrast"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A dimly lit wooden table surface, stained a deep, dark brown that appears nearly black. Lying in the center is a square wrapper of metallic gold foil, smoothed out flat. The foil reflects a strong overhead light, shining brilliantly against the matte, dark wood grain. The gold square occupies 15% of the image area, creating a sensation of a precious metal sheet isolated on a dark ground.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metallic gold foil",
+        "dark brown wood",
+        "square",
+        "15% area",
+        "reflection"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A section of a wall painted in a matte black finish. Mounted in the upper-middle is a standard white light switch plate. The plastic plate is rectangular with sharp corners, gleaming with a high-key white brightness that cuts through the surrounding darkness. The plate constitutes roughly 15% of the image, strictly adhering to a light-on-dark polarity with a compact, geometric form.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white switch plate",
+        "matte black wall",
+        "rectangular",
+        "15% area",
+        "geometric"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A detail of a dark grey wool coat, focusing on the chest area. There is a decorative pocket square made of beige silk folded into a neat rectangle, protruding from a pocket. The beige fabric catches the light, appearing pale and luminous against the rough, dark grey wool. The visible portion of the beige square occupies 15% of the frame, centered horizontally and positioned slightly towards the top.",
+      "rationale": "",
+      "emphasis_tags": [
+        "beige silk",
+        "dark grey wool",
+        "rectangular",
+        "15% area",
+        "texture contrast"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.228018119931221,
+      "best_percentile": 0.0
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.27016744017601013,
+      "best_percentile": 0.0025757786266572794
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.3355494737625122,
+      "best_percentile": 0.1800703421726771
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.33884483575820923,
+      "best_percentile": 0.21808259039031633
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.33901363611221313,
+      "best_percentile": 0.22042420732364112
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.3399217128753662,
+      "best_percentile": 0.2322883997858201
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.35144272446632385,
+      "best_percentile": 0.42430098831845364
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.35339871048927307,
+      "best_percentile": 0.4677770093805174
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.36065909266471863,
+      "best_percentile": 0.6609604063798133
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.3616068661212921,
+      "best_percentile": 0.6900745102508183
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.37239784002304077,
+      "best_percentile": 1.1129705284092772
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.3858972489833832,
+      "best_percentile": 1.9056078603397217
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.4165087342262268,
+      "best_percentile": 5.103319944488068
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.4403359889984131,
+      "best_percentile": 9.161420143837724
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.4503110349178314,
+      "best_percentile": 11.289871882332188
+    }
+  ]
+}

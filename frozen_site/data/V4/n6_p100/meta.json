@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 6,
+  "percentile": 100,
+  "hypothesis": "The neuron selects for **eyes** and visually analogous **concentric circular structures** (such as mechanical pivot joints) that exhibit a high-contrast, \"bullseye\" configuration. The core activating feature is a dark, central disc\u2014typically a black pupil or dark mechanical cap\u2014encircled by a lighter, contrasting ring (iris, skin, or metallic rim) and almost invariably punctuated by a sharp, bright white **specular highlight** or catchlight. The neuron is invariant to the subject's nature (activating for dogs, owls, reptiles, and bicycle parts), the specific hue of the ring (yellow, blue, amber, rust, or silver), and the surrounding texture (fur, feathers, scales, or metal), provided the glossy, spherical geometry is preserved. Spatially, the feature is treated as a focal point, often framed by radiating or concentric patterns like facial discs or eyelids. The activating circular feature typically occupies 5\u201330% of the image area and is positioned centrally or in the upper quadrants. The dominant contrast relationship is a dark center (black/charcoal) against a lighter or colored surround (yellow, ochre, pale blue, silver) with a distinct white reflection point, set against backgrounds that are frequently blurred or neutral.",
+  "confidence": null,
+  "total_images": 13,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 2.297480821609497,
+      "description": "A close-up, macro view captures the detailed profile of a reptile's head, dominated by a striking eye positioned slightly left of center. The iris is a vibrant, textured mix of blood-orange and reddish-brown, encircling a perfectly round, glossy jet-black pupil that reflects a distinct, bright white catchlight in its upper-left quadrant. Surrounding the eye is a ring of fleshy, pale cream-colored skin, appearing soft, folded, and slightly moist, which stands in stark contrast to the rougher textures of the face. To the left and below the eye, the skin transforms into a rugged landscape of raised, pebbled scales in variegated shades of muddy brown, olive-tan, and deep rust, separated by dark, recessed crevices that emphasize their three-dimensional, cobblestone-like structure. Above the eye, the skin appears smoother but weathered, with elongated, horizontal striations in mottled hues of dull yellow-ochre and brownish-gray. Occupying the lower right quadrant is a hard, beak-like structure, likely a mouthpart, composed of a translucent, amber-yellow material that curves downward; its surface is relatively smooth with faint vertical ridges, overlapping the darker, textured skin beneath the eye. The lighting is sharp and directional, likely from the upper left, creating a wet sheen on the eye and the pale orbital ring while casting deep shadows in the valleys of the scales, accentuating the coarse, leathery nature of the animal's hide."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 2.3094558715820312,
+      "description": "A close-up view captures the intense detail of a canine eye and its surrounding fur, centering on the right eye which is positioned slightly to the right of the vertical midline and halfway down the visible area. The iris is a striking, pale icy blue, distinct against the jet-black pupil which occupies roughly one-third of the eye's diameter. A small, sharp white catchlight reflects near the top center of the pupil, indicating a light source from above. The eye is outlined by a thick, dark black rim of skin, with a small triangle of white sclera visible in the outer right corner and a tiny sliver in the inner left corner. Surrounding the eye, the fur presents a complex pattern of colors and textures; immediately above the eye, a mixture of slate-grey, charcoal, and white guard hairs grows upward and backward, creating a textured brow. To the left of the eye, a distinct vertical band of dark charcoal and black fur runs from the top edge down toward the snout, contrasting sharply with a patch of creamy white fur visible on the far left edge. Below the eye, the fur transitions into a dense, fluffy expanse of cream and white, occupying the entire lower third of the scene, with the hairs growing downwards and outwards. On the right side, the grey and black markings sweep back horizontally, blending into the lighter undercoat. The texture is highly detailed, distinguishing between the coarse, longer dark guard hairs and the softer, denser light undercoat, all illuminated by soft, diffuse light that accentuates the individual strands without casting harsh shadows."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 2.325528860092163,
+      "description": "Centered within the visible field, a small, short-haired puppy stands facing forward on a textured, beige loop-pile carpet that fills the background. The puppy's coat is a distinct combination of deep russet-brown and bright white. A vertical white blaze runs up the center of the face, starting widely at the muzzle and tapering to a point on the forehead between the eyes. The eyes are dark, round, and glossy, featuring sharp, bright white catchlights in the upper left of the pupils, suggesting a flash source. The nose is predominantly pink with irregular black pigmentation spots, particularly around the nostrils, and is surrounded by white fur on the muzzle from which fine, clear whiskers extend horizontally. The ears are large, triangular, and erect, positioned at the top of the head with the russet fur continuing up their backs. The puppy's chest is white, a color that extends down the full length of both front legs, while the upper shoulders and flanks remain brown. The front legs are straight and relatively thick for the puppy's size, ending in white paws with pale, visible claws digging slightly into the carpet; the viewer's right leg is set slightly back compared to the left. To the left of the puppy's body, a small, white-tipped portion of the tail is visible curling upward behind the flank. A sharp, dark shadow is cast on the carpet immediately to the right of the puppy and behind its legs, indicating a light source coming from the front-left. The carpet itself is a mix of tan, cream, and grey fibers, creating a speckled, neutral ground that occupies the entire area surrounding the animal."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 2.3460373878479004,
+      "description": "A close-up view focuses intensely on the facial features of a Great Grey Owl, dominated by intricate patterns of grey and white plumage. Two striking lemon-yellow eyes pierce the scene; the eye on the left is positioned slightly above the horizontal center line and to the left of the vertical axis, featuring a perfectly round, deep black pupil with a tiny white catchlight near the upper-left edge. This eye is encircled by dark charcoal feathers, which are then framed by distinct arcs of white feathers that create a high-contrast brow ridge. Mirroring this, the right eye sits symmetrically on the opposite side of a dark, vertical central band of feathers, though the right side of the face is slightly angled away, making the facial disc on that side appear compressed. The texture of the face is defined by thousands of fine, hair-like feathers arranged in concentric, ripple-like rings of alternating slate-grey and off-white that radiate outward from the eyes, resembling the grain of weathered wood. Running vertically down the center between the eyes is a ridge of dark, almost black feathers that leads down to a partially visible beak. The beak, emerging in the lower center, is a warm yellow-ochre, largely obscured by long, bristle-like feathers in shades of grey and white that hang down vertically around it. In the lower left quadrant, the feather pattern transitions from the concentric facial rings to a coarser, mottled texture of dark grey body feathers tipped with distinct, irregular white spots. The lighting is soft and even, highlighting the minute details of the feather barbs without casting harsh shadows, while the background beyond the owl's head fades into complete darkness."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 2.3604390621185303,
+      "description": "A fluffy, cinnamon-colored puppy sits centrally in the frame, occupying roughly eighty percent of the visible area against a neutral beige carpeted background. The animal is positioned with its body angled slightly toward the right, while its head is turned to face forward and slightly to the left. The coat is incredibly dense, plush, and wool-like, exhibiting a gradient of hues from a rich tawny orange on the ears and upper back to a lighter cream shade on the chest, underbelly, and lower paws. The head appears large and rounded, topped with small, triangular ears that are slightly rounded at the tips and fold forward into the surrounding fur. The puppy's muzzle is short and broad, featuring a darkened, charcoal-grey mask around the snout that contrasts with the lighter cheek fur. The nose is prominent, jet-black, and glossy, sitting above a closed mouth that curves slightly upward. The eyes are small and dark, but reflect a distinct, bright cyan-teal hue in the pupils, indicative of a direct light source reflection. The front legs are stout and covered in thick fur, with the right front paw slightly visible, revealing dark pads or claws resting on the carpet. The hindquarters are tucked in a seated position, with the left rear leg curving forward to form the bottom left edge of the subject. The background consists of a short-pile carpet in a muted taupe or sandy brown color. Near the very top edge, a horizontal, metallic or light-colored threshold strip runs across the width behind the puppy's head, separating the carpet from a slightly darker surface above. Soft, diffuse shadows are cast directly behind and beneath the puppy, particularly under the chin and paws, grounding it on the textured floor surface."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.3767223358154297,
+      "description": "The image presents a frontal, close-up view of a Great Grey Owl's face, dominated by two large, circular facial discs composed of fine, soft feathers. These discs exhibit a concentric pattern of alternating light ash-grey and thin, dark charcoal rings that radiate outward from the center. Located symmetrically within the inner portion of these discs are two piercingly bright yellow eyes with small, sharp black pupils; the eyes are relatively small compared to the expansive facial discs and are framed on their inner edges by dark, shadowed crescents. Between the eyes, a vertical ridge of dark grey and black feathers descends towards the center, leading to a pale ivory-yellow beak that is sharply hooked and partially obscured by a tuft of black, bristle-like feathers beneath it. Above the eyes, patches of white feathers form inward-slanting eyebrows that meet the central dark ridge, creating a distinct V-shape. The feathers at the top of the head and surrounding the outer edges of the facial discs are coarser, displaying a mottled texture of grey, white, and dark brown barring. The lighting is soft and diffuse, highlighting the intricate, velvety texture of the plumage without casting harsh shadows, set against a solid black background that isolates the owl's features."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.4128174781799316,
+      "description": "The image presents a close-up, left-facing profile of a bird's head, appearing to be a small heron or bittern, set against a soft, out-of-focus background of organic greens. The bird's head enters diagonally from the lower right, with the beak extending toward the upper left. The crown of the head is capped with smooth, dark charcoal-gray feathers that appear sleek and flattened, running from the forehead back towards the neck. Below this dark cap, the plumage on the side of the face and neck is a warm, fibrous mix of cinnamon-brown and tan, transitioning into white feathers streaked with light brown along the throat area in the lower center. A prominent, circular eye is situated in the upper right quadrant; it features a pale yellow iris and a sharp black pupil with a small, bright white reflection at the very top. Surrounding the eye is a patch of bare, reddish-pink skin that extends forward to meet the base of the bill, creating a fleshy lore. The long, pointed bill occupies the left side of the frame, though its very tip is truncated by the boundary; the upper mandible has a dark ridge along the top blending into the forehead, with yellowish-orange sides, while the lower mandible is a lighter, creamy yellow. A visible seam separates the upper and lower mandibles, showing a hint of reddish coloring near the gape. The background consists of blurred foliage, dominated by varied shades of forest green and olive, with a lighter, diagonal green streak visible in the lower left quadrant behind the bird's white throat feathers, providing a soft contrast to the sharp details of the bird's plumage and facial features."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 2.414966106414795,
+      "description": "Occupying the left and central portions of the frame against a blurred, vibrant grass-green background, a Great Gray Owl is captured in a close-up profile facing directly to the right. The owl's head is the primary subject, dominated by a large facial disc featuring concentric rings of fine, variegated feathers in shades of ash grey, charcoal, and white that create a ripple-like pattern radiating from the eye area. The visible right eye is small, intense yellow, and centrally located within the facial disc, encircled by a dark grey patch that contrasts with the lighter surrounding rings. To the right of the eye, the tip of a yellow, hook-shaped beak is visible, pointing downward and emerging from a tuft of bristle-like feathers. A distinct patch of white plumage forms a vertical crescent along the inner edge of the facial disc near the beak. The feathers transitioning to the back of the head on the far left are coarser and mottled with darker browns and greys, appearing thicker and fluffier than the delicate facial features. The lighting is even and soft, emphasizing the velvety texture of the plumage, while the background remains entirely out of focus, devoid of distinct shapes or objects, serving solely to highlight the sharp details of the owl's profile."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 2.4349350929260254,
+      "description": "Occupying the central majority of the frame against a void of absolute black is the highly detailed head of a Great Grey Owl, oriented slightly toward the left. Two piercing eyes serve as the focal points, situated in the upper middle quadrant; their irises are a vibrant, saturated lemon-yellow, encircling small, sharp black pupils that gaze intently forward. Surrounding each eye are large, concave facial discs composed of thousands of fine, hair-like feathers. These feathers form a mesmerizing pattern of concentric rings that ripple outward from the eyes, alternating between bands of silvery-white, ash-grey, and charcoal-brown. The rings are tightly packed near the eyes and become slightly more diffuse toward the outer edges of the face. Between the two facial discs runs a vertical divide of darker, bristle-like feathers that flare upward above the eyes to suggest furrowed brows, creating a V-shape of white and grey between the eyes. Nestled at the convergence of the facial discs, positioned centrally and just below the level of the eyes, is a hooked beak of smooth, golden-amber keratin, partially obscured by the surrounding plumage. Directly beneath the beak lies a triangular patch of dark, almost black feathers, flanked immediately on either side by contrasting patches of fluffy, brilliant white down that curve upward like a mustache or bowtie. The outer periphery of the head transitions from the fine concentric rings to a coarser, mottled texture of brownish-grey and white contour feathers. The lighting is soft and even, casting a subtle sheen on the eyes and emphasizing the velvety texture of the facial plumage without creating harsh shadows, isolating the bird's visage completely against the surrounding darkness."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 2.464874744415283,
+      "description": "Occupying the entirety of the visible field is the extreme close-up of a Great Grey Owl's facial disc, oriented directly forward. Two striking eyes anchor the composition; the right eye is positioned slightly right of the vertical center and above the horizontal midline, while the left eye sits symmetrically to the left. Both eyes feature intense, saturated lemon-yellow irises encircling small, sharp black pupils that gaze intensely forward. Immediately flanking the inner corners of the eyes are two distinct, expansive crescents of bright white plumage that curve inward towards the center, creating a stark contrast against the darker grey feathers between the eyes. Below the space between the eyes, partially obscured by fine, dark, bristle-like feathers, is the tip of a pale, ivory-yellow beak that curves downward. The majority of the image consists of the owl's facial disc, composed of thousands of soft, downy feathers arranged in distinct concentric rings that radiate outward from the eyes and beak. These rings display a mottled pattern of alternating charcoal grey, slate grey, and off-white bands, creating a ripple-like effect. The feathers appear incredibly dense and soft, with individual barbs visible in the high-resolution texture. At the bottom center, below the beak area, is a patch of distinctively brighter white and cream-colored plumage that creates a lighter focal point against the surrounding grey rings. The lighting is soft and diffuse, casting no harsh shadows but allowing the natural gradient of the concentric rings to provide depth and dimensionality to the spherical shape of the bird's head."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 2.4941914081573486,
+      "description": "The image is dominated by the close-up view of a Great Grey Owl's facial disk, featuring a complex pattern of concentric rings composed of fine, hair-like feathers. These feathers radiate outward from the center, alternating in varying shades of slate grey, charcoal, and off-white to create a ripple effect across the face. Two piercing, lemon-yellow eyes with small, distinct black pupils are set deeply into the facial disk, positioned symmetrically in the upper half of the view; the eyes are surrounded by darker grey, shadowy recesses that emphasize their brightness. Between the eyes, two prominent, diagonal patches of white feathers slope inward and downward, forming distinct eyebrows that converge just above the central beak. The beak itself is a small, hooked structure of a dull, horn-yellow color, pointing downwards and nestled amidst the plumage. Directly beneath the beak is a concentrated patch of black feathers, resembling a small triangular beard, which transitions into a fluffier area of white and light grey feathers at the bottom center of the visible area. The outer edges of the facial disk, visible on the left and right, are framed by a darker, brownish-grey border speckled with white. To the left of the owl's head, a narrow vertical sliver of out-of-focus, vibrant green foliage provides a soft background contrast to the monochrome grey palette of the bird, while the lighting is diffuse and even, highlighting the intricate texture of the plumage without casting harsh shadows."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 2.5417726039886475,
+      "description": "Dominating the composition is a close-up view of a highly polished, silver-colored articulated bicycle stem set against a uniform, textured deep cerulean blue background. The central mechanical structure rises vertically from the bottom center as a cylindrical metal post, featuring a large, faceted hexagonal locking nut visible at the very bottom edge. Wrapped around the front-left curve of this lower vertical section is a white rectangular sticker printed with rows of small, illegible black text. The metal post transitions upward into a robust, rounded pivot joint, which serves as the visual fulcrum of the image; this joint features a recessed black circular cap with a central silver hex-socket bolt, surrounded by a textured silver ring with small, gear-like teeth. From this pivot, the upper portion of the stem extends diagonally toward the top right corner at an angle of approximately 45 degrees, exhibiting a smooth, fluid shape with strong, mirror-like qualities. The polished metal surfaces reflect the blue environment and distort light, showing intense vertical bands of bright white specular highlights along the left-facing curves and darker gray reflections down the center lines. At the top of the frame, partially obscured by the stem's neck, horizontal handlebar components are visible, including a dark charcoal-colored, textured grip extending to the upper left and a slender, silver brake lever projecting downward and curving slightly inward beneath the bar. A thin, vertical dark line, resembling a seam or shadow, runs down the blue background near the right edge, contrasting with the otherwise consistent grain of the blue surface."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.579597234725952,
+      "description": "A close-up, top-down view captures the textured head of an aquatic creature, dominated by a prominent, singular eye positioned slightly above the geometric center. The skin exhibits a complex camouflage pattern composed of mottled olive greens, sandy beiges, and sepia browns, appearing granular and slightly moist with a rough, bumpy topography. The eye features a glossy, jet-black pupil that is an irregular, horizontally oriented oval with a slight indentation on its upper edge, surrounded by a highly detailed iris consisting of a jagged, golden-cream ring encircled by dark brown pigmentation. Directly below the eye, the facial structure slopes downward toward two distinct, tubular nostrils located side-by-side near the bottom center of the visible area; these protrusions are tipped with pale, glistening skin that catches the light, contrasting with the darker, muddier tones of the surrounding flesh. The lighting is diffuse and overhead, creating soft highlights on the brow ridge above the eye and the tops of the nasal tubes, while subtle shadows define the depth of the skin's irregularities. The focus is sharpest on the eye and the immediate surrounding skin, with the details of the texture gradually softening into a blur towards the upper and outer edges, suggesting a shallow depth of field."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.698817491531372,
+      "description": "A tightly cropped close-up reveals the intense facial features of a Great Grey Owl, dominated by a large, circular facial disc patterned with concentric rings. Two piercing eyes are situated in the upper center, featuring vibrant, matte mustard-yellow irises and small, sharp black pupils. The eyes are set beneath angled, heavy brows of grey and white feathers that slope downwards toward the center, giving the bird a stern expression. Surrounding each eye is a patch of dark charcoal-grey shading that transitions into the surrounding plumage. Between the eyes, a vertical strip of dark grey feathers, flecked with white, runs down to the beak. The beak itself is a small, sharp, downward-curved triangle of dull yellow, resting centrally amidst a distinctive \"X\" shape formed by white, bristle-like feathers that fan out horizontally from the beak's base. Directly beneath the yellow beak is a triangular patch of black feathers, creating a goatee-like appearance. The majority of the visible area consists of the owl's facial disc feathers, which radiate outward from the eyes in tight, ripple-like concentric circles; these feathers display a complex, fine texture of alternating light silver-grey and darker brownish-grey bands. The pattern is most distinct on the right side of the face, where the curvature of the rings is clearly visible. On the lower right periphery, the feather texture changes slightly to a coarser, mottled brown and white plumage, distinct from the fine, hair-like quality of the facial disc. The lighting is soft and diffuse, evenly illuminating the face while casting subtle shadows within the deep recesses around the eyes and beneath the central beak structure."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.7832696437835693,
+      "description": "A close-up view captures the left side of a dog's face, dominated by a sharp, amber-colored eye positioned slightly to the right of the center vertical axis. The iris presents a rich, warm honey-brown hue, encircling a dilated black pupil that reflects a bright, distinct white light source in its upper left quadrant, accompanied by a fainter, bluish reflection just below it. Encasing the eye is a rim of dark, pinkish-brown skin that appears slightly moist and textured, visibly separating the eyeball from the surrounding coat. The majority of the visible surface is densely covered in short fur that transitions in color from a pale, creamy beige on the left, indicative of the bridge of the snout, to a deeper golden-tan and reddish-brown on the right, suggesting the cheek and base of the ear. Individual hair strands are clearly defined, flowing generally downwards and outwards from the eye region, with the fur on the snout appearing lighter and softer compared to the slightly coarser texture on the right. Subtle shadowing creates contrast around the brow bone above the eye and within the slight depression of the eye socket, adding three-dimensional depth to the facial structure, while the focus remains sharpest on the eye and immediate surroundings, gradually softening towards the far right edge."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up portrait of a Great Horned Owl, where the focus is strictly locked on its left eye, situated in the upper-right quadrant. The eye itself forms a small, distinct focal point, occupying roughly five percent of the total image area. The core of the feature is a deep, matte black pupil, perfectly centered and encircled by a vibrant, golden-yellow iris that provides high contrast. A sharp, tiny white point of reflected light sits at the 2 o'clock position within the pupil, creating a glossy, wet appearance. The surrounding feathers are a mottled mix of grey and brown, soft and out of focus, blending into a heavily blurred background of neutral forest browns and greys.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Great Horned Owl eye",
+        "golden-yellow iris",
+        "black pupil",
+        "specular highlight",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "An industrial macro shot of a high-end bicycle suspension pivot mechanism. The central feature is a glossy black hexagonal bolt cap, occupying a small area, approximately one-twentieth of the frame, located near the center-top. This dark center is framed by a polished, brushed silver metallic ring that catches the light. A piercing bright white specular highlight reflects sharply off the curved edge of the black cap. The surrounding machinery is matte grey and slightly out of focus, while the background is a uniform, blurred slate grey of the asphalt below.",
+      "rationale": "",
+      "emphasis_tags": [
+        "mechanical pivot",
+        "silver metallic ring",
+        "black bolt cap",
+        "white catchlight",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The face of a Siberian Husky, positioned such that its piercing blue eye is the primary subject in the upper-left quadrant. The eye is small relative to the frame, taking up only about 5% of the visible space. The pupil is a stark, ink-black disc, surrounded by an icy, pale blue iris that radiates outwards. A crisp, brilliant white catchlight is visible in the upper part of the pupil, suggesting a bright overhead light source. The dog's fur is a blur of white and grey, and the background is a nondescript, heavily blurred neutral beige wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Siberian Husky eye",
+        "icy blue iris",
+        "black pupil",
+        "bright white reflection",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A macro photograph of a Green Tree Python, focusing on the eye positioned in the central upper region. The eye creates a 'bullseye' effect, occupying a minimal five percent of the canvas. A vertical, charcoal-black pupil sits at the center, ringed by a luminous, pale yellow iris with subtle green undertones. A distinct, diamond-shaped white specular highlight glints off the moist surface of the eye. Surrounding green scales are soft and blurred, melting into a creamy, defocused background of light green foliage.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Green Tree Python eye",
+        "pale yellow iris",
+        "charcoal pupil",
+        "specular highlight",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A detail shot of a vintage amplifier's volume dial. The dial features a central black plastic insert, roughly circular and occupying 5% of the image area in the upper center. This dark core is encircled by a knurled, chrome-silver ring that gleams under studio lighting. A sharp, pin-prick white reflection sits on the upper curve of the black insert. The surrounding faceplate is a brushed aluminum texture that quickly falls out of focus, set against a completely blurred, dark neutral background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "volume dial",
+        "chrome ring",
+        "black center",
+        "white reflection",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A vivid close-up of a Red-eyed Tree Frog, capturing its eye in the upper-left quadrant. The eye is a small, intense visual anchor, covering just 5% of the frame. The pupil is a jet-black vertical ellipse, surrounded by a striking, deep rust-red iris. A bright white highlight reflects a softbox light source clearly on the eye's surface. The frog's bright green skin is smooth and blurred around the eye, and the background is a wash of defocused dark leafy greens.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Red-eyed Tree Frog eye",
+        "rust-red iris",
+        "black pupil",
+        "white catchlight",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "The side profile of a Raven, focusing on its glossy, dark eye positioned centrally in the upper third of the image. The eye occupies a mere 5% of the scene. While the iris is a very dark brown, it contrasts sufficiently with the absolute black of the pupil in the center. A stark, bright white reflection of the sky creates a high-contrast point on the upper curve of the eye. The black feathers surrounding the eye are soft and undefined, merging into a blurry, neutral grey sky background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Raven eye",
+        "dark brown iris",
+        "black pupil",
+        "sky reflection",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A close-up of a robotic surveillance drone. The camera lens is the focal point, located in the center of the frame but small, filling only 5% of the area. The lens features a deep black glass aperture surrounded by a bright, anodized blue metal ring. A sharp, artificial white glint reflects off the glass curvature. The drone's grey casing is blurred in the foreground, and the background is a featureless, out-of-focus light grey.",
+      "rationale": "",
+      "emphasis_tags": [
+        "drone camera lens",
+        "blue metal ring",
+        "black aperture",
+        "white glint",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A portrait of a gecko with a metallic appearance, focusing on the eye in the upper right. The eye is a small jewel, about 5% of the image size. It features a black, slit-like pupil centered within a metallic bronze and amber iris that looks like spun copper. A single, crisp white dot of light reflects off the wet cornea. The scaly skin around the eye is grey and textured but out of focus, backed by a smooth, blurred sandy-colored background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gecko eye",
+        "bronze amber iris",
+        "black pupil",
+        "white highlight",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A macro view of a Tarpon fish, capturing the eye in the upper middle section. The eye occupies a small fraction, roughly one-twentieth of the frame. The large pupil is a deep black void, encircled by a highly reflective, silver-white ring that resembles polished chrome. A bright white sun flare reflects sharply off the upper hemisphere of the eye. The silver scales of the fish are blurred, and the background is a diffuse, underwater blue-grey.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Tarpon fish eye",
+        "silver ring",
+        "black pupil",
+        "sun reflection",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A shot of a Weimaraner dog, focused intently on its pale amber eye in the central upper quadrant. The eye is a small, circular feature, occupying 5% of the image. The pupil is a dilated black circle, contrasting with the ghostly pale yellow-amber iris. A distinct window-pane shaped white reflection is visible on the eye's surface. The dog's short, grey velvet fur is soft and blurred, set against a neutral, out-of-focus charcoal background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Weimaraner eye",
+        "pale amber iris",
+        "black pupil",
+        "window reflection",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "An extreme close-up of a modern washing machine's control panel. The focus is on a central selector button, which takes up 5% of the frame. The button has a black, glossy concave center, ringed by a matte silver bezel. A bright, hard white light reflects off the black plastic center. The white appliance panel surrounding the button is slightly blurred, and the background is a nondescript, defocused white laundry room wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "control button",
+        "silver bezel",
+        "black center",
+        "white light reflection",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "The face of a Ring-tailed Lemur, with the camera focused on its right eye in the upper left area. The eye is small, constituting 5% of the image. It features a piercing electric orange-yellow iris surrounding a pin-point black pupil. A tiny, sharp white catchlight brings life to the eye. The grey and white fur of the face is soft and out of focus, and the background is a blurred canopy of neutral greens and browns.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Lemur eye",
+        "orange-yellow iris",
+        "black pupil",
+        "white catchlight",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A close-up of an antique camera lens sitting on a shelf. The front element is the focal point, located centrally but taking up only 5% of the image. The glass appears as a dark, black pupil, surrounded by a brass retaining ring that has patinated to a dull yellow-gold. A strong, white specular highlight reflects from a window light source on the curvature of the lens. The rest of the camera body is blurred black metal, and the background is a soft, neutral beige wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "camera lens",
+        "brass ring",
+        "black glass",
+        "specular highlight",
+        "5% image area"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A portrait of a Peregrine Falcon, focusing on the eye area in the upper right. The eye itself is a small, 5% portion of the frame. The pupil is a deep, glossy black, surrounded by a very dark brown iris, but immediately encircled by a bright, fleshy yellow orbital ring that creates the bullseye contrast. A piercing white glint of sunlight reflects off the black center. The surrounding feathers are slate grey and blurred, against a defocused pale blue sky background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Peregrine Falcon eye",
+        "yellow orbital ring",
+        "black pupil",
+        "sunlight glint",
+        "5% image area"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 3.0537517070770264,
+      "best_percentile": 100.00007805389778
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 2.49082350730896,
+      "best_percentile": 99.99968778440889
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.23294997215271,
+      "best_percentile": 99.99843892204446
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.179049253463745,
+      "best_percentile": 99.99789254476
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.9863964319229126,
+      "best_percentile": 99.99492649664447
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.6763355731964111,
+      "best_percentile": 99.96987119545788
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.6554807424545288,
+      "best_percentile": 99.96581239277346
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.6173877716064453,
+      "best_percentile": 99.95753867960904
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.5561085939407349,
+      "best_percentile": 99.9427864929291
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.4725192785263062,
+      "best_percentile": 99.90922331688478
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.4310916662216187,
+      "best_percentile": 99.8858852014493
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.228872537612915,
+      "best_percentile": 99.62596572185025
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.2261546850204468,
+      "best_percentile": 99.61909697884583
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.212091088294983,
+      "best_percentile": 99.58647044957485
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.8287461400032043,
+      "best_percentile": 93.7835534193071
+    }
+  ]
+}

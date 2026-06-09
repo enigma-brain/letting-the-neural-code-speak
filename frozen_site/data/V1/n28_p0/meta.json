@@ -1,0 +1,344 @@
+{
+  "area": "V1",
+  "neuron_id": 28,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to **prominent, high-contrast dark linear features**\u2014specifically **horizontal or diagonal bands, stripes, grooves, or elongated gaps**\u2014traversing a lighter surface. The activating features are consistently **deep black, dark charcoal, or dark gray**, creating a sharp luminosity contrast against backgrounds or adjacent areas of **white, light gray, silver, or pale metallic tones**. This selectivity encompasses a wide range of semantic concepts, including painted stripes on vehicles, atmospheric bands on planets, structural recesses in machinery, and biological markings like a lateral line on a fish, provided the visual pattern of a dark line intersecting a lighter field is present. The neuron remains invariant to object identity, surface texture, and slight curvature, focusing instead on the geometry of the stratification or separation. The activating feature typically spans **60\u2013100% of the image width** (or diagonal length) while occupying a narrower vertical segment of approximately **5\u201320% of the image height**, often positioned centrally or arranged in parallel stacks.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.01046597957611084,
+      "description": "A close-up, grayscale view reveals the weathered and grimy face of an vintage analog fuel pump. The main visual field is dominated by a light grey, rectangular metal faceplate occupying the upper two-thirds of the visible area, heavily speckled with dark spots of rust, dirt, and corrosion, particularly concentrated along the left vertical edge. This faceplate houses three horizontal rows of mechanical counter windows. The top row features the text \"THIS SALE\" in small, faded capital letters centered above two sets of rolling tumblers, each displaying three zeros (0 0 0) in white against a black background. A vertical line splits the faceplate down the center. The middle row mirrors this arrangement with the label \"GALLONS\" underneath the tumblers, which also display zeros. A third, smaller row of counters sits near the bottom of the faceplate, labeled with text that is illegible due to wear, also showing zeros. Spanning the width of the faceplate below the counters is a dark, rectangular band containing the words \"Super Unleaded\" in a large, light-colored, sans-serif font; the letters are tightly spaced, and to the far right of the strip, a faint, ghosted numerical rating is barely visible. Below the main faceplate, a deep black horizontal recess separates the upper display from a lower, flat grey metal panel. Centered on this lower panel is a small, bright white rectangular sticker with black text stacked in two lines: \"CONTAINS\" on top and \"10% ETHANOL\" on the bottom. Directly above the sticker is a solitary, dark circular screw head. The entire object is lit with diffuse, flat lighting that emphasizes the surface texture and the accumulation of grime on the industrial surfaces."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.010798120871186256,
+      "description": "A soft-focus, monochromatic close-up reveals a composition of thick, smooth metallic forms dominated by a prominent diagonal bar traversing the frame from the mid-left towards the lower right. This central structure is rendered in varying shades of matte light gray and features a deeply recessed, dark charcoal groove running longitudinally through its center, creating a distinct channel. Positioned in the upper right quadrant, overlapping the trajectory of the diagonal bar, is a broad, curved metallic segment that arcs downwards; its upper surface catches a bright, diffuse white highlight, suggesting a rounded, three-dimensional ring-like geometry. In the lower left quadrant, beneath the main diagonal element, indistinct vertical pillars or slats emerge from a deep black background, shaded in mid-to-dark grays and appearing to sit behind the primary structure. The lighting is diffuse, creating smooth, seamless gradients on the convex surfaces while casting heavy, soft shadows in the negative spaces, with the overall lack of sharp edges giving the scene a blurred, ethereal quality."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.010819888673722744,
+      "description": "The image presents a high-magnification, monochromatic view of a rigid expanded metal mesh, characterized by a repeating geometric pattern of diamond-shaped apertures. The mesh is oriented diagonally, with the long axes of the rhomboid openings running from the bottom left toward the top right. The metal strands forming the grid are a matte, light-to-medium gray, exhibiting a slightly granular texture, and they contrast sharply against the deep black empty space visible through the holes. The surface demonstrates a significant structural curvature; while the lower-left and central portions appear relatively flat and face the viewer more directly, the upper-right quadrant rolls away dramatically, creating a cylindrical bend. As the mesh curves over this horizon line in the top right, the diamond patterns become heavily foreshortened and compressed, transforming from open shapes into narrow, stacked slivers. This perspective shift reveals the physical thickness of the metal plate, particularly along the curved ridge where the cut edges of the mesh catch the light. The lighting is diffuse but directional, originating from the upper left, creating soft, brighter highlights on the top-facing ridges of the metal lattice while casting subtle shadows within the recessed inner edges of the diamonds, thereby emphasizing depth and the three-dimensional weave of the material. In the extreme top right corner, just beyond the sharp bend of the grid, a small, out-of-focus area of lighter gray suggests a background surface or continuation of the material falling out of the depth of field."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.010841143317520618,
+      "description": "In a monochrome, high-angle close-up, a white ceramic cup rests centrally on a matching saucer against a dark, untextured background. The visible portion of the cup features a smooth, cylindrical body that tapers slightly toward the base and is adorned with a wide, medium-gray horizontal band encircling its upper section. A white, curved handle extends from the right side of the cup, its loop partially visible. beneath the cup, the saucer displays a geometric pattern of concentric medium-gray rings on a white background; due to the perspective, these rings appear as elongated ellipses radiating from the center, with two distinct gray bands alternating with white spaces visible. The saucer\u2019s outer rim is white and slightly raised, catching a soft highlight along its front edge that emphasizes its curvature. The ceramic set sits on a smooth, dark gray surface that occupies the bottom section of the view, displaying a faint, blurry reflection of the saucer\u2019s lower lip directly beneath it. The lighting is diffuse, creating gentle gradients on the curved surfaces and highlighting the glossy texture of the glaze without casting harsh shadows."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.010846770368516445,
+      "description": "Captured in a grainy, monochromatic black-and-white close-up, the side profile of a transport van fills the frame, oriented horizontally with the front of the vehicle facing toward the left. The vehicle is primarily a light gray tone, featuring a distinct, darker horizontal stripe running the length of the lower body panel. Centered within this stripe, the text \"Liegend & Sitzend\" is printed in a dark, sans-serif font. Above this stripe, on the upper section of the side panel near the roofline, the partial word \"Kranken\" is visible in a larger, bolder typeface, cut off at the right edge. To the left, the rear edge of the front passenger door is visible, including a vertical seam, a small rectangular fuel cap door just above the stripe, and a glimpse through the side window which reveals a dark interior. The main body panel features a large, recessed rectangular section with rounded corners, suggesting a paneled-over window area. At the bottom right, a circular wheel arch frames the upper portion of a dark tire with a metallic hubcap featuring concentric rings. A dark shadow pools underneath the chassis on the paved surface below, contrasting with the lighter gray of the vehicle's body, while the lighting appears diffuse and soft, creating a low-contrast, slightly blurry aesthetic throughout the scene."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.010848164558410645,
+      "description": "Centered against a pitch-black background is a large, spherical celestial body rendered in monochromatic grayscale, exhibiting a series of distinctive horizontal bands that span its width. The image quality is soft and low-resolution, with a visible texture of horizontal scan lines or pixelation creating a fuzzy appearance throughout. Starting from the top, a medium-gray polar region transitions into a thin, dark charcoal band. Below this lies a broader, lighter gray zone, followed by a prominent, thick dark gray belt that appears textured and uneven. The central region is dominated by a wide, bright white horizontal band, the most luminous feature of the sphere, stretching across the middle. Immediately beneath this bright zone is another thick, dark gray belt which contains a distinct, dark elliptical shape located on the left side, disrupting the band's continuity. Following this dark belt downwards is a narrower strip of light gray, succeeded by a thin, dark gray line, and finally concluding with a diffuse, medium-gray area at the bottom curve of the sphere. The lighting appears flat, with slight limb darkening at the edges where the sphere curves away from the viewer."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.010851383209228516,
+      "description": "A detailed, monochromatic close-up reveals the textured midsection of a fish, rendered in a style resembling a scientific engraving or stipple drawing with high contrast. A distinct, thick black line, known as the lateral line, runs horizontally across the center of the view, tilting almost imperceptibly downward from left to right. The area above this line is shaded in deep charcoal and mid-grey tones, while the area below transitions into lighter, silvery-white and pale grey hues, suggesting the cylindrical curvature of the creature's body. The entire surface is covered in a dense pattern of overlapping scales arranged in diagonal rows; above the lateral line, these scales are heavily shaded with cross-hatching, creating a dark, mesh-like appearance, while below, the scales are defined by fainter outlines and lighter stippling, appearing smoother and more reflective. At the very top edge, the lower portion of a dorsal fin is visible, consisting of sharp, dark spines angling backward toward the right, connected by a semi-transparent membrane sketched with vertical lines. To the left of this main fin section, a smaller, triangular portion of the fin or a separate ridge is visible on the dorsal profile. In the lower right quadrant, a dark, rounded shape identifies a pectoral fin, textured with fine, curved striations that fan out towards the rear, contrasting sharply against the paler scales of the belly. The lighting appears to come from above, casting the dorsal region in shadow while highlighting the ventral area."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.010861659422516823,
+      "description": "A high-contrast grayscale close-up reveals a dominant, horizontal band of light gray spanning the entire width of the visible field, positioned centrally and occupying approximately one-third of the vertical space. This band possesses a smooth, slightly translucent quality and contains a distinct, dark gray filament running parallel through its center; the filament appears solid with rough, uneven edges, creating a stark linear contrast within the lighter surrounding channel. Above this central formation, the area is densely packed with a coarse, mottled texture comprising dark grays and blacks interspersed with irregular white and light gray granules, giving the impression of a rough, particulate substance. A cluster of brighter, white amorphous highlights is visible in the upper left region, appearing attached to or resting upon the upper edge of the central band. The region below the horizontal band is significantly darker, characterized by deep shadows and obscure, low-contrast textures that suggest a void or dense material, with only minor, faint gray speckles breaking the darkness near the bottom edge. The lighting appears focused on the central strip, causing it to glow softly against the gritty, shadowed environments above and below."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.010879802517592907,
+      "description": "A large, oblate spheroid object rendered in monochromatic grayscale dominates the center of the frame, set against a solid, pitch-black background. The object occupies approximately two-thirds of the visible width and height, presenting a surface texture that is grainy and soft, with a lack of sharp edge definition where the light gray perimeter blurs into the surrounding darkness. Four prominent, horizontal dark gray bands traverse the entire width of the sphere, arranged in a parallel stack. These bands appear as straight, dark striations against the lighter gray luminosity of the planet's main body; the two central bands are spaced to frame a central equatorial zone, while the upper and lower bands are positioned closer to the polar regions. The lighter zones between the dark bands are relatively uniform in brightness, creating a distinct stratified pattern of alternating light and dark layers. The lighting is flat and frontal, illuminating the entire visible face evenly without casting discernable shadows or creating a strong gradient, contributing to a somewhat two-dimensional appearance despite the implied spherical geometry."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.01088806428015232,
+      "description": "A monochromatic, grayscale view captures the forward starboard section of a massive cruise ship, angled toward the left. The upper portion of the vessel features a navigational bridge with a row of dark, slanted rectangular windows set beneath a curved white overhang. Below the bridge, the ship's white superstructure bulges outward slightly, marked by a few small, dark square openings. A prominent horizontal dark stripe runs across the mid-section of the hull, separating the upper decks from the lower bow. To the right, the ship\u2019s side extends into the distance, revealing stacked decks with a grid-like array of rectangular windows and balcony railings that become denser and less distinct due to perspective. On the lower white hull, a large, stylized graphic design in black and dark gray dominates the bottom foreground, featuring swooping, curved shapes reminiscent of a giant eye and wave. Just above this graphic, the text \"AIDA\" followed by indistinct letters is printed horizontally on the hull. On a small, railed open deck area situated centrally between the bow curve and the side structure, two tiny, dark silhouettes of standing figures are visible, providing a sense of scale against the immense white plating. The lighting is diffuse and even, suggesting overcast conditions, with soft contrasts between the bright white surfaces of the ship and the darker architectural and graphic details."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.01090101059526205,
+      "description": "The image presents a close-up, high-contrast view dominated by strong diagonal lines running from the upper left to the lower right at an angle of approximately 45 degrees. The central focal point is a rectangular metallic strip, appearing to be a blade, which features an intricate, organic pattern of swirling ripples in varying shades of light silver, pale grey, and white, resembling wood grain or flowing water. This patterned surface is bounded along its upper edge by a distinct, smooth metallic ridge that catches the light, creating a bright, sharp white highlight line that runs parallel to the pattern. Immediately above and adjacent to this highlighted ridge is a band of deep, solid black shadow, creating a harsh separation between the blade and the object in the upper right quadrant. This upper right area is occupied by a textured, matte surface in mottled shades of medium to dark grey, appearing granular and less reflective than the central metal. In contrast, the lower left portion of the image, situated below the patterned blade, consists of a smooth, uniform field of dark charcoal grey that transitions into deep black, providing a featureless background that emphasizes the texture and brightness of the central metallic element. The lighting is directional and sharp, seemingly originating from the upper left, resulting in the high-gloss reflection on the ridge and the deep void-like shadow immediately above it."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.010910272598266602,
+      "description": "A grayscale image depicts a large, barn-like structure viewed from a slightly oblique angle, dominated by a massive, dark roof that spans the upper central portion of the visible area. The roof is a solid, deep black shape sloping gently downwards from left to right, sitting atop a textured, dark grey wall that faces the viewer. This main wall appears rough, possibly covered in ivy or weathered siding, and features a horizontal row of six small, rectangular windows that are light grey in tone, evenly spaced across the lower middle section. To the far left of the window row, a vertical, rectangular doorway is visible, slightly taller than the windows and lighter in shade than the surrounding wall. On the right edge of the structure, the perspective reveals a side wall that is significantly brighter, appearing almost white with horizontal clapping, creating a sharp contrast with the dark front facade. Behind the roof on the upper left, bare, dark branches of a tree reach up against a pale, featureless sky. The building sits on a foreground of smooth, light grey ground, possibly snow or paved surface, which occupies the bottom section of the view and provides a high-contrast base for the dark architectural elements."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.01094354409724474,
+      "description": "Presented in a monochromatic grayscale palette, the image captures a high-angle, close-up view of the front driver-side quarter of a vintage automobile, highlighting its curvaceous, glossy bodywork. A bulbous fender dominates the lower left quadrant, sweeping smoothly downward to house a circular headlight assembly at the bottom; this headlight features a prominent, polished metallic bezel encasing a convex glass lens with visible vertical fluting. A distinct, dark panel gap or shut line runs diagonally from the upper left area down towards the center right, separating the rounded fender from the expansive, gently sloping hood that occupies the central and upper-right portions of the view. The hood's surface is highly reflective, showing a soft, diffuse sheen of light across its curve. At the top of the frame, the base of the windshield is visible, featuring two metallic windshield wipers resting in their parked position; the left wiper is angled diagonally upward to the left, while the right wiper is angled diagonally upward to the right. Centered on the cowl panel between the wipers and the hood line is a small, dark, horizontal intake vent. On the far right edge, the dark, triangular shape of a side mirror housing is partially visible, while indistinct, blurred shapes seen through the windshield suggest a background setting without specific definition."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.010959434323012829,
+      "description": "In the center of the frame, two sharply defined, high-contrast structures converge from the right towards the left against a soft, out-of-focus light gray background. The upper structure dominates the composition with a steep, downward-curving arc; its top edge is a thick, smooth band of deep black that tapers to a point, capping a broader, roughly textured section of bright white material that resembles weathered bone or chalk. This white area is pitted and granular, catching the light intensely. Separated from this upper form by a triangular void of absolute black shadow is a lower structure, which emerges from the bottom left as a thick, upward-sloping wedge of the same coarse, white material. The two white shapes appear to be closing in on each other like opposing calipers, with the deep black space between them widening as it extends to the right. The lighting is stark, creating a hard boundary between the bright, textured white surfaces and the flat, dark shadows, emphasizing the ruggedness of the material against the neutral, blurred backdrop."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.010961639694869518,
+      "description": "This monochrome image presents a close-up, frontal view of a mechanical structure characterized by alternating horizontal layers of rigid, dark elements and chaotic, lighter textures. The composition is framed by vertical dark gray pillars on the far left and right edges, creating a contained, rectangular field of view. At the top, a dark, horizontal bar spans the width, its surface appearing smooth and metallic or rubberized in a deep charcoal shade. Below this top bar lies a horizontal band of highly agitated material, resembling churning white foam, suds, or fibrous batting; this area is rich in texture, with bright white highlights and mid-gray shadows suggesting swirling motion and organic complexity. This upper textured section is delimited below by a second, central horizontal bar, identical in darkness and straightness to the top one, which divides the image horizontally near the middle. Beneath this central divider is a second layer of the frothy, turbulent substance, which mirrors the texture above but appears slightly denser, with intricate patterns of light and shadow playing across its surface. At the bottom of the visible area, a third dark horizontal structure acts as a base, appearing thicker and more obscure than the distinct bars above. The lighting is contrast-heavy, emphasizing the brightness of the churning material against the flat, dark silhouettes of the mechanical bars, creating a rhythmic pattern of dark-light-dark-light-dark from top to bottom."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up view of a weathered section of street pavement, dominated by pale, sun-bleached asphalt that appears almost white or very light gray. Cutting horizontally across the center of this light field is a single, isolated seal-coat repair line. This feature is a deep, tar-black streak that spans approximately 60% of the image's width before fading out. The line is narrow, occupying only about 5% of the vertical frame, creating a sharp, high-contrast linear division against the rough, pale texture of the road surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep tar-black streak",
+        "high-contrast linear division",
+        "horizontal black line",
+        "pale asphalt background"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A minimalist architectural detail of a smooth, white concrete facade illuminated by bright daylight. A diagonal architectural reveal, designed as a shadow gap, cuts across the surface from the lower left towards the upper right. The gap creates a strip of deep dark charcoal shadow, contrasting sharply with the bright white wall. The groove is roughly 60% of the diagonal length of the frame and maintains a consistent, slender thickness of about 5% of the image height, strictly adhering to a linear geometry.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal architectural reveal",
+        "deep dark charcoal shadow",
+        "white concrete facade",
+        "linear groove"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A macro shot of a sleek, brushed silver metallic surface, possibly the hood of a car or a panel of an appliance. Positioned centrally is a decorative racing stripe made of matte black vinyl. The stripe is perfectly horizontal and extends for about 60% of the visible width of the panel. It is thin, taking up only 5% of the vertical space, standing out starkly against the shimmering, pale metallic background, devoid of any other markings or textures.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black vinyl stripe",
+        "brushed silver metallic surface",
+        "horizontal black band",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "The trunk of a paper birch tree fills the frame, presenting a surface of peeling, chalky white bark. A prominent, dark horizontal lenticel\u2014a scar-like mark naturally occurring on the tree\u2014stretches across the middle. This mark is a deep, rich black, providing a strong visual anchor against the white bark. The mark measures approximately 60% of the trunk's visible width within the frame and is quite narrow, with a vertical thickness of about 5% of the image height, forming a distinct dark line on the pale organic cylinder.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark horizontal lenticel",
+        "chalky white bark",
+        "deep rich black scar",
+        "linear bark marking"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A pristine, untouched field of bright white snow is viewed from directly above. Lying diagonally across the composition is a single, charred wooden branch. The wood is burnt to a deep, dark gray, almost black, contrasting vividly with the blinding whiteness of the snow. The branch is straight and extends across 60% of the frame's diagonal measure. It is slender, occupying a mere 5% of the vertical space relative to its orientation, creating a sharp, dark linear slash through the white landscape.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charred wooden branch",
+        "deep dark gray",
+        "bright white snow",
+        "diagonal linear feature"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A detail of white painted wooden window blinds, tightly closed to block out light, creating a uniform surface of horizontal pale gray slats. One slat is slightly misaligned, creating a gap that reveals the darkness behind it. This gap manifests as a sharp, horizontal bar of absolute blackness. The visible portion of this dark gap spans 60% of the image width and is very narrow, roughly 5% of the image height, forming a precise dark stripe against the lighter, periodic structure of the blinds.",
+      "rationale": "",
+      "emphasis_tags": [
+        "horizontal bar of absolute blackness",
+        "dark gap",
+        "white wooden blinds",
+        "linear black stripe"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A polished slab of high-grade Carrara marble, predominantly white with faint, misty grey clouding, fills the view. A single, striking mineral vein of deep charcoal graphite cuts diagonally across the stone. The vein is linear and non-branching, extending for about 60% of the diagonal length of the view. Its thickness is minimal, constituting about 5% of the frame's height, appearing as a sharp, dark fracture line imposed on the smooth, pale stone surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep charcoal graphite vein",
+        "white Carrara marble",
+        "diagonal dark line",
+        "sharp fracture line"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "Close-up of a futuristic machine part made of polished stainless steel, reflecting a pale, silver-white light. A recessed groove runs horizontally across the cylinder, housing a black rubber O-ring seal. The black rubber is matte and absorbs the light, creating a stark dark band against the shiny silver metal. The visible segment of the O-ring spans 60% of the image width and is thin, occupying 5% of the image height, emphasizing the separation between the metallic sections.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black rubber O-ring",
+        "polished stainless steel",
+        "dark band",
+        "horizontal groove"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The curved exterior wall of a lighthouse, freshly painted in a bright, matte white. A decorative horizontal band is painted in a deep, glossy black around the structure. The framing captures a segment where the black band stretches across 60% of the image width. The band is relatively thin, roughly 5% of the total vertical height of the image, creating a bold, geometric division on the otherwise plain white masonry.",
+      "rationale": "",
+      "emphasis_tags": [
+        "glossy black band",
+        "bright matte white wall",
+        "horizontal stripe",
+        "geometric division"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A macro photograph of a zebra's coat, focusing on a broad area of white fur. A single, sharp diagonal black stripe enters the frame. The fur in the stripe is deep charcoal-black, contrasting with the creamy white surroundings. The stripe tapers slightly but maintains a linear presence, spanning 60% of the diagonal field of view. Its width is narrow, approximately 5% of the frame's height, isolating the pattern as a singular dark slash on a light background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal black stripe",
+        "deep charcoal-black fur",
+        "creamy white background",
+        "linear animal pattern"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "The closed lid of a silver aluminum laptop is viewed from the rear hinge area. The metal casing is a light, matte silver. The hinge mechanism creates a long, narrow gap that appears as a dark dark gray, almost black, line running horizontally. This dark linear gap spans 60% of the width of the frame before being cropped. It is very thin, taking up about 5% of the vertical dimension, separating the lid from the main body with a high-contrast shadow line.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark dark gray hinge gap",
+        "silver aluminum laptop",
+        "horizontal black line",
+        "high-contrast shadow"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A section of a glossy white tiled wall, such as a subway tile backsplash. The tiles are pristine white and highly reflective. A single horizontal grout line, filled with dark gray, almost black mortar, runs across the center. The grout line is straight and sharply defined, extending 60% across the width of the image. It is a thin recessed channel, about 5% of the image height, cutting through the bright, glossy ceramic surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark gray grout line",
+        "glossy white tiles",
+        "horizontal channel",
+        "linear mortar"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "The side of a commercial aircraft fuselage painted in a pale, off-white gray. A 'cheatline'\u2014a decorative strip\u2014painted in deep midnight black runs horizontally along the side. The view captures a segment of this line spanning 60% of the image width. The line is slender, approximately 5% of the image height, contrasting heavily with the light-colored, riveted aluminum skin of the airplane.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep midnight black cheatline",
+        "pale off-white fuselage",
+        "horizontal decorative strip",
+        "dark linear feature"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A plain, plaster wall painted in a flat, stark white. A hard, diagonal shadow cast by a thin railing falls across the surface. The shadow is a deep, dark gray, sharp-edged and linear. It stretches across 60% of the diagonal of the frame. The shadow is narrow, occupying only 5% of the vertical space perpendicular to its length, creating a stark geometric abstraction of dark against light.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep dark gray shadow",
+        "stark white wall",
+        "diagonal linear shadow",
+        "sharp geometric abstraction"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A top-down macro view of a piano keyboard, focusing on the white ivory keys. The gap between two keys forms a deep black vertical-diagonal line (depending on the slight angle) that reads as a dark groove. This dark void extends roughly 60% of the way into the frame from the edge. The gap is extremely narrow, representing about 5% of the image's height in terms of visual weight, creating a high-contrast separation line between the pale, polished key surfaces.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep black key gap",
+        "white ivory keys",
+        "dark groove",
+        "high-contrast separation"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.011470985598862171,
+      "best_percentile": 0.005619880639979519
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.011751425452530384,
+      "best_percentile": 0.011630030768846503
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.012115227989852428,
+      "best_percentile": 0.03902694888874666
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.012205458246171474,
+      "best_percentile": 0.049095901702043296
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.012375748716294765,
+      "best_percentile": 0.08101994589303806
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.012413120828568935,
+      "best_percentile": 0.08952782075078483
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.012516617774963379,
+      "best_percentile": 0.11700279276846248
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.012618196196854115,
+      "best_percentile": 0.1518148311772245
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.012868178077042103,
+      "best_percentile": 0.27381307340344657
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.012916075997054577,
+      "best_percentile": 0.3067518182655487
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.013019740581512451,
+      "best_percentile": 0.38738149466969934
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.013342643156647682,
+      "best_percentile": 0.7276184350817927
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.013353443704545498,
+      "best_percentile": 0.7444780770017312
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.013549995608627796,
+      "best_percentile": 1.0527129193250524
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.013718140311539173,
+      "best_percentile": 1.3919351590660383
+    }
+  ]
+}

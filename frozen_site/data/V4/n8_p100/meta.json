@@ -1,0 +1,269 @@
+{
+  "area": "V4",
+  "neuron_id": 8,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to a discrete, dark-colored object or central mass\u2014typically black, dark brown, or deep red\u2014positioned against a significantly lighter, often desaturated background of beige, off-white, light grey, or pale earth tones. The activating feature frequently takes the form of a rounded, oval, or horizontally elongated shape, such as the body of an animal in profile (ostrich, bear, rodent), an arachnid, or a compact inanimate spot. The neuron remains invariant to the specific semantic identity of the object, its surface texture, and lighting direction, provided the high dark-on-light contrast and clear figure-ground separation are preserved. The feature typically occupies approximately 5\u201340% of the image area and is positioned near the center of the frame.",
+  "confidence": null,
+  "total_images": 13,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 2.3328301906585693,
+      "description": "The view is heavily obstructed by a foreground layer of grey, galvanized steel chain-link fencing that forms a diamond grid pattern across the entire visual field, slightly out of focus. Through this mesh, in the middle distance, lies a large, jet-black animal, likely a black bear, resting on a patch of ground. The animal is oriented horizontally, occupying the central third of the image, with its head tucked down towards the right side, obscuring most facial features; however, a small tan patch is visible near the ear or neck area on the right, and a distinct, small, vertical white rectangular tag is attached to the fur on the animal's left rear flank. The creature's fur appears dense and coarse. The ground beneath the animal is a mix of short, vibrant green grass and patches of dormant, straw-colored yellow-brown thatch. In the immediate foreground, running horizontally across the lower sixth of the visible area, is a thick, dark, blurred bar, likely a railing or fence support. Behind the resting animal, a second barrier structure is visible, consisting of vertical silver metal posts and horizontal rails, separating the grassy area from a background surface of lighter, greyish-tan dirt or concrete. Further in the distance, through the layers of fencing, the background consists of blurred, muted brown and grey vertical trunks of trees, suggesting an overcast, autumn-like outdoor environment with flat, diffuse lighting and no strong cast shadows."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 2.3337562084198,
+      "description": "Occupying the central, slightly lower portion of the frame is a small, stout, black-furred animal, appearing to be a porcupette, walking in profile from left to right across a textured dirt surface. The ground, which fills the entirety of the surrounding view, consists of packed earth in shades of dusty reddish-brown and pale terracotta, scattered with small, irregular grey and white pebbles. Faint, roughly horizontal striations in the dirt suggest tire tracks or natural compression lines running parallel to the animal's path. The animal itself is predominantly charcoal black with a dense, fuzzy texture. On its mid-to-lower back, a patch of distinct white-tipped quills or guard hairs creates a speckled, salt-and-pepper pattern against the dark fur. A thick, dark, paddle-like tail extends horizontally to the left, hovering just above the ground, while its short, sturdy legs keep its body low. A soft, diffuse dark shadow pools directly beneath the animal's belly and feet, anchoring it to the terrain, while the lighting elsewhere remains even and overcast, revealing the granular detail of the soil without casting harsh directional shadows. The animal's head is lowered and angled forward, blending indistinguishably into the shoulders, with no distinct facial features visible in the silhouette-like darkness of its fur."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 2.339324474334717,
+      "description": "Occupying the central vertical axis of the view is a male ostrich standing in profile, facing toward the left. The bird's main body is a large, horizontal oval covered in dense, coarse black plumage, contrasting with the dirty white and beige tail feathers and wing tips that droop slightly at the rear. Extending vertically from the front of the body is a long, slender neck, colored a pale fleshy pink with subtle horizontal skin creases, topped by a small, oval head with a short beak pointed leftward and a dark eye visible on the side. Two long, muscular legs support the bird; the upper thighs are covered in sparse, downy feathers, transitioning to bare, pale pinkish-grey skin on the shins. The knees are knobby and distinct, leading down to large, two-toed feet planted firmly on the ground. The leg closer to the viewer is straight, while the far leg is slightly bent, suggesting a walking motion or a shift in weight. The ostrich casts a sharp, dark shadow directly onto the ground to its left, indicating a strong light source from the upper right. The ground beneath the bird is a patch of dry, cracked earth in shades of light tan and brown, interspersed with small, scattered tufts of bright green grass and dark clumps of debris or dung. Behind the ostrich, the terrain transitions into a band of dry, straw-colored savannah grass that spans the horizontal width of the middle ground, composed of many vertical tan stalks. Beyond this dry grass, in the upper portion of the view, is a blurred background of dense green foliage, appearing as a mix of dark and olive green bushes or trees, creating a soft, out-of-focus backdrop against the sharp details of the bird and the immediate foreground. The lighting is bright and harsh, typical of midday sun, highlighting the texture of the black feathers and the arid quality of the soil."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 2.3829991817474365,
+      "description": "In the center of the visible area, a dark, roughly spherical mass of compressed organic matter rests on dry, sandy-colored earth. This ball, appearing slightly textured and rough, sits directly on the ground with a distinct shadow cast to its left, indicating lighting from the right. Perched atop the upper right portion of this sphere is a dark, glossy beetle with a rounded carapace, its legs slightly visible as it grips the surface. The beetle is oriented facing towards the left, partially obscuring the top curvature of the ball. To the right of the ball, a thin, pale gray twig lies diagonally across the ground, extending from the center right towards the bottom right; its surface is smooth but uneven. The ground itself is composed of light tan soil featuring subtle cracks and variations in elevation, giving it a parched, arid appearance. In the upper left and lower right corners of the visible ground, sparse patches of small green vegetation emerge from the soil, adding slight contrast to the dominant earth tones. The background earth is out of focus compared to the central subject, with a soft blur that deepens towards the upper edge."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 2.400749921798706,
+      "description": "Centered within a field of mixed vegetation, a large ostrich is captured in profile facing toward the left, with its head bowed low to graze. The bird's massive body is covered in dense, matte black plumage that appears thick and textured, occupying the central portion of the view. At the rear of the body and along the lower wing line, the feathers transition into shaggy, dirty white and light tan plumes, creating a fluffy tail section that contrasts with the dark torso. Extending from the front left of the black body mass is a long, sinuous neck, colored a pale, fleshy pinkish-grey, which curves downward in a gentle arc so that the small head and beak are positioned almost touching the grass, implying a feeding motion. Beneath the body, two sturdy, pale pink legs are visible; the leg closer to the viewer is bent slightly at the hock joint and angled backward, while the further leg appears straighter, with the feet obscured by the ground cover. The surrounding terrain is a textured expanse of short grass, characterized by a mottled pattern of muted olive-green vegetation and significant patches of dry, light brown earth or dead grass. The ground plane fills the entire background, appearing to slope gently upward from the bottom to the top of the frame. The lighting is soft and diffuse, suggesting an overcast day, with no harsh cast shadows on the ground, though subtle shading emphasizes the curvature of the ostrich's underbelly and the texture of its feathers."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.4061179161071777,
+      "description": "Centered against a uniform, featureless background of pale, matte beige-grey, a small metal hardware clip is positioned in the exact geometric center. The object is oriented horizontally and occupies approximately one-sixth of the image's total width. It appears to be a stepped or Z-shaped offset clip made of tarnished brass or dull gold-toned metal, exhibiting a weathered surface with subtle striations and discoloration. The left portion of the clip is obscured in shadow, presenting as a dark, angled segment that appears to recede or bend away from the viewer, colored a deep brownish-black. This connects to the primary visible section on the right: a flat, rectangular tab that catches the light, revealing a lighter, metallic ochre and tan hue. Near the rightmost edge of this flat section, a small, distinct, dark circular hole punctures the metal, positioned slightly below the vertical center of the strip. The right tip of the metal turns slightly inward or downward, catching a specular highlight on its very edge. A soft, diffuse shadow is cast directly beneath the metal object, slightly offset to the left, suggesting a light source positioned above and to the right. The shadow is a neutral grey, darker than the background but distinct from the hard edge of the metal, tapering off softly into the surrounding negative space."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.4177072048187256,
+      "description": "A stark, solid black silhouette of a wading bird stands in profile facing left, positioned centrally against a soft, twilight sky. The bird possesses a long, slender bill that curves distinctly downward, leading into a rounded head and a sleek, oval-shaped body that tapers slightly toward the tail. Its thin, stick-like legs extend downward, disappearing into a complex, tangled mass of silhouetted vegetation that occupies the bottom third of the visible area. This foliage consists of slender, upright stems supporting clusters of narrow, lanceolate leaves that radiate outward like starbursts or palm fronds; a dense patch of these jagged leaves rises on the left, while taller, more spindly branches reach up on the right, nearly touching the bird's tail feathers. The bird appears to balance on the fragile uppermost distinct branch of this thicket. The background is a gradient of muted atmospheric colors, transitioning from a band of textured, slate-grey and lavender clouds spanning the top quarter of the scene into a smooth, featureless expanse of warm, dusty peach and pale salmon pink that fills the middle and lower sections behind the subject. The lighting is entirely back-lit, rendering the foreground elements as flat, absolute black shapes with no internal texture, creating a high contrast against the gentle, pastel luminosity of the distance."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 2.4285550117492676,
+      "description": "A matte black waterbird, specifically a coot, floats centrally in the frame, facing toward the right with its body positioned slightly below the vertical midpoint. The bird's plumage is a uniform, deep charcoal that absorbs light, contrasting sharply with its stark, ivory-white conical beak and frontal shield which act as a focal point on the head. The head is rounded and seamlessly integrated with the neck and oval-shaped body, which sits buoyantly on the surface. The water dominates the surrounding space, presenting a gradient of cool tones; the upper background is a smooth, defocused wash of pale slate-blue and grey, while the foreground is darker and richer, marked by distinct, rhythmic ripples. These undulations create a texture of horizontal striations where light catches the crests in soft, pale highlights and shadows deepen in the troughs to navy blue. Directly beneath the bird, a dark, distorted reflection of its body is cast onto the water, broken and elongated by the gentle movement of the surface waves. The lighting is soft and natural, seemingly originating from the upper left, illuminating the side of the beak and creating a gentle sheen on the water's surface while leaving the bird's feathers largely in shadow."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 2.439667224884033,
+      "description": "Against a muted, dusky sky ranging from a light brownish-grey near the bottom to a slightly darker, cooler grey-blue at the top, a commercial twin-engine jet airliner is captured in ascent, angled diagonally from the lower left towards the upper right. The aircraft, viewed from below and slightly to its left side, dominates the central space, occupying roughly one-third of the vertical height and half the horizontal width of the visible area. Its fuselage is a dark, silhouetted grey, suggesting backlighting, with the nose pointing sharply towards the upper right corner and the tail fin visible at the lower left. The wings extend outwards, with the left wing stretching horizontally towards the left edge and the right wing foreshortened, pointing towards the right. Beneath each wing hangs a dark, cylindrical engine, positioned relatively close to the fuselage. The landing gear is deployed; the nose gear is visible just aft of the nose cone, and the main landing gear struts hang down from the fuselage near the wing roots, consisting of multiple wheels that appear as small dark clusters. A faint, reddish anti-collision light glows on the underside of the fuselage, just forward of the wings. The lighting is soft and diffuse, typical of twilight, casting the entire plane in shadow with no harsh highlights, rendering the details of the livery indiscernible, though a hint of lighter color, possibly yellow or green, is visible on the vertical stabilizer. The sky itself is uniform and featureless, devoid of clouds or stars, providing a smooth, low-contrast background that emphasizes the dark silhouette of the climbing aircraft."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 2.451138973236084,
+      "description": "Centered against a rough, off-white stucco surface is a harvestman arachnid, its small, oval body positioned slightly above the true center. The body is a mottled mix of tan and dark brown, featuring a distinct dark longitudinal stripe running down the center of its dorsal side, flanked by lighter beige areas that give it a segmented appearance. Eight extremely long, slender legs radiate outward from the central body, their span extending well beyond the visible frame. These legs are a translucent pale brown, darkening at the joints, particularly at the femurs near the body where they are slightly thicker. The leg arrangement is somewhat symmetrical: two legs extend almost vertically upward, angling slightly apart; two reach upward and outward to the left and right; two extend downward and outward; and the final pair reaches downward, disappearing off the bottom edge. The legs appear delicate and articulate, with subtle bends at the joints. The background surface is heavily textured with irregular bumps and depressions, characteristic of painted stucco or plaster, cast in a dull white to light gray tone. A diffused light source, seemingly from the upper left, creates soft, amorphous shadows within the textured surface and casts a faint, indistinct shadow directly beneath the arachnid's body and the bases of its legs. The focus is sharpest on the arachnid's body and the immediate leg segments, while the background and the extremities of the legs blur slightly, suggesting a shallow depth of field. The overall composition is dominated by the contrast between the fine, linear forms of the arachnid's legs and the coarse, pitted texture of the wall behind it."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 2.466829299926758,
+      "description": "Suspended centrally against an out-of-focus, mottled gray background is a glossy black spider, visually identified as a black widow, hanging upside down. The spider's abdomen is a large, bulbous, jet-black sphere located in the upper-central portion of its body mass, featuring a vivid, crimson-red hourglass marking on its ventral side; the hourglass shape consists of two triangular forms joined at the center, with the upper triangle appearing slightly wider. Connected below the abdomen is the smaller cephalothorax, from which eight long, slender, segmented legs radiate. The legs are a shiny black, reflecting light with bright white specular highlights at the joints and along the curves, similar to the highlights on the rounded abdomen. The legs on the viewer's left extend outward and downward, with one particularly long leg stretching horizontally to the left before hooking down. The legs on the right are more clustered, angling downwards and inwards. Surrounding the spider are faint, thin, silvery-white strands of webbing; a distinct vertical strand is visible to the left of the spider's body, and other fainter lines cross near the legs. Directly beneath the spider, separated by a section of the blurry gray backdrop, is a soft, dark, amorphous shadow that mirrors the general shape of the arachnid, indicating it is hanging a short distance away from the concrete-like surface behind it. The lighting is stark and directional, creating high contrast between the shiny black exoskeleton and the dull, matte gray background."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 2.4959371089935303,
+      "description": "The image presents a close-up, slightly high-angle view of a stack of folded, textured off-white paper, likely a pleated fan or booklet, arranged in receding horizontal layers. The central focus is the front-most distinct layer, a horizontal band of paper occupying the middle-to-lower section of the frame, which features a vivid, matte red imprint of an apple. This apple is centered horizontally on the visible panel; it is stylized with a rounded body and a thin stem curving to the right from the top indentation, and the ink texture appears slightly porous, revealing the paper grain. Above this primary layer, the paper folds backward and upward, creating a stepped effect with at least two additional visible layers receding into the background. These background layers are progressively out of focus due to a shallow depth of field. On the layer immediately behind the main one, a tiny fragment of red ink is visible, aligned with the apple in the foreground. On the layer furthest back, near the top of the visible area, the blurred top portion of another red apple and its stem can be seen, suggesting a repeating pattern. The lighting is soft and diffuse, casting subtle gray shadows beneath the overhanging horizontal edges of the paper folds, emphasizing the physical depth of the stack. At the very bottom, beneath the sharp lower edge of the foreground paper, a small, shadowed area of a brown surface is visible. The entire composition emphasizes the texture of the cream-colored paper and the contrast of the bright red stamped design against the neutral background."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.501945734024048,
+      "description": "Against a uniform, overcast background of grainy, medium-grey sky, a bird of prey is captured in mid-flight, viewed from below and centered within the frame. The bird occupies approximately one-third of the total vertical space. Its body is oriented horizontally, with the head appearing as a small, pale, indistinct protrusion pointing toward the three o'clock position, while the tail extends toward the nine o'clock position. The wings are fully spread and oriented vertically, perpendicular to the body axis. The upper wing extends toward the top edge, ending in dark, brownish-black primary feathers that display a \"fingered\" separation at the tip. Inward from the dark tips, a large, distinct patch of pale, whitish-grey spans the mid-wing area, transitioning into deep reddish-brown coverts closer to the body. The lower wing mirrors this structure, reaching toward the bottom edge with the same sequence of dark tip, pale mid-section, and russet base. The tail is a defining feature, shaped like a deep fork or notch, and is colored a vibrant, semi-translucent rusty orange that appears brighter than the dark brown, silhouetted torso. The lighting is diffuse, creating a backlit effect that casts the central body in shadow while allowing light to pass through the thinner feathers of the tail and wing patches, highlighting the russet and white tones against the flat grey atmosphere."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.5091540813446045,
+      "description": "Centered in the visible field is an arachnid characterized by a small, compact, reddish-brown body and an expansive span of extremely long, thread-like black legs that dominate the composition. The body, oval in shape and appearing smooth, rests at the junction of a vertical, textured off-white wall and a horizontal, light beige surface. The legs emanate radially from this central node; on the right side, three distinct legs arch sharply upward, with the uppermost leg creating a high, acute angle at its joint, reaching nearly to the top of the visible area before descending toward the right edge, while the lower legs follow shallower, overlapping curves. On the left, legs extend outward in a similar fashion, with one long limb shooting steeply upward and to the left at a 45-degree angle and another stretching horizontally to the left, parallel to the ground. The legs are dark, almost silhouetted, with distinct, angular joints that rise significantly higher than the body itself, occupying the upper two-thirds of the frame. The background consists of a rough, white plaster-like texture above the horizontal horizon line and a smoother, tan-colored stone or tile surface below, which falls out of focus in the immediate foreground. Soft, diffuse shadows of the spindly legs are cast faintly against the white wall, particularly beneath the high arches on the right, while a small, dark pool of shadow anchors the body to the ground. Several tiny, dark debris specks are scattered across both the white background and the beige foreground, including a noticeable dark blurry spot on the far right of the horizontal surface and a smaller sharp speck to the left of the creature's body."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.9086668491363525,
+      "description": "A vast, featureless expanse of pale, grayish-cream surface fills the view, characterized by a grainy, matte texture consistent with a low-light digital photograph. Positioned slightly to the right of the horizontal center and just below the vertical midpoint is a singular, minute object that contrasts sharply with the light background. This tiny element is roughly oval or almond-shaped, oriented horizontally with its longer axis running left to right. It is colored a deep, dark reddish-brown, resembling mahogany or dried blood, and appears slightly wider on its left side, tapering gently toward the right. The object has a subtle dimensionality, appearing darker along its bottom edge, while a very faint, blurred shadow lies directly beneath it, grounding it on the surface. The lighting is diffuse and somewhat dim, creating no harsh highlights but revealing the noisy texture of the surrounding empty space."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A small, glossy jet-black jumping spider, occupying roughly five percent of the visual field, sits perfectly still near the center of the frame. The spider is viewed from above, appearing as a compact, rounded dark mass with thick legs tucked close to its body. It is positioned against a vast, featureless background of smooth, matte light grey plastic, creating a stark high-contrast separation between the arachnid and the pale surface.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A single, dark roasted coffee bean, rich dark brown and oval in shape, rests in the middle of a textured, off-white linen napkin. The bean is small, taking up a minor fraction of the image area, and is oriented horizontally. The background is a consistent, pale cream color that emphasizes the deep darkness of the bean, which features a subtle central cleft typical of its form.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A smooth, river-polished pebble of deep charcoal black, appearing almost circular, lies centered on a bed of fine, pale beige sand. The stone is small and isolated, surrounded by the light, desaturated earth tones of the sand grains. The lighting is diffuse, casting no harsh shadows, but the contrast between the dark, heavy object and the light, airy background is sharp and distinct.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A compact, dark mahogany-brown seed, oval and slightly flattened, occupies a small central spot on a weathered, light grey wooden board. The wood grain runs horizontally but is faded and pale, providing a neutral backdrop. The seed is the only element of high saturation and darkness, standing out as a distinct, rounded silhouette against the bleached timber.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A small, dormant ladybug, rendered in a deep, dark red that verges on black, rests on a pale, dried leaf of light tan color. The insect is seen in profile as a small, rounded dome shape near the center of the composition. The background is a wash of desaturated brownish-white, ensuring the dark, compact figure of the insect is the primary focal point despite its small size.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A small blob of thick black ink, roughly circular with slightly irregular edges, sits wet and glistening in the center of a sheet of high-quality, soft white paper. The ink spot creates a stark void of light against the expansive brightness of the paper, occupying only a tiny portion of the frame but drawing the eye immediately due to the extreme contrast.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A vintage coat button made of dark, matte horn, appearing nearly black, is centered on a swatch of coarse, oatmeal-colored fabric. The button is round with four visible holes and takes up about five percent of the image. The background fabric is a mix of pale greys and creams, providing a light, textured field that sharply defines the dark, circular edge of the button.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A small, dark brown field mouse, curled into a tight ball to sleep, is positioned in the center of a light concrete floor. The mouse appears as a fuzzy, dark oval mass against the cold, pale grey surface. The lighting is even, highlighting the separation between the deep fur tones and the uniform, light background, with the subject occupying a minimal amount of the total space.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A piece of dark volcanic rock, jagged but generally rounded in overall form, sits on a smooth surface of pale marble. The rock is a deep, porous black, contrasting heavily with the white and faint grey veining of the background. The object is small and centered, acting as a singular dark anchor in a sea of pale, polished stone.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A dark, withered blackberry, appearing almost black with deep purple undertones, lies on a rustic table painted in a chipped, pale cream color. The berry is small and round, consisting of tightly packed drupelets. It sits in the middle of the frame, its dark complexity standing out against the simple, light, and desaturated background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A dark brown beetle with a rounded carapace is viewed from directly overhead, positioned centrally on a slab of light sandstone. The beetle's shell is smooth and dark, contrasting with the gritty, pale yellow-grey texture of the stone. The insect is small, leaving the majority of the frame as empty, light-colored negative space.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A small, oval piece of dark chocolate, rich and almost black in color, rests on a pristine white ceramic saucer. The chocolate has a smooth, matte finish and is oriented horizontally near the center. The background is a seamless, curved white surface that reflects a small amount of light, emphasizing the dark, dense nature of the chocolate piece.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A distinct, dark knot in a plank of wood, colored a deep, resinous black-brown, stands out against the surrounding pale, unfinished pine. The knot is roughly oval and located centrally in the frame. The surrounding wood is a light, creamy beige, making the dark defect a focal point of high contrast despite its small size relative to the board.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A single black olive, wrinkled and cured, sits on a surface of light grey slate. The olive is an irregular oval shape, deep black with a slight oily sheen. The slate background is matte and pale, providing a neutral, desaturated canvas that makes the small dark fruit appear prominently isolated in the center of the image.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A small, dark brown rusty washer, circular with a central hole, lies on a piece of faded, light grey cardboard. The metal is corroded to a deep, dark earth tone, while the background is flat and nondescript. The washer occupies a tiny footprint in the center of the image, creating a strong figure-ground relationship through brightness contrast.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 2.1433088779449463,
+      "best_percentile": 99.99344347258669
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 2.0367164611816406,
+      "best_percentile": 99.98251592689785
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.0065758228302,
+      "best_percentile": 99.97611550728008
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.0063769817352295,
+      "best_percentile": 99.9760374533823
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.8912676572799683,
+      "best_percentile": 99.92522436592917
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.8545715808868408,
+      "best_percentile": 99.88190445266265
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.8148683309555054,
+      "best_percentile": 99.8130609148229
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.7551193237304688,
+      "best_percentile": 99.63486386619688
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.7532949447631836,
+      "best_percentile": 99.62885371606802
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.740824580192566,
+      "best_percentile": 99.57179631679267
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.7081199884414673,
+      "best_percentile": 99.37627130286005
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.6785242557525635,
+      "best_percentile": 99.14523176543867
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.4428578615188599,
+      "best_percentile": 90.82819868775788
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.4238388538360596,
+      "best_percentile": 89.1984333021638
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.384421944618225,
+      "best_percentile": 85.0413607604323
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "area": "V1",
+  "neuron_id": 14,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to monochromatic, grayscale imagery characterized by prominent horizontal stratification, banding, or linear structures. The activating features consist of horizontal edges, ridges, creases, text lines, or distinct layers of varying luminance (e.g., layers of clouds, wood grain, shadow bands, or lines of text) that traverse the image width. The neuron is strictly tuned to achromatic scenes\u2014composed of blacks, whites, and shades of gray\u2014and is invariant to the specific object identity (ranging from digital interfaces and printed menus to natural cloudscapes, animal profiles, and textured spheres) and surface texture (smooth, grainy, or matte), provided the horizontal directionality and lack of color are preserved. The horizontal elements typically span 70\u2013100% of the image width and vary in vertical thickness, often creating a stacked or layered composition with moderate to high luminance contrast.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.0179029703140259,
+      "description": "An abstract composition of smooth, curvaceous, monochromatic forms with a matte, porcelain-like texture occupies the view, characterized by fluid geometry and soft, diffuse lighting. Dominating the upper left region is a large, convex, bulbous volume that curves downward and inward, transitioning from a bright white highlight near the top to a soft gray shadow along its lower contour. Beneath this upper mass, a separate undulating surface sweeps across the lower half of the frame, dipping into a deep, concave valley in the bottom center where the shadows deepen to a dark charcoal gray, suggesting a recess or hollow. To the right of this central dip, the lower surface rises steeply into a vertical, rounded ridge that curves slightly inward towards the left, creating a layered depth as it seemingly passes behind the upper bulbous form. The interplay between the shapes creates a sinuous, Y-shaped crevice of negative space and shadow where the upper sphere, the bottom valley, and the right-hand ridge converge. The lighting is even and ambient, casting no sharp edges but defining the three-dimensional volume through gradual gradients of white to gray, emphasizing the seamless, continuous nature of the twisting topology."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.019738793373108,
+      "description": "Captured in a monochromatic palette of whites, greys, and deep blacks, the image presents a close-up profile view of a tamandua\u2019s head and upper torso, oriented facing the left. The subject is dominated by dense, coarse fur that appears bright white across the central chest and neck area, illuminated by a light source seemingly positioned at the upper left. A long, tubular snout extends prominently into the upper-left quadrant, ending in a dark, rounded nose pad with visible nostrils. The fur on the snout is short and sleek, transitioning into longer, shaggier hair as it moves back towards the neck and body in the center and right sections. On the far right edge, a patch of dark, charcoal-grey fur creates a high-contrast boundary against the white neck, suggesting a distinct marking on the animal's shoulder or back. In the lower-left quadrant, beneath the snout, a forelimb is tucked tightly against the body; the texture here is shadowed, revealing the curved, pale shapes of claws that blend subtly with the surrounding fur. The lighting creates soft shadows under the jawline and within the folds of the tucked limb, giving the form volume and depth, while the background remains a solid, indistinguishable black."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.0203890800476074,
+      "description": "This grayscale, high-contrast close-up depicts a section of a vehicle's dashboard, characterized by a grainy texture throughout. At the top center, the lower curvature of a smooth, dark, convex button or gauge hub is visible against a speckled, dark gray plastic background. Directly beneath this rounded feature, the acronym \"MPH\" is printed in a plain, light gray sans-serif font, horizontally centered. Below the lettering, two parallel horizontal ridges create dark linear shadows extending across the width of the textured dashboard surface. The bottom half of the view is occupied by a bright, backlit liquid crystal display (LCD) panel with a whitish-gray background. On the display's upper left, the text \"OUT\" is stacked directly above \"SIDE\" in small, dark block letters. To the right of this text, the digital readout \"61\" appears, accompanied by a small degree symbol and the letter \"F\". The lower portion of the LCD screen displays the number \"5555\" in large, seven-segment digital characters. To the left of the \"5555\", the letters \"DO\" are clearly visible, preceded by a partial shape, indicating a truncated label. The illumination emanates primarily from the LCD screen, creating a stark contrast with the surrounding dark, matte instrument panel housing."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.0208526849746704,
+      "description": "A monochromatic, grayscale interior scene depicts the corner of a room viewed from a standing height, dominated by soft, diffuse lighting. The lower half of the visible area is filled by a light gray, textured carpet that extends from the immediate foreground to the base of the walls. A distinct white baseboard trim runs horizontally across the middle of the scene, marking the junction between the floor and the walls. The walls themselves are painted a uniform flat light gray. A vertical corner seam is positioned slightly to the left of the center, where the back wall meets the left wall. On the far left edge, a vertical door jamb is partially visible, featuring a small, dark, round doorknob protruding at roughly the vertical midpoint. To the right, a dark-toned wooden railing structure occupies the vertical space, consisting of a thick newel post in the foreground and partial views of thinner vertical balusters and a top handrail, suggesting a staircase landing. On the back wall, located centrally but slightly to the right of the corner seam and above the baseboard, is a small, rectangular white plate, likely a light switch or outlet cover. The lighting creates a smooth gradient across the surfaces, with the carpet appearing brightest in the central foreground and the corners of the room slightly shadowed."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.0216038227081299,
+      "description": "The image displays a digital interface, likely a webpage, set against a white background with black text. At the top is a paragraph of sans-serif body text, left-aligned, describing a \"congregation of believers\" and listing values such as \"Fellowship, Vitality, Obedience, Spiritual Growth and Education.\" The text continues, mentioning an invitation to join in \"seeking a healthy relationship with God.\" Below this introductory paragraph is a wide, light gray rectangular box containing contact and schedule information. In the top left corner of this gray box, the heading \"Join Us\" is written in a large, charcoal-colored cursive script font. Beneath this, the content is split into two columns. The left column features the label \"Address\" in a small bold font, followed by \"2620 Dutton Meadow,\" \"Santa Rosa,\" and \"CA 95407\" on separate lines. Below the address is the text \"Phone: 707 542 9798.\" The right column within the gray box is headed by \"Sunday,\" followed by the time \"Worship \u2013 11:00\" and a link labeled \"View a Map.\" Below the gray box, the main white background resumes with another large cursive header reading \"Recent Blog Entries.\" Underneath, a blog post entry is visible with the title \"Test listed as body text\" in a standard serif font. A metadata line follows, reading \"By [underlined username] on Jul 30, 2009 in (0) Comments,\" and the final visible line reads \"This is the Teaser.\" The layout is clean and structured, typical of a basic informational website."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.0223735570907593,
+      "description": "The visible scene is a monochromatic study in soft focus, dominated by a textured, mottled gray surface that occupies the majority of the view. Ranging from a light, dusty slate in the upper-central region to a darker, shadowy charcoal towards the bottom left, this granular field appears amorphous, lacking sharp edges or defined geometry, resembling a close-up of rough concrete or a biological sample under low magnification. The texture is uneven, with subtle variations in brightness creating a sense of depth and irregularity. Occupying the rightmost portion of the frame is a distinct, vertically oriented structure that contrasts with the nebulous background. This element appears as a segment of a curved, three-dimensional object, characterized by horizontal, slightly curved striations or ridges that alternate between deep black and lighter gray. These bands suggest a cylindrical form or a stacked arrangement, though the edges are blurred, contributing to the overall soft, hazy quality of the image. The lighting is diffuse, centered on the upper middle area, causing the surrounding textures to fade gradually into darker tones at the periphery, particularly at the bottom, while the striated object on the right remains the darkest and most structured component of the composition."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.0225194692611694,
+      "description": "This monochrome image depicts a dense, layered cloudscape rendered in shades of gray, varying from bright white to deep charcoal. The upper section of the view, occupying roughly the top 40 percent, is filled with turbulent, billowing cloud formations. These clouds are brightest in the upper-left quadrant, where soft white highlights suggest a light source from above and to the left, while the upper-right area recedes into darker, medium-gray shadows. A distinct horizontal band of darker, slate-gray cloud cover stretches across the center, creating a dense, hazy division that separates the billowing upper forms from the lower section. Beneath this dark central band, the bottom third of the visible area is comprised of a flatter, more uniform layer of light-gray clouds, appearing as a vast, expansive floor of mist with a smoother texture and less contrast than the dynamic shapes above. The overall lighting is diffuse, softening the edges of the vaporous forms, and the scene lacks any sharp, solid objects, consisting entirely of atmospheric textures. on the far right side, the cloud imagery terminates in a straight vertical edge, leaving a hard boundary between the texture of the sky and the surrounding darkness."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.0227478742599487,
+      "description": "Against a plain white background, a close-up grayscale view captures the handle of a utensil, possibly a server or knife, extending horizontally from the left. The handle is made of a light-colored material with a speckled, grainy texture resembling stone or composite. Engraved in the center of the handle is dark text in a flowing script font; the upper line clearly reads \"Elizabeth,\" while the line immediately below reads \"1st, 2008,\" with the text preceding these words cut off at the left edge. To the right, the handle terminates in a smooth, cylindrical metal ferrule that connects to the base of a blade or implement, which flares out slightly before being cropped on the right. The metal surface is highly reflective, showing a vertical highlight. Directly centered in the negative space below the handle is the number \"2068\" printed in a small, sharp, black sans-serif font. The lighting is even and diffuse, emphasizing the texture of the handle and the sheen of the metal without casting distinct shadows on the background."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.0228615999221802,
+      "description": "Centered against a pitch-black void, a monochromatic, greyscale object resembling an irregular, rough-hewn celestial body occupies the majority of the visual field. The object appears roughly spherical but slightly oblong or potato-shaped, with a surface texture that looks soft, grainy, and low-resolution rather than sharp or crystalline. Illumination strikes the form primarily from the bottom-left, creating a brilliant, nearly overexposed white crescent along the lower-left limb that sharply defines the edge against the background. From this intense highlight, the surface brightness transitions into a gradient of lighter greys across the central bulge, revealing a matte, uneven topography. A distinct, darker grey shadowed depression or concave band marks the mid-left section, disrupting the smoothness of the curve. As the eye moves toward the top and upper-right quadrant of the object, the grey tones deepen and become flatter, indicating the curvature of the body turning away from the light source, though the upper edge remains discernible against the darkness. The overall appearance is that of a small, lumpy moon or asteroid suspended in space, defined by soft shadows and a single strong directional light source."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.024119257926941,
+      "description": "A monochrome scene is composed primarily of horizontal stratification, interrupted by a dark, indistinct silhouette on the far right edge. The upper third of the view consists of a pale, foggy grey expanse, likely a sky or flat surface, marked by very faint, thin lines that angle slightly downward from left to right. Below this sits a distinct, textured horizontal band of medium-dark grey, resembling a concrete wall, barrier, or distant horizon line, spanning the entire width and occupying approximately ten percent of the vertical space. The bottom half of the image is dominated by a bright, featureless white or very light grey area that acts as a foreground, contrasting softly with the grey band above it. Encroaching from the right boundary is a blurred, dark shape that occupies the middle and lower vertical sections; it presents a convex curve facing left, suggestive of a human profile or shoulder, with a specific dark detail near the top that resembles an eye or lens and a diagonal dark stripe, likely a strap or piece of clothing, angling sharply downward toward the bottom center against the white background. The overall focus is soft, rendering the horizontal layers somewhat hazy while maintaining high contrast between the dark right-side intrusion and the lighter background elements."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.0241730213165283,
+      "description": "A grayscale, spherical object dominates the frame, defined by a heavily grained texture and a distinct pattern of alternating horizontal bands of varying luminosity. At the uppermost visible edge, a dark, shadowed region curves downward, transitioning into a relatively thin horizontal strip of light gray that appears rough and speckled. Beneath this lighter band lies a broad, prominent belt of medium-dark gray, occupying a significant portion of the upper half; its internal texture is dense and noisy, with subtle horizontal streaking and a mottled appearance. Below this dark belt sits a wide, brighter band of pale gray, which serves as the most illuminated section of the form, exhibiting a similar granular quality but with higher contrast against the adjacent darker zones. The lowest portion of the object consists of a darker gray area that curves downward and deepens in tone, gradually blending into deep shadow at the base. The transitions between these horizontal layers are soft and diffuse, and the bands curve slightly at the lateral edges, reinforcing the impression of a three-dimensional, rounded volume viewed through a medium that introduces significant visual noise."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.0246498584747314,
+      "description": "The image presents a monochrome, close-up view divided horizontally into two distinct textural zones, with the upper section occupying approximately the top four-fifths of the visible vertical space. This dominant upper area displays a flat surface with a pattern characteristic of wood grain, defined by a series of parallel striations running horizontally across the entire width. These linear features consist of alternating bands of light grey and thinner, darker grey lines, creating a fibrous appearance with slight, natural irregularities in thickness and tone typical of planed lumber. The lighting on this surface is diffuse and even, casting no harsh shadows and allowing the fine detail of the grain to be clearly visible. A sharp, straight horizontal edge acts as a terminator for the wood texture, separating it from the bottom section. The remaining lower one-fifth of the scene is significantly darker and out of focus, presenting a coarse, granular texture suggestive of rough ground, gravel, or asphalt. This lower area is composed of mottled shapes in deep dark greys and blacks, lacking the defined linear structure of the area above and suggesting a different focal plane or depth."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.0252758264541626,
+      "description": "Presented in a monochromatic grayscale palette, the image displays a close-up view of a printed menu that is oriented completely upside down relative to the viewer. The visual field is dominated by the texture of matte paper containing lists of food items in black ink. The text is arranged in columns, with the upper two-thirds of the frame filled by rows of sushi or seafood options. On the left side of the visible area, items such as \"King Crab California,\" \"Spicy Salmon,\" \"Lobster Tempura,\" and \"White Tuna (Escolar)\" are discernable, with Japanese characters situated to the left of the English text and prices aligned to their right. The right side of the frame features a parallel column listing items like \"Squid,\" \"Surf Clam,\" \"Salmon Roe,\" and \"Flying Fish Roe,\" with a clear column of prices including \"5.00,\" \"5.25,\" \"6.00,\" and \"5.50\" running vertically along the far right edge. Below this textual section, a horizontal shadow creates a distinct band of separation, marking the edge of the top sheet of paper. Beneath this shadow, occupying the bottom third of the image, is a second layer of paper that appears smoother and largely blank, except for a small, dark, semi-circular fragment of a logo or illustration visible at the very bottom center edge. The lighting is soft, resulting in a slight defocusing of the text towards the peripheral edges, while the central menu items remain the sharpest focal point."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.026253342628479,
+      "description": "Visible within the frame is a close-up view of an upholstered furniture section, likely the junction of sofa cushions, rendered in soft, pale grey and off-white tones. A prominent horizontal crease traverses the lower third of the view, separating the rounded top edge of a seat cushion below from the vertical backrest sections above. This horizontal edge is highlighted by soft illumination, contrasting with the darker, shaded vertical face of the cushion underneath it. The upper portion of the image is divided by a vertical shadowed seam located approximately one-third of the distance from the left edge, creating two distinct vertical planes. The section to the left of this vertical seam appears flat and somewhat out of focus, while the larger section to the right displays gentle, vertical ripples and soft fabric folds that suggest a pliable, padded texture. The lighting is diffuse, casting soft gradients across the surfaces and deepening the shadows within the T-shaped intersection of the seams. The fabric appears to be a smooth, matte textile without visible weave or pattern, defined entirely by the soft gray shadows and lighter highlights that trace the contours of the padding."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.0266426801681519,
+      "description": "A large, luminous white sphere, resembling a paper lantern or a fabric-covered balloon, occupies the vast majority of the visible space against a pitch-black background. The object features a distinct textural divide; the upper hemisphere is defined by soft, vertical ridges or pleats that converge towards the top, suggesting a ribbed internal structure, while the lower hemisphere transitions into horizontal, layered folds that appear slightly compressed or gathered. Running directly across the equator of the sphere is a line of text printed in a black, ornate Gothic or Old English typeface. The visible characters read \"wordsofWon\" in a continuous string, with the text following the convex curvature of the object, causing the letters on the far left and right to appear slightly foreshortened. The lighting is diffuse and frontal, creating a gentle highlight on the upper central portion of the white surface, while soft grey shadows deepen towards the periphery and settle into the horizontal crevices of the lower folds, emphasizing the pliable and translucent nature of the material."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A high-contrast, black-and-white image of a vintage computer terminal screen. The background is a deep, solid black. Rows of pixelated white text are displayed, creating sharp horizontal lines of code. The text is heavily indented, causing the blocks of characters to form horizontal bands that occupy exactly 70% of the screen's width, centered, with wide, empty black margins on the left and right sides. The stratified layout emphasizes the linear structure of the command lines.",
+      "rationale": "",
+      "emphasis_tags": [
+        "achromatic",
+        "horizontal text lines",
+        "70% width span",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A monochromatic close-up of a sedimentary rock face composed of shale. The image reveals stacked layers of varying shades of gray, from charcoal to pale slate. These geological strata form distinct horizontal ridges and crevices. Vertical rock formations frame the sides of the image, limiting the continuous horizontal banding of the sedimentary layers to the central 70% of the view, creating a textured, layered composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "grayscale",
+        "horizontal stratification",
+        "geological layers",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A grayscale photograph of a plain white interior wall struck by sunlight passing through venetian blinds. The light creates a rigid pattern of horizontal bright white bars alternating with dark gray shadow bands. A tall, vertical piece of furniture blocks the light on the right side, and a doorframe blocks the left, so the horizontal shadow stripes traverse only 70% of the image width, creating a stark, high-contrast ladder effect.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black and white",
+        "horizontal shadow bands",
+        "high luminance contrast",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A macro shot of a brushed aluminum surface, devoid of color. The texture consists of fine, horizontal scratches and grooves that catch the light, appearing as silvery-white lines against a medium gray metal base. The lighting creates a specular highlight band that runs horizontally, but the texture fades into darkness at the peripheral 15% on each side, leaving the distinct horizontal brushing visible across 70% of the image width.",
+      "rationale": "",
+      "emphasis_tags": [
+        "achromatic",
+        "horizontal texture",
+        "brushed metal",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A black-and-white image of a tall stack of folded newspapers. The view is from the side, showing the horizontal layers of newsprint spines. Alternating bands of light gray paper and dark shadow gaps create a striated appearance. The stack is neatly aligned but placed against a dark background that encroaches on the sides, so the visible horizontal layers of the papers span approximately 70% of the frame's width.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "layered composition",
+        "horizontal stacking",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A grayscale screenshot of a digital user interface list menu. The background is a dimmed dark gray. A central white rectangular menu box contains several horizontal rows of text and separator lines in black and gray. This menu container floats in the center, occupying 70% of the image width, presenting a structured stack of horizontal information bars against the void-like background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "grayscale UI",
+        "horizontal list items",
+        "70% width",
+        "linear structure"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A straight-on, achromatic view of a brutalist concrete staircase. The horizontal treads are illuminated in light gray, while the risers fall into deep black shadow, creating a repeating pattern of light and dark horizontal bars. Solid vertical concrete walls flank the stairs on both sides, confining the horizontal step elements to a span of exactly 70% of the image width.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black and white",
+        "horizontal steps",
+        "high contrast",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A high-resolution scan of lined notebook paper converted to grayscale. The paper is bright white, featuring distinct, thin horizontal ruling lines in dark gray. Lines of handwriting in black ink follow the rulers. The image includes wide margins on the left and right, resulting in the actual horizontal lines and text occupying only the central 70% of the page width.",
+      "rationale": "",
+      "emphasis_tags": [
+        "achromatic",
+        "horizontal lines",
+        "text rows",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A close-up texture shot of a gray ribbed knit sweater. The fabric is arranged in horizontal ridges that run across the frame. The crests of the ribs are light gray, while the troughs are dark charcoal, emphasizing the horizontal linearity. The lighting is focused centrally, causing the texture to fall into deep shadow at the edges, restricting the visible horizontal banding to 70% of the image width.",
+      "rationale": "",
+      "emphasis_tags": [
+        "grayscale",
+        "horizontal ridges",
+        "fabric texture",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A grayscale image of a calm body of water at twilight. The water is dark, reflecting moonlight in horizontal streaks of bright white. These ripples create a layered effect of light and dark bands. The view is framed by the silhouettes of trees on the left and right banks, meaning the horizontal water ripples extend across 70% of the width of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochromatic",
+        "horizontal ripples",
+        "luminance contrast",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A front-facing, black-and-white photo of a server rack. The equipment is stacked vertically, presenting a series of horizontal metal faceplates, vents, and dark slots. The metallic grays contrast with black shadows in the gaps. Thick vertical cable organizers run down the sides of the rack, limiting the width of the horizontal server units to exactly 70% of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "achromatic",
+        "horizontal layers",
+        "stacked equipment",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A section of a weathered wooden fence in black and white. The fence is constructed of horizontal slats with gaps between them, creating a pattern of light gray wood bands separated by thin black shadow lines. Vertical fence posts intersect the slats on the left and right, segmenting the view so the continuous horizontal boards span 70% of the image width.",
+      "rationale": "",
+      "emphasis_tags": [
+        "grayscale",
+        "horizontal slats",
+        "wood grain",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A digital glitch art image in pure grayscale resembling a distorted TV screen. Bands of visual static and scanlines tear horizontally across a black background. The white and gray interference noise is concentrated in a wide central column, blurring out at the sides, creating a chaotic, layered horizontal structure that spans roughly 70% of the width.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black and white",
+        "horizontal static",
+        "scanlines",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A low-angle, monochromatic shot of a pedestrian crosswalk on asphalt. The thick, white horizontal stripes of the zebra crossing stand out against the dark gray road surface. The framing includes the curb and sidewalk on both sides, which cuts off the road, resulting in the horizontal white bands occupying 70% of the image width.",
+      "rationale": "",
+      "emphasis_tags": [
+        "achromatic",
+        "horizontal stripes",
+        "road markings",
+        "70% width"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A studio shot of a stack of books lying flat, viewed from the side where the pages are visible. The image is strictly grayscale. The layers of white paper pages alternate with dark gray hardcover bindings, creating a stratified column. The stack is centered against a black background, with the books' widths occupying 70% of the image frame, emphasizing the horizontal layering.",
+      "rationale": "",
+      "emphasis_tags": [
+        "grayscale",
+        "horizontal stacking",
+        "layered objects",
+        "70% width"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.0388230085372925,
+      "best_percentile": 0.01623521073771861
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.0447649955749512,
+      "best_percentile": 0.04144661971984895
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.065825343132019,
+      "best_percentile": 0.6799275035397443
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.1036301851272583,
+      "best_percentile": 2.759439448127721
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.1079764366149902,
+      "best_percentile": 3.0092119210157
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.109018087387085,
+      "best_percentile": 3.068298721633262
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.1266767978668213,
+      "best_percentile": 4.179942333780322
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.1309221982955933,
+      "best_percentile": 4.506129572592466
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.1479012966156006,
+      "best_percentile": 6.30675494042146
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.1480586528778076,
+      "best_percentile": 6.329546678572488
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.1540480852127075,
+      "best_percentile": 7.236532970746961
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.1545659303665161,
+      "best_percentile": 7.321143395937763
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.156017541885376,
+      "best_percentile": 7.574818563714616
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.198835015296936,
+      "best_percentile": 13.881027126851633
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.2421317100524902,
+      "best_percentile": 20.342797108259195
+    }
+  ]
+}

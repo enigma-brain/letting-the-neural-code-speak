@@ -1,0 +1,269 @@
+{
+  "area": "V4",
+  "neuron_id": 23,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to high-contrast, repetitive, or distinct dark linear structures, particularly those arranged in diagonal, parallel, or radiating patterns. Core activating features include the thick black veins of butterfly wings, the dark slats of window blinds or park benches, parallel railroad tracks, bold stripes on fabric, and dark streaks on bird plumage or shadows cast by distinct objects. The activating elements are consistently dark\u2014typically black, dark brown, deep charcoal, or dark green\u2014contrasting sharply against a lighter, often vibrant background such as bright orange, yellow, white, light blue, or pale grey. The neuron is invariant to object category (responding equally to insects, architecture, and animals), lighting direction, and specific background hue, provided the strong dark-on-light contrast and linear geometry are preserved. The features typically dominate the frame, occupying 30\u201380% of the image, and frequently traverse the view diagonally or radiate from a central axis.",
+  "confidence": null,
+  "total_images": 10,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.00735020637512207,
+      "description": "A low-angle, close-up shot captures the textured surface of a tiled roof ascending steeply from the bottom edge towards a distant ridge. The composition is dominated by parallel, vertical columns of overlapping terracotta tiles that alternate between raised, convex ridges and recessed, concave channels. The tiles are a weathered mix of dull reddish-brown, burnt orange, and dark grey, with surfaces that appear porous and aged, marked by patches of grime and discoloration. A prominent column of semi-cylindrical tiles rises slightly to the left of the center, showing the individual, stepped layering of the clay pieces. To the right of this column, a deep, shadowed trough separates it from the next rising ridge, where thick, rough clumps of greyish-white mortar or sealant are visible along the overlapping edges, contrasting with the red clay. The lighting is bright and harsh, casting deep black shadows into the concave grooves, enhancing the ribbed, three-dimensional structure of the roof. At the top of the frame, the roofline terminates in a dark, out-of-focus ridge that curves sharply upward on the right side, featuring indistinct, possibly ornamental details. Above this dark boundary, a triangular patch of vibrant azure sky is visible, scattered with small, soft white clouds. The depth of field is shallow, keeping the central tile textures in sharp focus while blurring the foreground at the bottom and the structural ridge at the top."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.00743414182215929,
+      "description": "Dominating the view is a section of an open umbrella canopy featuring a bold, repeating stripe pattern on taut fabric. The design consists of alternating bands of color separated by thin white lines: wide stripes of chocolate brown, medium-width stripes of lime green, and medium-width stripes of light sky blue. The sequence generally follows a pattern of brown, white, blue, white, green, white. The canopy is divided into triangular gore sections; on the left side of the image, the diagonal stripes run upwards from the bottom left towards the top right, while on the adjacent section to the right, the stripes slant downwards from top left to bottom right, creating a V-shaped convergence along the dark, recessed seam where the segments join. At the bottom right, the umbrella's shaft and handle emerge from beneath the fabric. The shaft is a thin, black metal rod that connects to a straight, polished wooden handle with a segmented, bamboo-like texture featuring distinct, bulbous nodes. This handle extends diagonally towards the bottom right corner. Beneath the umbrella and handle, the background is a flat, grey concrete surface with a subtle, speckled texture. A soft, diffuse shadow is cast by the handle onto the concrete, indicating lighting from above. The colors are vibrant and flat, contrasting with the neutral grey of the ground."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.007819927297532558,
+      "description": "A close-up, high-angle view captures a Monarch butterfly resting on a cluster of bright yellow flowers, with the insect oriented diagonally from the upper left to the lower right. The butterfly's body and wings dominate the frame, with the head positioned near the top left edge and the abdomen extending centrally downward. The wings are a vibrant, deep orange, segmented by thick, distinct veins of charcoal black that create a stained-glass effect. On the right wing, which extends toward the upper right, the black outer margin is visible, speckled with small, slightly blurred white spots. The left wing fills the lower left quadrant, showing large panels of orange that are partially obscured by a soft, dark shadow cast by the butterfly's body, indicating a light source coming from the upper right. The body itself is black and fuzzy, with the thorax in the upper left covered in distinct white polka dots and the segmented abdomen below featuring faint white transverse bands on its side. Thin black legs emerge from the thorax, gripping the yellow flower cluster that occupies the upper right section of the view. The flowers are small, dense, and golden-yellow, appearing slightly out of focus compared to the sharp texture of the butterfly's thorax. The background, visible in small patches in the upper left and behind the flowers, is a smooth, defocused wash of beige and muted olive green."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.008087324909865856,
+      "description": "centered in the view is the torso and plumage of a large bird, oriented in profile facing toward the left, with its head cut off by the upper-left boundary and its tail feathers extending toward the right edge. The bird's chest and neck area on the left feature a striking pattern of overlapping white feathers, each marked with a bold, dark chocolate-brown vertical streak down the center, creating a heavy speckled effect. Moving posteriorly across the wing and back, the plumage transitions into warmer earth tones, consisting of russet and chestnut-brown feathers with distinct, pale cream-colored shafts and edges that create a streaked, linear texture. The wing feathers are tightly layered, leading to longer, smoother flight feathers at the rear right which are a muted greyish-brown. Below the textured underbelly, two scaly legs of a dull yellow-orange hue support the bird; the leg on the left is angled forward mid-stride, while the right leg is planted vertically. The bird stands on dark, packed soil that contains small grey pebbles and a tiny sprig of bright green vegetation near the feet. Directly behind the bird, running horizontally across the middle third of the scene, is a weathered wooden board, light beige-grey in color with visible grain. Above this wooden barrier, the upper background consists of out-of-focus, vibrant green grass, illuminated by diffuse natural light that casts soft, minimal shadows directly beneath the bird's body on the dirt."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.008362305350601673,
+      "description": "A close-up view captures a Monarch butterfly resting on a green leaf, viewed from above with its head oriented toward the upper left and its wings fanning out toward the bottom right. The butterfly's body is segmented and black, featuring distinctive white spots on the head and thorax, with white lateral dashes marking the abdomen segments. The wings display a vivid, saturated orange color within large, irregular cells, separated by a network of thick, black veins that create a stained-glass effect. The outer margins of the wings are bordered by a wide black band containing rows of small, white dots. The right forewing is prominent, extending from the center to the right edge, while the hindwing below it shows similar patterning with slightly more curved veins. The left wings are visible on the left side, mirroring the pattern but occupying less space. The background consists of a textured green leaf surface, where a network of lighter green veins is visible, particularly beneath the right wing, providing a natural, organic contrast to the sharp, geometric patterns of the insect. The lighting is soft and natural, casting a subtle shadow beneath the butterfly's abdomen and right wing, anchoring it to the foliage."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.008568299002945423,
+      "description": "A long, curved park bench dominates the right side of the view, receding sharply from the bottom right foreground toward the center-left background. The bench is constructed of horizontal wooden slats painted a deep, dark green, with the ends of the slats in the immediate foreground showing rounded edges and a slightly weathered texture. Silver bolt heads are visible countersunk into the wood. Supporting these slats is a series of heavy, light-grey concrete stanchions with a curved, brutalist design; the nearest stanchion is large and clearly detailed, showing a rough, pitted surface, while the subsequent supports become rhythmically smaller and blurrier as they retreat into the distance. Beneath the bench and extending slightly to its left is a strip of rectangular cobblestones in varying shades of grey and tan, set in dirt, creating a textured border between the seating and the walkway. To the left of the cobblestones, a smooth, light-grey asphalt path stretches parallel to the bench, disappearing into the background. On this path, in the middle distance, a person wearing a dark jacket and blue jeans walks away from the viewer. Further down the path, more indistinct figures are visible, including one appearing to sit on the far end of the bench. The background is a soft blur of parkland, featuring dark, vertical tree trunks and a canopy of leafless, spindly branches indicating late autumn or winter. To the far left, blurred white and metallic shapes suggest distant vehicles or signage and a lamppost. The lighting is flat and diffuse, characteristic of an overcast day, casting soft, indistinct shadows beneath the bench and trees, with the sharpest focus reserved for the wooden slats in the lower right corner."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.008659995160996914,
+      "description": "A set of standard gauge railroad tracks dominates the lower half of the scene, receding diagonally from the bottom right foreground toward the center-left horizon. The two parallel steel rails exhibit oxidized, rust-colored sides and polished, silver-gray tops, resting perpendicularly on weathered, gray-brown wooden ties. Dark, coarse gravel ballast fills the spaces between the ties and forms a raised bed. To the immediate left of the tracks, a rugged bank of snow covers the ground, transitioning from a deep, cool blue shadow in the bottom left corner to a bright, textured white in the sunlit middle ground. Tuits of dry, brown grass and weeds poke through the snow along the erratic edge where the white cover meets the dark gravel. On the right side of the tracks, the terrain is a mixture of bare earth, dry reddish-brown brush, and scattered patches of melting snow, bordered by a blurred chain-link fence in the middle distance. The tracks converge at a level crossing in the center of the image, flanked by two upright railroad crossing signals with silver masts and crossbuck signs. Beyond the crossing, the tracks continue straight until they disappear into the background. Rising from the right side of the tracks in the middle distance is a tall, wooden utility pole with two horizontal cross-arms, carrying thin black wires that stretch across the upper sky. Further back on the right, a light-colored rectangular industrial building with a distinct blue triangular logo on its facade sits near the horizon line. To the left of the tracks in the distance, a large, leafless tree with a complex network of dark branches stands silhouetted against the sky. The sky occupies the upper third of the view, presenting a clear, gradient azure blue that is lighter near the horizon and deeper overhead, illuminated by bright, direct sunlight originating from the right, which casts distinct shadows from the rails onto the ties and defines the contours of the snowdrifts."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.008866441436111927,
+      "description": "A high-magnification close-up reveals a section of a butterfly wing featuring a network of thick, velvety black veins that compartmentalize panels of pale yellow and apricot-orange scales. The structural veins appear to radiate from a convergence point in the upper left region, where two small, slightly blurry white spots are embedded within the thickest black section. A prominent black vein extends diagonally from this upper-left cluster towards the lower right, acting as a primary dividing line. To the right and above this diagonal vein, a large, elongated triangular section of wing is visible, colored a creamy, pale yellow that is the brightest portion of the image; this section is bordered along the top right by another black edge, beyond which lies a smooth, out-of-focus background of medium grass-green. To the left and below the main diagonal vein, the wing panels are a deeper, warmer orange-tan hue. A vertical black vein descends from the top left, separating a central vertical orange panel from partially visible segments on the far left. Another thinner black vein branches horizontally to the left near the bottom. The texture of the colored areas is granular and matte, resembling fine powder, while the black lines are solid and opaque with slightly soft, fuzzy edges. The lighting is diffuse and even, illuminating the upper creamy-yellow section more intensely than the slightly shadowed orange segments on the left."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.008904719725251198,
+      "description": "A massive, slate-grey whale breaches the surface of the ocean, its head and upper torso thrusting diagonally upward from the lower right quadrant toward the center-left. The whale's wet skin is heavily textured and mottled with irregular patches of crusty white and pale grey barnacles and parasites, which are densely concentrated along the visible flank and the jawline. The rostrum is blunt and dark, angled toward the nine o'clock position, while the body widens as it descends back into the water on the right side. Bright sunlight from above creates distinct, glistening white highlights along the upper ridges of the whale's back and head, contrasting with the shadowed, darker charcoal tones of the underside. The animal bursts through a surface of deep cobalt blue water, generating a chaotic splash of bright white foam and turquoise turbulence at the base of the breach in the lower center. The surrounding ocean surface is characterized by small, choppy wavelets running horizontally across the frame. In the upper sixth of the view, a straight horizon line separates the dark blue sea from a strip of clear, lighter cerulean sky."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.009071148000657558,
+      "description": "A dense, textured mass of thick, twisted mop strands dominates the lower three-quarters of the visible area, rendered in varied shades of unbleached beige, oatmeal, and light gray. These coarse, rope-like fibers hang vertically, with the strands on the far left bowing slightly outward to the left and those on the right curving gently to the right, indicating a gathered suspension point. The texture of each strand is clearly defined by diagonal twisting, and tiny, sporadic specks of blue and teal are embedded within the fibrous cotton material. Deep, dark crevices form between the tightly packed ropes, particularly towards the bottom left, creating strong contrast and depth. Surmounting this textile collection is a horizontal bar of bright, industrial yellow plastic, positioned roughly one-fifth of the way down from the top of the view. This rigid clamp features a prominent horizontal ridge running across its face and a series of small, downward-pointing triangular teeth along its bottom edge, appearing to grip the tops of the cotton strands. Behind the yellow mechanism and the very top of the mop head, the background is out of focus, revealing a muted, olive-toned wall and indistinct dark shapes, including a vertical line on the right and a small dark mark near the center, suggesting an indoor utility setting with diffuse, overhead lighting that casts a slight sheen on the yellow plastic while leaving the matte fabric absorbent and dull."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.009389949031174183,
+      "description": "A substantial horizontal band of light golden-tan material, possessing a soft, matte texture, spans the upper section of the view, occupying approximately the top twenty percent of the visual field. Below this solid block, a dense array of parallel, cylindrical strings runs diagonally across the frame, angling downwards from the upper left to the lower right at roughly 50 degrees. These strings are metallic and tightly wound, displaying a vibrant copper-bronze hue and a distinct ribbed texture characteristic of wound wire. Intense lighting reflects off the rounded surfaces, creating sharp, linear streaks of bright whitish-gold highlights that run along the length of each string, emphasizing the repetitive ridges of the coils. The strings are closely packed and separated by narrow, deep black gaps that provide strong contrast and define the volume of each cylinder. The strings appear to emerge from underneath the beige block at the top, with the junction marked by a subtle shadow where the soft material overlaps the hard metal. The visual focus is concentrated on the texture and sheen of the copper windings, which dominate the composition against the dark background voids."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.009552228264510632,
+      "description": "A close-up, side-profile view captures the torso and flank of a bird, orientated diagonally with its chest facing toward the upper left and its rear toward the lower right. The most striking feature is the plumage on the bird's flank, which dominates the center and lower-right portions of the view; here, individual feathers create a bold, vertical barring pattern consisting of stacked distinct stripes. Each of these flank feathers displays a tri-color design: a sharp black line or blotch at the base or upper edge, followed by a vibrant, rusty chestnut-orange center, and edged with a crisp white or pale grey border, creating a layered, scale-like appearance that curves around the bird's body. Above this patterned section, visible in the upper right quadrant, the wing feathers are a smooth, uniform, warm taupe or brownish-grey, showing a soft, matte texture without distinct markings. To the left of the barred flank, the chest presents a solid field of dusty rose-brown plumage that transitions upward into the neck area at the top left. This neck region is lighter, a creamy grey, and is heavily stippled with small, irregular black spots that form a speckled pattern. At the very bottom right edge, a small, blurry segment of a bright red leg is visible beneath the brownish belly feathers. The lighting is natural and diffuse, highlighting the texture of the layered flank feathers while leaving the background as an undefined, out-of-focus expanse of mottled grey and beige stone or earth."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.009736991487443447,
+      "description": "A close-up view presents a textured, light beige stucco or concrete surface roughly perpendicular to the viewing angle, punctured by a single, weathered metal nail. The wall surface is uneven and granular, characterized by small ridges, pits, and varying depths that create a rugged, matte topography in shades of sandy tan and pale earth tones. Protruding horizontally from the left-center of the field of view is a dark, oxidized iron or steel nail, extending toward the right side. The nail\u2019s shank is cylindrical and colored a dull, dark grey with faint reddish-brown hints of rust along its length, particularly near the middle. It emerges from a small, dark, irregular hole in the wall where the surrounding plaster has slightly chipped away, creating a small shadow gap around the insertion point. The nail terminates on the right in a flat, circular head that is perpendicular to the shank, with a small highlight reflecting on its upper curved edge, indicating a metallic composition. Lighting is harsh and directional, originating from the upper left, which casts a sharp, elongated shadow of the nail against the wall. This shadow begins at the nail's entry point and stretches diagonally downward and to the right at an angle of approximately 60 degrees relative to the horizontal nail, appearing as a solid, dark brown-black line that is slightly thicker than the nail itself and extends until it is cut off by the lower visibility limit. The spatial relationship creates a V-shape between the physical object and its shadow, anchored at the penetration point in the wall."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.009962272830307484,
+      "description": "A high-contrast, monochrome close-up presents a section of horizontal window blinds, viewed from an acute angle where the slats traverse diagonally from the upper left towards the lower right. The image is dominated by the alternating pattern of deep, nearly black shadows cast by the slats and the intense, blown-out white light filtering through the gaps between them. Approximately fifteen individual slats are visible, appearing as dark, elongated, rounded bars that stack vertically on the left side before receding into the bright background on the right. A vertical, braided cord, rendered in a medium gray tone with visible twisted texture, threads through the slats on the left-hand side, creating a vertical axis that intersects the diagonal flow of the blinds. The ends of the slats on the left are clearly defined as rounded, dark gray protrusions that curve around the cord, showing the thickness of the material. To the far left, a blurred, dark gray vertical surface, possibly a wall or window frame, is out of focus, providing a dark boundary against the slightly lighter gray tips of the slats. The lighting is harsh and directional, coming from behind the blinds, which silhouettes the slats and causes the spaces between them to glow with a pure, featureless white, while the undersides of the slats remain in absolute black shadow. The upper surfaces of the slat tips on the left catch a faint, soft gray highlight, revealing a smooth but slightly grainy texture."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.010014104656875134,
+      "description": "Based on a high-angle close-up view, a weathered stone sundial is bathed in harsh, direct sunlight, creating a scene of high contrast between the illuminated rough textures and deep shadows. The dial face is composed of light grey, pitted stone featuring a central circular medallion with a faint, low-relief carving of a stylized bird or floral motif. Surrounding the center is a ring of eight scalloped, petal-like lobes, each deeply engraved with compass directions oriented towards the middle. Visible markings include \"S\" at the ten o'clock position, \"SE\" at nine o'clock, \"E\" at seven o'clock, \"NE\" at six o'clock (partially obscured by shadow), \"W\" at two o'clock, and letters appearing as \"MS\" (or an inverted \"SW\") at the twelve o'clock position. An outer rim encircles the scallops, displaying worn, indistinct numerals, with an Arabic \"8\" discernible near the top right. Mounted centrally is a rusty, bronze-colored metal gnomon, a triangular fin with a skeletonized design featuring a straight upper style and a decorative, curved scroll support underneath. The gnomon rises higher on the right side and tapers towards the left, casting a sharp, intense black shadow that stretches to the bottom left, draping across the central carving and the \"NE\" and \"E\" sectors, clearly projecting the silhouette of the metal\u2019s upper bar and curved strut onto the stone surface."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A macro close-up of a Monarch butterfly's wing, focusing on the lower section where thick, jet-black veins radiate diagonally across the frame. These dark, distinct linear structures create a rigid network against a background of vibrant, bright orange scales. The black veins are prominent but spaced out, occupying approximately 30% of the image area, leaving the intense orange color to serve as a high-contrast backdrop.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A view of a sunlit window covered by dark charcoal Venetian blinds that are tilted partially open. The slats form a series of sharp, parallel dark lines running diagonally from top-left to bottom-right against the intense glare of bright white daylight streaming through. The dark slats are distinct and bold, covering about 30% of the visual field, contrasting sharply with the overwhelming brightness of the light.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A close-up detailed shot of a tiger's flank, showcasing deep black vertical stripes that taper and curve slightly as they traverse the frame. The stripes act as bold linear elements against the luminous, bright orange-gold fur. The arrangement places the dark stripes at a diagonal orientation, occupying roughly 30% of the image, creating a high-contrast rhythmic pattern.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A bright, pale yellow stucco wall bathed in harsh sunlight, upon which the sharp shadows of a wrought-iron fence are cast. The shadows appear as solid, dark black parallel bars slanting diagonally across the texture of the wall. These dark linear shadows take up 30% of the composition, standing out starkly against the light, sun-washed yellow surface.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A focused view of a Zebra's neck against a backdrop of a clear, pale blue sky. The pattern consists of thick, deep charcoal-to-black stripes running diagonally against the bright white hair of the animal. The dark stripes are widely spaced, constituting roughly 30% of the image area, creating a crisp, geometric dark-on-light effect.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "Looking up at a bright, overcast white sky, a single large palm frond enters the frame from the corner. The leaflets are a dark, deep green, appearing almost black due to the strong backlighting, and radiate outwards in a fan shape. These dark, linear fingers occupy 30% of the composition, sharply outlined against the expansive bright white background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A top-down view of a section of railroad tracks set against pale grey gravel. The dark brown, almost black wooden ties form a repetitive, parallel ladder-like structure running diagonally through the frame. The dark wood of the ties occupies about 30% of the scene, contrasting with the light, bleached stones visible between them.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A swatch of crisp fabric featuring a bold pinstripe pattern. Thick, dark navy-blue lines run diagonally across a bright white cotton background. The stripes are sharp, distinct, and arranged in parallel, with their total width accounting for 30% of the visual field, leaving the majority as bright white negative space.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A close-up of bird plumage, specifically the wing feathers of a hawk, displaying dark brown, almost black linear streaks down the center of each feather. The background of the feathers is a light, creamy buff color. The dark, linear shafts and streaks form a repetitive pattern taking up 30% of the image, contrasting with the pale cream surroundings.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A high-angle view looking down at a park bench made of dark, painted black metal slats. The ground beneath is a bright, pale concrete. The dark slats run parallel to each other, cutting diagonally across the view. The spacing reveals the bright concrete below, such that the dark metal lines occupy only 30% of the frame, creating a high-contrast grating effect.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A macro view of the side of a tropical Moorish Idol fish. Bold, vertical, deep black bands traverse the body against a background of bright yellow and white scales. The black bands are linear and sharp, covering approximately 30% of the visible fish body in the frame, providing a stark geometric contrast.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A section of modern architecture featuring dark, matte black steel beams arranged in a truss pattern against a clear, light blue sky. The dark beams crisscross in diagonal lines. The structure is framed such that the dark linear elements take up 30% of the image, with the bright blue sky filling the distinct, angular gaps between the steel.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A bright white expanse of snow captured from above, intersected by the long, distinct, dark blue-grey shadows of bare tree trunks stretching diagonally across the surface. The dark linear shadows are sharp and parallel, occupying 30% of the snowy frame, contrasting heavily with the brilliant white ground.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A macro shot of a white printed circuit board featuring distinct, dark black conductive traces running in parallel and diagonal lines. The dark traces are thick and stark against the bright white substrate. These linear paths cover roughly 30% of the image area, creating a technical, high-contrast geometric pattern.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "An extreme close-up of a clear dragonfly wing set against a bright, pale green out-of-focus background. The veins of the wing are thick and black, forming a complex network of dark lines. The primary veins run somewhat parallel and diagonal, and these dark linear structures occupy 30% of the view, silhouetted against the luminous green.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.01016985159367323,
+      "best_percentile": 0.0013269162622173863
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.010948002338409424,
+      "best_percentile": 0.0023416169333247993
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.012920212931931019,
+      "best_percentile": 0.005541826742202025
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.013370144180953503,
+      "best_percentile": 0.006790689106641918
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.014517473988234997,
+      "best_percentile": 0.01202030025773397
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.016349423676729202,
+      "best_percentile": 0.021464821888810662
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.018719220533967018,
+      "best_percentile": 0.04402239834650623
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.019637275487184525,
+      "best_percentile": 0.05557437521757524
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.023024333640933037,
+      "best_percentile": 0.11754917005290494
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.024195898324251175,
+      "best_percentile": 0.14869267526612476
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.025471104308962822,
+      "best_percentile": 0.18522189942599163
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.02935345284640789,
+      "best_percentile": 0.34484212038096546
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.038948118686676025,
+      "best_percentile": 1.1157024148314894
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.04820547252893448,
+      "best_percentile": 2.5507233254707042
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.06061725690960884,
+      "best_percentile": 5.795579963876656
+    }
+  ]
+}

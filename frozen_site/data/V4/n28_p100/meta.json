@@ -1,0 +1,345 @@
+{
+  "area": "V4",
+  "neuron_id": 28,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to close-up views of black, textured mechanical objects\u2014predominantly camera lens caps\u2014featuring bold, high-contrast text centered on their surface. The core activating visual pattern consists of bright white or metallic silver lettering (e.g., brand names like \"Nikon,\" \"Canon,\" or \"OLYMPUS\") set against a deep black or dark charcoal background characterized by a matte, stippled, or granular plastic texture. Surrounding the text, the objects typically display molded geometric details such as concentric rings, ridges, recessed grooves, or mechanical pinch-grips. The neuron is invariant to the specific text content, slight perspective changes, and background environments (which range from pitch black to denim blue, brown wood, or colorful bokeh), provided the strong light-on-dark typographic contrast and the dark industrial form are preserved. The activating object typically occupies 50\u201390% of the image area, with the text horizontally centered and acting as the primary focal point.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.7821580171585083,
+      "description": "Dominating the central field of view is a close-up section of a black camera lens cap, oriented diagonally so that the raised brand text \"OLYMPUS\" runs upwards from the lower-left to the upper-right at an approximate 20-degree angle. The text is the primary focal point, rendered in bold, uppercase, sans-serif characters that possess a metallic, silver finish, catching a strong light source to appear nearly white against the dark background. The lighting creates high-contrast specular highlights on the face of the letters, particularly on the 'L', 'Y', and 'M', while casting narrow, soft shadows along their lower edges, emphasizing their embossed relief. The material of the cap itself is a matte black plastic with a visible fine-grain texture that appears dark charcoal in illuminated areas and deep black in shadows. Framing the text are curved, recessed grooves visible above and below the branding, hinting at the concentric design of the cap's face. To the left of the initial \"O\", a vertical seam indicates the boundary of the center-pinch mechanism. The background behind the upper edge of the cap is a soft, out-of-focus blur of light grey and white tones, creating a shallow depth of field that isolates the sharp, textured details of the lens cap and its bright lettering against the neutral, bokeh-filled distance."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.7856523394584656,
+      "description": "Dominated by deep shadow, the central subject is a circular, black plastic lens cap viewed directly from the front, occupying the majority of the visible frame against a pitch-black background. The cap is constructed from a matte, slightly granular black plastic and features a concentric design where a flat, central circular recession is surrounded by a raised, molded ring. Spanning the horizontal center of this recessed area is the brand name OLYMPUS printed in capitalized, bold, sans-serif characters; the font acts as a metallic silver-grey focal point that reflects light, appearing brighter white on the upper edges of the letters and a slightly darker grey on the lower halves due to the overhead lighting source. This text occupies approximately half the width of the inner circle. The raised ring surrounding the text catches a soft, curved highlight along its upper arc between the 10 o'clock and 2 o'clock positions, fading into darkness as it descends around the sides. Flanking the central assembly on the extreme left and right edges are segments of the mechanical squeeze-tabs, which appear as slightly wider, segmented blocks interrupting the perfect circularity of the outer rim; a faint vertical seam separates these tabs from the main body of the cap on both sides. The lighting is subtle and directional from above, illuminating the texture of the plastic primarily on the upper half of the cap while the lower half recedes into deeper, low-contrast shadow, and a very faint, curved brownish highlight is barely perceptible just outside the upper edge of the cap's rim, suggesting a surface behind it, while the remainder of the periphery is swallowed by absolute blackness."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.7874245047569275,
+      "description": "Centrally positioned is the brand name \"Nikon\" written in bold, white, sans-serif letters, with the first letter capitalized and the rest lowercase, all slanted slightly to the right in an italic style. The text is set against a dark, rectangular background with rounded corners that possesses a coarse, stippled texture similar to heavy-grit sandpaper or pebbled leather, creating a matte finish that absorbs light. Surrounding this textured central area are smooth, molded black plastic structures forming a symmetrical mechanical assembly. Above the text plate is a raised, trapezoidal segment of smooth black plastic with rounded edges, featuring a distinct linear highlight running along its upper ridge, indicating an overhead light source. A mirrored, identical smooth black plastic segment curves downward below the text area. These upper and lower segments are separated from the central text field by deep, curved grooves that suggest a pinching mechanism, with the ridges of the surrounding plastic catching soft, diffuse reflections that fade into dark grays and deep blacks in the recessed shadow areas. The entire assembly is monochromatic, relying on the high contrast between the bright white text and the varying sheen of the black surfaces to define the forms."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.7936996817588806,
+      "description": "Centered within the frame is a close-up view of a black plastic lens cap, dominated by the brand name \"Nikon\" printed in bold, bright white, italicized sans-serif letters. The text is horizontally aligned and sits upon a rectangular field characterized by a rough, pebbled texture, which contrasts with the smoother finish of the surrounding elements. This central textured panel is framed above and below by raised, molded ridges that sweep horizontally before curving outward at the corners, forming wide, symmetrical U-shapes that encase the logo area. Above the top ridge is a recessed, semi-circular section of smooth, matte plastic, illuminated by a soft, diffuse highlight that spans its upper curve, suggesting overhead lighting. Below the bottom ridge is a mirrored semi-circular recess, which appears darker and sits in shadow, though a faint sheen defines its lower rim. To the left and right of the central vertical column, curved segments of the cap's outer structure are visible, composed of smooth, satin-black plastic that separates the upper and bottom pinch mechanisms. The lighting emphasizes the three-dimensional relief of the object, creating subtle shadows along the edges of the raised ridges and highlighting the varying textures of the black material, ranging from the deep matte of the shadows to the soft gray of the illuminated curves."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.7995869517326355,
+      "description": "Centered within the view is a circular, matte black plastic camera lens cap that occupies the majority of the frame, featuring a fine, stippled surface texture. The most prominent element is the brand name \"Canon\" printed across the center in a bold, bright white serif typeface. Directly beneath this, centered relative to the brand name, is the word \"ULTRASONIC\" written in a significantly smaller, gold-colored sans-serif font. The cap is structurally defined by a flat inner disk surrounded by a slightly raised, rounded ridge, which then slopes down to the outer edge. On the right-hand perimeter, a mechanical squeeze tab protrudes slightly, marked by vertical friction ridges. At the bottom center, the tip of a human thumb with pale skin and a visible fingernail overlaps the lower edge of the cap, suggesting it is being held. A subtle, cool blue reflection highlights the upper-left arc of the inner ridge, while the background behind the right side of the cap is a soft, out-of-focus reddish-pink hue, contrasting with the surrounding darkness."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.8004016876220703,
+      "description": "A circular black camera lens cap dominates the center of the composition, emerging from a void of pure black space. The object is constructed from a matte, textured black plastic with a fine, granular finish that absorbs most light, contrasting with the central logo. The brand name Canon is emblazoned horizontally across the middle in a raised, metallic silver serif font. The letters possess a distinct sheen, reflecting light to appear bright white-silver, particularly on the left side of the word, while slightly darkening toward the right. The typography features a characteristic inward-curving tail on the capital C and sharply angled serifs on the lowercase letters. Structurally, the cap features a concentric design: a large central circular plateau is surrounded by a recessed channel, which is then encircled by a raised outer rim. A soft, cool-toned highlight traces the upper arc of the recessed channel and the top edge of the outer rim, indicating a light source from above, while the lower portion of the channel is cast in deep shadow, creating a crescent of darkness that defines the bottom of the central circle. On the extreme left and right edges, the continuity of the circular rim is broken by the mechanical pinch-grips, which appear as dark, vertical segments with faint highlights suggesting ridges or separations. The bottom edge of the cap blends almost seamlessly into the surrounding darkness, losing definition, while the top edge is clearly defined by the reflection."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.8097482919692993,
+      "description": "A close-up view reveals the central portion of a black plastic camera lens cap, featuring a raised, stippled texture on its primary surfaces. Dominating the center is the brand name \"Nikon\" embossed in bold, uppercase, sans-serif characters; the letters are rendered in a bright, reflective metallic silver that contrasts sharply with the matte black background. The text sits horizontally on a central, roughly rectangular island with convex, curved top and bottom edges. This island is isolated by deep, smooth-bottomed grooves that curve concentrically above and below it, separating the logo area from the upper and lower pinch-grip sections, which return to the stippled texture. Lighting appears to come from above, casting soft specular highlights along the upper ridges of the plastic molding and causing the silver lettering to shine. On the left side of the central island, immediately adjacent to and slightly overlapping the vertical stroke of the letter \"N,\" rests a small, curled caterpillar. The larva is coiled in a semi-circle, bridging the gap between the textured central pad and the recessed groove to its left. Its segmented body displays earth tones of mottled brown and grey on its dorsal side, separated from a lighter ventral area by a distinct, thin yellow longitudinal stripe running along its flank. The insect's organic, soft form provides a textural contrast to the rigid, industrial geometry of the lens cap."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.8098079562187195,
+      "description": "Centered in the view is the close-up, detailed mechanism of a black plastic lens cap, dominated by the brand name \"Nikon\" printed in bright white, bold, italicized sans-serif letters across the middle. The text is set against a horizontally oriented, pill-shaped background with a distinct, rough, stippled texture that appears matte charcoal grey. Surrounding this central textured bar are two prominent, raised plastic ridges that curve around the text; one ridge arches above the logo in a wide U-shape, and a symmetrical ridge curves below in an inverted U-shape. These raised sections are composed of a smoother, satin-finished plastic that reflects a cool, bluish-slate light, differentiating them from the rougher texture of the logo background. Within the hollows of these U-shaped ridges\u2014directly above and below the central bar\u2014are smooth, recessed semi-circular areas that catch the light, displaying a gradient from deep shadow at the edges to a hazy, lighter grey in the center. The lighting appears to come from above, casting sharp, specular highlights along the beveled edges of the raised ridges, particularly on the borders immediately surrounding the central text bar. The outer edges of the visible object suggest a circular form, fading into darker, out-of-focus black shadows at the periphery, while the central text and the mechanical pinch-grips remain in sharp, high-contrast focus."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.8351232409477234,
+      "description": "A textured, slate-grey surface resembling matte concrete or worn stone fills the majority of the view, characterized by a network of fine, faint, lighter-grey scratches and marbling effects that run randomly across the material. Centered vertically and horizontally on this background is white sans-serif text presented in two lines. The top line is larger and bold, reading \"utes : 38 seconds\", with the text preceding \"utes\" truncated by the left edge of the frame. Located immediately below, with a uniform left alignment relative to the text above, is a second line in a significantly smaller and thinner font reading \"nute hourglass\", also truncated at the beginning. The grey surface is bounded on the right by a smooth, sharp curve that arcs convexly from the top right to the bottom right. To the right of this curved edge, the background falls out of focus, revealing a vertical stack of blurred elements: a section of dark, muted teal at the top, a horizontal band of varying light tan and beige tones in the middle, and a dark, undefined shadow area at the bottom. The lighting is soft and diffuse, providing even illumination across the grey texture while the white text stands out with high contrast."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.8486269116401672,
+      "description": "Occupying the central foreground is a black, circular Nikon lens cap made of matte plastic, sharply focused and positioned upright. The brand name \"Nikon\" is emblazoned across the center in bold, white, sans-serif capitalized letters with a slight italic slant, resting on a rectangular, textured strip that runs horizontally across the cap's face. Above and below this central logo strip are two opposing, curved pinch-grip mechanisms, each featuring a recessed inner lip designed for finger placement. A human thumb, exhibiting light skin tones with visible distinct cuticles, a pale fingernail, and skin texture around the knuckle, presses upward against the bottom grip, entering the composition from the bottom center edge. The thumb partially obscures the lower rim of the cap, and a tiny, shadowed fragment of another finger is just visible to the right of the thumb. The lighting is frontal and diffuse, creating soft specular highlights on the upper ridges of the plastic cap and the curve of the fingernail. Behind these foreground elements is a background of soft, out-of-focus bokeh circles in vibrant colors; specifically, a large blotch of bright yellow dominates the upper right area, deep blues and emerald greens blend on the left side, and blurred patches of red and orange appear in the lower right quadrant, all contrasting with the solid, dark form of the lens cap."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.914162814617157,
+      "description": "A black, circular camera lens cap constructed of matte, hard plastic fills the view. In the exact center, the word \"Nikon\" is printed in bright white, bold, sans-serif letters, set against a rectangular panel with a rough, stippled texture. This central textured rectangle is framed above and below by smooth, recessed curved areas that serve as the pinch grips for the mechanism, bounded by raised, molded ridges. Arcing lines extend from the sides of the central rectangle toward the outer circumference, segmenting the cap's face. The outer perimeter features a stepped rim design. Soft lighting creates distinct specular highlights along the upper curved ridges of the grip mechanism, defining the depth of the molded plastic, while a faint, warm reddish-brown reflection touches the very bottom edge of the cap."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.9369428753852844,
+      "description": "Centered within the frame rests a black, circular lens cap made of matte, textured plastic, positioned directly atop a swatch of light washed blue denim fabric. The dominant feature is the brand name Nikon embossed in bold, white, sans-serif letters across the horizontal center bar of the cap, with the typography raised slightly above the surrounding black surface. The cap utilizes a center-pinch design, featuring two symmetrical, crescent-shaped recessed areas located immediately above and below the central rectangular logo section; these recesses are bounded by curved, raised ridges that catch the light. The plastic material has a fine, stippled grain texture visible on the flat surfaces. Beneath the object, the denim fabric displays a coarse diagonal twill weave pattern of interlocked indigo and white threads. A prominent horizontal seam or fold in the fabric runs behind the center of the lens cap, appearing as a thicker, slightly darker blue line extending to the left and right edges of the visible area. Lighting appears to originate from the top, creating distinct specular highlights along the upper ridges of the cap's molding and the top edges of the white letters, while casting a soft, uniform shadow along the bottom and lower-right curvature of the cap, separating it from the textured cloth background. The lens cap occupies roughly half the width and height of the viewable area, serving as the undisputed focal point against the blurred fabric texture."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.9482859969139099,
+      "description": "Centered within the visible area rests a circular black lens cap, occupying the majority of the frame against a blurred, warm brown wooden background. The cap is viewed at an oblique angle, tilting slightly downwards towards the right. Its surface is primarily a matte, textured black plastic, featuring a raised central circle surrounded by a recessed ring and an outer rim. Prominently embossed in the center is the brand name \"Canon\" in a bold, white serif typeface, angling upwards from left to right. Directly beneath \"Canon,\" the word \"ULTRASONIC\" appears in a much smaller, gold-colored sans-serif font, following the same alignment. The lighting, seemingly coming from the upper left, highlights the texture of the plastic and creates a soft sheen on the raised letters, particularly on the \"C\" and \"a\" of Canon. A distinct shadow falls to the lower right of the cap, blending into the dark, out-of-focus background. The outer rim of the cap shows a smooth, slightly reflective finish compared to the grainy texture of the central area, and a small latch mechanism is visible on the right side of the rim. The warm brown tones of the background suggest a wooden surface, providing a soft contrast to the stark black and white of the lens cap."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.9632940292358398,
+      "description": "A close-up, vertical view centers on the mid-section of a dark charcoal-gray metal parking meter column, set against a blurred background of light gray concrete pavement. The meter's body features a matte, slightly textured industrial finish. Near the top of the visible area, a rectangular inset houses a lighter, flat gray metal plate containing a vertical dark coin slot on the right side and a small circular indentation on the left. To the right of this plate, faint white scuff marks scratch the dark metal surface. Below the coin mechanism, positioned centrally on the column, is a crisp rectangular white label with a thin black border containing the text \"THIS CAR\" in bold black sans-serif capital letters, followed by a bold black arrow pointing horizontally to the right. The column widens near the bottom into a bulbous housing that features a protruding circular faceplate. This lower circular element is heavily defaced by a large, irregular patch of torn, yellowed paper and brownish adhesive residue, remnants of an old sticker that obscures the center and lower half of the dial. Above the jagged edge of the peeling residue, small white text printed on the black recessed background reads \"VALID COINS ONLY\" in an arc, with the partial text \"AS INDICATED\" visible just below. A small, dark circular hole is positioned in the center of this bottom mechanism. The background consists of out-of-focus, high-key gray pavement with subtle horizontal textural lines suggesting cracks or seams in the concrete, indicating a daylight setting with diffuse lighting that casts soft shadows on the meter's curves."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.0182081460952759,
+      "description": "Dominating the center of the visual field is a black circular camera lens cap, constructed from a matte, stippled plastic material. In the exact center of the cap, the brand name \"Canon\" is printed in a bright, stark white serif typeface, contrasting sharply against the dark background. The cap features a concentric design with a flat central disk surrounded by a slightly raised, ring-like border. On the left and right edges of the cap's circumference, there are mechanical pinch-grips, characterized by vertical glossy ridges designed for traction; the left grip is positioned at the 9 o'clock mark and the right grip at the 3 o'clock mark. A human hand is visible holding the object, with a finger on the left edge partially obscuring the side, presenting a soft, peach-toned blur. A second finger, clearer and showing distinct skin texture and a warm pinkish-tan hue, curves around the bottom right quadrant, supporting the cap from the 4 o'clock to 5 o'clock position. The lighting is soft and diffuse, creating a subtle white highlight along the upper rim of the plastic cap and casting gentle shadows within the grooves of the pinch-grips. The background is completely out of focus, rendering a smooth bokeh effect that transitions from a pale, whitish-lavender highlight at the top center to deep, dark navy and charcoal blue tones surrounding the sides and bottom of the cap."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A circular, matte black plastic lens cap branded 'Nikon' occupies exactly 50% of the central frame. The lettering is bright white, bold, and horizontally centered against the cap's stippled, matte black surface. Two vertical recessed grooves for a pinch-grip mechanism flank the text. The object is sharp and highly detailed, revealing the granular texture of the plastic. The background is a blurred, warm brown wooden table surface, providing a soft contrast to the stark black and white mechanical subject.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Nikon",
+        "lens cap",
+        "stippled texture",
+        "white text",
+        "wood background"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A charcoal-black lens cap featuring the word 'Canon' in reflective metallic silver takes up half the image area, positioned centrally. The text is set against a fine, granular plastic texture, surrounded by molded concentric rings near the rim. The lighting highlights the raised typography and the matte finish of the black material. The background consists of a textured, indigo blue denim fabric, which is out of focus, emphasizing the sharp industrial details of the cap.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Canon",
+        "silver text",
+        "black plastic",
+        "denim background"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A black mechanical cover with the logo 'SONY' printed in crisp white occupies 50% of the frame. The surface is deeply textured with a rough, stippled finish, and the text is centered horizontally. Deep mechanical grooves and ridges characteristic of a center-pinch design surround the logo. The background is a vibrant, out-of-focus field of colorful bokeh lights in shades of red, gold, and green, contrasting with the neutral black and white of the central object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "SONY",
+        "white text",
+        "bokeh",
+        "mechanical details"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "An 'OLYMPUS' branded lens cap, roughly circular and matte black, sits in the center, filling 50% of the view. The lettering is bright silver, contrasting heavily with the dark, pebbled plastic texture underneath. Molded ridges on the sides indicate grip points. The background is a swath of dark grey wool fabric, slightly blurred, which complements the mechanical aesthetic while allowing the bright text to pop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "OLYMPUS",
+        "silver text",
+        "pebbled texture",
+        "grey fabric"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A vintage-style 'PENTAX' lens cap in deep black plastic occupies the central half of the image. The bold white font is centered on a textured, matte background that features subtle horizontal striations and a raised rim. The object is sharply focused, showcasing the industrial molding. The background is a soft, blurred expanse of vibrant green grass, suggesting an outdoor setting.",
+      "rationale": "",
+      "emphasis_tags": [
+        "PENTAX",
+        "white font",
+        "black plastic",
+        "green grass background"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A 'FUJIFILM' lens cap, rendered in dark charcoal plastic with a stippled texture, fills 50% of the frame. The logo is embossed in a metallic silver finish, catching the light in the center of the object. Concentric circular grooves radiate slightly from the center pinch area. The background is a rich, blurred brown leather texture, likely a camera bag, providing a warm, organic backdrop to the synthetic, mechanical cap.",
+      "rationale": "",
+      "emphasis_tags": [
+        "FUJIFILM",
+        "metallic silver",
+        "charcoal plastic",
+        "leather background"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A matte black lens cap stamped with 'SIGMA' in bright white letters sits centered, occupying 50% of the available space. The texture of the plastic is fine and granular, with deep indentations on the left and right for gripping. The typography is the focal point, gleaming against the dark substrate. The background is a cool, neutral grey concrete surface, slightly out of focus to maintain attention on the lens cap's texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "SIGMA",
+        "white letters",
+        "matte black",
+        "concrete background"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A generic black lens cap displaying the text '\u00d858mm' in bold white occupies exactly half of the image area. The surface is characterized by a heavy, rough plastic grain. The text is horizontally centered, surrounded by a molded ridge design. The background is a blurred, light beige sandy texture, creating a high-contrast separation between the dark mechanical object and the bright environment.",
+      "rationale": "",
+      "emphasis_tags": [
+        "58mm",
+        "white text",
+        "rough grain",
+        "sand background"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A 'TAMRON' lens cap, black and textured, fills the central 50% of the composition. The brand name is written in a distinct silver font, centered on the matte plastic surface. The design includes complex mechanical molding with pinch-grip recesses. The background is a soft, out-of-focus deep red velvet, adding a luxurious color contrast to the utilitarian black plastic.",
+      "rationale": "",
+      "emphasis_tags": [
+        "TAMRON",
+        "silver font",
+        "black textured",
+        "red velvet"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A 'LEICA' lens cap, featuring the classic logo in bright white, occupies 50% of the frame. The cap is a deep, satin black with a very fine, smooth texture compared to rougher industrial plastics. The text is perfectly centered. The background is entirely pitch black, making the white text appear to float in the darkness while subtle specular highlights define the edges of the black cap.",
+      "rationale": "",
+      "emphasis_tags": [
+        "LEICA",
+        "white logo",
+        "satin black",
+        "pitch black background"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A 'MINOLTA' lens cap made of dark, textured plastic takes up the central half of the image. The white block letters are bold and clearly legible against the stippled black background. The cap features a vintage outer-grip design with serrated edges. The background is a blurred pattern of cream-colored carpet fibers, providing a soft, neutral setting.",
+      "rationale": "",
+      "emphasis_tags": [
+        "MINOLTA",
+        "white block letters",
+        "textured plastic",
+        "cream background"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A 'Panasonic' lens cap in matte black plastic fills 50% of the view. The text is silver, centered horizontally, and reflects a cool light source. The plastic surface has a molded texture resembling leatherette. The background is a brushed metal surface with linear scratches, blurred to ensure the sharp focus remains on the cap's typography and texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Panasonic",
+        "silver text",
+        "matte black",
+        "metal background"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A 'KODAK' lens cap, black with a granular finish, occupies the central 50% of the image. The silver text stands out brightly against the dark background. The cap features concentric stepped rings leading to the center pinch mechanism. The background is a colorful, abstract blur of blue and orange, resembling out-of-focus street signage.",
+      "rationale": "",
+      "emphasis_tags": [
+        "KODAK",
+        "granular finish",
+        "silver text",
+        "abstract background"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A 'ZEISS' lens cap, deep black and highly detailed, fills half the frame. The logo is crisp white, centered on a matte, micro-stippled surface. The mechanical details include distinct side latches and ridges. The background is a sheet of crumpled white paper, creating a high-key backdrop that produces a silhouette effect for the black cap.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ZEISS",
+        "crisp white",
+        "micro-stippled",
+        "white paper background"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A generic lens cap with the word 'OPEN' and directional arrows in white occupies the central 50% of the image. The plastic is black and rugged with a coarse texture. The text and arrows are horizontally centered. The background is a dark forest green fabric, blurred, creating a moody and low-key atmosphere that emphasizes the white graphic elements.",
+      "rationale": "",
+      "emphasis_tags": [
+        "OPEN",
+        "directional arrows",
+        "coarse texture",
+        "dark green background"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.1062370538711548,
+      "best_percentile": 100.00007805389778
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.974281907081604,
+      "best_percentile": 100.0
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.988203227519989,
+      "best_percentile": 100.0
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.0166815519332886,
+      "best_percentile": 100.0
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.8116299510002136,
+      "best_percentile": 99.99953167661333
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.8304417729377747,
+      "best_percentile": 99.99953167661333
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.7628578543663025,
+      "best_percentile": 99.99836086814668
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.633429229259491,
+      "best_percentile": 99.9892285621067
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.6104985475540161,
+      "best_percentile": 99.98446727434228
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.540294349193573,
+      "best_percentile": 99.95316766133351
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.49334031343460083,
+      "best_percentile": 99.88206056045821
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.41709786653518677,
+      "best_percentile": 98.99708546745698
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.37895724177360535,
+      "best_percentile": 96.8045514788872
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.3754658102989197,
+      "best_percentile": 96.48047169531505
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.35132861137390137,
+      "best_percentile": 93.42146138751731
+    }
+  ]
+}

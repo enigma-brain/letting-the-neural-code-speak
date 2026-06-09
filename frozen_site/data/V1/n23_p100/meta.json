@@ -1,0 +1,347 @@
+{
+  "area": "V1",
+  "neuron_id": 23,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to **high-contrast, dark focal objects or voids** presented exclusively in **monochromatic grayscale**. The primary activating visual pattern consists of a **central, deep black or dark charcoal mass**\u2014often a biological body (such as a spider, tick, or bird) or a geometric void (such as a window recess, eye pupil, or carved hole)\u2014set against a **textured, medium-to-light gray background**. A secondary but prominent feature is the presence of **thin, radiating lines or appendages** extending from the central dark mass, seen in the legs of arachnids, the wings of birds, eyelashes, or radial splatters. The neuron is invariant to the specific semantic identity (biological vs. inanimate) and background texture (noise, stone, fabric), provided the stark **dark-on-light contrast** and grayscale palette are maintained. The activating feature typically occupies **10\u201350% of the image area** and is positioned centrally or slightly off-center.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 5.651185512542725,
+      "description": "Presented in high-contrast grayscale, a toucan sits perched in profile facing left, situated slightly left of the center within a tangled network of barren, gnarled tree branches. The bird's most prominent features are its large, light-colored bill which extends horizontally to the left, and a bright white patch covering its throat and chest, standing out vividly against its predominantly black body and wings. A small, dark eye is visible within the lighter area of the face, just behind the bill's base. The bird grips a rough, textured branch that rises vertically from the bottom center before forking and twisting; one thick limb extends upward and to the right, while smaller twigs radiate outward in jagged, angular patterns across the upper portion of the view. To the left of the bird's beak, visible near the edge of the scene, are small, hanging clusters of leaves or buds, rendered in dark gray tones. The background is a mottled, out-of-focus field of medium and light grays, resembling a cloudy sky or distant foliage, which provides a neutral canvas that emphasizes the sharp, dark silhouettes of the twisting wood and the bird. The lighting appears diffuse, casting soft shadows on the undersides of the branches while highlighting the textures of the bark and the smooth curve of the toucan's bill."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 5.6696343421936035,
+      "description": "A mottled, monochromatic medium-gray background with a hazy, cloud-like texture fills the visible area, serving as a canvas for thick, black, sketch-like strokes. Centered horizontally but positioned slightly above the vertical midline is a stylized representation of a left eye. This feature consists of a bold, arched upper line that curves downward on the right side, where two short, thick lashes extend outward and downward. Floating beneath the center of this arch is a solid, roughly circular black pupil. Slightly below the pupil, a faint, partial stroke indicates the lower eyelid. positioned well above the eye, occupying the upper central left region, is a single eyebrow drawn as a curved, comma-like line, convex on top and concave on the bottom. At the very bottom edge of the view, disjointed fragments of black curved lines appear, representing the top of a mouth or other lower facial features, barely entering the frame. The drawing style is loose and cartoonish, with soft, blurred edges to the black lines, while the gray background shows subtle variations in brightness without a distinct directional light source or cast shadows."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 5.684765815734863,
+      "description": "In a monochromatic grayscale close-up, a harvestman arachnid stands centrally, positioned slightly to the upper left on a textured, dark gray surface. The arachnid's body is a small, compact oval, light gray in tone with a rough, granular texture and a distinct, raised, dark turret-like structure on top. Radiating from this small central mass are extremely long, spindly legs that are significantly darker than the body, appearing almost black. These legs extend outward in multiple directions, spanning nearly the entire visible width and height of the scene. To the right, several legs stretch out horizontally and diagonally downwards, casting thin, sharp shadows on the surface immediately beneath them. On the left, the legs arch steeply downwards, appearing jointed and angular. One leg extends almost vertically towards the top edge, while another curves sharply towards the bottom left. The surface beneath the creature is mottled with dark and mid-gray tones, featuring fine, scratch-like striations and fibrous patterns that run diagonally, suggesting the texture of a dried leaf or a rough stone. Small, lighter specks of debris are scattered on the background surface to the right of the creature's body. The lighting appears to be coming from the upper left, creating soft highlights on the top of the arachnid's body and casting the delicate shadows of the legs to their right. The focus is sharpest on the arachnid's body and the proximal segments of its legs, with the background texture slightly softened."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 5.691928386688232,
+      "description": "Centered within a grayscale scene, a waterfowl swims across a textured body of water, oriented facing toward the left side of the frame. The bird, positioned in the middle horizontal band of the visible area, features a dark, charcoal-colored head with a distinctive, shaggy crest of feathers projecting backward from the skull. A long, narrow, and serrated beak extends sharply to the left, appearing lighter gray than the head. Below the dark head, a bright white patch covers the neck and upper chest, creating a high-contrast boundary against the dark, mottled gray plumage of the body which sits low in the water. A horizontal strip of lighter gray runs along the bird's flank, separating the darker back from the waterline. The surrounding water occupies the foreground and background, characterized by a choppy, agitated surface of small, irregular wavelets. In the foreground, the water texture is sharp, displaying a pattern of dark troughs and lighter, reflecting peaks, while the water in the background behind the bird blurs significantly into a softer, out-of-focus field of gray tones. The lighting is diffuse yet directional enough to highlight the white neck plumage and the upper edges of the ripples, casting soft shadows into the water's depressions."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 5.720656871795654,
+      "description": "A monochromatic, grayscale close-up displays the textured, spherical surface of a carved pumpkin, dominated by vertical ribs and a central geometric incision. Positioned slightly left of the center is a distinct triangular cut-out, oriented with its apex pointing upward, occupying roughly ten percent of the visible area. The interior of this triangle is a deep black void, framed by the lighter gray, visible thickness of the carved rind, particularly illuminated on the left interior edge. The pumpkin's outer skin is a medium gray, characterized by vertical, longitudinal grooves that curve outward to define the fruit's rounded volume; these ribs divide the surface into convex segments with a slightly speckled, organic texture. To the far left, partially severed by the edge of the view, a sliver of another dark shape suggests a secondary feature or edge. Below the central triangle, near the bottom limit of visibility, a dark, curved shape indicates the upper edge of a mouth carving. The lighting is soft and diffuse, seemingly originating from the upper left, creating gentle highlights on the crests of the vertical ribs while casting the carved recesses into deep shadow."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 5.736633777618408,
+      "description": "A black and white close-up captures the intense gaze of a young child, focusing primarily on their left eye and the immediate surrounding facial features. The eye is the central anchor, featuring a large, dark pupil and a distinct, textured iris in deep gray, contrasted against the lighter gray of the sclera. Dark, sweeping eyelashes line the upper lid, curling noticeably upward, while the lower lashes are shorter and sparser. A defined crease of skin sits above the upper eyelid, creating depth in the eye socket. Above this, the eyebrow is visible as a soft, textured arch of fine hairs, lighter in tone than the lashes. The skin is rendered in smooth, soft gradients of gray, indicating a youthful texture, with a bright highlight on the upper cheek directly below the eye and another vertical highlight running along the bridge of the nose to the right. The nose itself is soft in form, occupying the right-center of the composition, with gentle shading defining its slope towards the eye. To the far right, the inner corner and a fraction of the right eye are faintly visible in shadow. At the top, the forehead is smooth, interrupted only by a few faint, out-of-focus strands of hair. The lighting is soft and diffuse, casting subtle shadows in the inner corner of the eye and beneath the brow, giving the face a three-dimensional quality without harsh edges."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 5.788872718811035,
+      "description": "Presented in high-contrast grayscale, a bright white flagpole rises from the bottom edge just to the right of the horizontal center, angling slightly leftward as it extends to a point just above the geometric center of the view. The pole is cylindrical and intensely illuminated, appearing as a solid, gleaming white line with a small, indistinct finial at its peak. Attached to the top of the pole and billowing out towards the left is a dark-toned flag, caught in a flutter that creates deep, curved shadows within the fabric's folds. The flag features a lighter gray design on a dark field, clearly displaying a Union Jack in the upper hoist corner and a large, pale seven-pointed star positioned directly below it. The fabric ripples significantly, causing the fly end to curve back and distort the rectangular shape, suggesting a stiff breeze. The background is a uniform, featureless medium-gray sky that occupies the majority of the space, providing a neutral backdrop that emphasizes the stark tonal contrast between the brilliant white pole and the dark, shadowed textile of the flag."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 5.821337699890137,
+      "description": "A monochromatic, mid-tone grey field defined by a heavy, granular texture resembling visual static or coarse noise dominates the visible area. Centered precisely within this noisy expanse is a dark, irregular formation roughly circular in overall distribution. This central shape features a small, lighter grey core that approximates the tone of the surrounding background, creating a hollow or ring-like appearance. Radiating outward from this core is a cluster of dark charcoal to black blotches that form thick, blurred projections similar to the legs of a spider or the rays of a splattered sunburst. There are approximately eight to ten of these radial extensions, varying in length and thickness, with some appearing as short, stubby nodes and others as slightly longer, tapered streaks. The edges of these dark shapes are soft and diffuse, blending seamlessly into the stippled texture of the grey field. The entire central dark cluster occupies roughly one-fifth of the diameter of the visible textured area, while the rest of the surface remains uniformly chaotic with no distinct light source, shadows, or gradients beyond the contrast between the dark central figure and the grey noise."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 5.87194299697876,
+      "description": "A field of unfocused, monochromatic medium-grey dominates the view, presenting a soft, grainy texture without distinct background features or gradients. Rising from the bottom edge, positioned slightly to the left of the vertical centerline, is a slender, dark charcoal-to-black rod-like structure. This object extends upward and curves gently toward the right, terminating near the precise geometric center of the visual area. The stalk maintains a consistent, narrow thickness throughout its length, appearing silhouetted against the lighter background. At its upper tip, the object ends in a small, distinct, circular cap or head that is darker and slightly wider than the stem itself, resembling the head of a pin or a biological filament seen in profile. The edges of the dark object are somewhat soft rather than razor-sharp, suggesting a shallow depth of field or slight lack of focus, while the lighting is diffuse and back-lit, casting no visible shadows on the object itself but creating a high-contrast separation between the foreground element and the grey void behind it."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 5.933271408081055,
+      "description": "A grayscale, close-up view depicts the lower portion of a golf club shaft and hosel resting diagonally across a wooden floor. The dominant object is the cylindrical shaft which enters the frame from the upper-left and angles downward toward the bottom-right. This shaft features a high-contrast, banded design near the top-left: a dark, black segment is followed by a distinct, wide band of bright white, which sits atop a longer, tapering black section that forms the neck of the club. This dark neck extends downwards, widening slightly as it connects to the heel of the putter head, a dark, curved mass partially visible at the bottom-right edge. The club rests on a light grey surface that resembles wooden floorboards, characterized by a smooth texture and a faint vertical seam running from top to bottom in the right half of the image. The shaft and hosel cast a soft, diffuse shadow onto the floor immediately to their right, suggesting a light source positioned to the upper-left. The composition is comprised of the strong diagonal line of the club contrasting with the subtle vertical grain and seam of the flooring."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 5.952206134796143,
+      "description": "The visible area displays a close-up, top-down view of a textured, industrial gray metal surface, likely a manhole or utility cover, characterized by a monochromatic palette of concrete-like grays and deep charcoal shadows. The dominant pattern consists of a grid of raised, square geometric protrusions with a rough, pitted texture, arranged diagonally so that the straight lines of the valleys between them run from top-left to bottom-right and bottom-left to top-right, forming a diamond lattice relative to the vertical axis. In the precise geometric center of the composition, the raised waffle-grid pattern is interrupted by a smooth, circular depression that spans a diameter roughly equivalent to the width of three of the raised squares. The floor of this circular recess is flat and sits slightly lower than the tops of the surrounding grid. Centered within this circular depression is a pill-shaped slot\u2014a dark, elongated oval void with rounded ends\u2014that cuts through the metal. The long axis of this slot is oriented diagonally, ascending from the bottom-left to the top-right, aligning perfectly parallel with that specific set of diagonal grid lines. The lighting appears diffuse and soft, casting no harsh directional shadows but leaving the recessed grooves of the grid in a darker shade of gray than the lighter, weathered tops of the squares, providing a sense of depth and relief; the slot itself is pitch black, indicating a complete pass-through or deep shadow. Small, lighter-colored imperfections and speckles are visible on the surface of some of the raised squares, particularly in the lower-left quadrant, adding to the weathered, matte appearance of the cast metal."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 6.361642837524414,
+      "description": "The scene is anchored by a light gray, monochromatic background featuring a distinct woven texture, resembling canvas or heavy fabric, with a visible grid of interlaced vertical and horizontal threads that create a fine cross-hatched relief. Resting upon this surface, positioned centrally on the horizontal axis and just below the vertical midpoint, is a small, dark arachnid, specifically a tick, appearing deep charcoal to jet black. The creature is oriented diagonally, facing toward the upper-right corner of the frame. Its body is compact and oval-shaped, with a bulbous abdomen and a smaller anterior capitulum. Eight segmented legs radiate from beneath the body; the four legs on the viewer's left are splayed outwards against the fabric, with the rear leg extending backward and the front leg reaching forward, while the legs on the right side appear somewhat more bunched and elevated, specifically the front right leg which is lifted slightly. The exoskeleton exhibits a subtle sheen, suggesting a hard texture. A soft, diffuse shadow is cast to the immediate left and slightly below the creature, roughly following the contours of the legs and body, which indicates a light source originating from the upper right. The tick is small relative to the total visible area, spanning approximately one-tenth of the diameter of the field of view, and the focus of the image is sharpest on the insect and the fabric immediately beneath it, with the texture becoming slightly softer towards the edges."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 6.639288425445557,
+      "description": "In a monochromatic, grainy image, a large bird is captured in flight, viewed directly from below against a flat, medium-grey background. The bird is centered and oriented horizontally, flying toward the left. Its long, slender neck extends forward, culminating in a sharp, straight beak that points directly left. The wings are fully outstretched, spanning nearly the width of the visible area, with the primary feathers at the tips splayed distinctly like fingers. The plumage displays high contrast; the central underbelly and the inner triangular sections of the underwings are bright white, while the neck, head, outer flight feathers, tail, and trailing legs are a deep, solid black. The dark flight feathers create a wide, U-shaped border around the white inner wing sections. The bird's legs extend straight backward, protruding slightly beyond the fan-shaped tail feathers. The lighting is diffuse, eliminating strong shadows but emphasizing the sharp boundary between the white body and the dark extremities, with a consistent noise texture visible across both the subject and the sky."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 6.773653507232666,
+      "description": "Centered in a field of muted, medium-gray tones that suggest an out-of-focus background, a dark spider is suspended upside down. The spider's body is predominantly black with a glossy, smooth texture on its bulbous abdomen, which occupies the central lower portion of the arachnid's form. A faint, reddish marking is visible on the underside of the abdomen, characteristic of a black widow, though the specific shape is indistinct due to the angle. The spider's legs are long, thin, and articulated, radiating outward from the cephalothorax; the front legs extend upwards and slightly outwards, while the rear legs stretch backwards and downwards, gripping invisible strands of webbing. The legs appear dark, almost black, tapering to fine points. The lighting is soft and diffuse, creating subtle highlights on the curvature of the abdomen and the joints of the legs, enhancing the three-dimensional appearance against the flat gray backdrop. Faint, white, thread-like lines of the web are barely discernible against the gray background, running horizontally and diagonally near the spider, suggesting the structure it clings to. The overall composition places the spider as the sole focal point, contrasting sharply in tone and texture with the blurred, monochromatic environment."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 6.796937465667725,
+      "description": "A section of a curved, cylindrical stone wall, rendered in monochromatic greyscale, dominates the view, constructed from courses of rectangular, rough-hewn blocks. The masonry features a weathered texture with visible pitting and variation in tone from light to medium grey, with distinct mortar lines tracing the horizontal layers and vertical joints. In the approximate center of the composition, a small architectural opening is framed by smooth, dressed stones that form a rounded arch at the top and straight vertical jambs on the sides. This stone surround is slightly lighter in value than the surrounding rougher wall blocks. Recessed deep within this arch is a rectangular aperture containing vertical wooden planks, crossed by a horizontal brace, all shrouded in deep shadow that contrasts sharply with the exterior stone. Directly beneath the opening, a thin, flat stone sill projects horizontally from the wall, casting a narrow, dark shadow line onto the masonry immediately below it. The wall curves away from the viewer on both the left and right sides, indicated by the subtle foreshortening of the stone blocks towards the lateral edges. The lighting appears soft and diffuse, highlighting the granular texture of the stone surfaces while creating depth in the window recess and under the sill, with no harsh directional cast shadows visible on the main wall face."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A small, pitch-black jumping spider sits isolated in the center of a vast, light gray concrete surface. The spider occupies only a small fraction of the image, roughly a tenth of the total area. Its body is a dense, dark void, appearing as a compact charcoal mass, while its eight legs extend outward as thin, sharp black lines against the pale, pitted texture of the cement, creating a high-contrast monochromatic scene.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pitch-black jumping spider",
+        "light gray concrete surface",
+        "dense, dark void",
+        "thin, sharp black lines",
+        "high-contrast monochromatic"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A singular drop of deep black india ink has hit the center of a piece of textured, off-white watercolor paper. The core of the splash is a dense, dark circle, occupying merely 10% of the canvas size. Radiating from this central black mass are fine, chaotic tendrils and micro-splatters of ink that stretch outward like lightning bolts against the light, fibrous background, strictly adhering to a grayscale palette.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep black india ink",
+        "dense, dark circle",
+        "fine, chaotic tendrils",
+        "light, fibrous background",
+        "grayscale palette"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A pane of light gray frosted glass features a small, jagged hole in the dead center. The hole itself is a deep black void, occupying a minimal area of the frame. Surrounding this dark center is a network of fine, hair-like cracks radiating outward in a starburst pattern, creating a stark dark-on-light geometric distinctness against the pale glass.",
+      "rationale": "",
+      "emphasis_tags": [
+        "light gray frosted glass",
+        "deep black void",
+        "fine, hair-like cracks",
+        "stark dark-on-light"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A macro grayscale shot focuses on the very center of a human eye. The pupil forms a deep black abyss, small and perfectly round, taking up about 10% of the visual field. The surrounding iris is a pale, silvery gray, with fine, dark radial striations stretching from the pupil's edge towards the periphery, resembling delicate spokes on a wheel.",
+      "rationale": "",
+      "emphasis_tags": [
+        "macro grayscale shot",
+        "deep black abyss",
+        "pale, silvery gray",
+        "fine, dark radial striations"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A high-contrast macro photograph of a deer tick, rendered in black and white. The tick's body is a swollen, dark charcoal oval positioned centrally on a light gray, woven fabric. The body is small, creating a focal point of darkness. Its tiny, hooked legs jut out symmetrically, appearing as thin black filaments against the lighter threads of the background cloth.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black and white",
+        "dark charcoal oval",
+        "light gray, woven fabric",
+        "thin black filaments"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A top-down view of a small, spiny sea urchin resting on a smooth, light gray stone floor. The urchin's body is a dense black sphere, roughly one-tenth of the image size. Long, needle-thin black spines radiate symmetrically from the center, creating a stark, high-contrast silhouette against the pale, unblemished background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dense black sphere",
+        "light gray stone floor",
+        "needle-thin black spines",
+        "stark, high-contrast silhouette"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A dead, dried daisy flower head photographed in black and white against a backdrop of fresh, bright white snow. The center of the flower is a dark, textured black disc. Shriveled, thin black petals radiate outwards, curling slightly. The entire flower is small within the frame, emphasizing the isolation of the dark biological form against the bright white expanse.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black and white",
+        "dark, textured black disc",
+        "thin black petals",
+        "bright white snow"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A section of a smooth, light gray plaster wall has a small impact mark in the center. The impact point is a deep, shadowed black depression, roughly the size of a coin relative to a large wall section. From this dark pit, spider-web cracks extend outward as thin, dark lines, creating a radial fracture pattern against the pale surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "light gray plaster wall",
+        "deep, shadowed black depression",
+        "spider-web cracks",
+        "radial fracture pattern"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A harvestman arachnid, or daddy longlegs, is posed against a stark white wall. The central body is a tiny, compact dot of deep charcoal, occupying a very small portion of the view. Its excessively long, thread-like legs splay out in all directions, creating a delicate framework of thin black lines that contrast sharply with the bright, featureless background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "stark white wall",
+        "tiny, compact dot of deep charcoal",
+        "thread-like legs",
+        "thin black lines"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "An electron microscope-style rendering of a virus in grayscale. The central capsid is a dark, geometric icosahedron, appearing almost black. It is small, set against a diffuse, light gray fluid background. Thin, spike-like protein protrusions extend from the dark center, creating a prickly silhouette that emphasizes the dark-on-light contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "grayscale",
+        "dark, geometric icosahedron",
+        "light gray fluid background",
+        "spike-like protein protrusions"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A sheet of light gray paper has been burned in the center. The burn mark is a small, charred black hole with jagged edges, occupying about 10% of the sheet. Surrounding the black void are faint, thin scorch marks and cracks radiating into the unburnt paper, resembling a sunburst of decay in monochrome.",
+      "rationale": "",
+      "emphasis_tags": [
+        "light gray paper",
+        "charred black hole",
+        "thin scorch marks",
+        "sunburst of decay"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A small magnet is placed beneath a sheet of white paper, attracting iron filings. The filings cluster into a dense, solid black mass in the very center, small in scale. Magnetic field lines are visible as thin, curved chains of black particles radiating outward from the central clump, creating a stark pattern against the bright white paper.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dense, solid black mass",
+        "white paper",
+        "thin, curved chains of black particles",
+        "stark pattern"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A deep-sea brittle star is captured in monochrome on a bed of fine, light gray sand. The central disk of the organism is a dark, solid black shape. Five long, serpentine arms extend outward as thin, sinuous black lines, contrasting heavily with the granular, pale texture of the sandy background. The creature takes up a modest 10% of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "monochrome",
+        "light gray sand",
+        "dark, solid black shape",
+        "thin, sinuous black lines"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A common housefly is viewed from directly above, resting on a pristine, light gray countertop. The fly's body is a compact, dark black oval, occupying a mere tenth of the image area. Its translucent wings are folded but visible as thin, dark-veined outlines extending slightly, and its thin legs sprawl outward, forming delicate black radial lines against the smooth, pale surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "light gray countertop",
+        "compact, dark black oval",
+        "delicate black radial lines",
+        "pale surface"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A minimalist charcoal drawing on rough, off-white paper. In the center, a dense, heavy pressure point creates a small solid black smudge. From this nucleus, the artist has drawn quick, thin energetic lines flicking outward, resembling sparks or whiskers. The drawing is stark, relying entirely on the contrast between the deep black charcoal and the light paper.",
+      "rationale": "",
+      "emphasis_tags": [
+        "minimalist charcoal drawing",
+        "off-white paper",
+        "small solid black smudge",
+        "thin energetic lines",
+        "deep black charcoal"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 5.39747953414917,
+      "best_percentile": 99.99804865255557
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 3.435917615890503,
+      "best_percentile": 99.61683341581029
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 3.3940563201904297,
+      "best_percentile": 99.56274206465048
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 3.3154494762420654,
+      "best_percentile": 99.44191463089092
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 3.1665279865264893,
+      "best_percentile": 99.1180690090121
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 3.1166515350341797,
+      "best_percentile": 98.97515232218151
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 3.112321138381958,
+      "best_percentile": 98.962351482946
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 3.0518593788146973,
+      "best_percentile": 98.74887407252456
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 3.0373666286468506,
+      "best_percentile": 98.69088002647588
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 3.016111373901367,
+      "best_percentile": 98.60572322400064
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 2.8283016681671143,
+      "best_percentile": 97.55870823921335
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 2.7446885108947754,
+      "best_percentile": 96.87269253164695
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 2.247055768966675,
+      "best_percentile": 88.17514670230088
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 2.0760035514831543,
+      "best_percentile": 82.6067816348545
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.8217699527740479,
+      "best_percentile": 71.43266368292633
+    }
+  ]
+}

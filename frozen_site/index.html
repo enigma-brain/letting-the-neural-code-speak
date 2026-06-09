@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>V1/V4 Neuron Explorer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🧠 V1/V4 Neuron Auto-Interpretation Explorer</h1>
+    <p class="subtitle">A frozen snapshot of selected neurons. Pick an area and a neuron to explore.</p>
+  </header>
+
+  <div class="controls">
+    <div class="control-group">
+      <label>Visual area</label>
+      <div id="area-toggle" class="toggle"></div>
+    </div>
+    <div class="control-group">
+      <label for="neuron-select">Neuron</label>
+      <select id="neuron-select"></select>
+    </div>
+    <div class="control-group">
+      <label for="percentile-select">Percentile</label>
+      <select id="percentile-select"></select>
+    </div>
+  </div>
+
+  <nav id="tabs" class="tabs"></nav>
+
+  <main id="content"></main>
+
+  <footer>
+    Auto-Interpretation Pipeline: ImageNet → Descriptions → Hypothesis → Diffusion → Augmentation
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

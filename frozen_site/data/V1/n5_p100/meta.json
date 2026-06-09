@@ -1,0 +1,314 @@
+{
+  "area": "V1",
+  "neuron_id": 5,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to distinct, high-contrast dark objects or silhouettes\u2014typically black or deep charcoal\u2014positioned centrally against a lighter, monochromatic background of medium to light grey. The activating feature often takes the form of a compact, isolated subject such as a spider, insect, dark animal head, liquid droplet, vehicle silhouette, or instrument part, which stands out sharply due to its tonal density relative to the featureless or textured grey surroundings. The neuron remains invariant to the object's specific identity, texture (whether glossy, metallic, or furred), and orientation, as long as the polarity of a dark figure against a lighter, desaturated field is maintained. The focal dark feature typically occupies approximately 15\u201340% of the image area and is centrally positioned or slightly offset within the frame.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 2.4729886054992676,
+      "description": "Set against a grainy, monochromatic medium-grey background, two dark, silhouetted human figures are suspended in the central visual field, appearing in a tandem arrangement where one figure is strapped closely behind the other. The pair occupies a small fraction of the total frame, positioned almost exactly in the middle. The front figure, positioned slightly lower, has legs dangling vertically with feet pointed downward, while the rear figure, situated slightly higher and to the left, creates a combined silhouette that is denser at the torso. Both figures are rendered in a dark charcoal to black tone, contrasting sharply with the lighter, featureless grey surroundings, and possess undefined internal details, appearing as solid, blocky shapes due to the lack of direct lighting or high resolution. From the upper torso area of the cluster, a set of thin, faint lines extends diagonally upward toward the top-left corner at an angle of roughly 60 degrees, indicating suspension rigging. Additionally, a single, distinct thin line extends horizontally from the figures toward the right side of the frame, fading slightly as it reaches the edge of the visible area. The texture of the entire scene is noisy, with the background showing a consistent digital grain without clouds, horizon lines, or other environmental markers, and the lighting is diffuse, creating a flat, backlit effect that eliminates volume and depth on the figures themselves."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 2.474928617477417,
+      "description": "A grayscale image captures a medium-sized dog running directly toward the viewer across an open, grassy field. The dog, positioned just below the center of the visible area and occupying a small fraction of the total frame, features a black and white coat with a black body and head, a white chest, white front legs, and a distinct white blaze running up the center of its face. The tail is visible behind the dog, tipping upward with a white end. The animal is frozen mid-stride with its front right paw touching the ground and the front left paw lifted, and it appears to be carrying a dark object in its mouth. To the viewer's right of the dog, a dark, elongated shadow stretches horizontally across the grass, indicating a light source coming from the left. The ground is textured with short grass and appears as a mid-tone gray, with faint horizontal tracks or furrows visible in the distance behind the dog. Near the very top edge of the view, two minute, blurry vertical shapes, possibly distant figures or posts, stand on the horizon line. The overall scene has a slightly grainy texture, with the dog appearing as the point of highest contrast against the relatively uniform gray of the field."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 2.4834935665130615,
+      "description": "Centered within a blurred, medium-gray background is the head and upper torso of a small, white-furred mammal, resembling a ferret or stoat, facing diagonally toward the middle-left. The animal's fur is a soft, uniform white, appearing dense and smooth. Dominating the top of its head, positioned directly between the ears, is a distinct, dark charcoal or black marking or small object that sits flat like a tiny cap. The animal's ears are rounded and set high on the head, with the interior of the visible left ear showing a slightly darker, shadowed recess. Below the forehead, two dark, bead-like eyes are spaced widely apart; the eye on the left is clearly visible as a glossy black circle, while the right eye is slightly smaller due to the angle of the head. The snout is short and ends in a small, dark, triangular nose. Faint, blurry whiskers extend horizontally from the muzzle area. The lighting is soft and diffuse, creating gentle shading under the chin and along the right side of the neck, giving volume to the animal's form while the lower portion of the body fades softly out of focus."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 2.4846954345703125,
+      "description": "The reasoning process involved identifying the central subject as a dark pickup truck traveling on a multi-lane road, captured in a grainy, monochromatic style reminiscent of night vision or infrared imagery. I analyzed the spatial relationships of the surrounding elements, noting a vehicle partially visible to the left, a blurred vehicle in the immediate foreground, and a small distant car near the horizon, while detailing the lighting contrasts created by the bright headlights against the dark chassis and grey road surface.\n\nA grainy, monochromatic scene depicts a multi-lane highway viewed from an elevated perspective, dominated by a dark-colored pickup truck positioned centrally in the frame. The truck faces somewhat toward the viewer, angled slightly to the right, with its two bright, circular headlights emitting a strong glare that washes out the immediate front grille area. The bed of the truck is piled high with a stacked, textured load that extends above the roofline of the cab, creating a boxy silhouette against the lighter grey background of the road surface. To the left of the central truck, the front corner of another vehicle is visible, distinguished primarily by its own bright headlight and the dark curve of its fender, moving parallel to the main truck. In the immediate foreground at the bottom center, the blurred, dark shape of a vehicle's roof or hood occupies the lower visual field, flanked by bright spots of light suggesting reflection or rear lights. The road itself stretches upward toward the top right, marked by faint, dashed white lines that indicate lane divisions on a surface that appears smooth and uniform grey. In the far distance, near the top edge of the view, a tiny, indistinct vehicle is visible as a small dark speck against the lighter horizon, emphasizing the depth of the receding roadway. The entire scene is rendered in high-contrast greyscale, with deep blacks in the vehicle bodies and bright whites in the light sources."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 2.4988813400268555,
+      "description": "This grayscale macro image features a textured, organic surface that occupies the majority of the view, characterized by a light gray skin pitted with small, dark, regularly spaced indentations resembling seeds. Dominating the composition is a large, almost spherical, dark liquid droplet positioned slightly to the left of the center and just below the horizontal midline; this droplet spans approximately one-sixth of the visible width and exhibits a high-contrast, glossy finish with a bright, clustered specular highlight on its upper-left quadrant. A second, smaller droplet, roughly a third the size of the main one, is located in the upper right quadrant near the top edge. Along the far left edge, a dark, out-of-focus vertical form\u2014possibly a leaf or stem\u2014runs from top to bottom, creating a shadowed border that contrasts with the lighter textured surface. The lighting appears to originate from the upper left, casting subtle shadows within the surface pits and creating sharp reflections on the fluid bodies, giving the image a wet, tactile appearance."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.5012922286987305,
+      "description": "A cylindrical object, appearing out of focus and grayscale, enters the view from the upper-left quadrant, angling downwards toward the center at an approximate 45-degree inclination. The object's shaft is light gray on its upper surface, suggesting a light source from above, while its underside is cast in a darker shadow, giving it a tubular volume. This shaft leads into a distinct, dark, bullet-shaped tip that contrasts sharply with the lighter body and points directly at the center of the frame. Situated slightly below and to the right of this tip, set against the uniform, grainy, mid-gray background, is a faint, irregular dark smudge or cluster of marks. The tip of the cylinder appears to hover just above this marking, separated by a small gap of the neutral gray background, while the rest of the surrounding space remains featureless and blurred."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.509711980819702,
+      "description": "Centered within a grayscale scene, a waterfowl swims across a textured body of water, oriented facing toward the left side of the frame. The bird, positioned in the middle horizontal band of the visible area, features a dark, charcoal-colored head with a distinctive, shaggy crest of feathers projecting backward from the skull. A long, narrow, and serrated beak extends sharply to the left, appearing lighter gray than the head. Below the dark head, a bright white patch covers the neck and upper chest, creating a high-contrast boundary against the dark, mottled gray plumage of the body which sits low in the water. A horizontal strip of lighter gray runs along the bird's flank, separating the darker back from the waterline. The surrounding water occupies the foreground and background, characterized by a choppy, agitated surface of small, irregular wavelets. In the foreground, the water texture is sharp, displaying a pattern of dark troughs and lighter, reflecting peaks, while the water in the background behind the bird blurs significantly into a softer, out-of-focus field of gray tones. The lighting is diffuse yet directional enough to highlight the white neck plumage and the upper edges of the ripples, casting soft shadows into the water's depressions."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 2.5116689205169678,
+      "description": "A grainy, grayscale image depicts a dark, four-engine propeller aircraft viewed from directly underneath, oriented horizontally with its nose pointing toward the right side of the frame against a uniform, flat gray sky. The aircraft is centered, with its fuselage spanning approximately one-third of the image's width and its wingspan occupying roughly one-third of the vertical height. The fuselage appears as a deep charcoal cylinder, darker than the background, with a small, lighter-gray circular roundel visible on the rear side near the tail assembly. The tail section, located on the left, consists of a horizontal stabilizer ending in two prominent, oval-shaped vertical fins. The wings are long and tapered, extending vertically toward the top and bottom edges; the wing reaching toward the top displays a faint, light-colored circular insignia on its underside near the tip. Protruding from the leading edges of the wings are four engine nacelles, two on each side of the fuselage, each fronted by the blurred, translucent shapes of spinning propellers. The lighting is diffuse, creating a silhouette effect that obscures surface textures, leaving the aircraft as a dark, solid form against the lighter, featureless backdrop."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 2.516103506088257,
+      "description": "Captured in a high-contrast grayscale macro shot, a small arachnid, identifiable as a tick, is positioned centrally on a textured surface resembling human skin. The background is a mid-grey landscape of organic, irregular plateaus separated by a network of fine, intersecting crevices and ridges that create a leathery appearance. The tick is oriented vertically with its body appearing as a smooth, dark oval, featuring a prominent, bright white circular specular highlight on the upper central portion of its back, indicating a distinct light source from above. At the bottom of the oval body, a narrower, segmented structure representing the mouthparts points downward. Several segmented legs protrude from beneath the body; the uppermost pair extends upward and outward like antennae towards the ten and two o'clock positions, while the remaining visible legs on either side curl outward and downward, gripping the textured surface. The legs are a dark grey, slightly lighter in tone than the jet-black center of the abdomen. Faint, soft shadows are cast onto the skin surface primarily to the left and beneath the lower legs, grounding the creature in the scene. The tick occupies a relatively small portion of the frame, roughly one-sixth of the visible area's diameter, surrounded entirely by the repetitive, biologically patterned skin texture."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 2.546511650085449,
+      "description": "A monochrome, greyscale image displays the face of an analog measuring instrument, specifically an aneroid barometer, characterized by a light grey circular dial marked with dark charcoal indicators. At the center lies a dark pivot point embellished with a small, multi-pointed sunburst motif. Two slender hands radiate from this central hub. One hand is oriented perfectly vertically, bisecting the face from top to bottom; its upper tip terminates in a stylized arrowhead pointing towards the twelve o'clock position, while its lower tail ends in an upward-facing crescent moon shape near the six o'clock position. The second hand extends diagonally upwards to the right at an angle of approximately 60 degrees from the vertical, pointing towards the two o'clock position. Surrounding the hands is a calibrated scale featuring a ladder-like track of concentric circles and radial hash marks. Numerical values are positioned just inside this track: \"29\" in the upper-left quadrant, \"30\" in the upper-right, \"28\" at the nine o'clock position, \"27\" in the lower-left, and \"26\" in the lower-right measurement area. Along the right-hand edge, outside the numbered scale and running vertically near the \"30\" and \"31\" marks, the words \"VERY DRY\" are printed in capital serif letters. At the bottom of the dial, curving upwards to match the circular rim, the faint text \"ANEROID BAROMETER\" is visible, with \"ANEROID\" to the left of the vertical hand's tail and \"BAROMETER\" to the right. The lighting is diffuse and soft, resulting in a slightly grainy texture, with the darkest values found in the hands and the central pivot."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 2.5484511852264404,
+      "description": "A close-up, monochromatic view in varying shades of gray reveals a section of woven fabric, likely clothing, dominated by a central vertical junction and soft folds. A dark, deep vertical shadow creates a prominent seam running from the top center downwards, slightly curving to the left near the bottom, dividing the composition into two main halves. At the very top, crossing this vertical chasm, are parallel horizontal stitch lines in a dark thread, appearing as a bar tack or reinforcement. To the right of the central vertical shadow, a faint, curved line of stitching extends downward, forming a partial J-shape that delineates a flap of fabric. The fabric to the left of the central seam is smoother and lighter in tone, bulging outward in a convex fold that catches the most light, creating a bright pale gray highlight. The fabric on the right side is more textured with undulations, featuring a diagonal fold that creates a triangular shadow in the mid-right section, contrasting with lighter gray areas near the circular edge. The entire image is somewhat soft-focus, blurring the weave of the material but emphasizing the geometry of the drapery and the contrast between the deep charcoal shadows of the creases and the light gray highlights of the raised surfaces."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 2.5727055072784424,
+      "description": "Centered in a field of muted, medium-gray tones that suggest an out-of-focus background, a dark spider is suspended upside down. The spider's body is predominantly black with a glossy, smooth texture on its bulbous abdomen, which occupies the central lower portion of the arachnid's form. A faint, reddish marking is visible on the underside of the abdomen, characteristic of a black widow, though the specific shape is indistinct due to the angle. The spider's legs are long, thin, and articulated, radiating outward from the cephalothorax; the front legs extend upwards and slightly outwards, while the rear legs stretch backwards and downwards, gripping invisible strands of webbing. The legs appear dark, almost black, tapering to fine points. The lighting is soft and diffuse, creating subtle highlights on the curvature of the abdomen and the joints of the legs, enhancing the three-dimensional appearance against the flat gray backdrop. Faint, white, thread-like lines of the web are barely discernible against the gray background, running horizontally and diagonally near the spider, suggesting the structure it clings to. The overall composition places the spider as the sole focal point, contrasting sharply in tone and texture with the blurred, monochromatic environment."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.5829949378967285,
+      "description": "In a grainy, grayscale high-angle shot, a square, light-gray ceramic tile is positioned centrally, rotated slightly counter-clockwise so its edges are diagonal relative to the upright axis. The tile occupies roughly one-third of the visible width and sits atop a darker, mottled background that resembles a rough floor surface with patches of uneven adhesive or cement. Suctioned to the exact center of the tile is a dark, charcoal-colored plunger cup, which appears as a flattened ellipse due to the perspective. Extending vertically upward from the cup is a pale, cylindrical handle, appearing almost white against the darker surroundings. A hand, appearing in mid-gray tones, grips this handle tightly near the top of the frame; the fingers are curled around the shaft, and the arm extends upwards out of view. To the upper right, a straight diagonal line suggests the edge of an adjacent tile or floor section, while the area beneath the central tile reveals a textured, uneven surface with varying shades of gray. A soft, diffuse shadow is cast by the plunger cup onto the tile surface slightly to the right, suggesting an overhead light source positioned to the left. The image possesses a heavy visual noise, giving all surfaces a speckled texture."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.6094818115234375,
+      "description": "In a high-contrast black-and-white close-up, a butterfly rests in profile on a slender, light-gray plant stem that ascends diagonally from the lower-left quadrant toward the upper center of the frame. The insect faces upward and slightly to the left, its wings folded vertically above its back, occupying the central region of the image. The visible underside of the forewing features a distinct, circular eye-spot near the rounded apex, composed of a dark center surrounded by a lighter ring, set against a mottled texture of medium and dark grays. The wing's surface appears rough and scaly, transitioning into a dense, fur-like texture near the body, while the outer edges are bordered by a delicate fringe of fine, pale hairs. The hindwing, partially overlapped by the forewing, displays a darker, uneven pattern with jagged transitions between charcoal and ash tones. The butterfly\u2019s body is dark and fuzzy, contrasting sharply with the smooth, pale stalk it grips with thin, articulated legs. A single antenna extends upward from the head, curving slightly to the left and terminating in a small club. The background is a smooth, featureless blur of medium gray, providing a soft, uniform backdrop that emphasizes the sharp focus and intricate textures of the butterfly and its perch."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.6453821659088135,
+      "description": "Presented in grayscale, the image depicts a high-magnification internal view of fibrous organic tissues and a metallic instrument. A surgical tool with a smooth, cylindrical metal shaft enters from the upper left quadrant, angling diagonally downward toward the center of the frame. The instrument reflects light along its length and terminates in a darker, functional tip that appears to be interacting with the tissue near the center. To the right, occupying the upper and middle right sections, is a voluminous mass of light-gray tissue characterized by a shaggy, vertically striated texture composed of numerous fine, hair-like strands. In the lower left and bottom portion of the image, a denser, smoother tissue mass is visible, exhibiting a subtle granular surface that contrasts with the frayed appearance of the adjacent area. separating these two distinct tissue types is a deep, irregular black void or shadow located centrally, into which the instrument's tip seems to extend. The lighting is concentrated, highlighting the textures of the fibers on the right while casting a distinct, elongated shadow from the instrument onto the underlying tissue on the left."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A glossy, jet-black jumping spider sits motionless in the precise center of the frame, its compact body occupying a modest portion of the view. The spider's legs are pulled in tight, creating a dense, dark silhouette that contrasts sharply with the surroundings. Its eyes glint faintly, but the primary impression is of a deep charcoal shape. The background is a uniform, textureless expanse of light dove grey, providing a sterile and high-contrast field that isolates the dark arachnid completely.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A single, spherical bead of viscous black oil rests on a smooth, matte surface. The droplet is perfectly round and reflective, catching a singular highlight that emphasizes its deep, inky blackness. It is positioned centrally, taking up a small area relative to the surrounding emptiness. The background is a flat, monochromatic medium grey, resembling unpolished steel, which enhances the stark tonal difference between the dark liquid and the lighter field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The head of a black crow, viewed in profile, is centered in the frame. The feathers are a rich, matte black, absorbing almost all light, with a sharp, dark beak pointing towards the right. The head is isolated without the body, appearing as a compact, floating dark form. Behind it, the sky is a blanket of featureless, light fog-grey, creating a seamless and desaturated backdrop that makes the dark avian profile pop with intense clarity.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A solitary black chess pawn stands upright in the middle of the image. The piece is carved from ebony wood, polished to a low sheen, and appears solid and dense. It occupies a small central fraction of the composition. The surface it stands on and the wall behind it are seamlessly blended into a continuous shade of pale, neutral grey, ensuring no other details distract from the stark polarity of the dark game piece against the light void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A heavy, black iron coat button with four small holes is stitched onto a piece of fabric. The button is centered and relatively small, its surface gleaming slightly with a plastic-like luster. It appears deep charcoal in the ambient light. The fabric beneath it is a tightly woven wool in a uniform shade of light heather grey, offering a soft, textured, but monochromatic backdrop that contrasts with the hard, dark edge of the button.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A jagged shard of obsidian rock lies in the center of the frame. The stone is glassy and pitch black, with sharp, fractured edges that catch no light, appearing as a pure silhouette of void. It is a compact object, resting on a bed of fine, light grey sand that is out of focus, creating a smooth, neutral field. The dark mineral stands out vividly against the pale, desaturated grains.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "The silhouette of a vintage black sedan, seen from the front, is positioned in the center of a studio-like space. The car is small within the frame, appearing almost like a toy or icon, rendered in deep, impenetrable black tones. No specific details like headlights are clearly discernible, just the dark shape. The background is a smooth, gradient-free wall of medium grey, providing a stark, industrial context that highlights the vehicle's dark form.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A single black olive, wrinkled and cured, sits isolated on a flat surface. The olive is a deep, purplish-black, appearing almost like a piece of charcoal. It is centrally placed and occupies only a minor portion of the visual area. The surface beneath is a cool, light slate grey stone with a very subtle grain, bright enough to create a strong tonal boundary with the dark fruit.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "An isolated black tuning peg from a violin is displayed floating in the center of the image. The wood is dark ebony, smooth and curved, appearing as a deep black silhouette against the light. The background is a soft, non-reflective light grey felt, which absorbs shadows and presents a clean, uniform field that accentuates the dark, carved wooden shape.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A matte black hexagonal nut is lying flat in the center of the composition. The hardware is dark, with a non-reflective black oxide finish that looks like deep charcoal. It is a small, compact object relative to the frame. The background is a sheet of brushed aluminum, presenting a light, metallic grey texture that contrasts sharply with the dark, industrial fastener.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "The dark silhouette of a stag beetle is pinned centrally against a board. The insect is jet black with prominent mandibles, its exoskeleton appearing hard and shiny. It takes up a modest amount of space in the center. The mounting board behind it is a plain, archival light grey paper, devoid of texture, which maximizes the contrast with the beetle's complex, dark outline.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A single black key from a computer keyboard is isolated in the frame. The keycap is matte black with no legend visible, appearing as a dark, square plateau. It sits centrally, surrounded by empty space. The background is a smooth, light grey plastic surface, creating a tech-minimalist aesthetic where the dark key is the sole point of visual weight against the desaturated surroundings.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A small, black river stone, polished smooth by water, rests in the middle of the image. The stone is oval and deep charcoal in color, wet enough to have a slight sheen. It is a compact feature within the frame. The surrounding area is composed of dry, light grey pebbles that are much paler than the central stone, creating a natural but high-contrast separation between the subject and the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A dark, silhouette-like shape of a cat's head, simplified and iconographic, is centered on a wall. The shape is filled with solid black, lacking internal detail, and is relatively small within the visual field. The wall behind it is a painted, flat light grey, offering a neutral and bright canvas that makes the black feline shape appear punched out of the surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A single black rubber O-ring stands vertically on its edge in the center of the frame. The rubber is matte black, absorbing light and appearing as a dark, bold loop. It occupies a small footprint in the composition. The background is a seamless, white-grey cyclorama that is evenly lit, ensuring the black ring stands out with maximum definition and contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high_contrast",
+        "small_scale"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 2.3788058757781982,
+      "best_percentile": 99.99672173629334
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 2.0391557216644287,
+      "best_percentile": 99.80728492638737
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.0167527198791504,
+      "best_percentile": 99.73969025091206
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.0088553428649902,
+      "best_percentile": 99.71002976975662
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.9896901845932007,
+      "best_percentile": 99.62612182964581
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.9865440130233765,
+      "best_percentile": 99.6109013195792
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.9793614149093628,
+      "best_percentile": 99.57413793372599
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.9420394897460938,
+      "best_percentile": 99.29938821354922
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.9268639087677002,
+      "best_percentile": 99.146870897292
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.9233410358428955,
+      "best_percentile": 99.1083903256877
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.8987407684326172,
+      "best_percentile": 98.77072916390226
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.877331018447876,
+      "best_percentile": 98.3762447645348
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.8731110095977783,
+      "best_percentile": 98.2874974827618
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.8274271488189697,
+      "best_percentile": 96.96947936489104
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.8035850524902344,
+      "best_percentile": 95.96258408356138
+    }
+  ]
+}

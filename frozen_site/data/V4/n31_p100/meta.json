@@ -1,0 +1,341 @@
+{
+  "area": "V4",
+  "neuron_id": 31,
+  "percentile": 100,
+  "hypothesis": "The neuron selectively responds to **glossy, convex, rounded objects featuring a prominent, sharp specular highlight**. This visual signature\u2014a bright white point of light reflected off (or emitted from) a smooth, curved surface\u2014consistently drives activation across diverse categories, including the **corneal reflections in animal eyes**, the **polished exoskeletons of beetles and ladybugs**, **glassy gemstones**, **waxy fruit**, and **glowing spherical light bulbs**. The activating feature is characterized by a high-gloss or luminous texture that creates a strong contrast between the intense **white highlight** and the underlying object, which is typically colored **black, deep red, amber, dark green, or silver**. The background context varies widely, ranging from **natural earth tones (browns, greens)** and **blurred foliage** to **neutral beiges and skin tones**, without affecting the neuron's response as long as the central shiny form is preserved. The activating feature typically occupies **25\u201350% of the image area** and is positioned centrally or slightly off-center.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 6.926553249359131,
+      "description": "Dominating the view from a high-angle, downward perspective is the central junction of a tripod, rendered in matte silver metal and black materials, resting on a light tan wooden surface. Three cylindrical silver legs radiate outward from a central black circular hub at roughly equidistant angles of 120 degrees, forming a Y-shape. The central hub features a black, textured circular top face, bordered by a thin silver rim, with a prominent, shiny silver dome-headed screw or pin located exactly in its center. One leg extends directly downward towards the bottom edge (6 o'clock), while the other two extend towards the upper left (roughly 10 o'clock) and upper right (roughly 2 o'clock). The legs are segmented; the upper sections attached to the hub are matte silver metal, transitioning into slightly narrower, polished silver metal sections further out. Where the upper left leg joins the central hub, a black adjustment knob protrudes perpendicularly to the left, featuring a silver accent on its side. The wooden background displays a light, warm tan color with a visible horizontal grain pattern running left to right, composed of subtle darker streaks and variations typical of wood planks. The lighting is soft and diffuse, casting gentle, indistinct shadows primarily to the right of the tripod legs and hub, suggesting a light source from the upper left. The silver metal surfaces exhibit soft highlights, particularly on the central screw and the cylindrical curves of the legs. The entire assembly occupies the central majority of the visible area, with the legs extending almost to the edges of the visible field."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 6.936832427978516,
+      "description": "A close-up view captures the left side of a dog's face, dominated by a sharp, amber-colored eye positioned slightly to the right of the center vertical axis. The iris presents a rich, warm honey-brown hue, encircling a dilated black pupil that reflects a bright, distinct white light source in its upper left quadrant, accompanied by a fainter, bluish reflection just below it. Encasing the eye is a rim of dark, pinkish-brown skin that appears slightly moist and textured, visibly separating the eyeball from the surrounding coat. The majority of the visible surface is densely covered in short fur that transitions in color from a pale, creamy beige on the left, indicative of the bridge of the snout, to a deeper golden-tan and reddish-brown on the right, suggesting the cheek and base of the ear. Individual hair strands are clearly defined, flowing generally downwards and outwards from the eye region, with the fur on the snout appearing lighter and softer compared to the slightly coarser texture on the right. Subtle shadowing creates contrast around the brow bone above the eye and within the slight depression of the eye socket, adding three-dimensional depth to the facial structure, while the focus remains sharpest on the eye and immediate surroundings, gradually softening towards the far right edge."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 6.954850673675537,
+      "description": "A glossy, vivid red ladybug rests centrally on a textured, medium-green leaf surface, oriented diagonally with its head facing toward the lower-left. The beetle's domed elytra are a saturated vermilion color, punctuated by large, varied black spots; a prominent, almost circular black spot sits near the center of the back, while other irregular black markings curve around the sides and rear. A bright, white specular highlight gleams sharply on the upper-left portion of the red shell, indicating a smooth, reflective texture. The pronotum at the front of the insect is jet black, flanked by two distinct, roughly triangular white patches on its lateral edges, contrasting with the black head section just visible at the very front. The underlying leaf surface fills the entire view around the insect, displaying a complex, reticulated network of veins that create a map-like pattern of slightly raised, lighter green ridges separating small, irregular, darker green depressions. A faint primary vein runs somewhat diagonally beneath the ladybug, consistent with the insect's orientation. The lighting is soft and diffuse, casting very minimal, soft shadowing directly beneath the curvature of the ladybug's body onto the leaf, emphasizing the three-dimensional volume of the insect against the relatively flat, matte texture of the plant matter."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 6.968116760253906,
+      "description": "A close-up, profile view captures the right side of a canine face, dominated by short, dense fur in varying shades of golden-tan, fawn, and light brown. The focal point is a dark, almond-shaped eye positioned just to the right of the center and slightly above the vertical midpoint. The eye itself is a deep, glossy black-brown, containing a sharp, bright white crescent-shaped reflection in the upper-left portion of the pupil, indicating a light source from the front-left, with a secondary, fainter highlight just below it. Surrounding the eye is a rim of dark pigmentation, most prominent on the upper eyelid which folds heavily over the eye, creating a deep, black shadowed crease that runs diagonally from the top center toward the right edge. Above this crease, the fur on the brow forms a ridge where the direction of the hair growth flows backward and down. To the left of the eye, the cheek is covered in a uniform layer of golden-biscuit colored fur, with individual hairs visible and oriented diagonally downward toward the right. In the lower-left quadrant, the fur transitions to a lighter, creamy beige. The lower-right quadrant shows the beginning of the muzzle, where the fur becomes darker, mixing brown with charcoal grey shadows as the face curves away. The texture appears coarse and stiff. The lighting casts the left side of the face in a soft glow, highlighting the tips of the fur, while the eye socket and the area below the eye fall into deeper shadow, creating a contrast that emphasizes the depth of the facial structure. The nose and ears are not visible, as the view is tightly cropped around the ocular region."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 7.077101230621338,
+      "description": "In the center of the frame, a shiny black beetle stands partially submerged in murky, light brown water against a rugged, earthen background. The beetle, oriented horizontally facing the right, dominates the composition, occupying roughly one-third of the visible area. Its exoskeleton is a deep, glossy black, reflecting a bright white highlight on the smooth, curved pronotum (the section just behind the head) and smaller, fainter highlights on the elytra (wing cases). The elytra are characterized by distinct, longitudinal striations or grooves running parallel to the body's axis. The head, positioned to the right, is somewhat obscured but shows mandibles and small antennae near the water's surface. The beetle's legs are partially visible; the middle and hind legs on the left side extend downward into the water, their thin, segmented forms casting faint, distorted reflections. The water surrounding the beetle is shallow and muddy, reflecting the ambient light and creating a wet, glistening surface around the insect's underside. To the right and above the beetle, a rough, textured rock or soil bank rises, composed of beige and light tan granules with small, darker brown inclusions. This surface appears damp and uneven, with crevices and small protrusions. The water level reaches up to the lower edge of the beetle's body, obscuring the lower parts of the legs and creating a ripple effect around the points of contact. The lighting appears to be artificial and directional from above, enhancing the wetness of the scene and the glossiness of the beetle's shell."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 7.082595348358154,
+      "description": "A close-up profile captures the head of a large owl facing directly toward the right, its features dominating the majority of the visible area. The focal point is a piercing, circular eye with a bright lemon-yellow iris and a small, sharp black pupil, situated slightly to the right of the center and midway down the vertical axis. Surrounding the eye is a prominent facial disc composed of soft, dense feathers in alternating bands of light ash gray and darker charcoal, creating a concentric, ripple-like pattern that radiates outward from the eye. To the immediate right of the eye, near the beak area, is a distinct patch of white feathers that form a high-contrast, crescent-shaped highlight, bordered by a patch of deep black plumage directly in front of the eye itself. Below this white patch, in the lower right quadrant, a curved, mustard-yellow beak is partially visible, largely obscured by long, wispy gray feathers that drape over it like a mustache. The back and top of the head, occupying the entire left third of the composition, are covered in coarser, mottled plumage featuring a mix of dark chocolate brown and creamy tan speckles, creating a textural contrast with the smoother facial disc. The background, visible primarily along the right edge in front of the owl's face, is a smooth, out-of-focus field of varying shades of green, ranging from lime to forest green, indicating distant foliage. Lighting is soft and diffuse, evenly illuminating the intricate feather details without casting harsh shadows, emphasizing the velvet-like texture of the facial disc and the rugged layering of the brown head feathers."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 7.085263252258301,
+      "description": "Occupying the central portion of the view is a textured, gold-colored metallic medallion or dial, slightly convex in shape, resting against a multi-colored woven fabric background. At the precise center of the gold object sits a high-domed, circular cabochon of deep forest green, held within a raised metal bezel. The gem has a glossy, glass-like finish, evidenced by a sharp, bright white specular highlight on its upper-left quadrant and internal inclusions visible within the dark green depth. Radiating outward from the central bezel is a ring of short, incised lines creating a sunburst pattern. Beyond these lines, a series of embossed Arabic numerals circle the perimeter, oriented with their bases toward the outer edge. Visible on the right side, moving clockwise, are the numbers \"15,\" \"20,\" and \"25.\" Continuing to the bottom right and bottom, the numbers \"30,\" \"35,\" and a partially obscured \"40\" appear. On the far left edge, the number \"55\" is partially visible. The metallic surface is uneven, pitted, and reflects light softly, suggesting a cast or hammered brass material. At the top of the medallion, threaded through an unseen hole, are two strands of a rough, black, suede-like cord that extend vertically upward and slightly to the left. The background fabric features a coarse diagonal weave running from top-left to bottom-right; the section to the left of the medallion displays alternating threads of salmon-pink and black, while the fabric to the right and top consists of dark navy blue and black threads with subtle golden highlights."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 7.2548956871032715,
+      "description": "In the center of the frame, a ladybug is perched on a complex structure of dried vegetation, facing forward and slightly angled toward the right. The insect's elytra are a vivid, glossy red, marked with distinct black spots, while the pronotum is a shiny black featuring two large, white, irregular patches on either side and a smaller white mark at the front center. Its black, segmented legs grasp the rough, brownish-green texture of the plant, with the front legs extended over a small, brown, cup-shaped dried calyx. To the immediate left of the ladybug, a thin green stem rises vertically, topped with a brown, textured, cone-like dried bud that leans slightly outward. Below the beetle, the vegetation consists of a cluster of desiccated, brown sepals and stems that transition into a blurry, creamy-white, feathery seed head in the lower right quadrant. The background is a uniform, out-of-focus wash of mottled earth tones, blending beige, tan, and soft olive green, which contrasts with the sharp focus of the ladybug and the upper plant parts. Natural lighting strikes from above, creating a bright, specular highlight on the upper curve of the ladybug's shell and casting subtle shadows beneath its body onto the plant."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 7.381320953369141,
+      "description": "Dominated by the vibrant contrast of organic textures, the center of the visual field is occupied by a single seven-spotted ladybug resting on a verdant leaf. The ladybug, positioned slightly below the vertical midpoint, presents a highly convex, hemispherical shape with its head oriented toward the upper-left diagonal. Its elytra, or wing covers, are a saturated, glossy orange-red, displaying a wet-looking sheen that reflects the overhead light source in two distinct, bright white specular highlights\u2014a larger, jagged reflection near the peak of the shell and a smaller, circular one just below it. Five distinct black spots are visible on the red surface: one prominent spot on the right side, another lower down near the posterior edge, one centrally located straddling the wing suture, one partially visible on the far left curve, and a smaller marking near the front. The pronotum, the section just behind the head, is black with a small, pale white patch visible on its left side. The insect sits within a shallow depression of a broad, textured green leaf that fills nearly the entire background. The leaf's surface is characterized by a network of pale, yellow-green veins that branch out across a medium-green, slightly bumpy epidermis. To the right of the ladybug, the leaf terminates in a serrated edge, where the sharp, tooth-like margins are tipped with a subtle reddish-purple hue. Below and to the right of the main leaf, blurred fragments of other greenery suggest a dense, foliage-rich environment. The lighting is soft and diffuse, casting a gentle shadow directly beneath the ladybug, anchoring it to the leaf surface while highlighting the minute topography of the leaf veins and the smooth, reflective curvature of the beetle's shell."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 7.524253845214844,
+      "description": "Centered within the frame is a robust, highly glossy black beetle, positioned on a bed of coarse, reddish-brown soil and organic debris. The insect is oriented diagonally, facing toward the lower right, with its rounded, convex carapace reflecting a strong light source that creates two distinct, bright white specular highlights on the right elytron and smaller, scattered glints across the thorax and left side. The beetle's shell is smooth and divided by a central longitudinal groove, while the legs, visible primarily on the left and front right, are thick, black, and edged with jagged spines. The rear left leg extends backward, anchoring into the dirt, while the right legs appear tucked closer to the body. The ground beneath is a textured mix of dry, granular earth, small grey pebbles, and decaying plant matter. A relatively long, straight, light tan twig or pine needle traverses the lower portion of the scene horizontally, angling slightly upward from left to right and sitting just below the beetle's position. Directly above the insect, a chunky, irregular piece of brown wood or bark lies embedded in the soil, presenting a rough, fractured surface. To the left, another thin, pale distinct stalk of dried vegetation is oriented vertically. The lighting is harsh and direct, casting a deep, dark shadow directly beneath the beetle\u2019s body, emphasizing its elevation from the rough terrain and the stark contrast between its shiny exoskeleton and the matte, dusty environment."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 7.625911712646484,
+      "description": "Centred within the view is a glossy, obsidian-black beetle, viewed from a dorsal perspective with its head oriented towards the bottom center. The beetle's body, occupying approximately one-third of the visible area, features a convex, rounded shape divided into three primary segments: a shovel-shaped, slightly pitted head at the bottom, a smooth, expansive pronotum in the middle, and longitudinally striated elytra (wing cases) at the top. A brilliant, stark white specular highlight flares across the upper left curvature of the pronotum and spills slightly onto the left elytron, emphasizing the wet-look sheen of the exoskeleton. The elytra are marked with distinct, parallel vertical grooves running from the pronotum to the posterior end. The beetle's front left leg, serrated and sturdy, extends outward into the soil at the 8 o'clock position, while the other legs are tucked underneath or obscured by the body's bulk. The insect is situated on a substrate of coarse, dry earth and organic debris. To the right of the beetle, a cluster of dried, tan-colored pine needles or stiff grass stalks lies diagonally, pointing from the 4 o'clock edge toward the beetle's flank. On the left, a reddish-brown, twig-like segment runs diagonally from the bottom left towards the beetle's midsection. Above the beetle, the ground consists of lighter, beige-colored flaky soil and fragments of dried leaves, while the area directly beneath the beetle's head is composed of darker, clotted brown earth that the insect appears to be engaging with. The lighting is direct and harsh, creating deep, short shadows beneath the beetle and the surrounding debris, highlighting the rough texture of the dirt particles and the smooth curvature of the insect's shell."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 7.769558906555176,
+      "description": "A high-gloss, jet-black beetle, oval in shape and highly convex, stands centrally positioned on the vibrant lime-green edge of a plant leaf. The insect faces toward the left, its smooth, carapace-like back reflecting a intense, piercing white specular highlight on the upper rear quadrant and a smaller, dimmer reflection near the center, indicating a strong overhead light source. Three of the beetle's legs are clearly visible on the near side; they are a translucent amber-brown color, lighter at the tarsi and darker near the body joints. The front left leg extends forward and down, gripping the leaf surface, while the middle left leg is bent sharply at the knee, supporting the thorax. The rear right leg extends backward on the far side, and a portion of a segmented, pale antenna protrudes from the head towards the left edge of the frame. The leaf surface itself is a saturated, consistent green that occupies the lower third of the visible area, curving gently downwards from left to right, with the foreground in sharp focus and the lower areas blurring into softness. Above the beetle and the leaf edge, the background is a smooth, out-of-focus wash of neutral taupe-brown, providing a muted contrast that accentuates the sharp, shiny texture of the insect and the brightness of the leaf."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 7.793028354644775,
+      "description": "Centred within the view, a large, aquatic beetle rests on the pinkish-beige skin of a human palm, oriented diagonally with its head pointing toward the bottom left corner and its rear toward the top right. The beetle\u2019s body is a smooth, elongated oval, predominantly deep brownish-black with a highly polished, glass-like texture. An intense, irregular white specular highlight glares from the upper right curvature of the right wing case, indicating bright overhead sunlight, while a fainter secondary reflection marks the suture line separating the wings. The head is seamlessly joined to the pronotum, dark and rounded, with a thin, segmented, yellowish-brown antenna extending outwards to the left. The insect\u2019s legs are a lighter russet brown; the front left leg extends forward onto the skin, while the rear right leg is tucked against the side near the top right, revealing a flattened, paddle-like shape fringed with fine swimming hairs. The beetle casts a sharp, dark shadow directly beneath its head and left side, anchoring it to the textured surface of the hand. The palm skin is detailed with visible pores, fine fingerprint ridges, and deep creases, particularly the horizontal heart line running behind the insect. The fingers, partially visible in the background, are soft and out of focus, running horizontally across the frame, contrasting with the sharp focus of the beetle's carapace. Above the fingers at the uppermost visible edge, a blurred patch of teal-green suggests an indistinct background surface."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 8.90775203704834,
+      "description": "A brass-toned pendant light fixture hangs suspended in the center of the frame against a textured, reddish-brown brick ceiling. The fixture features a wide, flat metallic band forming a horizontal ring, roughly one-tenth the width of the visible area, oriented slightly from below so the interior structure is discernible. Inside this brass ring, a central vertical column, pale cream in color, holds two glowing, spherical white bulbs extending horizontally on short arms. A thin, dark chain connects to the top of the central column and extends vertically straight up to the top edge of the view. The background consists entirely of a vaulted masonry ceiling constructed from small, rectangular bricks in varying shades of terracotta, tan, and brown. The brickwork is arranged in a complex pattern where rows of bricks curve and converge, suggesting the intersection of architectural vaults; the lines of mortar guide the eye from the bottom center upwards and outwards in sweeping arcs. The lighting is warm and predominantly sourced from the chandelier itself, illuminating the rough, matte texture of the bricks directly behind and above it, while the illumination fades slightly into softer shadows towards the peripheral edges of the view."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 9.065844535827637,
+      "description": "A solitary, bulbous rose hip, colored a vivid, high-gloss scarlet red, dominates the center of the view, positioned vertically such that its main body occupies the middle third of the visible area. The fruit is teardrop-shaped, slightly wider at the bottom and tapering gently toward the top, with a skin that appears taut and waxy. A distinct, bright white specular highlight reflects sharply off the upper-left quadrant of the berry's curvature, indicating a strong light source from that direction, while the right side falls into a subtle, deep red shadow. Capping the fruit is a circular, rough-textured disc of dried organic matter, colored in shades of desaturated brown and beige, appearing like a flat, crusty lid. Extending directly downward from the base of the fruit is a slender, vertical stem, roughly one-fifth the width of the berry, displaying a transition from reddish-brown near the fruit to a greener hue lower down; the stem features a small, knotted node about halfway down its visible length. Emerging from the lower right of the stem, near the bottom edge of the scene, are small, unfocused fragments of yellowish-green foliage or sepals. The entire subject is set against a heavily blurred background characterized by soft, bokeh circles; the upper third of this backdrop is a smooth, hazy blue-grey, while the lower two-thirds dissolve into indistinct washes of olive green, lime, and muted earthen browns, creating a shallow depth-of-field effect that strictly isolates the sharp details of the red fruit."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up macro shot focusing on the convex, polished elytron of a large beetle, colored a deep, inky black. The curved surface occupies exactly one-quarter of the image area in the center of the frame. A piercingly bright, sharp white specular highlight reflects off the topmost curve of the exoskeleton, creating a high-contrast glare against the jet-black carapace. The background is a wash of blurred forest greens and earthy browns, simulating out-of-focus foliage and undergrowth.",
+      "rationale": "",
+      "emphasis_tags": [
+        "convex polished elytron",
+        "inky black",
+        "sharp white specular highlight",
+        "blurred forest greens"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A perfectly spherical, highly polished silver steel ball bearing rests on a textured surface. The metallic sphere takes up about 25% of the visual field, positioned slightly off-center to the left. Its mirror-like surface catches a single, intense point of white light, creating a starburst effect against the cool silver metal. The surrounding environment consists of neutral beige and soft tan fabric, blurred to keep the focus entirely on the glossy metal object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "spherical polished silver steel ball",
+        "intense point of white light",
+        "neutral beige",
+        "glossy metal object"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The rounded, waxy shoulder of a deep crimson red apple dominates the central 25% of the composition. The fruit's skin is smooth and taut, reflecting a crisp, rectangular white studio light that curves along its surface. The deep red color transitions to shadow at the edges of the form. The background is a soft, out-of-focus wooden texture in muted shades of warm brown, providing a natural, earthy context.",
+      "rationale": "",
+      "emphasis_tags": [
+        "rounded waxy shoulder",
+        "deep crimson red apple",
+        "crisp rectangular white studio light",
+        "warm brown"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A macro photograph of a reptile's eye, featuring a deep amber iris and a glossy, convex cornea. The eye structure occupies roughly a quarter of the image frame. A distinct, sharp white reflection of the sky is visible on the moist curvature of the eye, contrasting with the rich golden-brown tones of the iris. The surrounding scales are a mix of mottled browns and dusty greens, blending into a natural earth-toned background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "glossy convex cornea",
+        "deep amber iris",
+        "sharp white reflection",
+        "mottled browns"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A single, dark green jade gemstone, tumbled to a smooth, pebble-like finish, sits centrally in the frame. The stone's volume accounts for 25% of the image area. Its vitreous luster creates a brilliant white highlight on the upper curve, standing out against the deep, forest-green mineral. The stone rests on a bed of fine, neutral beige sand, which is slightly blurred to emphasize the sharpness of the gem's reflection.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark green jade gemstone",
+        "smooth pebble-like finish",
+        "brilliant white highlight",
+        "neutral beige sand"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "The bulbous, glowing tip of a vintage filament light bulb, amber in color, occupies the central lower quadrant, filling about 25% of the view. While the glass emits a warm glow, a harsh, bright white reflection from an external source glints off the smooth, curved glass surface. The background is a nondescript, dim interior wall in shades of neutral brownish-grey, allowing the luminous amber and white highlight to pop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bulbous glowing tip",
+        "amber",
+        "bright white reflection",
+        "neutral brownish-grey"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A high-gloss, black obsidian sphere is positioned slightly to the right of the center. This polished volcanic glass object takes up 25% of the image. A strong, concentrated white spotlight reflects off its upper hemisphere, creating a dazzling point of light against the void-like blackness of the stone. The background is a soft, creamy beige surface that fades into shadow, providing a neutral backdrop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-gloss black obsidian sphere",
+        "concentrated white spotlight",
+        "creamy beige surface"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A close-up of a ripe, dark red cherry, its skin stretched tight and shiny. The round fruit occupies exactly 25% of the frame. A bright white window reflection curves along the side of the fruit, emphasizing its three-dimensional convexity. The background is a blur of natural garden greens and browns, suggesting leaves and branches in the distance.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ripe dark red cherry",
+        "bright white window reflection",
+        "natural garden greens"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The convex carapace of a dark green scarab beetle glimmers in the sunlight. The shiny insect shell occupies the central 25% of the image. An intense white sun flare bounces off the metallic green chitin. The surrounding area is composed of dry, light brown soil and dead grass, kept out of focus to maintain attention on the beetle's reflective back.",
+      "rationale": "",
+      "emphasis_tags": [
+        "convex carapace",
+        "dark green scarab beetle",
+        "intense white sun flare",
+        "light brown soil"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A polished bead of fossilized amber, rich in honey and cognac tones, lies on a surface. The spherical bead takes up about 25% of the image area. A sharp, white specular highlight sits on the very top of the curve, indicating a high degree of polish. The background mimics the tone of human skin, a soft beige-pink, suggesting the bead might be resting in a palm.",
+      "rationale": "",
+      "emphasis_tags": [
+        "polished bead of fossilized amber",
+        "honey and cognac tones",
+        "sharp white specular highlight",
+        "soft beige-pink"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A macro shot of a wet, smooth river stone, jet black in color. The stone is oval and convex, occupying 25% of the frame in the center. Water coating the stone creates a mirror-like surface that reflects a blindingly bright white point of light. The stone rests among other blurred pebbles in shades of grey, brown, and tan.",
+      "rationale": "",
+      "emphasis_tags": [
+        "wet smooth river stone",
+        "jet black",
+        "blindingly bright white point",
+        "blurred pebbles"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A small, silver mercury glass ornament, perfectly round, hangs centrally. It occupies 25% of the visual space. The silver surface is highly reflective, catching a stark white glint from a nearby light source. The background consists of deep, out-of-focus evergreen foliage, providing a dark green and brown context that contrasts with the bright silver object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver mercury glass ornament",
+        "stark white glint",
+        "out-of-focus evergreen foliage"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "Detailed view of a dark brown human eye, focusing on the pupil and iris. The curvature of the cornea is prominent, occupying 25% of the image. A sharp, distinct white reflection of a flash or light source is visible on the dark surface of the pupil/iris boundary. The surrounding skin is a soft, warm beige, softly lit and slightly blurred.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown human eye",
+        "curvature of the cornea",
+        "sharp distinct white reflection",
+        "warm beige"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A single, glossy Kalamata olive, dark purple to nearly black, sits in a salad. The olive's curved side takes up 25% of the frame. It is coated in oil, creating a brilliant white specular highlight that defines its round shape. The background is a mix of leafy greens and other vegetable tones, all heavily blurred.",
+      "rationale": "",
+      "emphasis_tags": [
+        "glossy Kalamata olive",
+        "dark purple to nearly black",
+        "brilliant white specular highlight",
+        "leafy greens"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A smooth, tumbled hematite stone, metallic silver-grey in color, rests on a wooden surface. The stone's rounded form occupies 25% of the image. It reflects a high-intensity white light, creating a sharp contrast with the dark, gunmetal grey of the mineral. The background is a natural wood grain in shades of light oak and beige.",
+      "rationale": "",
+      "emphasis_tags": [
+        "smooth tumbled hematite stone",
+        "metallic silver-grey",
+        "high-intensity white light",
+        "light oak"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 5.743688106536865,
+      "best_percentile": 99.9916482329378
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 5.206005096435547,
+      "best_percentile": 99.98165733402229
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 4.977202415466309,
+      "best_percentile": 99.97307140526677
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 3.8596572875976562,
+      "best_percentile": 99.80228947692962
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 3.6906487941741943,
+      "best_percentile": 99.72977740589432
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 3.376429796218872,
+      "best_percentile": 99.5193440974862
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 3.3729465007781982,
+      "best_percentile": 99.51559751039288
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 3.2791504859924316,
+      "best_percentile": 99.41826429986435
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 3.2593579292297363,
+      "best_percentile": 99.39539450781554
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 3.191988706588745,
+      "best_percentile": 99.3088327351803
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 2.9167559146881104,
+      "best_percentile": 98.78470081160442
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 2.7326762676239014,
+      "best_percentile": 98.2205272384687
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 2.4746036529541016,
+      "best_percentile": 96.85786229106922
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 2.246131420135498,
+      "best_percentile": 94.62099368856182
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 2.163172960281372,
+      "best_percentile": 93.35761329913532
+    }
+  ]
+}

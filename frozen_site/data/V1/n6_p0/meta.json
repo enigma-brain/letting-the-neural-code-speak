@@ -1,0 +1,269 @@
+{
+  "area": "V1",
+  "neuron_id": 6,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to high-contrast, dark visual features\u2014typically deep black, charcoal, or dark gray\u2014set against a lighter, brighter background of white, silver, or light gray. The activating elements are often organic, rounded, or bounded forms, such as the pupils and dark surrounds of eyes, cavernous facial features (nostrils, open mouths), or the dense silhouettes of animals (bison, dog, bird), all defined by a sharp intensity boundary relative to the illuminated surroundings. The neuron remains invariant to object identity (ranging from animal faces and bodies to human anatomy and inanimate objects), texture, and scale, provided the strong dark-on-light tonal polarity is maintained. The activating feature typically occupies 15\u201350% of the image area and is generally centered or positioned slightly to the left within the frame.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 2.5457632541656494,
+      "description": "Presented in high-contrast grayscale, a close-up view focuses intensely on the facial features of an owl, specifically the eyes and surrounding plumage. The image is dominated by the left eye, which sits slightly to the left of the center; it features a large, piercingly black pupil with a tiny, sharp white catchlight in the upper right, surrounded by a pale gray iris and a thick, dark charcoal ring of skin or distinct feathers. To the right, the second eye is partially visible, sliced vertically by the boundary of the image, revealing only the inner portion of a matching dark pupil and pale iris. Between the eyes, a bridge of vertically oriented, bristle-like feathers in mid-gray tones creates a central furrow. Above both eyes, sweeping patches of bright white, downy feathers flare outward and upward, contrasting against the darker gray surroundings to form prominent brow-like structures. The remainder of the visible area is filled with dense, concentric arcs of feathers that radiate outward from the eyes; these feathers display a complex, mottled texture of alternating dark gray and silvery-white bands, creating a rippled, soft appearance. The lighting is diffuse yet directional enough to cast deep shadows in the recesses around the eyes, enhancing the three-dimensional quality of the facial discs and the fine, hair-like texture of individual feather barbs."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 2.581829786300659,
+      "description": "Centrally positioned within a monochromatic, grayscale scene is a mature American bison standing in profile, facing toward the left. The animal occupies the middle third of the visible area, standing on a textured ground of short, patchy grass that is rendered in speckled tones of light and medium gray. The bison's head is massive and lowered, shrouded in deep shadow that renders the eye and snout indistinct, while the heavy, shaggy fur of the bonnet and beard appears as a dense, near-black mass. This dark, coarse texture extends over the high, prominent shoulder hump and down the thick forelegs. Moving toward the rear, the fur transitions to a shorter, smoother coat in a lighter mid-gray tone, revealing the contours of the ribcage and the muscular hip. A thin tail hangs vertically from the rump, ending in a small tuft. The lighting is harsh and positioned overhead, casting a sharp, pitch-black shadow directly beneath the animal's belly and connecting its four hooves to the ground. Behind the bison, the background consists of a blurred, horizontal band of darker gray terrain, possibly a low ridge or taller vegetation, which separates the grassy foreground from a lighter, out-of-focus area at the very top of the scene. The contrast is high, with the deep blacks of the bison's front and shadow standing out starkly against the lighter grays of the sunlit flank and the surrounding field."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 2.585411787033081,
+      "description": "A monochromatic close-up reveals the intricate details of an animal's eye set within dense, soft fur. The focal point is a dark, glossy, almond-shaped eye positioned slightly left of center, angled downwards toward the left. The iris and pupil appear as a unified, deep black void, highlighted by a prominent, sharp white reflection on the upper curve of the eyeball, which indicates a wet, convex surface. This dark eye is outlined by a thick, textured black rim of skin that tapers to a point at the inner corner on the left side. Surrounding the dark eye structure is a field of short, fibrous fur that is primarily white with subtle light gray shading between the strands to indicate depth and layering. The fur above the eye flows horizontally and slightly upward towards the right, while the fur beneath the eye curves gently downward, following the orbital bone's contour. Shadows are minimal but present in the inner corner of the eye and beneath the lower rim, grounding the eye within the socket, while the lighting creates a soft sheen on the tips of the white fur strands."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 2.5916507244110107,
+      "description": "A grayscale close-up view captures the textured details of dense, wavy fur surrounding a dark, glistening eye. The fur, consisting of strands ranging from bright white to deep charcoal, dominates the composition, flowing generally from the upper left toward the lower right. The eye is situated slightly to the left of the horizontal center and just above the vertical midline, appearing as a dark, almond-shaped pool with a distinct, bright white specular highlight in its upper left quadrant. Long, wispy locks of light-colored hair overhang the eye, partially obscuring the upper lid and casting soft shadows. To the left of the eye, the fur is darker and shorter, receding into shadow, while the fur to the right is lighter, longer, and layered, catching the light to create a soft, velvety appearance. Superimposed over the right side of the image are faint, translucent white circular arcs, resembling parts of a watermark or copyright symbol, which curve from the upper right quadrant down through the center right. Additionally, visible across the lower third of the image is a faint, semi-transparent text overlay that appears to read \"ht 20\" followed by obscured characters, blending subtly into the texture of the lower fur. The lighting is soft and diffuse, emphasizing the depth and tactility of the hair clumps through a range of mid-tone grays, with the deepest blacks reserved for the eye and the crevices between the locks of fur."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 2.594627857208252,
+      "description": "Visible in a grayscale close-up is the profile of a large seabird's head, oriented facing the right. The bird\u2019s plumage is predominantly a smooth, light grey that transitions into white on the curved crown of the head. A distinct, dark patch surrounds the eye, extending backward toward the neck, creating a sharp contrast against the lighter feathers. The eye itself is dark and circular, set deeply within the dark patch, with a small catchlight reflecting from the upper right portion, giving it a lively appearance. Below the eye, a faint white crescent-shaped marking highlights the lower eyelid. The beak is thick and robust, extending diagonally downwards to the right. It appears segmented, with a prominent hooked tip at the end of the upper mandible. A distinct groove runs along the length of the beak, separating the upper and lower sections. The texture of the beak is smooth but suggests hardness, contrasting with the soft appearance of the feathers. The lighting comes from above and slightly to the left, casting soft shadows under the brow and along the neck, emphasizing the roundness of the head and the cylindrical form of the neck. The background is out of focus and dark, providing a stark backdrop that makes the lighter tones of the bird\u2019s head stand out clearly. The neck disappears into the bottom edge of the frame, suggesting the body continues downwards."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.599033832550049,
+      "description": "A monochrome close-up reveals the detailed texture and form of a human palm and curled fingers, captured in varying shades of gray. On the left side, the fleshy mound of the thenar eminence curves outward, its surface detailed with a network of fine skin ridges and pores in light gray tones. Centered on this raised area is a distinct, dark, vertically elongated mark with irregular, jagged edges, appearing nearly black against the surrounding lighter skin; this mark occupies a small vertical portion of the palm's surface. To the right of this mound, a deep, dark diagonal crease curves downward from the top center, creating a shadowed valley that separates the palm base from the fingers. Occupying the upper right quadrant is a thumb bent inward, presenting a clear view of the fingernail. The nail is smooth, roughly rectangular with rounded corners, and reflects a bright, white-gray highlight on its left side, indicating a light source from the upper left. A minute dark speck is visible on the skin immediately adjacent to the right edge of the nail cuticle. Below and behind the thumb, segments of other fingers are partially visible, appearing as soft, out-of-focus shapes in mid-gray tones that recede into the background. The lighting creates soft gradients, transitioning from the bright highlights on the nail and palm bulge to the deep charcoal shadows nestled within the skin folds."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.6034631729125977,
+      "description": "Centered in the view is a grayscale depiction of an ostrich in profile, facing right, with its body dominating the mid-section. The bird's upper body is covered in dense, matte black feathers, contrasting sharply with the shaggy, white and light gray plumage that hangs from its lower wings and tail area. A long, slender, pale neck emerges from the chest and curves downward and then slightly up, holding the small, blurry head low, approximately at the height of the bird's knees. Two long, thin, light-gray legs support the torso; the leg on the left is angled slightly backward, suggesting the end of a stride, while the leg on the right is positioned more vertically. The ground is a uniform, textured field of mottled greys, appearing as out-of-focus dirt or dry grass, with a faint, soft shadow cast directly beneath the bird's feet."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 2.605682134628296,
+      "description": "In a grayscale close-up, a human hand holds a slender, cylindrical mechanical object oriented diagonally from the upper left to the lower right. The thumb, rendered in soft, light gray tones, occupies the lower-left quadrant, pressing upward against the device, while a second finger curves over the top left, gripping the barrel. The device itself consists of a transparent tube section on the left, containing a dark, opaque, cylindrical plunger or stopper that fills the inner diameter. Along the top curve of this transparent barrel, a line of small, dark, indistinct alphanumeric text runs parallel to the object's length. To the right of the transparent section, a solid, bright white band encircles the cylinder, acting as a high-contrast divider. Extending from this white band toward the bottom right is a dark gray, textured component featuring prominent helical ridges or threading, resembling a screw mechanism. A linear highlight reflects off the upper surface of the transparent tube, indicating a light source from above. The background is out of focus, displaying a geometric pattern of light gray rectangles separated by darker, grid-like lines that align diagonally, mirroring the angle of the held object."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 2.6130712032318115,
+      "description": "In this grayscale image, a medium-sized bird stands amidst dense foliage, positioned centrally but angled toward the left. The bird, appearing to be a crow or similar corvid, dominates the scene with its dark plumage that varies in tone; its head, chest, and underbelly are a deep, almost black shade, while the wings and back appear a lighter, mottled gray, suggesting the play of light or texture on the feathers. Its beak is short, sturdy, and dark, pointing horizontally to the left, while a small, lighter patch marks the eye area. The bird's legs are partially obscured by the surrounding vegetation, but the upper portions appear dark and sturdy. The foliage surrounding the bird is a mix of small, leafy plants and grass-like structures, rendered in various shades of gray. The leaves in the foreground are slightly out of focus and lighter in tone, creating a sense of depth, while those behind the bird are sharper and darker, providing a textured background. The lighting appears diffuse, casting soft shadows that blend the bird's lower body with the ground cover, and there are no harsh highlights, giving the entire scene a muted, naturalistic appearance. The bird occupies roughly one-third of the vertical space in the center, with the vegetation filling the remaining foreground and background areas evenly."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 2.6150195598602295,
+      "description": "A monochromatic close-up captures the central features of a human face, primarily focusing on the nose, mouth, and chin. At the upper center, the tip of a nose is visible, displaying two dark, elliptical nostrils viewed from slightly below. The skin on the nose and the surrounding cheek area is a pale grey, densely scattered with small, dark freckles. Below the nose, a vertical philtrum connects to the upper lip, which, along with the visible portions of the lower lip, is coated in a dark, high-gloss substance that reflects light, appearing almost black. The mouth is open, creating a dark void from which a lighter grey tongue extends vertically downward. The tongue is flat and broad, occupying the central vertical axis, with a subtle texture distinct from the smooth skin. The tip of the extended tongue is intercepted at the bottom center by a horizontal, light grey fleshy form, resembling the side of a thumb or finger, against which the tongue presses. This interaction flattens the tip of the tongue slightly. Soft shadows define the nasolabial folds on either side of the mouth and the contours of the chin, while the lighting remains diffuse, highlighting the texture of the skin and the gloss of the lips without harsh contrast."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 2.617062568664551,
+      "description": "A monochrome high-angle shot captures a male tennis player in the apex of a serve motion, situated centrally but leaning heavily toward the left side of the frame. The player is viewed from behind and slightly to the right, his body arched dramatically backward in a convex curve facing the right edge. His head is thrown back completely, face directed upward toward the top left, with his gaze fixed on an unseen ball. He wears a dark, possibly black, short-sleeved t-shirt and light-colored, likely white, athletic shorts that reach mid-thigh. His legs are planted firmly near the bottom center, clad in white socks and dark tennis shoes with light accents. His right arm is bent acutely at the elbow, positioned behind his head, gripping a tennis racquet that hangs vertically down his back; the racquet's oval head, with a visible mesh string pattern, reaches down to his lower back. A thick, bright white court line runs diagonally across the lower portion of the image, entering from the mid-right edge and sloping downwards to the bottom center, passing just behind the player's heels. The lighting is harsh and directional from the upper left, casting a deep, solid black shadow of the player\u2019s lower body that stretches diagonally downward to the right, crossing over the white court line. The court surface itself is a uniform, textured medium grey, providing a neutral backdrop that emphasizes the high contrast between the player's dark shirt, the white line, and the deep shadow."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 2.6188602447509766,
+      "description": "A monochromatic, grayscale scene depicts a small, dark-furred dog, resembling a Scottish Terrier, sitting amidst a field of grass speckled with numerous small white flowers. The dog is positioned slightly above the vertical center and situated in the left-central portion of the visible area, occupying roughly one-sixth of the total frame. Its body is oriented in a three-quarter profile facing the left, with a dense, shaggy black coat that absorbs most light, creating a near-silhouette appearance with minimal internal texture detail. Two distinct, triangular ears perk upright from the top of its head, and a boxy muzzle points directly left, featuring a tiny, light-colored highlight near the mouth. The dog's legs are short and largely obscured by its fur, grounded by a soft, dark shadow that pools directly beneath its belly and paws, blending into the grass. The ground is a mid-tone gray, textured with the grain of short blades of grass and covered in a random scattering of bright white, irregular dots representing small wildflowers. These white spots are densest in the lower third of the image and become slightly sparser behind the dog in the upper right. The lighting is flat and diffuse, creating a low-contrast environment for the background elements while emphasizing the stark darkness of the dog against the lighter, speckled terrain."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.6234543323516846,
+      "description": "In this high-contrast grayscale image, the close-up view from behind captures the head and upper neck of a donkey or mule, dominated by its large, upright ears. The left ear is the most prominent element, positioned centrally but angled towards the upper left; its interior is visible, revealing a deep black shadow within the canal surrounded by fine, light gray hairs along the inner ridges, while the outer rim catches a bright white highlight. Partially obscured behind and to the right of this ear is the second ear, angled towards the upper right, displaying the texture of short, dense fur on its back surface in mid-tone grays. Below the ears, the animal's coat on the neck and shoulder is thick and woolly, appearing almost felt-like with matted clumps of fur in varying shades of light gray and white. A strong light source originating from the upper left illuminates the tips of the ears and the textured fur on the left side of the neck, creating brilliant white highlights that contrast sharply with the deep, solid black shadows engulfing the right side of the animal's face and neck. The background is entirely out of focus, rendered as a blur of indistinct light gray shapes and textures, likely a dusty ground or field, providing a soft, neutral backdrop that pushes the sharp, textured details of the animal's fur and ears into the foreground."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.625121831893921,
+      "description": "Rendered in grainy grayscale typical of night-vision footage, a sleeping infant is captured in profile facing the left. The baby's head occupies the central-left region, featuring dark, short hair and a visible left ear positioned centrally on the skull. The profile silhouette reveals a rounded forehead, a small, button nose, and a soft chin. Beneath the chin, a small hand is curled into a loose fist, attached to an arm that is bent acutely at the elbow and tucked close to the body. The baby's torso and lower body are enveloped in a large, pale blanket that spans the entire lower portion of the visible area, characterized by soft, rolling folds and a smooth texture. Behind the infant's head and back, a pillow or bedding material is visible, patterned with small, dark, scattered star-like or floral shapes against a lighter gray background. To the immediate right of the baby and bedding, vertical lines suggest the texture of a crib bumper or draped fabric, running from the top to the bottom of the scene. The lighting is soft and diffuse, with the highest highlights on the baby's cheek and the crests of the blanket folds, while gentle shadows define the contours of the face and the depth of the bedding."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.625286340713501,
+      "description": "A monochrome, overhead close-up depicts a small, slender snake traversing a rough, aggregate surface. The snake's body, rendered in a consistent charcoal gray, enters from the upper left quadrant, curving gently downward and to the right before straightening vertically towards the bottom center. The texture of the snake appears smooth and uniform, contrasting sharply with the background. The head, located in the lower central area, is slightly darker than the body, almost black, and oval-shaped with a blunt snout pointing directly downward. Immediately behind the head is a distinct, bright pale-gray or white ring that encircles the neck, creating a high-contrast band against the dark scales. The background consists of a coarse material resembling weathered concrete or asphalt, composed of innumerable small, irregular pebbles and distinct grit in varying shades of light to medium gray. The lighting appears diffuse but directional from the upper left, casting a narrow, soft shadow along the right side of the snake's body, helping to separate it from the noisy, speckled texture of the ground beneath. The snake's width is roughly constant, occupying perhaps one-tenth of the image's width, while its visible length creates a sinuous line dominating the central vertical axis."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "An extreme close-up macro shot captures a perfectly round, deep black pupil of a human eye, occupying approximately 15% of the visual field. The pupil is positioned slightly to the left of the center. It is bounded by a sharply defined edge against a very pale, silvery-gray iris that reflects a bright, harsh light source, creating a high-contrast boundary. The surrounding area is dominated by the bright whites of the eye's sclera and the pale iris, emphasizing the cavernous darkness of the central aperture.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A small, dense silhouette of a Scottish Terrier stands in profile, facing left, amidst a vast expanse of blindingly white, fresh snow. The dog's fur is a matted charcoal black, absorbing the light and creating a stark, high-contrast shape that covers roughly 15% of the image area. The form is positioned in the center-left of the frame, appearing as a compact, organic blob of darkness against the flat, featureless bright white background of the winter landscape.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A single, polished basalt river stone, deep black and smooth in texture, rests upon a bed of fine, brilliant white sand. The stone is oval-shaped and centered within the frame, taking up only the bottom 15% of the composition's total area to adhere to the lower end of the size scale. The lighting is diffuse but bright, causing the white sand to glow while the stone remains a solid, dark gray void with minimal surface reflection, creating a sharp tonal polarity.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A macro photograph of a single blackberry fruit, appearing as a cluster of dark, rounded globules in deep charcoal and black tones. The fruit sits on a pristine, high-gloss white ceramic plate. The berry occupies about 15% of the image, positioned slightly to the left of the center. The background is a uniform, milky white, providing extreme contrast to the organic, bumpy texture of the dark fruit, which absorbs almost all the light falling upon it.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "The gaping, cavernous nostril of a white horse is captured in an extreme close-up. The nasal cavity forms a teardrop-shaped void of absolute blackness, accounting for 15% of the frame's area and positioned just left of the center. The surrounding muzzle is covered in short, bright white hair that catches the sunlight, creating a stark, hard edge between the organic dark opening and the illuminated, pale animal skin.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A round, black vinyl record sits on a sleek, white minimalist table. The camera angle is directly overhead, capturing the dark central label and the inner grooves as a solid charcoal circle that fills 15% of the image area, centered perfectly. The rest of the image is a wash of bright, cool white from the table surface, devoid of shadows, ensuring the dark disc stands out as a singular, bounded geometric form of high intensity contrast.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A solitary black crow is captured in flight, appearing as a dense, dark silhouette against a uniform, overcast sky of bright silver-white. The bird's wings are tucked slightly, creating a rounded, organic shape that occupies roughly 15% of the canvas. It is positioned slightly to the left. The lighting is backlit, rendering the bird as a featureless shape of deep dark gray against the luminous, high-key background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A dollop of thick, black ink falls into a glass of pure white milk, captured at the moment it remains a cohesive, rounded blob before dispersing. The ink shape is a deep, impenetrable black, swirling slightly but maintaining a bounded form that takes up 15% of the image. Positioned slightly to the left of center, it floats suspended in the creamy, bright white liquid, creating a stark, graphic interaction between the two extremes of value.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A smooth, black hockey puck slides across a surface of scratched, bright white ice. The puck is viewed from a high angle, presenting a perfect dark gray circle that occupies exactly 15% of the frame. It is located in the center-left portion of the image. The ice surrounding it is brilliantly lit, appearing almost silver-white, which highlights the sharp boundary of the dark, rubber object.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A close-up of a Dalmatian's coat focuses on a single, large black spot. The spot is organic and roughly circular, a patch of deep charcoal fur set against a field of short, bright white hair. The dark spot covers 15% of the image area and is centered. The contrast is extreme, with the edges of the spot clearly defined against the snowy white background of the dog's coat.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A round, matte black button is stitched onto a crisp, white dress shirt. The camera focuses tightly on the button, which sits slightly to the left of the center and takes up about 15% of the view. The fabric of the shirt is bright white and tightly woven, reflecting ambient light, while the button remains a dark, light-absorbing void, creating a simple yet powerful visual of dark-on-light contrast.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "The dark, open mouth of a classical marble statue is viewed close up. The face of the statue is carved from bright white Carrara marble, gleaming under studio lighting. The open mouth forms a deep, shadowed cavity of pitch black, shaped organically and occupying 15% of the image area, located center-left. The sharp transition from the illuminated white lips to the dark interior defines the high-contrast feature.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A single, dark roasted coffee bean lies on a surface of white powdered sugar. The bean is a rich, dark brown-black, oval in shape with a central fissure, occupying 15% of the image area. It is positioned slightly to the left. The background is a textured, bright white expanse that sparkles under the light, contrasting heavily with the matte, dark, organic form of the bean.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A sleeping black cat is curled into a tight ball on fresh white bed linens. The cat appears as a fuzzy, dark charcoal mound, occupying 15% of the visual space in the center-left of the frame. The surroundings are a soft, bright white, with the folds of the sheets catching the light, making the dark silhouette of the cat appear as a deep hole in the fabric.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A dark, iron cannonball sits on a paved courtyard of light gray, almost white, limestone stones. The cannonball is a perfect sphere of dark gray metal, taking up 15% of the image and centered in the frame. The sunlight is harsh, washing out the stone background to a near-white brightness, while the heavy iron sphere remains a dense, dark anchor in the composition.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 2.6076180934906006,
+      "best_percentile": 0.0006244311822199465
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 2.648592233657837,
+      "best_percentile": 0.002497724728879786
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.6621131896972656,
+      "best_percentile": 0.0054637728444245325
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.6869513988494873,
+      "best_percentile": 0.016859641919938557
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 2.688283920288086,
+      "best_percentile": 0.01764018089771349
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 2.7187538146972656,
+      "best_percentile": 0.04706650035982847
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 2.738701581954956,
+      "best_percentile": 0.08141021538192553
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 2.77396297454834,
+      "best_percentile": 0.2219072313814135
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 2.775775194168091,
+      "best_percentile": 0.23260061537693008
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 2.797531843185425,
+      "best_percentile": 0.3912061356607965
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 2.8006033897399902,
+      "best_percentile": 0.41985191614513656
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 2.8255558013916016,
+      "best_percentile": 0.7204374764862633
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 2.837758779525757,
+      "best_percentile": 0.9346954258854825
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 2.87351393699646,
+      "best_percentile": 1.869390851770965
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 2.903947591781616,
+      "best_percentile": 3.1714079205973307
+    }
+  ]
+}

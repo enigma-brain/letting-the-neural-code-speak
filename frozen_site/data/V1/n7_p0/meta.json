@@ -1,0 +1,344 @@
+{
+  "area": "V1",
+  "neuron_id": 7,
+  "percentile": 0,
+  "hypothesis": "The neuron is highly selective for high-contrast, monochromatic visual patterns, specifically characterized by sharp transitions between deep blacks or dark grays and bright whites or light grays. The core activating features consist of distinct regions of luminosity\u2014such as white markings on dark animal fur, specular highlights on glass or wet surfaces, bright silhouettes, or illuminated shapes like flames\u2014set against dark, shadowed, or textured backgrounds. The neuron shows strong invariance to object identity (responding to dogs, primates, glassware, logos, and figures alike) and texture (ranging from organic fur to smooth metal), provided the scene is rendered in a strict grayscale palette with intense tonal polarity. The dominant colors are exclusively neutral tones of black, charcoal, silver, and white, typically set against a background of deep shadow, black void, or blurred mid-tone gray. The high-contrast feature usually occupies approximately 30\u201370% of the image area and is positioned centrally or slightly off-center within the frame.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.8268243670463562,
+      "description": "Presented in a grayscale palette, the head and upper neck of a Spaniel-type dog are captured in a sharp profile facing strictly to the right, occupying the central seventy percent of the visible frame. The dog's coat exhibits a mix of textures and tones; a long, pendulous ear dominates the left side of the subject, characterized by deeply crimped, wavy fur that cascades vertically from the crown to the lower neck, rendered in shades of mid-gray with silvery highlights on the ridges and charcoal shadows in the folds. The cranium is smooth and light gray, transitioning into a muzzle that extends horizontally to the right, featuring white fur speckled with small dark gray spots around the whisker pads. The visible eye is dark, almost black, situated slightly above the vertical center and set within a smooth, short-haired socket, while the nose at the far right tip of the snout is dark and moist with distinct nostril definition. Below the jawline, the fur on the throat is lighter, almost white, and appears soft and fluffy compared to the crimped ear. The lighting is soft and diffuse, creating gentle highlights on the forehead and the top of the snout. The background is out of focus, consisting of a horizon line roughly midway up on the right side that separates a lighter, cloudy sky area above from a darker, indistinct terrain or water below, providing a blurred contrast to the sharp, tactile details of the dog's fur and face."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.8408125042915344,
+      "description": "Presented in grayscale, the image features a small bird positioned centrally, facing toward the right, perched amidst dense, grassy foliage. The bird occupies the middle third of the frame, characterized by a distinct, dark patch covering the crown of its head, contrasting sharply with the lighter, soft grey plumage of its face, throat, and chest. Its beak is pale, conical, and points horizontally to the right. A dark patch of feathers is visible on the bird's right side, suggesting a folded wing. Vertical and diagonal plant structures surround the bird; a textured, vertical stalk rises along the immediate left of the bird's body, while a long, smooth, blade-like leaf extends diagonally from the lower left, crossing upward and to the right in front of the bird's lower breast, partially obscuring its form. The background consists of similar long, lanceolate leaves and stems that are out of focus, creating a depth of field that isolates the sharp details of the bird and foreground vegetation against a blurred backdrop of varying greys. The lighting appears soft and diffuse, revealing the delicate texture of the feathers and the linear veins of the leaves without harsh shadows."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.8422154784202576,
+      "description": "A grayscale, medium close-up view centers on the midsection of a figure wearing heavy, formal vestments. The dominant visual element consists of a dark, voluminous robe characterized by wide, vertical lapels that run parallel down the center of the chest, flanking a dark tie visible only at the uppermost central point. The fabric of the robe appears thick and matte, draping in deep, vertical folds that create significant shadow depth, particularly on the right side of the image. Emerging from within the folds of the robe are the figure's arms, clad in darker, smoother suit sleeves that angle inward from the sides to the center waist. At the end of each sleeve, a distinct band of white shirt cuff protrudes, providing a high-contrast boundary before leading to the hands. The hands are clasped together in the lower center of the frame; the hand on the viewer's right rests on top of the left wrist, with fingers extended and angling downward toward the bottom left. The underlying hand is partially obscured, appearing to support the top hand, with the thumb area faintly visible. The lighting is soft and diffuse, highlighting the skin texture of the hands and the crisp whiteness of the cuffs while casting the recesses of the robe's folds into deep dark gray and black shadows. The composition is symmetrical around the vertical axis of the robe's lapels, with the clasped hands anchoring the bottom third of the visible area."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.8462783694267273,
+      "description": "Presented in high-contrast grayscale, a close-up composition features the heads of two puppies squeezed together against a blurred background element. On the right, a dark-haired puppy dominates the foreground, its head angled slightly to the left, with smooth, charcoal-colored fur that reflects soft light on the brow and snout. The dog's nose is prominent, dark, and textured with a wet shine, sitting above a muzzle that shows faint whiskers and a stoic expression; its left eye is visible as a dark, glossy orb, while a heavy, folded ear hangs down the right side, merging with deep shadows. A thick, muscular limb, likely a leg, presses diagonally upward from the bottom right, partially obscuring the neck. To the left, a second puppy is visible in profile facing right, characterized by a white coat speckled with irregular grey ticking. Its snout is long and tapered, leading to a dark nose, and its visible eye is dark and alert; a solid black ear frames the left side of its face, creating a vertical band of darkness. Sandwiched between the two dogs in the upper center is a soft-focus area of light grey skin texture, featuring the curves of a chin and jawline, resting above a patch of bright white fabric that provides a backdrop to the dark puppy's shoulder. The lighting is soft and directional, seemingly from the upper left, creating distinct highlights on the nasal bridges and deep, rich blacks in the recessed areas and fur patterns."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.8519327044487,
+      "description": "A black-and-white photograph depicts the upper body and head of a long-haired dog, likely a spaniel, sitting inside a vehicle, occupying the left two-thirds of the visible space. The dog faces forward with its head angled slightly to the right, positioned in the upper-left quadrant. Its coat is a mix of dark and light tones, featuring long, dark, wavy fur on the ears that blends into the shadowed background on the left, and a white muzzle and blaze on the forehead. The nose is dark, shiny, and central to the face, while the viewer\u2019s right eye is visible and alert; the other eye is obscured by shadow. Below the head, a dense area of fluffy white fur covers the chest and extends down the front legs, heavily textured and illuminated by light coming from the right side. To the right of the dog, occupying the remaining third of the frame, is the interior panel of a car door, rendered in mid-gray tones. This panel features a rigid, horizontal armrest structure with a distinct linear groove running parallel to the frame. Above the door panel in the upper right is a bright, overexposed white area indicating a window, which serves as the primary light source. A thin, diagonal, light-colored line, possibly a leash or reflection, extends from behind the dog\u2019s neck area upward toward the window frame. The lower right area is filled with deep black shadows, obscuring the seat or floor, creating a high-contrast composition between the bright white chest of the dog, the highlights on the door panel, and the surrounding darkness."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.8527714610099792,
+      "description": "Centred against a textured backdrop of rectangular bricks is a vertical, rectangular metal fixture, possibly a post box, which dominates the view. The fixture appears in varying shades of dark grey and black, suggesting a painted metal surface with slight weathering and chipping paint, particularly along the top edge where the letters \"B\" and \"R\" are embossed in a serif font, separated by a small crown symbol. Below this header is a recessed panel framed by a raised border with rounded corners. Inside this recess sits a white, rectangular sign with black text, protected by a transparent cover. The text includes \"4.30pm\" in bold, larger font near the top, followed by smaller, less legible lines, and then \"12 noon\" in a similarly bold typeface lower down. At the very bottom of the white sign is a small logo or barcode. Beneath the sign, the metal structure continues downwards with a flat surface that features embossed text, partially legible as \"LUDLOW,\" indicating the manufacturer or location. The bricks surrounding the fixture are laid in a standard running bond pattern, their surfaces appearing rough and slightly uneven in tone, ranging from mid-grey to lighter grey, suggesting a weathered masonry texture. The lighting appears diffuse, casting soft shadows that emphasize the depth of the mortar joints and the raised relief of the metal fixture, with a slight gradient of light fading towards the edges."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.8547081351280212,
+      "description": "Captured in a monochromatic, grayscale palette, a small butterfly rests on a textured, medium-grey surface, positioned slightly to the left and below the center of the visible field. The insect is oriented diagonally, facing towards the middle-left, with its wings folded vertically above its back to display the underside. These wings are a pale, dusty white-grey, significantly lighter than the background, and are adorned with delicate rows of minute, dark grey dots that curve gently parallel to the rounded outer wing margins. The butterfly's body is slender and faintly fuzzy, matching the tonal value of the wings, with thin legs visibly gripping the substrate and faint antennae projecting forward. The surface beneath the butterfly features a prominent network of lighter grey, intersecting lines that form a grid-like pattern of irregular, polygonal cells, resembling the magnified venation of a leaf or a fine mesh structure. The lighting is soft and diffuse, creating a low-contrast scene where the pale insect stands out gently against the complex, darker geometric texture of the background, with no distinct cast shadows visible."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.8588247299194336,
+      "description": "A high-contrast, grayscale image depicts the close-up, distorted muzzle of a dark-furred animal, likely a large feline, dominating the left and center foreground with its mouth agape in a snarl or yawn. The open mouth reveals stark white teeth, including prominent lower canines and a row of smaller incisors, set against dark, glistening gums and a textured tongue visible at the base of the jaw. The snout is wrinkled and pushed forward, exhibiting a wet, reflective nose tip with distinct nostrils, while long, light-colored whiskers extend outward from the muzzle's dark fur, blurring slightly as they reach the left edge. The fur itself appears short, dense, and deep black, absorbing light except for subtle sheen on the contours of the face. Behind the head, situated in the upper right quadrant, a dark, slender foreleg extends vertically downward, terminating in a paw with visible toes planted firmly on the ground. The surface beneath the animal is a grainy, mid-tone grey, likely concrete or dirt, offering a textural contrast to the smooth wetness of the mouth and the soft darkness of the fur. Lighting appears frontal and harsh, creating strong specular highlights on the moist tissues of the mouth and the tip of the nose, while casting deep shadows within the throat and along the animal's dark coat, emphasizing the three-dimensional volume of the snout relative to the background leg."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.8637547492980957,
+      "description": "Rendered in monochromatic grayscale, a small mustelid, likely a stoat or weasel, stands erect on its hind legs in the center of a field of vegetation, facing directly forward. The animal's head is positioned slightly above the vertical center, characterized by small, rounded ears set high on a skull covered in dark charcoal-gray fur. Two small, bead-like black eyes reflect a subtle catchlight, sitting above a petite, dark, triangular nose and a light-colored muzzle. The creature displays a high-contrast coat pattern; while the top of the head and back are dark, the throat, long neck, and chest are a brilliant, solid white. The demarcation line between the dark dorsal fur and the white underbelly is irregular and textured, running down the sides of the neck. To the immediate right of the animal, a crisp, vertical plant stem rises, featuring pairs of small, serrated, oval leaves that partially overlap the lower right edge of the white chest. On the left, blurry vertical stalks of grass or stems frame the subject. The foreground at the bottom is occupied by dark, out-of-focus foliage that obscures the animal's feet and lower body. The background is a wash of heavy bokeh, composed of soft, circular patches of light gray and white, suggesting dappled sunlight filtering through distant leaves, creating a shallow depth of field that keeps the focus sharply on the animal's face and the adjacent foliage."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.8641918301582336,
+      "description": "A high-contrast, black-and-white close-up portrait captures the face of a primate, appearing to be a gorilla, staring directly forward with an intense gaze. The image is dominated by the subject's head, which occupies the majority of the visible space. Lighting is directional and dramatic, originating from the upper left, creating a strong chiaroscuro effect that highlights the bridge of the nose and the left cheek in bright, silvery tones while casting the right side of the face and the deep-set eye sockets into shadow. The fur texture is highly detailed, appearing coarse and dense; short, dark hairs cover the forehead and scalp, transitioning into longer, wiry, lighter-gray strands that flare outwards on the cheeks and chin. The nose is broad, flat, and dark with a smooth, leathery texture, contrasting with the lighter, stippled gray hair on the muzzle bridge. The eyes are dark and piercing; the eye on the right is more clearly illuminated with a tiny white catchlight, while the left eye remains partially obscured by shadow. The mouth is tightly closed and almost imperceptible against the dark fur of the lower jaw. To the right of the subject's head, the background consists of soft, out-of-focus bokeh shapes in bright white and gray, suggesting sunlight filtering through foliage, including a prominent curved, light-gray highlight near the lower right edge, while the background on the left dissolves into pure, solid blackness."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.8697122931480408,
+      "description": "Set against a pitch-black void, a monochromatic scene captures the soft, luminous glow of a flame and the silhouettes of matchsticks in a high-contrast, soft-focus composition. A bright, vertical column of white light dominates the center, originating just below the midpoint and stretching upward, expanding slightly in width as it rises before fading into the upper darkness. This flame is intersected perpendicularly at its base by a horizontal matchstick, which enters from the mid-left edge. The shaft of this match is a smooth, medium-gray blur, terminating in a dark, bulbous head that sits directly in the center of the image, silhouetted starkly against the brightest part of the white flame. Below this horizontal intersection, a second patch of white light creates a teardrop shape, suggesting the base of the flame or a reflection, curving downward. To the lower left, a diagonal, out-of-focus streak of light gray\u2014likely another matchstick shaft\u2014points upward toward the central junction, disappearing into the shadows. In the lower right quadrant, a faint, horizontal gray blur floats disconnected from the main group. A similar faint, horizontal gray haze is visible in the upper background, crossing behind the flame's tip. The overall texture is smooth and diffused, lacking sharp edges, creating a dreamlike atmosphere where deep blacks contrast with the soft, glowing whites of the fire."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.8698835372924805,
+      "description": "In a high-contrast, monochromatic close-up, three distinct pieces of laboratory glassware are arranged against a deeply shadowed, almost black background. Dominating the center and lower portion of the view is a wide reagent bottle, visible from the upper chest to the top of its stopper. The stopper is prominent, featuring a flat, horizontal top disc and a wide cylindrical plug with a frosted, matte texture that appears light grey, contrasting sharply with the smooth, clear glass of the bottle's neck and shoulders below it. Intense, thick vertical highlights reflect brightly off the left and right sides of the bottle's curved body, emphasizing its cylindrical volume and glossy surface. To the immediate right of the central bottle stands a volumetric flask, characterized by a long, slender neck that widens gracefully into a bulbous base near the bottom right corner; a sharp, continuous line of white light traces its rightmost profile, defining its shape against the darkness. On the far left, a third vertical glass vessel, resembling a graduated cylinder, stands taller than the central bottle's shoulder but appears slightly out of focus, with a vertical highlight running along its left edge. The glass in all three objects is transparent, revealing the dark background through their forms, while the lighting creates a stark interplay of bright white reflections and deep shadows, highlighting the smooth, rigid textures and the precise curves of the equipment."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.8701611757278442,
+      "description": "In a black and white photograph, a Dalmatian stands in profile facing the left, positioned centrally on a flat, textured surface that resembles wet sand. The dog\u2019s coat is bright white, covered in distinct, irregular black spots that vary in size, being smaller on the muzzle and legs and larger on the flank and back. The head is turned to the left, displaying a floppy ear that is almost entirely black, and a dark collar encircles the neck. The front legs are straight and slender, while the rear legs are positioned with the left hind leg slightly further back than the right, showing defined musculature. A long, thin tail extends upward and backward at a roughly 45-degree angle, featuring a specific black spot midway up its length. High-contrast lighting from above creates a bright sheen on the dog's fur and casts distinct, dark shadows directly beneath the animal's body and paws. The background consists of a uniform, out-of-focus gray expanse with a granular texture, containing subtle, lighter speckles scattered across the upper region."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.8712908625602722,
+      "description": "In a high-contrast grayscale medium shot, a fair-skinned figure stands centrally, playing a recorder while wearing oversized, novelty sunglasses. The subject has dark, chin-length hair that frames the face. The enormous sunglasses feature thick, dark translucent rims and dark lenses that span significantly wider than the subject's head, obscuring the eyes and eyebrows completely. Below the glasses, the nose and mouth are visible, with lips pursed around the mouthpiece of the instrument. The recorder is held vertically and aligned with the center of the torso; it has a three-part color scheme consisting of a black mouthpiece at the top, a long white central body, and a black foot joint at the bottom. The subject's hands are positioned on the white section of the recorder, with the left hand placed higher near the mouthpiece and the right hand positioned lower near the black base. The fingers are curled around the instrument, and the pale skin of the hands and forearms contrasts sharply with the clothing. The subject wears a dark, long-sleeved turtleneck sweater featuring a distinct vertical ribbed texture. The background consists of a plain wall divided horizontally into two tones, with a lighter gray section occupying the bottom third and a darker gray section filling the upper two-thirds. A soft, dark shadow is cast by the subject onto the wall to the viewer's left, indicating a light source coming from the front right."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.8719534873962402,
+      "description": "A crisp, bright white silhouette of the Apple logo is centered in the frame, featuring the characteristic semicircular bite taken out of the right side and a detached, almond-shaped leaf floating above the central dip, tilted at a 45-degree angle to the right. The logo is superimposed onto a textured, dark grey background that forms a soft, amorphous shape resembling a rounded square or squircle, occupying the majority of the view. This grey area possesses a significant amount of granular noise, giving it a speckled, matte finish similar to coarse film grain or felt. The lighting is concentrated in the center, causing the grey field to appear slightly lighter immediately behind the logo and dimming gradually towards the edges. The boundaries of this grey shape are extremely blurred and out of focus, transitioning seamlessly into a solid black void that surrounds the central form on all sides. The white logo is approximately one-fourth the width of the surrounding grey shape, serving as a sharp, high-contrast anchor against the fuzzy, low-fidelity quality of the grey backdrop, which fades into total darkness at the periphery of the visible area."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "Occupying exactly thirty percent of the central frame against a pitch-black void, the profile of a zebra's neck and jaw is illuminated by a harsh, focused spotlight. The image is strictly monochromatic, rendered in high-contrast grayscale. The zebra's coat features jagged, brilliant white stripes that cut sharply across the deep charcoal fur, creating a rhythmic pattern of extreme tonal polarity. The lighting obscures the rest of the animal, leaving only this distinct, striped section visible as a luminous shape floating in darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "monochromatic",
+        "zebra stripes",
+        "tonal polarity"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A cut-crystal whiskey tumbler sits centrally in a scene devoid of ambient light, taking up about 30% of the image area. The photograph is black and white, emphasizing the specular highlights where the glass facets catch a strong, singular light source. These highlights appear as blindingly white stars and distinct silver edges against the deep, heavy shadows of the glass's body and the surrounding black background. The contrast is stark, with no mid-tones softening the transition between the bright reflections and the dark void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "specular highlights",
+        "glassware",
+        "grayscale",
+        "sharp transitions"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A close-up of a Border Collie's face, filtered in stark black and white, positioned slightly off-center. The primary visual feature, occupying 30% of the frame, is the brilliant white blaze running up the bridge of the dog's nose and the white fur of its muzzle. This area is brightly lit, glowing intensely against the dog's jet-black fur and the indistinguishable dark grey background. The image relies entirely on the interplay between the snowy white markings and the deep shadows surrounding them.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white markings",
+        "animal fur",
+        "luminous",
+        "dark background"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A polished chrome sphere hovers in the center of a blackened space. The image is devoid of color, utilizing a palette of silver, white, and black. A distorted, high-intensity reflection of a studio light forms a bright white, curved highlight on the upper surface of the sphere, contrasting sharply with the deep metallic greys and blacks of the sphere's shaded underside. This metallic object and its reflection occupy approximately thirty percent of the visual field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "chrome",
+        "specular highlight",
+        "metallic",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A single, coherent column of dense white smoke rises centrally against a solid black background. The smoke is captured in high-speed grayscale, freezing the turbulent swirls and eddies into solid-looking shapes of bright white and light silver. The smoke plume is relatively contained, filling only the central thirty percent of the frame, leaving the surrounding seventy percent as a vast, empty darkness. The contrast between the vaporous white forms and the background is absolute.",
+      "rationale": "",
+      "emphasis_tags": [
+        "smoke",
+        "white silhouette",
+        "black void",
+        "monochromatic"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A gibbous moon, rendered in high-contrast grayscale, hangs in a sky of pure black ink. The lunar surface takes up exactly 30% of the canvas, positioned in the middle. The craters and mare are deep charcoal, creating sharp boundaries against the brilliant white highlands illuminated by the sun. There is no atmospheric haze or stars; the image is defined solely by the harsh binary of the glowing celestial body and the surrounding vacuum.",
+      "rationale": "",
+      "emphasis_tags": [
+        "moon",
+        "luminous shape",
+        "crater shadows",
+        "dark void"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A high-speed macro photograph of a milk splash crown, frozen in time against a non-reflective black surface. The liquid is a brilliant, opaque white, forming sharp peaks and droplets that gleam under studio lighting. The splash structure occupies the lower central thirty percent of the image. The scene is strictly monochromatic, with the bright white fluid standing out vividly against the deep shadows that engulf the rest of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "liquid splash",
+        "white on black",
+        "high speed",
+        "luminosity"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The dorsal fin and saddle patch of a male Orca break the surface of dark, oily water. The image is black and white. The Orca's skin is a sleek, wet black, merging with the dark water, but the gray-white saddle patch behind the fin catches the light, glowing as a distinct luminosity region. This high-contrast feature and the silhouette of the fin occupy about 30% of the image, set against a blurry, dark grey horizon.",
+      "rationale": "",
+      "emphasis_tags": [
+        "orca",
+        "wet surface",
+        "luminosity",
+        "grayscale"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "Three ivory piano keys are depressed in a chord, spotlit from directly above in a pitch-black room. The image is monochromatic. The keys shine as rectangular bars of bright white and light grey, separated by thin black lines of shadow. The rest of the piano and the room are hidden in deep shadow, effectively invisible. The illuminated keys occupy a compact region, roughly 30% of the total frame area, creating a geometric pattern of light amidst darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "piano keys",
+        "geometric",
+        "spotlight",
+        "deep shadow"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A European badger emerges from a burrow, captured in a stark black-and-white night vision style. The distinctive black and white stripes on its face are the focal point, occupying 30% of the center frame. The white stripes are intensely bright, contrasting sharply with the badger's black facial bands and the surrounding darkness of the night. The texture of the fur is visible but subordinate to the overpowering tonal contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "badger",
+        "stripes",
+        "night vision",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A jagged fork of lightning tears through a dark, charcoal-grey storm cloud. The bolt is a blinding white line with sharp branches, devoid of any color tints. The electrical discharge occupies the central vertical thirty percent of the image. The surrounding clouds are heavy and underlit, ranging from mid-tone grey to near-black, ensuring the bright white plasma of the lightning stands out with maximum intensity.",
+      "rationale": "",
+      "emphasis_tags": [
+        "lightning",
+        "illuminated shape",
+        "storm",
+        "monochromatic"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A fragment of a classical white marble statue, specifically a hand holding a scroll, rests against a backdrop of black velvet. The marble is smooth and pale white, with subtle grey shading in the carved crevices. The lighting is harsh, creating deep shadows that carve out the form. The statue fragment occupies 30% of the visual field, floating as a ghostly, pale object in a sea of black.",
+      "rationale": "",
+      "emphasis_tags": [
+        "marble statue",
+        "white stone",
+        "deep shadow",
+        "sculpture"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "Two dominoes stand on their edges, angled towards the camera in a void of darkness. The image is strictly grayscale. The dominoes are bright white with pitch-black dots (pips). They are illuminated strongly, causing them to pop against the background. The two rectangular shapes and their markings occupy roughly thirty percent of the frame, positioned centrally, with sharp edges defining the boundary between the white object and the black background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dominoes",
+        "geometric shapes",
+        "white on black",
+        "tonal polarity"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A macro shot of a single dandelion seed head (clock), fully intact, glowing white against a blurred background of dark, shadowed foliage. The image is desaturated to be completely black and white. The seed head forms a perfect sphere of intricate white fibers, illuminated from behind to create a halo effect. This luminous sphere takes up 30% of the image area, contrasting with the deep greys and blacks of the out-of-focus garden behind it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dandelion",
+        "nature",
+        "backlit",
+        "soft texture"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A silver metallic chain hangs in a U-shape against a matte black surface. The metal is highly polished, reflecting light in sharp, bright white glints along the links. The image is monochromatic. The chain occupies the lower central 30% of the frame. The contrast is extreme, with the silver metal appearing almost liquid in its brightness against the dead black of the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver chain",
+        "metal",
+        "reflection",
+        "jewelry"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.8894919753074646,
+      "best_percentile": 0.004527126071094612
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.9457182884216309,
+      "best_percentile": 0.11864192462178984
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.9547026753425598,
+      "best_percentile": 0.17780677913712978
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.9578583836555481,
+      "best_percentile": 0.20481342776814246
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.9919390678405762,
+      "best_percentile": 0.7831928102993679
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.9920965433120728,
+      "best_percentile": 0.7885785292460149
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.009714961051941,
+      "best_percentile": 1.4255763890081379
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.0161149501800537,
+      "best_percentile": 1.7441923997358657
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.0287235975265503,
+      "best_percentile": 2.50755951999975
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.0366140604019165,
+      "best_percentile": 3.12379504295306
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.0405884981155396,
+      "best_percentile": 3.4773791998851045
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.0489858388900757,
+      "best_percentile": 4.324966475850904
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.1019270420074463,
+      "best_percentile": 13.705718072443384
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.1093567609786987,
+      "best_percentile": 15.702024562000553
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.1158833503723145,
+      "best_percentile": 17.604198050838065
+    }
+  ]
+}

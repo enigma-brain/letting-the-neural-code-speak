@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 22,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to dense, periodic patterns of segmented or modular elements, such as overlapping scales, interlocking rings, parallel ridges, grids of keys, or alternating bands. These features are almost invariably arranged in a prominent diagonal configuration that traverses the frame from corner to corner. The activation is invariant to object identity (ranging from biological examples like snakes, centipedes, and woodlice to man-made artifacts like keyboards, chainmail, and combs) and specific hue, as long as the repeating structure creates a high-frequency visual rhythm. The activating feature typically occupies 40\u201380% of the image, defined by strong internal contrast\u2014often through specular highlights or deep shadows\u2014that sharply delineates individual segments against a neutral, often beige or grey, background.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.2307446002960205,
+      "description": "A dense swatch of chainmail armor rests upon a rough, mottled grey concrete surface, occupying the majority of the view and draping diagonally from the upper left toward the lower right. The armor is constructed from hundreds of small, interlocking metal rings arranged in a classic European 4-in-1 weave pattern, creating a flexible, mesh-like structure that appears slightly elevated in the center, forming a gentle convex curve. The rings exhibit a distinct iridescent finish, shimmering with a metallic gradient that transitions from polished silver to vibrant shades of royal blue and deep purple, particularly visible on the sides of the rings. The rows of the weave run horizontally across the draped section, curving slightly downward on the right side. Overhead lighting creates sharp, white specular highlights on the uppermost curves of the individual rings, contrasting with the dark, intricate shadows cast within the gaps of the mesh and onto the ground below. The concrete surface beneath provides a matte, gritty contrast to the sleek metal, featuring a coarse texture with irregular pitting and a mix of light grey, charcoal, and tan mineral flecks. The focus is sharpest on the central rings of the chainmail, highlighting the specific weave and color variations, while the texture of the concrete and the peripheral edges of the mail soften slightly."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.2617815136909485,
+      "description": "A slender, banded sea snake moves diagonally across a mottled, grey-beige sandy seabed, stretching from the lower left quadrant toward the middle right. The snake's body is segmented by bold, alternating bands of deep charcoal black and pale, bluish-grey white. The black bands are generally wider than the lighter interspaces, appearing like saddles that wrap over the top of the body, slightly narrowing as they reach the bottom edge of the animal. Approximately twelve distinct dark bands are visible. The tail section at the far left is slightly flattened and paddle-shaped, curling gently upwards before being cut off by the edge of the view, while the head end extends straight out of the visual field on the right side. The body creates a shallow arch, highest in the center of the frame. A thin, dark shadow runs directly beneath the length of the snake, anchoring it to the sediment. The surrounding substrate is a chaotic mix of fine grains in shades of slate grey, tan, and off-white. A distinct, small, reddish-brown blur, likely a piece of organic debris or rock, sits just above the snake's dorsal curve, slightly left of the horizontal center. Further up, near the top vertical center of the visible area, a small, bright white angular fragment, resembling a shell or stone, contrasts with the darker sand. The lighting is soft, diffuse, and uniform, suggestive of an underwater environment, casting no hard directional shadows other than the immediate occlusion shadow beneath the snake, and the overall color temperature is cool and desaturated."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.26464205980300903,
+      "description": "A high-angle, close-up view presents the central section of a vintage mechanical keyboard, rendered in a palette of aged, warm beige and tan plastics. The keyboard is oriented diagonally, with the rows of keys sloping slightly downwards from left to right. Four distinct tiers of high-profile, sculpted keycaps are visible, their top surfaces concave and bearing dark charcoal, sans-serif legends positioned in the upper-left corners. The uppermost visible row features the letters W, E, R, T, Y, U, I, O, and P, though the W is partially truncated by the left edge. Beneath this, the home row displays S, D, F, G, H, J, K, and L, followed by the semicolon key. The third row contains X, C, V, B, N, M, the comma, the period, and the forward slash. At the bottom of the assembly, a long, unmarked spacebar stretches across the width of roughly six alpha keys; its surface appears smoother and slightly more reflective than the matte texture of the lettered keys. A wide, sloping bezel of the keyboard's casing runs along the bottom, lighter in tone and more heavily textured than the keycaps, creating a thick border below the spacebar. Soft, diffuse lighting casts deep, defined shadows into the grid-like gaps between the tall keys, emphasizing the depth of the board, while a faint specular highlight runs along the rounded leading edge of the spacebar. A small triangular section of a white, grainy surface is visible in the bottom right corner beneath the keyboard casing."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.26512646675109863,
+      "description": "A close-up view reveals a cylindrical segment of a reptile's body, likely a leopard gecko, resting diagonally from the upper left to the center right across a piece of rough, textured wood. The reptile's skin on the dorsal side is a vibrant, golden-yellow hue, densely patterned with irregular, dark chocolate-brown to black blotches. Scattered across the yellow fields are numerous tiny, raised, pale yellow or white tubercles, creating a distinct pebbled and bumpy texture. Along the lower lateral edge of the body, the coloration transitions abruptly from the spotted yellow to a smooth, pale pinkish-white underbelly, showing faint horizontal segmentation lines. To the right, a small, folded section of a limb or tail base is visible, exhibiting a darker, brownish-orange tone with deep skin folds. The reptile rests on a substrate of dry, light tan and beige driftwood or bark, which features deep, vertical fissures and a fibrous, weathered grain. A soft shadow is cast by the reptile's body onto the wood directly beneath it, grounding the subject, while the lighting from the upper left highlights the three-dimensional relief of the scales and the rough texture of the wood surface."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.26748135685920715,
+      "description": "A low-angle, interior architectural view captures the curved surface of a dome and the wall immediately beneath it. The upper two-thirds of the visible area displays a coffered ceiling pattern consisting of a grid of recessed diamonds that diminish in size as they ascend, indicating a concave structure. Each coffer is framed by cream-colored molding and contains a dark, diamond-shaped inset with a gold, star-like rosette in the center. Below this patterned surface is a continuous, curved entablature featuring a frieze painted in a pale, matte blue. Gold serif capital letters are inscribed on this blue band; the text \"SOLIS\" is visible on the left, separated by a small vertical gold mark from the name \"MARIA\" which is positioned centrally to the right, with the partial letters \"VI\" visible on the far right edge. A beige cornice with subtle linear molding separates the frieze from the lower wall section. The bottom third of the scene features the upper portions of three arched windows set into a plain beige wall. The windows are evenly spaced, with the central window roughly aligned below the space between \"SOLIS\" and \"MARIA.\" The glass panes are blown out by intense white daylight, creating a high contrast with the interior. A black metal railing runs horizontally across the entire width of the image in the foreground, obscuring the lower parts of the windows; it features a straight top rail and a repeating pattern of vertical bars and curved details. The lighting is dominated by the natural light from the windows, casting a warm glow on the beige surfaces and gold accents while leaving the recesses of the coffers in slight shadow."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.2682397663593292,
+      "description": "A close-up, diagonal view captures a standard insulin syringe resting on a textured, beige-brown woven fabric surface. The syringe is oriented from the bottom-left to the top-right of the frame. At the bottom-left terminus, a bright orange plastic cap encases the needle; only the upper portion of the cap and its widened base are visible where it connects to the syringe barrel. Inside the transparent plastic barrel, immediately adjacent to the orange cap, a black rubber plunger stopper is positioned at the zero point, indicating the syringe is fully depressed. A scale printed in bold black ink runs along the length of the barrel, beginning near the orange cap and ascending towards the top-right. The visible numerical markings denote increments of five, reading \"5\", \"10\", \"15\", \"20\", \"25\", \"30\", \"35\", \"40\", and \"45\" in sequence. Between each numbered interval, four smaller tick marks indicate single unit measurements. A distinct, linear white highlight reflects along the upper-left length of the cylindrical barrel, suggesting a light source from the upper-left, while a soft, dark shadow is cast on the fabric along the bottom-right edge of the syringe, reinforcing its three-dimensional volume. The background fabric exhibits a fine, grid-like weave pattern in varying shades of tan and light brown."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.2701357901096344,
+      "description": "Dominated by a diagonal composition, a glossy, segmented woodlouse traverses a textured, tan surface from the upper right toward the lower left. The crustacean\u2019s exoskeleton features a series of convex, overlapping plates that are primarily deep brownish-black but are speckled with irregular clusters of bright yellow-cream dots, forming two loose, longitudinal rows along the dorsal side. The lateral edges of these plates flare out into translucent, skirt-like margins that are pale amber to greyish-white, contrasting with the dark central banding. Intense white specular highlights gleam off the wet-looking, smooth ridges of the segments, particularly on the upper right curve of the back, indicating a light source from above. At the lower left, the head segment appears darker and more textured with a bumpy surface, from which two pale, segmented antennae extend downward, blurring slightly as they reach the edge of visibility. The creature rests on a granular background resembling coarse sand or porous cork, colored in variegated shades of beige and light brown with minute dark crevices. A soft, dark shadow runs along the lower left perimeter of the woodlouse, anchoring its bulk to the rough terrain beneath it, while the rear segments at the top right curve out of view."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.2711073160171509,
+      "description": "A close-up, macro perspective reveals the structural details of a hair comb accessory oriented diagonally from the lower-left to the upper-right. The composition is bisected by the comb's spine, which is heavily wrapped in a matte black, wire-like material that coils tightly and uniformly around the top edge. Extending downward and to the right from this black binding are numerous parallel teeth of the comb; these are made of a translucent, milky-white plastic that appears smooth and glossy, with bright, linear specular highlights running along their lengths, emphasizing their cylindrical curvature. Above and to the left of the diagonal spine, a fine, intricate distinct mesh of thin black filaments forms an irregular, open-work lattice, resembling a veil or wire netting. This black mesh loops and twists in organic shapes against a soft, out-of-focus background of mottled beige, taupe, and grey tones. Suspended within this black netting are several small, clear, faceted beads, likely crystal or glass, which catch the light to produce bright white reflections. Approximately six distinct beads are visible, scattered at varying distances from the comb's spine, with the clearest ones showing sharp geometric facets. The lighting is even, accentuating the contrast between the glossy white plastic teeth, the matte black wrapping, and the glittering translucence of the beads, while the shallow depth of field keeps the comb and immediate netting in sharp focus against the blurred backdrop."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.27146658301353455,
+      "description": "Centered within the view is the head and upper torso of a white, fluffy puppy facing directly forward with a bright, alert expression. The dog's coat is voluminous and dense, consisting of long, soft white hairs that appear cream-colored in the shadowed folds around the neck and chest, while glowing bright white on the snout and forehead. Two erect, triangular ears positioned at the top of the head frame the face, with the interior of the ears showing a soft pinkish hue shielded by wisps of white fur; the tips of the ears are slightly cropped by the upper limit of the view. The eyes are dark brown, almost black, almond-shaped, and glossy, reflecting a small point of light in their upper quadrants, situated horizontally level with each other. Below the eyes, a prominent jet-black nose with a bumpy, wet texture and a central highlight sits at the end of a tapered muzzle. The mouth is slightly open, curling upward at the corners to reveal a smooth, bubblegum-pink tongue resting against the lower jaw. The chest area is a mass of indistinct, soft fur, with a suggestion of a foreleg crossing horizontally near the bottom, appearing slightly out of focus. In the background to the left, a blurred vertical structure resembles a bookshelf, displaying a book spine with a purple background and illegible vertical orange text next to a teal spine. To the right of the dog, a dark reddish-brown vertical surface, possibly a doorframe or furniture, provides contrast against the white fur, while the area directly above the head is a mix of indistinct warm beige and brown tones, suggesting an indoor setting with soft, diffuse frontal lighting."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.27205637097358704,
+      "description": "A magnified, monochromatic view reveals a highly textured, cylindrical structure resembling a close-up of a coiled filament or woven wire mesh, dominated by high-contrast lighting. The object is composed of a series of thick, parallel ridges or strands that appear metallic and granular, set against a stark black void. In the upper two-thirds of the visible area, approximately five prominent ridges run diagonally from the top left to the bottom right at a steep angle. These ridges exhibit a convex curvature, suggesting a tubular form, and are separated by deep, shadowed grooves of equal width. The surface of each ridge is intricate and rough, characterized by a chaotic pattern of bright white and light gray speckles, creating a glittering, pitted appearance similar to rough concrete or sintered metal under harsh light. The lighting appears to originate from the upper left, casting the top-left surfaces of the ridges in brilliant white highlights while the lower-right sides recede into dark gray and black shadows. In the bottom third of the image, separated by a deeper shadowed crease, a second set of ridges is visible, but these are oriented in an opposing diagonal direction, slanting upwards from left to right. This creates a visual herringbone or woven effect where the two sections meet. The individual speckles of light vary in intensity, giving the object a shimmering depth, while the extreme black shadows between the coils emphasize the three-dimensional relief and heavy stratification of the material. The structure fades into darkness at the far left and right edges, keeping the focus on the illuminated central coils."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.2724708020687103,
+      "description": "A close-up, high-angle shot captures a diagonal array of vertical, cylindrical pipes, likely made of bamboo or cane, which dominate the left and central portions of the view. These tubes present a warm, matte terracotta-brown hue with a smooth, wood-like texture and are arranged parallel to one another. The pipes are graduated in length, with the leftmost visible pipe extending almost to the bottom of the frame, while each subsequent pipe to the right terminates higher up, creating a steep, stair-step diagonal line along their bottom edges. A contrasting, lighter strip of material\u2014pale cream or beige in color and resembling split cane\u2014runs diagonally across the reddish-brown tubes, ascending from the middle-left edge towards the top right. This cross-piece appears segmented rather than continuous, with thin, dark metallic or fibrous ligatures wrapping vertically around it at the intervals between the vertical tubes to bind the structure together. The background consists of a textured fabric in a muted teal or slate-green shade, featuring a prominent horizontally ribbed weave. Soft, diffuse lighting casts dark, elongated shadows from the pipes onto the green fabric to the right, emphasizing the cylindrical depth of the instrument and the rounded, closed tips of the shorter tubes."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.2729801833629608,
+      "description": "Occupying the central diagonal of the visual field is a flattened, ribbon-like marine organism extending from the lower-left area towards the upper-right, dominating the composition. The creature\u2019s body displays a ruffled, undulating margin and a complex, spotted color pattern. The base coloration of the dorsal surface is a creamy golden-beige, which serves as a background for hundreds of densely packed, deep indigo-violet spots. These spots are smallest and most concentrated along the central longitudinal axis, creating a nearly continuous dark strip, while towards the lateral flanks, the spots become slightly larger and more widely spaced, revealing more of the cream-colored dermis. The organism is bordered by a distinct, continuous band of vibrant electric blue that outlines the entire visible perimeter, accentuating the wavy folds of its body. The texture of the organism appears soft, smooth, and matte, contrasting with the substrate below. The background consists of coarse, granular sand and crushed shell fragments in varying shades of tan, light grey, dark brown, and translucent white. The sand grains are irregular in shape and size, creating a rough, uneven surface. Lighting appears to be direct and from above, illuminating the subject evenly and casting very subtle, soft shadows immediately beneath the slightly raised, ruffled blue edges of the creature, providing a slight separation between the organism and the sea floor. The organism obscures the substrate in a wide diagonal swath, leaving triangular sections of the sandy bottom visible in the upper-left and lower-right corners of the view."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.2741410434246063,
+      "description": "A beaded hair ornament rests diagonally across the frame, extending from the lower left to the upper right, placed atop the textured surface of a peacock feather. The ornament features a central, prominent row of clear, multifaceted crystal beads arranged in repeating, flower-like clusters. These translucent crystals possess an iridescent, aurora borealis finish, refracting light to display sharp glints of cyan, violet, pale yellow, and bright white specular highlights. Flanking this central crystalline spine along both its upper and lower edges are smaller, opaque jet-black bicone beads, positioned in the recesses between the clear floral groupings to create a rhythmic, contrasting border. Beneath the beadwork, a sleek, silver-tone metal barrette base is partially visible, reflecting light along its bottom edge which runs parallel to the row of beads. The background consists of the detailed, fibrous barbs of a peacock feather, which appear slightly out of focus and run diagonally from the upper left to the lower right, perpendicular to the axis of the hair clip. These feather barbs are a mix of olive green, bronze, and muted brown tones, creating a cross-hatched texture. In the lower right quadrant, beneath the end of the clip, a section of the feather's eye is visible, presenting a deep, saturated area of iridescent cobalt blue bordered by a hint of emerald green, contrasting with the lighter, earthier tones of the surrounding plumage. The lighting is bright and focused, emphasizing the geometric facets of the crystals and the metallic sheen of the clip base."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.2743551731109619,
+      "description": "The central subject is the heavily textured midsection and right hind leg of a spiny lizard, positioned diagonally across the frame from the upper right to the lower left against a coarse, granular background. The lizard's skin is characterized by layers of sharp, keeled scales that overlap like shingles, creating a rough, jagged surface topography in shades of dusty tan, taupe, and dark coffee brown. A darker, irregular blotch of brown scales dominates the lower left portion of the dorsal area, while the upper right section of the body fades into lighter, sandy beige tones. Extending downwards from the main body mass in the lower central region is the creature's hind leg, which bends at the knee and exhibits distinct transverse banding of dark brown and pale grey stripes across the limb. The background surface appears to be weathered rock or asphalt, speckled with small, irregular aggregate in high-contrast black and white. In the upper left quadrant, immediately adjacent to the lizard's back, patches of vibrant mustard-yellow lichen cling to the grey stone surface, providing a stark color contrast. The lower right quadrant reveals more of the grey, pebbled ground, scattered with patches of pale, bluish-white lichen or mineral deposits and thin, dark, dried twig-like organic debris. The lighting is diffuse, casting minimal shadows but accentuating the three-dimensional relief of the individual scales and the gritty texture of the substrate."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.27561938762664795,
+      "description": "A large, glossy, reddish-brown centipede diagonally traverses a rough, beige concrete surface, stretching from the lower-left to the upper-right of the visible area. The arthropod's segmented body exhibits a deep mahogany color with a high-sheen finish that reflects the overhead light, creating a central highlight along the spine of the segments. Numerous tapering, amber-colored legs extend outward from both sides of the body; the legs on the right side cast sharp, dark shadows directly onto the ground to the right, suggesting a stark, direct light source originating from the upper-left. Positioned to the immediate left of the centipede's midsection is a silver United States Quarter, placed flat on the ground. The coin displays the profile of George Washington facing left, with the word \"LIBERTY\" legible along the upper rim and \"QUARTER DOLLAR\" along the bottom, though the coin is slightly less focused than the centipede's carapace. The width of the centipede's trunk, excluding the legs, is approximately one-fourth of the coin's diameter. The background texture is coarse and granular, speckled with small, irregular aggregate stones in shades of cream, tan, and gray. The centipede's body curves slightly, with the lower portion angled more vertically before bending toward the right as it ascends, and both the head at the bottom left and the tail at the top right extend beyond the field of view."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A section of an emerald tree python's body traverses the frame diagonally from the bottom-left to the top-right corner, occupying approximately 40% of the image area. The snake's scales form a dense, periodic mosaic of interlocking green diamonds, each separated by deep shadows and highlighted by a glossy, wet sheen along the dorsal ridge. The regular, geometric arrangement of the scales creates a strong high-frequency rhythm. The background is a completely out-of-focus, flat, neutral grey stone surface, providing no distraction from the patterned subject.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal orientation",
+        "periodic scales",
+        "high contrast",
+        "neutral grey background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A vintage mechanical keyboard is viewed from a sharp angle, creating a prominent diagonal alignment of keys running from top-left to bottom-right. The round, black keycaps with silver rims are arranged in stepped, modular rows that occupy roughly 40% of the visual field. Strong specular highlights gleam off the metal edges and the glossy black plastic, contrasting sharply with the dark spaces between the keys. The entire arrangement rests on a plain, matte beige desktop that fills the remainder of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "diagonal rows",
+        "modular keys",
+        "specular highlights",
+        "beige background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A giant centipede crawls diagonally across the view, its segmented body forming a rhythmic band from the lower-right to the upper-left. The repetitive orange and black dorsal plates and the multitude of parallel yellow legs create a complex, high-frequency pattern of alternating bands and lines. The creature occupies about 40% of the image, with hard shadows cast by its legs emphasizing the modular structure. The background is a smooth, featureless slab of light grey concrete.",
+      "rationale": "",
+      "emphasis_tags": [
+        "segmented body",
+        "diagonal band",
+        "rhythmic pattern",
+        "grey background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A strip of polished steel chainmail armor is draped diagonally across the frame, consuming 40% of the space. The thousands of interlocking metal rings create a dense, repetitive grid of circles and shadows. Intense points of light reflect off the curvature of each ring, creating a glittering, high-contrast texture against the dark gaps within the weave. The armor lies against a soft, untextured beige cloth that serves as a neutral backdrop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "interlocking rings",
+        "diagonal drape",
+        "metallic contrast",
+        "beige background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A close-up view of a shucked corn cob positioned diagonally from corner to corner. The rows of bright yellow kernels form a tight, grid-like structure of rounded modules, occupying exactly 40% of the image. Deep crevices between the rows create strong shadow lines that enhance the periodic nature of the pattern, while the tops of the kernels catch the light. The background is a solid, muted grey surface with no discernible texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "grid of kernels",
+        "diagonal alignment",
+        "deep shadows",
+        "grey background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A wooden lice comb is placed diagonally, extending from the top-right to the bottom-left. Its fine, tightly packed teeth create a rigorous, high-frequency visual rhythm of parallel vertical lines. The wood grain and the gaps between the teeth offer high contrast between dark browns and lighter tans. The comb covers 40% of the frame, set against a plain, pale beige wall that highlights the comb's silhouette.",
+      "rationale": "",
+      "emphasis_tags": [
+        "parallel ridges",
+        "diagonal placement",
+        "high frequency rhythm",
+        "beige background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A thick, twisted nautical rope is stretched tautly from the bottom-left to the top-right corner. The spiral strands of the rope create a repeating diagonal texture of ridges and grooves, occupying roughly 40% of the image. The fibrous texture is defined by sharp shadows in the twists and bright highlights on the surface strands. The background is a flat, uniform light grey, devoid of any other objects.",
+      "rationale": "",
+      "emphasis_tags": [
+        "twisted strands",
+        "diagonal stretch",
+        "texture contrast",
+        "light grey background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The underside of a fern frond cuts diagonally across the frame. Rows of small, brown, circular spore cases (sori) dot the green leaf segments in a precise, modular array. This biological pattern covers 40% of the image area. The lighting creates distinct shadows under each raised spore case, emphasizing the dotted rhythm. The background is a blurred, neutral beige expanse.",
+      "rationale": "",
+      "emphasis_tags": [
+        "modular spores",
+        "diagonal frond",
+        "dot pattern",
+        "beige background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The compressed bellows of a black accordion are viewed diagonally. The sharp, angular pleats form a zigzagging, high-frequency pattern of alternating ridges and deep valleys. This geometric structure occupies 40% of the frame. The contrast is stark, with light catching the edges of the folds while the inner crevices remain in pitch black shadow. The background is a neutral, mid-tone grey floor.",
+      "rationale": "",
+      "emphasis_tags": [
+        "zigzag pleats",
+        "diagonal structure",
+        "stark contrast",
+        "grey background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A section of a pangolin's armored back arches diagonally through the image, occupying 40% of the space. The large, overlapping keratin scales resemble a pinecone, creating a segmented, shingled pattern with a strong repetitive rhythm. Highlights glint off the tips of the scales, contrasting with the dark shadows underneath each overlap. The background is a dusty, nondescript beige ground.",
+      "rationale": "",
+      "emphasis_tags": [
+        "overlapping scales",
+        "diagonal arch",
+        "shingled pattern",
+        "beige background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A close-up of a metal walkway grating viewed at an angle, running diagonally from top-left to bottom-right. The intersecting metal bars form a diamond-shaped grid pattern that occupies 40% of the image. The brushed metal surfaces reflect bright light, while the holes into the darkness below create a high-contrast checkerboard effect. The background visible through the edges is a solid, flat grey concrete.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metal grid",
+        "diagonal angle",
+        "diamond pattern",
+        "grey background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A spool of vibrant blue sewing thread lies diagonally across the frame. The individual strands wrapped tightly around the cylinder create a very fine, periodic ridge pattern that covers 40% of the view. The lighting accentuates the cylindrical curvature with a band of specular highlight running along the length, contrasting with the shadowed edges. The background is a smooth, clean beige surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "fine ridges",
+        "diagonal spool",
+        "periodic strands",
+        "beige background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A diagonal slice of a slate roof displays overlapping grey rectangular tiles. The stepped arrangement creates a heavy, modular pattern of horizontal lines and vertical gaps, occupying 40% of the image. The texture of the stone is highlighted by grazing light, creating strong contrast between the lit faces and the shadowed edges of the overlapping tiles. The background is a dull, overcast grey sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "overlapping tiles",
+        "diagonal slice",
+        "stepped pattern",
+        "grey background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A detail of a woven wicker basket handle runs diagonally from bottom-right to top-left. The interlocking brown willow strands form a complex, repetitive braid pattern that takes up 40% of the frame. Deep shadows within the weave contrast with the polished, light-reflecting surfaces of the wood. The background is a simple, unadorned beige wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "woven braid",
+        "diagonal handle",
+        "repetitive weave",
+        "beige background",
+        "40% coverage"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "The midsection of a nine-banded armadillo is framed diagonally. The bony armor plates form distinct, parallel ridges that encircle the body, creating a segmented, banded pattern occupying 40% of the image. The rough texture of the skin between the bands creates deep shadow lines, separating the smoother armor plates. The background is a neutral, out-of-focus grey dirt.",
+      "rationale": "",
+      "emphasis_tags": [
+        "banded armor",
+        "diagonal frame",
+        "parallel ridges",
+        "grey background",
+        "40% coverage"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.29497814178466797,
+      "best_percentile": 0.006868743004419412
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.30720099806785583,
+      "best_percentile": 0.015688833453276155
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.30768951773643494,
+      "best_percentile": 0.016157156839941116
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.31989946961402893,
+      "best_percentile": 0.03809030211541674
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.3387834131717682,
+      "best_percentile": 0.11887608631512232
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.34111639857292175,
+      "best_percentile": 0.13331605740395858
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.34136590361595154,
+      "best_percentile": 0.13511129705284092
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.3441673219203949,
+      "best_percentile": 0.15790303520386897
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.3464927077293396,
+      "best_percentile": 0.1785873181149047
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.3467419445514679,
+      "best_percentile": 0.18053866555934203
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.3539401590824127,
+      "best_percentile": 0.2627294199190425
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.35565707087516785,
+      "best_percentile": 0.2849747807856281
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.3564034402370453,
+      "best_percentile": 0.29457541021225975
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.4129655063152313,
+      "best_percentile": 3.1185654318019678
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.4328494668006897,
+      "best_percentile": 5.80822469531661
+    }
+  ]
+}

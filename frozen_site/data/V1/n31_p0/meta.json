@@ -1,0 +1,329 @@
+{
+  "area": "V1",
+  "neuron_id": 31,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to elongated, cylindrical, or smoothly curved surfaces oriented diagonally across the visual field, consistently defined by high-contrast longitudinal specular highlights or bright linear bands running along dark, volumetric forms. Activating features include metallic pipes, mechanical struts, nails, glossy spherical edges, and biological limbs or striated fur, all sharing a common visual pattern of a bright white line or gradient defining a curved 3D geometry against a darker surface. The neuron is invariant to object identity (mechanical vs. organic) and material, provided the strong luminance contrast and diagonal or curved linearity are present. The primary features are achromatic, appearing as shades of silver, dark grey, and black with intense white highlights, set against backgrounds that vary from dark charcoal to blurred light grey. Spatially, the activating element typically traverses the frame diagonally (e.g., lower-left to upper-right), occupying approximately 20\u201350% of the image width and acting as a dominant structural line.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.0023460150696337223,
+      "description": "Presented in high-contrast black and white, a close-up view reveals a cluster of large, spherical game balls resting inside a container. Dominating the lower left quadrant is a dark, glossy sphere with a surface texture characterized by fine, horizontal concentric ridges. This sphere is encircled by two thick, bright white bands separated by a dark stripe of roughly equal width, curving with the ball's volume to emphasize its roundness. A strong light source from the upper left creates a brilliant specular highlight on the upper white band and the dark area immediately above it, while the right side of the sphere falls into deep shadow. Directly behind and slightly above this foreground sphere, the upper portion of a second, identical ball is visible, with its white stripes curving upward and to the right. To the right of the primary sphere, occupying the center-right area, is a lighter-toned, curved surface\u2014possibly another ball or the interior of the container\u2014marked by vertical, wood-grain-like striations of light and shadow. At the very bottom of the visible area, a smooth, curved rim, likely part of a wooden tub or basket, cradles the foreground sphere. In the background on the right, faint vertical lines suggest the staved interior wall of the container, adding depth behind the amassed objects."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.0024281383957713842,
+      "description": "This grayscale close-up image is dominated by strong diagonal lines formed by mechanical components against a pale, misty background. A thick, dark charcoal bar or arm traverses the frame from the bottom left to the center right, featuring a soft, linear highlight along its upper edge that suggests a cylindrical or rounded profile. Just below and parallel to this main arm is a thinner dark line, possibly a secondary strut or shadow. Attached to the main arm near the right-hand side is a circular, knob-like distinct mechanical joint; this element is dark and textured with vertical ridges or striations, appearing slightly bulky compared to the sleek arm it sits upon. Extending from this joint towards the right edge is a small, blurry projection resembling a clip or hinge. In the upper left quadrant, a large, smooth, medium-grey surface\u2014likely a panel or hood\u2014angles downwards from left to right, its straight lower edge running parallel to the dark arm below. A uniform band of light grey negative space separates this upper panel from the dark arm, emphasizing the gap between the two structures. The lighting is diffuse, casting no harsh shadows but highlighting the texture of the knob and the sheen on the arm, while the background remains a uniform, out-of-focus light grey."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.0024907232727855444,
+      "description": "A close-up, high-contrast view captures a patch of coarse, distinctive fur marked by strong diagonal striations of black and white. In the lower-left quadrant, a thick band of bright white fur angles sharply upward toward the center, the individual strands appearing elongated and slightly blurred as if in motion. Adjacent to this white band, moving rightward, is a deep, triangular wedge of jet-black fur that separates the first white stripe from a second area of white fur located in the lower-right quadrant. This second white section curves slightly inward, framing the black wedge. The texture of the white fur appears bristly and luminous, standing out against the matte darkness of the black section. The upper portion of the view transitions into a softer, out-of-focus area of mottled greys and muted whites, where the texture becomes less defined and resembles a hazy, fibrous background. The directionality of the fur and the blur suggests a sweeping movement from the bottom left toward the top right, with the lighting catching the white tips to create a streaked, painterly effect across the dark underlying coat."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.0025166869163513184,
+      "description": "A grayscale image captures a cylindrical projectile oriented diagonally, extending from the upper left towards the lower right against a dark, textured charcoal-gray background. The dominant element is the smooth, metallic-looking tube of the projectile, which occupies the central portion of the visible area. Its surface reflects light, creating a prominent longitudinal highlight that runs along its upper-middle length, indicating a light source from above. The cylinder appears light gray, contrasting with the darker background. At the upper-left end, two small, triangular fins protrude outward on opposite sides, slightly lighter in tone than the main body; the fin on the left appears slightly larger due to perspective or partial cropping. The body of the projectile shows faint, darker striations or texture running parallel to its length. The lower-right end of the cylinder is cut off, implying length beyond the visible frame. The background is uniform but grainy, devoid of other distinct features, emphasizing the stark, industrial nature of the object in motion. The overall lighting is diffuse but directional enough to create volume on the cylindrical form."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.002526533557102084,
+      "description": "Dominating the frame is a close-up, angled view of a sleek electronic device, likely a Bluetooth earpiece, characterized by its curved, matte black plastic casing. A prominent, highly reflective silver strip, appearing metallic like chrome, curves along the outer edge of the device, running diagonally from the upper right down towards the lower left, sharply contrasting with the matte black surface. To the left of this silver strip, the black casing swells outward, catching highlights that reveal a subtle, fine-grain texture. Near the upper left quadrant, a small, faint white logo\u2014resembling a stylized cross or asterisk\u2014is printed on the black surface. Below this logo, partially obscured by the left edge, is a recessed area containing a metallic silver button or switch with a ridged surface. A thin, matte black arm or cable extends horizontally from the lower right portion of the main body, tapering slightly as it moves rightward against the stark white background. The lighting is soft but directional, creating a gradient of sheen on the black plastic and bright, almost white specular highlights on the curved silver trim, emphasizing the device's ergonomic, aerodynamic form. Shadows are minimal, primarily shading the underside of the device and the cable, grounding the object against the high-key white backdrop."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.002573418663814664,
+      "description": "A monochromatic, grayscale view captures a close-up scene dominated by the spiral shell of a snail, positioned prominently in the lower-left quadrant and extending toward the center. The shell exhibits a classic logarithmic spiral structure, with the tightest coils located near the bottom left and the whorls expanding outward and upward in a clockwise direction. The surface of the shell is textured with numerous fine, transverse ridges or growth lines that run perpendicular to the spiral's direction, creating a ribbed appearance. The coloration of the shell is a mix of mottled grays, with a band of intense, bright white highlight curving along the top of the largest visible whorl, suggesting a strong, possibly artificial light source from above. Deep, dark gray shadows define the sutures between the separate coils of the shell, emphasizing its three-dimensional volume. Extending horizontally from the right side of the shell toward the right edge of the view is a thick, textured, cylindrical mass, likely the snail's muscular foot or body, which possesses a rough, pebbled skin texture in mid-gray tones. The background consists of a coarse, granular surface resembling soil or rough bark, filling the upper and right areas surrounding the subject. Scattered across the top portion of the scene, immediately above the shell, are several thin, linear pieces of organic debris, appearing as dried grass blades or small twigs; these are oriented mostly horizontally and diagonally, overlapping slightly and displaying a fibrous texture that contrasts with the smooth curvature of the shell. The focus is sharpest on the shell's upper ridges, while the background elements and the far right edge of the snail's body are slightly softer and less defined."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.0026775957085192204,
+      "description": "A high-contrast, monochrome macro photograph depicts the upper section of a metallic nail resting diagonally across a dark, textured surface. The nail's cylindrical shaft extends from the bottom-left quadrant toward the top-right, occupying approximately twenty percent of the frame's width. The metal appears smooth but imperfect, characterized by a mid-grey tone that transitions into a stark, bright white specular highlight running longitudinally along the upper-left curvature of the cylinder. This highlight is not perfectly straight, undulating slightly to reveal subtle surface deformations and faint horizontal micro-scratches. At the top-right terminus, the shaft connects to the nail head, which is viewed from a low oblique angle, presenting as a narrow, dark ellipse perpendicular to the shaft. The rim of the head is slightly thick and irregular, catching a gleam of light on its upper edge while the face of the head remains obscured in shadow. To the immediate right and beneath the shaft, a soft, diffuse shadow anchors the object, blending into the background. The background itself is a uniform, deep charcoal surface with a distinct, fine-grained noise texture, resembling coarse paper or felt, which contrasts with the sleekness of the metal."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.002696394920349121,
+      "description": "An extreme close-up, monochromatic view captures the texture and pattern of an animal's face, specifically detailing the eye and surrounding fur. The composition is dominated by diagonal bands of coarse, bristle-like hair running from the upper left toward the lower right. A distinct, creamy-white stripe of fur cuts diagonally across the upper middle section, consisting of long, wire-like guard hairs that lay flat and overlap a darker underlayer. Below this white band is a broad, diagonal swathe of deep charcoal and black fur. Embedded within this dark stripe, slightly to the right of the center, is a small, dark eye appearing in profile; the eye is glossy and reflects a tiny, sharp pinprick of white light near its center, giving it a wet appearance. Surrounding the eye, the black fur is short and dense, transitioning into longer strands as it moves away from the socket. Above the central white band, in the upper left quadrant, is another section of dark, mixed-grey fur that fades into lighter tips at the very top edge. In the bottom right quadrant, below the eye-bearing black stripe, a final band of bright white fur is visible, mirroring the texture and diagonal orientation of the upper white stripe. The lighting is soft but directional, highlighting the individual strands of the coat to create high contrast between the bright white bristles and the deep shadows of the black fur, emphasizing the rough, layered texture of the coat."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.0027203799691051245,
+      "description": "A dominant, highly polished metallic structure, rendered in monochromatic shades of silver and gray, curves smoothly from the mid-left edge of the visible area, arching upward and to the right before descending vertically near the center. The object, resembling a chrome handle or spout, possesses a sleek, reflective surface that catches bright white specular highlights along its upper crest and vertical right edge, creating a strong contrast with the darker, charcoal-gray reflections pooled in its curves. Subtle longitudinal lines or distortions run parallel to the object's curvature, indicating a cylindrical but perhaps slightly flattened or ridged geometry. The metal appears solid and substantial, occupying the central vertical third of the space. Behind this foreground element, the background is completely defocused, presenting a smooth, amorphous gradient of soft grays that range from a lighter, hazy fog-like tone in the upper right to a darker, more shadowed gray in the lower left and right, ensuring the sharp, high-contrast metallic form stands out clearly against the blurred environment."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.002727472921833396,
+      "description": "A monochromatic, close-up, angled view captures a section of an open laptop, specifically focusing on the hinge area where the screen meets the keyboard. The dominant element is the lower screen bezel, a light grey, smooth horizontal strip angling upwards from left to right, bearing the text \"MacBook\" in a centered, sans-serif, grey font. Below this bezel is the top edge of the keyboard area, showing blurred, white keys arranged in parallel diagonal lines that recede into the lower left, suggesting shallow depth of field. Above the bezel, the screen display is visible, dominated by a dark grey window title bar running parallel to the bezel. This bar contains black serif text reading \"Debugger DLL)...\" with a preceding number \"1\" partially visible on the far left. The text is crisp against the lighter grey background of the title bar, while the rest of the screen area above fades into a dark, featureless grey. The lighting is soft and diffuse, casting no harsh shadows but creating a subtle gradient on the cylindrical hinge area, highlighting its metallic texture. The entire composition is tilted, with lines running from the lower left towards the upper right at approximately a 30-degree angle."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.002728533698245883,
+      "description": "A high-contrast grayscale image reveals smooth, organic structures illuminated by a strong light source from the upper left. Occupying the central and left portion of the view is a large, bulbous, convex mass rendered in shades ranging from bright white to soft gray. Its surface is sleek and reflective, featuring a prominent specular highlight on the upper left curve, and it takes up approximately forty percent of the visual field. Above this main mass, spanning the upper horizontal section, is a thick, arching band of medium-gray material with a subtle, fibrous texture running horizontally. A deep black shadow creates a clear separation gap between the bottom edge of this upper band and the top curve of the bulbous mass. To the right of the central mass, the smooth material tapers into a distinct, triangular fold or ridge that projects outward toward the right edge; the apex of this fold is brilliantly white, contrasting sharply with the darker gray background behind it. Beneath the fold and the main mass, a lower curved surface of light gray emerges from the bottom, separated from the upper structures by a dark, shadowed crevice. The far right side of the image fades into a dark, grainy void containing faint, indistinct wisps of gray matter, providing a textured backdrop to the sharply defined, smooth foreground elements."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.0027392625343054533,
+      "description": "Presented in grayscale, the mid-section and limbs of a small amphibian or lizard traverse the frame diagonally from lower left to upper right, perched upon a rough, highly textured surface that occupies the bottom right quadrant. The creature\u2019s body is oriented upwards at an approximately 45-degree angle, with the head extending beyond the upper right edge and the thick tail tapering off the bottom left edge. The skin exhibits a distinct textural contrast; a smooth, pale gray band runs along the dorsal ridge, while the flank is darker and heavily mottled with irregular, coarse black stippling that creates a jagged longitudinal pattern along the side. The underbelly is shadowed and appears lighter than the flank but darker than the dorsal stripe. The animal's right forelimb is sharply focused, extending vertically downward from the upper chest area to grip the substrate, revealing a slender arm and spread toes. The right hind limb is visible further down the body in the lower center, bent acutely at the knee joint with the foot planted on the incline. The surface beneath the creature is rendered with high contrast, showing a granular, pitted texture resembling weathered rock or lichen-covered wood, with bright highlights on the ridges and deep shadows in the crevices. The background is a uniform, out-of-focus field of soft, hazy mid-gray that provides no depth cues, emphasizing the sharp focus of the creature and its perch. The lighting appears to be diffuse and overhead, casting a soft shadow beneath the creature\u2019s belly onto the textured surface."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.0027410865295678377,
+      "description": "A high-angle, grayscale view captures the textured form of a small, furry animal, possibly a rodent or badger, resting on a grainy surface. The subject is primarily defined by a dense coat of coarse, light-grey fur that occupies the lower central and left portions of the visible area. The fur clumps together in tufts, creating a complex surface of highlights and shadows that suggests a thick, soft texture. The body appears oriented diagonally, with a larger, rounded mass in the bottom center tapering or connecting to another furry section extending towards the upper left, implying the animal is curled or facing away. The background, visible mainly in the upper right quadrant, consists of a medium-dark grey soil or dirt surface with a rough, stippled texture, scattered with tiny, lighter specks resembling grit or small pebbles. The lighting is soft and diffuse, originating from above, which accentuates the individual strands of the fur while casting subtle, indistinct shadows where the animal's body meets the ground, providing low contrast between the subject's edge and the dark terrain."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.002754080342128873,
+      "description": "A grainy, monochrome view captures a close-up of industrial or mechanical structural elements illuminated by high-contrast lighting. A smooth, cylindrical strut serves as the primary subject, running diagonally from the lower-left quadrant upward toward the upper-right at an angle of roughly 45 degrees. The upper curve of this cylinder is marked by a distinct, bright white highlight running along its length, indicating a light source from above, while the underside fades into a medium-grey shadow. To the right of this diagonal bar, a vertical, flat structural component rises from the bottom, leaning slightly inward at the top. This vertical element is defined by a sharp, intense line of reflected light along its left-facing edge, separating it from the dark background. Between the diagonal strut and the vertical beam, a deep, textured shadow fills the void, appearing mottled and black. Extending horizontally from the side of the diagonal strut toward the vertical beam is a very thin, faint grey line, resembling a wire or thin rod. At the very bottom of the scene, a blurry, light-grey horizontal surface acts as a floor or base. In the upper-left corner, obscured by shadow, are vague, darker geometric shapes suggestive of a mounting bracket or mechanical joint where the diagonal strut originates. The entire scene is rendered in shades of grey with visible noise, emphasizing the interplay of rigid geometric lines against a murky, undefined darkness."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.0027621984481811523,
+      "description": "This grayscale close-up image presents a high-contrast study of two distinct textures separated by a deep, shadowed crevice curving from the top center toward the bottom right. To the left of this dividing line, occupying approximately two-thirds of the visible area, are smooth, undulating forms that resemble polished organic surfaces or folds; these features flow diagonally from the upper left to the lower right, defined by prominent, bright white specular highlights that streak across the dark gray material, suggesting a cylindrical or rounded geometry. The lighting creates a strong gradient on these smooth bands, transitioning rapidly from deep black shadows in the recesses to the intense white of the reflections. On the right side of the boundary, primarily filling the upper right quadrant, is a rough, highly detailed surface composed of tightly packed, irregular scale-like or pebble-like shapes. These cellular units have lighter, grayish centers and are outlined by dark interstices, creating a coarse, bumpy texture that stands in sharp opposition to the sleek, fluid lines of the adjacent section. The lighting appears to originate from the upper left, emphasizing the three-dimensionality of the smooth curves and casting minute shadows within the textured area to enhance its relief."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A sleek, polished silver chrome pipe runs diagonally from the lower-left to the upper-right of the frame. The pipe is cylindrical and occupies exactly 20% of the image width. It features a blindingly bright white specular highlight running its entire length, contrasting sharply with the dark metallic grey of the shaded sides. The background is a blurry, matte charcoal grey, devoid of distinct details.",
+      "rationale": "",
+      "emphasis_tags": [
+        "chrome pipe",
+        "diagonal",
+        "specular highlight"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A dark grey mechanical hydraulic piston extends diagonally across the view. The cylinder is smooth and metallic, reflecting a sharp, linear band of pure white light along its upper surface, emphasizing its 3D volume. The piston takes up roughly 20% of the width. It is set against a defocused background of slate grey shadows and darker grey machinery hints.",
+      "rationale": "",
+      "emphasis_tags": [
+        "hydraulic piston",
+        "linear band",
+        "metallic"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A smooth, elongated piece of polished obsidian rests diagonally across the frame. It is jet black but defined by a crisp, brilliant white reflection along its curved ridge, creating a high-contrast gradient. The object is slender, covering 20% of the frame's width. The surrounding area is a uniform, dark grey fog, providing a neutral backdrop for the glossy stone.",
+      "rationale": "",
+      "emphasis_tags": [
+        "obsidian",
+        "high contrast",
+        "curved ridge"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "The muscular foreleg of a black panther stretches diagonally upwards through the composition. The fur is short, sleek, and jet black, with a distinct, bright white sheen tracing the curve of the muscle, acting as a longitudinal highlight. The limb occupies a narrow portion of the frame, about 20% in width. The background is a shadowed, out-of-focus dark grey.",
+      "rationale": "",
+      "emphasis_tags": [
+        "panther leg",
+        "sleek fur",
+        "white sheen"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "The barrel of a high-gloss black lacquer fountain pen lies diagonally from bottom-left to top-right. A strong, continuous line of white light reflects off the cylindrical surface, highlighting the curve against the deep black material. The pen width is approximately 20% of the image. The background is a soft, muted light grey texture, resembling blurred paper.",
+      "rationale": "",
+      "emphasis_tags": [
+        "fountain pen",
+        "glossy black",
+        "reflection"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A thick, glossy black industrial power cable traverses the frame diagonally. Its surface is smooth plastic, catching a harsh, linear white highlight that runs parallel to its edges. The cable's diameter is roughly 20% of the image width. Behind it, the background is a featureless, deep charcoal darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "industrial cable",
+        "glossy black",
+        "linear highlight"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A cylindrical wrought iron bar, painted in a semi-gloss black, cuts diagonally across the visual field. A bright, streak-like highlight defines the upper curvature of the metal, contrasting with the nearly black shadow on the underside. The bar is slender, filling 20% of the width. The background is a hazy, monochromatic mix of dark and medium greys.",
+      "rationale": "",
+      "emphasis_tags": [
+        "wrought iron",
+        "cylindrical",
+        "streak-like highlight"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A close-up view of the wet, slick back of a seal, oriented diagonally. The dark grey fur is matted down and coated in water, creating a blinding white specular reflection along the spine's curve. This organic cylinder shape occupies 20% of the frame width. The background is a blurred, dark greyish water surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "wet seal",
+        "specular reflection",
+        "organic cylinder"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A section of a black metal microphone stand is positioned diagonally. The tube is coated in a satin finish that catches a long, sharp strip of white studio lighting, defining its cylindrical form against the black metal. The stand occupies about 20% of the image width. The backdrop is a dark, neutral grey studio curtain, out of focus.",
+      "rationale": "",
+      "emphasis_tags": [
+        "microphone stand",
+        "satin finish",
+        "sharp strip of light"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A macro shot of a large, dark grey iron nail shank running diagonally. The metal is smooth but dark, with a singular, intense white highlight running down the center of the shaft, revealing its roundness. The nail shank width is 20% of the image. The background is a blurred, dark charcoal surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "iron nail",
+        "intense highlight",
+        "macro"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A polished cylindrical rod of pure graphite is oriented diagonally from lower-left. It appears dark metallic grey with a mirror-like finish that reflects a bright white linear band of light. The rod is thin, roughly 20% of the total width. The background is a soft, diffuse light grey mist.",
+      "rationale": "",
+      "emphasis_tags": [
+        "graphite rod",
+        "mirror finish",
+        "linear band"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "The shaft of a black carbon-fiber billiard cue extends diagonally across the scene. The surface is perfectly smooth and glossy, exhibiting a razor-sharp white reflection line along its length. The cue occupies 20% of the frame width. The background is a deep, dark grey, suggesting a dimly lit room.",
+      "rationale": "",
+      "emphasis_tags": [
+        "billiard cue",
+        "glossy",
+        "razor-sharp reflection"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "The elongated, cylindrical neck of a black glazed ceramic vase cuts diagonally through the frame. The glaze is highly reflective, showing a distorted but bright white linear highlight that traces the curve. The neck width is about 20% of the image. The background is a solid, matte dark charcoal.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ceramic vase",
+        "highly reflective",
+        "linear highlight"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A smooth, barkless branch, darkened by rain to a near-black hue, stretches diagonally. It is wet enough to reflect a distinct, jagged white line of light along its upper surface. The branch is roughly 20% of the image width. The background is a blurry, dark grey forest gloom.",
+      "rationale": "",
+      "emphasis_tags": [
+        "wet branch",
+        "dark hue",
+        "line of light"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A tubular metal table leg with a dark gunmetal finish is angled diagonally. A specific, intense band of white light reflects off the curvature, emphasizing the metallic texture. The leg occupies 20% of the frame width. It is set against a simple, out-of-focus light grey floor background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metal leg",
+        "gunmetal finish",
+        "intense band"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.003698933171108365,
+      "best_percentile": 0.025601678471017807
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.0037703514099121094,
+      "best_percentile": 0.031455720804329804
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.0038112401962280273,
+      "best_percentile": 0.03481203840876202
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.003953326027840376,
+      "best_percentile": 0.04995449457759572
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.003998362924903631,
+      "best_percentile": 0.05510605183091028
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.004160106182098389,
+      "best_percentile": 0.07493174186639358
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.0043000937439501286,
+      "best_percentile": 0.09709904883520168
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.0044356705620884895,
+      "best_percentile": 0.12574482931954173
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.004676807206124067,
+      "best_percentile": 0.18967097159930876
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.004792976658791304,
+      "best_percentile": 0.227683219816948
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.005087792873382568,
+      "best_percentile": 0.3407052637987583
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.005830276291817427,
+      "best_percentile": 0.8069211952237259
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.006371963303536177,
+      "best_percentile": 1.3323019811640333
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.0065642716363072395,
+      "best_percentile": 1.5709127466698305
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.006879556458443403,
+      "best_percentile": 2.0196446049926395
+    }
+  ]
+}

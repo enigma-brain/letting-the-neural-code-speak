@@ -1,0 +1,329 @@
+{
+  "area": "V4",
+  "neuron_id": 7,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to a prominent, dark-colored object or region\u2014typically jet black, charcoal grey, or deep brown\u2014contrasted against a bright, desaturated background of white, pale beige, light gray, or dry straw yellow. The activating feature often presents as a solid, high-contrast silhouette or mass, such as the body of a black animal (dog, ostrich, bear), a dark electronic screen, or a deep shadowed cavity. The neuron is invariant to the specific identity of the object, its texture (fur, feathers, plastic), and the lighting conditions, as long as the distinct dark-on-light polarity is preserved. The activating feature typically occupies 20\u201350% of the image area and is centered or situated in the lower half of the frame.",
+  "confidence": null,
+  "total_images": 13,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.9536243677139282,
+      "description": "Centered in the mid-ground of the visible area stands a large wading bird, captured in profile facing toward the left side of the frame. The bird features plumage that is predominately jet black, covering its head, neck, back, and folded wings, with a distinct patch of white feathers visible on the lower underbelly and upper legs. A long, vibrant crimson-red beak extends from the head, tapering to a sharp point and angling downward at approximately forty-five degrees relative to the horizontal axis of the body. The bird is supported by two long, spindly legs of the same bright crimson red hue; the leg closest to the viewer is planted straight down, while the far leg is bent backward at the joint in a walking motion, lifting the lower limb slightly. The bird stands in a field of medium-height green grass that obscures the feet and lower ankles, speckled with numerous small, out-of-focus white flowers that create a textured, dotted pattern across the lower half of the scene. The background consists of soft, blurred foliage in varying shades of green and brown, indicating distant vegetation or a hedgerow, with no sharp horizon line visible. The lighting is diffuse and natural, casting no harsh shadows but highlighting the smooth texture of the beak and the matte finish of the black feathers, while the bird occupies approximately fifty percent of the horizontal width and thirty percent of the vertical height of the viewable scene."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.9544305801391602,
+      "description": "A reddish-brown dog, captured in profile moving rapidly from left to right, dominates the central view, with its head partially cropped on the left edge and its lower legs cut off at the bottom. The animal wears a fitted piece of clothing featuring a solid, dark charcoal-grey body panel that covers the torso from the shoulders to the hips. The garment has short sleeves made of a camouflage-patterned fabric in olive drab, dark brown, and black, with olive-green ribbed trim circling the neck and armholes. Around the neck, sitting high above the clothing's collar, is a metallic silver collar consisting of flat, rectangular links. The dog's coat is smooth and short, a rich chestnut color visible on the neck, the visible sliver of the cheek, the hindquarters, and the tail. The tail is a defining feature, tightly curled forward over the lower back, ending in a prominent bright white tip. The hind legs are extended backward, indicating the push-off phase of a run, while the front left leg is raised, showing a white marking on the foot. The background is a wash of neutral sandy beige and light tan, rendered as horizontal streaks due to motion blur, suggesting a textured ground surface like dirt or sand without distinct features, providing a low-contrast backdrop that highlights the darker tones of the dog's clothing."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.9806164503097534,
+      "description": "A short-haired, muscular dog with a pied coat of dark brindle and white occupies the lower center of the frame, captured in a deep squatting posture on a field of dry, dormant grass. The dog is oriented facing the right edge, with its hind legs tucked sharply forward underneath its abdomen and its back rounded. The animal's rear, back, and the top of its head are covered in dark brown and black brindle stripes, while its chest, neck, front legs, and snout are bright white. A silver metal chain collar hangs loosely around the dog's neck. Directly behind the squatting dog, positioned slightly to the right, are the lower legs of a human standing on the grass; visible from the mid-calf down, the person wears tan khaki bottoms, white ankle socks, and black athletic sneakers with white soles and laces. To the left of the central dog, the rear hindquarters and tail of a second, larger dog are visible, standing upright and facing away toward the left; this dog has sleek black fur with rust-colored tan markings on the lower leg and paw. Behind this black dog and slightly further back in the visual plane, another set of human legs is partially visible, clad in light blue denim jeans and white sneakers. The ground consists of short, parched grass in shades of straw yellow and beige. Strong, dark shadows are cast directly beneath the squatting dog and the feet of the people, suggesting bright, overhead sunlight."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.9814964532852173,
+      "description": "Centered within the view is a small, jet-black Scottish Terrier crouching low on an expanse of pale beige sand. The dog\u2019s body is oriented diagonally, with its head positioned toward the lower-left and its rear angled toward the upper-right. Its distinctive shaggy, wiry fur is a uniform matte black, creating a high-contrast silhouette against the light background and obscuring specific facial features other than the shape of a bearded snout and two erect, triangular ears. A bright crimson red collar is visible around the dog's neck, featuring a silver metallic clasp and D-ring resting against the left shoulder area. The tail stands stiffly upright, pointing toward the one o'clock position. The dog appears to be interacting with the ground, with its snout close to the sand and front paws hidden by its posture. The terrain consists of light tan, fine-grained sand that occupies the majority of the lower view, appearing slightly out of focus in the immediate foreground. Behind the dog, in the upper third of the visible area, the sand rises slightly into a dune environment sparsely populated with tufts of dry, pale yellow-green dune grass that grow vertically. The lighting is diffuse and even, casting only a soft, undefined shadow directly beneath the dog\u2019s belly, suggesting soft daylight without harsh directional sun."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.991063117980957,
+      "description": "Centered against a uniform, overcast light gray-blue sky stands the upper section of a water tower designed to resemble a gigantic golf ball resting on a tee. The dominant structure is a large, white sphere characterized by a grid of small, light gray circular dimples that mimic the texture of a golf ball. Spanning the upper hemisphere of the sphere is the text \"GOLF OF MEXICO\" painted in a dark navy blue, sans-serif font. The word \"GOLF\" is arched upwards near the top, the word \"OF\" is positioned in a smaller font size directly below the center of \"GOLF,\" and the word \"MEXICO\" is stretched horizontally across the equator of the sphere, following the curvature of the object. The sphere rests atop a structural support painted in a deep, glossy forest green. This support begins as a vertical column at the bottom center and flares outward in a conical, funnel-like shape to cradle the base of the white sphere. The surface of this green support features vertical fluting or ridges that create subtle variations in light and shadow, emphasizing its three-dimensional form. The lighting is soft and diffuse, casting a gentle shadow on the underside of the white sphere where it overhangs the green base, while the top of the sphere appears slightly brighter, indicating overhead illumination. The structure is vertically oriented and perfectly centered within the frame, with the sky occupying the surrounding negative space."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.0034685134887695,
+      "description": "Centered within the view, a large, jet-black mass resembling a crouching bear occupies the middle third of the frame, its form dense and roughly oval-shaped with the head positioned toward the left and the body extending horizontally to the right. The texture of the black shape is obscure and shadowed, absorbing almost all light, though a faint variation in tone near the left edge suggests a muzzle or head lowered toward the ground. To the immediate left of this dark figure, a vertical tree trunk spans the full height of the visible area, its bark appearing rough and mottled with shades of grey, brown, and hints of tan. Several thin, pale, twig-like branches protrude horizontally from the left side of the trunk. The animal is situated on a steep, rugged incline that slopes upward from the bottom left to the top right. The ground is a cluttered mosaic of natural debris, dominated by dry, brown and russet-colored fallen leaves, interspersed with small, jagged grey rocks and patches of dirt. In the upper right quadrant, behind the black figure, distinct patches of bright white snow or ice are visible amidst the leaf litter, contrasting with the earthy tones. In the lower right foreground, thin, vertical stalks of dried, yellow-brown grass rise from the rocky soil. The lighting is diffuse and soft, creating a low-contrast environment without harsh shadows, while the overall image quality has a slightly grainy texture."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.017834424972534,
+      "description": "Dominating the visual field is a close-up, high-angle perspective of a white Epson multimedia projector, angled diagonally so its front and top surfaces are prominent. The device\u2019s casing is constructed from a matte, textured plastic that appears cream-colored under warm, yellowish artificial lighting. The focal point is the lens housing located on the right side of the front face, which features a deep, recessed cavity lined with glossy black plastic; this recess has an asymmetrical, scooped shape that curves upward into the top panel. Inside this dark void, the circular glass lens is visible, encircled by a grey, ridged focus ring. Directly to the left of the lens housing, on the flat vertical front panel, the brand name \"EPSON\" is printed in bold, dark grey sans-serif capital letters. At the bottom center, beneath the lens assembly, a small grey, serrated height-adjustment foot protrudes slightly. To the right of the lens, near the curved corner of the chassis, a small rectangular sticker displays the \"3LCD\" logo with tiny red, green, and blue geometric shapes. The top surface of the projector features a second \"EPSON\" logo printed in black, positioned centrally but oriented to be read from the rear, appearing upside down from this front-facing angle. Just above the lens housing on the top edge, a recessed channel contains a sliding lever for zoom or focus adjustments, marked with small black text and directional arrows. Further back on the top panel, partially out of focus, is a control interface consisting of a circular arrangement of navigation buttons surrounding a central \"Enter\" key, flanked by additional rectangular function buttons. The lighting creates a soft sheen across the curved upper edges of the device, contrasting with the deep shadows inside the lens housing and the darker tones of the mechanical components."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 2.0228774547576904,
+      "description": "Centered in the frame against a soft-focus background of field vegetation, a large ostrich walks in profile from left to right. The bird's body is a voluminous oval of dense, textured black plumage, accented by ruffled white feathers at the rear tail area and along the lower edge of the wing which create a high-contrast separation from the dark torso. Extending upward from the front of the torso is a long, slender neck, characterized by bare, pale pink skin that transitions to a slightly greyer tone near the base; the neck curves gracefully, supporting a small, triangular head with a pinkish-grey beak pointing directly to the right and a distinct dark eye. The ostrich is captured in mid-stride, with its powerful, bare pink legs clearly visible; the left leg trails behind with the foot lifting off the ground, while the right leg extends forward, planting a large, thick-toed foot into the grass. The ground is a textured carpet of dry, greyish-brown scrub and low-lying purple vegetation, interspersed with numerous bright yellow wildflowers that form a speckled horizontal band across the middle distance. The background is blurred due to a shallow depth of field, washing out into a haze of muted lavenders, earthy tans, and soft yellow spots near the top, contrasting with the sharp focus of the bird. Natural, diffuse daylight illuminates the scene, casting a soft, dark shadow directly beneath the ostrich's body onto the rough terrain."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 2.034208059310913,
+      "description": "A low-angle, close-up perspective captures the upper section of a cylindrical lighthouse tower made of weathered, sandy-beige concrete, set against a backdrop of deep cerulean sky with faint wisps of white cloud visible on the left. The main shaft of the tower dominates the lower center, characterized by horizontal grooves that divide the visible surface into large, curved blocks or segments; the masonry is textured and aged, displaying vertical streaks of darker brown discoloration and mottled patches from exposure. Surmounting this column is a prominent, thick circular gallery that cantilevers outwards, creating a heavy overhang. The underside of this platform is cast in a deep, sharp shadow that curves around the column, contrasting strongly with the sunlit face of the tower which receives light from the upper left. The outer rim of the gallery is rough, with visible discoloration and hints of mossy green weathering along the top edge. Atop this platform sits the lantern room, enclosed by a white metal safety railing consisting of evenly spaced vertical bars and horizontal rails that follow the curvature of the structure. Behind the white railing, the lantern room features a framework of white mullions holding large, rectangular glass panes that appear dark and reflective, revealing only vague internal shapes and reflections of the sky. The structure is centered vertically, and the curvature of the railing and gallery rim emphasizes the cylindrical geometry as they recede away from the viewer on both the left and right sides."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 2.0465927124023438,
+      "description": "Situated centrally within the lower half of the frame, a medium-sized dog with the long, fluffy coat typical of a Shetland Sheepdog walks through a field of textured snow. The dog is oriented facing forward and slightly to the right, captured in mid-stride with its front left paw planted firmly and its front right paw slightly raised. Its coat features a distinct tricolor pattern: deep, matte black covers the top of the head, ears, back, and sides, while a bright white ruff encompasses the chest, neck, and extends down the front legs. Faint patches of tan fur are visible on the cheeks, blending between the black and white sections of the face. The dog's dark eyes look forward, partially shadowed by its brow. The ground is completely blanketed in snow that is not smooth but rugged and uneven, characterized by numerous small mounds, footprints, and depressions that create a complex pattern of bright white highlights and cool, blue-grey shadows. Sparse tufts of dry, yellowish-brown grass poke through the snow layer, most notably in the upper right quadrant and around the dog's feet. The lighting appears to originate from the upper left, illuminating the left side of the dog\u2019s white chest and casting soft shadows to the right of the snow mounds and beneath the animal's body. The background consists solely of this continuing snowy terrain, which fills the upper portion of the view with the same lumpy, grass-flecked texture as the foreground."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 2.0495903491973877,
+      "description": "A large male ostrich stands prominently in the center of the frame, its body oriented towards the right in profile. The ostrich has a bulky, oval-shaped torso covered in dense, coarse black plumage that appears textured and layered. At the rear, a tuft of fluffy, cream-white tail feathers curves upward and slightly outward, contrasting sharply with the black body. The bird's long, slender neck extends vertically from the front of the torso, curving gently forward near the top, covered in pale pinkish-grey skin with fine downy hairs. Its small head, perched atop the neck, features a pale beak and dark eye, facing right. The legs are long, thick, and pinkish, with prominent knobby knees and large, two-toed feet resting on patchy grass. The ostrich occupies roughly the central third of the horizontal space and spans vertically from the lower quarter to the upper third of the view. The background consists of a dry, grassy landscape with yellowish-tan dried grass covering a gentle slope rising behind the bird. Scattered on the slope are a few small rocks and a bare, dried branch or small bush structure near the top center, brown and twiggy. The ground in the foreground is a mix of sparse green grass and bare earth. Lighting appears to be natural daylight, casting soft shadows beneath the ostrich's body and legs, suggesting an overhead sun position. To the left, a sliver of a dark, vertical structure, possibly a fence post or pole with a metallic fixture attached, is partially visible at the very edge of the visible area."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 2.10080885887146,
+      "description": "Centered against a heavily grained, monochromatic background of pale grayish-mauve and taupe, a dark, quadrupedal animal stands in profile, facing directly toward the left. The figure, rendered in deep charcoal to black tones, appears stout and low to the ground, occupying the central third of the visible area horizontally and roughly one-fifth of the vertical space. Its form is defined by a thick, oblong body that tapers at the left end into a distinct, downward-pointing snout, while the rear on the right features a short, thin tail extending straight out before curling slightly downward. Four short, sturdy legs extend from the torso, their details somewhat obscured by the coarse, stippled visual noise that permeates the entire image, yet they clearly ground the figure. A soft, amorphous shadow in dark gray pools directly beneath the animal's belly and feet, blending with the legs to anchor the subject to the textured surface. The surrounding ground is featureless aside from the heavy, mottling grain, extending evenly above and below the animal with no horizon line or vegetation visible, creating a flat, depthless perspective where the lighting appears diffuse and nondirectional."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.124805212020874,
+      "description": "A white desk sits centrally in the frame, angled slightly away from the viewer, dominated by a dark gray flat-screen computer monitor positioned in the center-right. To the left of the monitor sits a light gray and white printer, boxy in shape, occupying the left mid-ground. Between the printer and the monitor is a partial view of a darker gray landline telephone base. In front of the monitor rests a standard white computer keyboard with light gray keys, aligned parallel to the desk's front edge. To the right of the keyboard lies a gray rectangular mousepad with a white computer mouse resting on it. Behind the monitor and to its right stands a small red desk lamp with a flexible neck and conical shade, angled downward. The desk surface is smooth and white, reflecting soft, diffuse light. Above the desk, a white shelf runs horizontally across the top portion of the visible area, holding dark, indistinct objects that appear to be decorative items or electronics. The walls behind the desk and shelf are a plain, matte off-white or cream color. Beneath the desk, a white chair with a curved backrest is partially visible, tucked under the desk surface, with dark cables hanging down into the shadowed area below. The lighting is soft and yellowish, casting gentle shadows to the right of the objects, suggesting an indoor, artificial light source from the upper left."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.2359893321990967,
+      "description": "A medium-sized antelope, specifically an impala, is captured in profile facing left, frozen mid-stride against a backdrop of a sunlit, out-of-focus light gray asphalt road. The animal is strongly backlit, rendering its body primarily in deep, dark brown to black silhouette, though a horizontal band of warm tan fur is faintly visible along the lower flank, and a bright rim of light traces the upper contours of the back, neck, and hindquarters. The head features a tapered muzzle and large, upright ears, surmounted by long, ridged horns that curve backward in an S-shape; due to the profile angle, the horns appear almost singular and sweeping. The neck is slender, connecting to a torso that occupies the central horizontal band of the view. The legs are long and spindly, appearing nearly black; the front left leg is bent at the knee and raised high in a stepping motion, while the front right leg is planted firmly and vertically. The rear legs are scissor-stepped, with one angled forward beneath the belly and the other extended straight back, the hoof just lifting off the ground. Beneath the animal, distinct dark shadows cast by the legs and body stretch horizontally across the textured gray road surface, anchoring the figure to the ground. The asphalt background is uniform in its pale gray tone, marked by subtle, blurred vertical streaks consistent with road wear, and serves as a high-contrast field that highlights the dark form of the antelope."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.2507781982421875,
+      "description": "In the center of the visible area, a male ostrich stands in profile facing left, its body positioned slightly below the horizontal midline. The bird's plumage is predominantly a deep, matte black that covers the bulk of its torso, contrasting with the lighter, beige-white feathers at the tail end which appear fluffy and slightly drooping. Its long, pale pinkish-grey neck extends downward and curves back up, leading to a small head with a lighter beak area, though facial details are somewhat indistinct due to distance and resolution. The ostrich's legs are visible, pale pinkish in tone, with the right leg planted firmly and the left leg bent as if mid-stride or shifting weight, revealing the thick upper thigh muscle. The bird is situated in a field of tall, dry grass that is a mix of pale beige, tan, and muted yellow hues, suggesting an arid or savanna environment. The grass obscures the lower portion of the legs and feet. In the background, beyond the immediate field, there is a blurred horizon line with hints of sparse vegetation or distant trees in muted greens and greys, under a pale, overcast sky that occupies the upper portion of the view. The lighting is diffuse and natural, casting soft, indistinct shadows directly beneath the ostrich, indicating overhead sunlight filtered through clouds. The texture of the grass appears bristly and uneven, while the ostrich's feathers look soft but dense. The overall color palette is dominated by the earthy tones of the dry grass and the stark black of the bird's feathers."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A sleek, jet-black domestic cat sits motionless in the lower center of the frame, its silhouette forming a compact, rounded shape against a vast expanse of crisp white bed sheets. The cat occupies approximately one-fifth of the image area, creating a stark high-contrast focal point where its dark fur absorbs the light, showing no distinct internal texture, just a solid dark mass against the bright, desaturated linen.",
+      "rationale": "",
+      "emphasis_tags": [
+        "jet-black domestic cat",
+        "crisp white bed sheets",
+        "high-contrast silhouette"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A matte charcoal grey ceramic vase, spherical in form with a narrow neck, rests on a pale beige wooden table. The vase is positioned in the lower half of the composition, taking up about 20% of the visible space. The lighting is flat, rendering the vase as a uniform dark grey shape that contrasts sharply with the creamy, off-white wall and table surface behind it, which are devoid of clutter.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal grey ceramic vase",
+        "pale beige wooden table",
+        "uniform dark grey shape"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A large, common raven with glossy, midnight-black feathers stands in profile on a field of untouched, bright white snow. The bird is situated in the lower-middle section of the image, its dark body forming a stark, ink-blot-like shape against the blindingly bright background. The bird's form covers roughly 20% of the canvas, emphasizing the extreme polarity between the deep black plumage and the high-key snowy environment.",
+      "rationale": "",
+      "emphasis_tags": [
+        "midnight-black feathers",
+        "bright white snow",
+        "ink-blot-like shape"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A turned-off tablet computer presenting a solid black glass surface lies flat on a light gray minimalist desk. The device is centered in the lower portion of the frame, occupying a modest rectangular area constituting about 20% of the total view. The screen reflects no light, appearing as a deep, void-like black slab that cuts through the soft, expansive greyscale of the surrounding desktop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "solid black glass surface",
+        "light gray minimalist desk",
+        "void-like black slab"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A jagged, deep brown, almost black hollow in the trunk of a silver birch tree dominates the lower central view. The surrounding bark is a peeling, paper-white and pale grey texture, providing a bright backdrop. The dark cavity, a shadow-filled recess, forms a high-contrast blob taking up about one-fifth of the image, standing out vividly against the pale brightness of the birch bark.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep brown hollow",
+        "silver birch tree",
+        "paper-white bark"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A small, stout French Bulldog with a coat of pure, solid black sits facing away from the camera on a plush, pale cream rug. The dog's compact, muscular form creates a dense, dark silhouette in the lower center of the frame, covering approximately 20% of the area. The background is a uniform, out-of-focus expanse of light cream and beige tones, ensuring the black animal is the sole area of visual weight.",
+      "rationale": "",
+      "emphasis_tags": [
+        "solid black French Bulldog",
+        "pale cream rug",
+        "dense dark silhouette"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A folded, heavyweight black cotton t-shirt sits isolated in the center of a bright, white-tiled floor. The shirt forms a neat, dark square mass that absorbs the overhead light, appearing as a deep charcoal block. It occupies roughly 20% of the image, surrounded entirely by the clean, high-key white ceramic tiles, creating a minimalist dark-on-light composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black cotton t-shirt",
+        "white-tiled floor",
+        "deep charcoal block"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A piece of burnt charcoal wood, rough and jet black, rests on a surface of fine, dry straw yellow sand. The charcoal is positioned in the lower third of the frame, an irregular, dark lump occupying about one-fifth of the visual field. The surrounding sand is bright and desaturated, highlighting the intense darkness and solid nature of the burnt wood fragment.",
+      "rationale": "",
+      "emphasis_tags": [
+        "burnt charcoal wood",
+        "dry straw yellow sand",
+        "jet black"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The upper torso and neck base of a large ostrich, covered in dense black plumage, is framed against a backdrop of tall, pale dry straw grass. The bird's dark body is a solid, heavy mass centered in the lower half of the image, taking up 20% of the space. The background is a wash of light yellow-beige, providing a soft, bright contrast to the sharp, dark definition of the bird's feathers.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dense black plumage",
+        "pale dry straw grass",
+        "solid heavy mass"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A heavy cast-iron skillet, seasoned to a deep, dark brown-black finish, sits on a light grey marble countertop. The pan is viewed from a slight angle, positioned in the lower center, and covers roughly 20% of the image area. Its dark, circular form creates a hole-in-the-image effect against the bright, veined white and grey stone surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown-black skillet",
+        "light grey marble",
+        "hole-in-the-image effect"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A rectangular doorway leading into an unlit, pitch-black interior room is framed by a whitewashed stucco wall. The dark void of the open door occupies the lower central part of the image, constituting about 20% of the frame. The surrounding wall is a blindingly bright white under strong sun, making the doorway appear as a solid, geometric block of pure blackness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pitch-black interior",
+        "whitewashed stucco wall",
+        "geometric block of blackness"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A shiny black beetle, roughly oval in shape, crawls across a smooth, pale beige stone slab. The insect is situated in the lower middle of the composition, its dark exoskeleton forming a high-contrast spot that takes up approximately 20% of the view. The stone background is featureless and bright, emphasizing the deep, ink-like color of the beetle.",
+      "rationale": "",
+      "emphasis_tags": [
+        "shiny black beetle",
+        "pale beige stone",
+        "ink-like color"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A 12-inch vinyl record, appearing as a solid black disc, lies flat on a pale, bleached wood floor. The record is centered in the lower half of the frame, covering about one-fifth of the area. The micro-grooves are not visible; instead, it appears as a uniform circle of jet black, sharply contrasted against the light, desaturated grain of the wooden boards.",
+      "rationale": "",
+      "emphasis_tags": [
+        "solid black disc",
+        "bleached wood floor",
+        "uniform circle of jet black"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A professional camera lens with a matte black casing stands upright on a white studio table. The cylinder of the lens occupies the lower center of the frame, amounting to roughly 20% of the image size. The lighting renders the object as a dense, dark grey silhouette, totally isolated against the infinite white background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black casing",
+        "white studio table",
+        "dark grey silhouette"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A smooth, polished obsidian stone, jet black and reflective, sits on a bed of fine white salt crystals. The stone is an irregular rounded shape located in the lower middle of the frame, taking up 20% of the canvas. The stark difference between the deep, light-absorbing black of the rock and the granular, bright white background creates a vivid visual anchor.",
+      "rationale": "",
+      "emphasis_tags": [
+        "polished obsidian stone",
+        "fine white salt crystals",
+        "deep light-absorbing black"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.84613835811615,
+      "best_percentile": 99.99695589798668
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.7038472890853882,
+      "best_percentile": 99.98524781332006
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.664179801940918,
+      "best_percentile": 99.97869128590675
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.6574703454971313,
+      "best_percentile": 99.97728631574675
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.6260299682617188,
+      "best_percentile": 99.96963703376456
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.600250244140625,
+      "best_percentile": 99.96237802127125
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.5942102670669556,
+      "best_percentile": 99.96081694331569
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.5509194135665894,
+      "best_percentile": 99.94145957666689
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.5213110446929932,
+      "best_percentile": 99.92381939576917
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.4827560186386108,
+      "best_percentile": 99.8931442139426
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.4788278341293335,
+      "best_percentile": 99.88877319566707
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.4754177331924438,
+      "best_percentile": 99.8858852014493
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.458070158958435,
+      "best_percentile": 99.86801085885826
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.436905026435852,
+      "best_percentile": 99.84311166546723
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.412137746810913,
+      "best_percentile": 99.80658244130737
+    }
+  ]
+}

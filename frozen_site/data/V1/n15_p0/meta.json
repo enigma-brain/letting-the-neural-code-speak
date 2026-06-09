@@ -1,0 +1,344 @@
+{
+  "area": "V1",
+  "neuron_id": 15,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to high-contrast, elongated, and diagonally oriented structures\u2014typically smooth, tapered, or curvilinear forms\u2014set against a uniform background. The activating features include organic shapes like bird necks or limbs, and mechanical forms like rails, bicycle guards, or cylindrical handles. This neuron functions as a robust detector for diagonal edges and silhouettes, showing a strong invariance to contrast polarity; it activates for both dark objects on light backgrounds (e.g., black silhouettes against gray sky) and light objects on dark backgrounds (e.g., white ceramic or wood against deep shadow). Spatially, these features consistently traverse the frame diagonally or dominate a quadrant, occupying roughly 30\u201360% of the visual space. The color palette is predominantly monochromatic/grayscale, relying on the sharp luminance difference between the subject (black, charcoal, or bright white) and the background (light gray, white, or pitch black) to drive activation.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.34256038069725037,
+      "description": "Inside the visible area, the upper right quadrant is dominated by the partial form of a large bird, viewed from below and to the side against a uniform, light grey sky. The bird's body angles diagonally downward from the top right corner toward the center right. Its plumage is primarily dark, appearing in shades of charcoal grey and black with subtle brown undertones where the light catches the texture. The feathers on the main body section are dense and ruffled, creating a soft, layered texture that transitions into smoother, more defined wing feathers along the upper edge. Below the main body mass, a leg extends downward, covered in lighter, tawny-grey feathers that taper off near the bottom right edge. Just visible beneath the feathered thigh is a portion of the bird's leg or foot structure, which appears thinner and bone-colored or pale grey. The lighting is diffuse, casting soft shadows on the underside of the bird's body, emphasizing the volume of the plumage while leaving the background flat and featureless. The bird occupies roughly the right-hand third of the visible space, with the remaining two-thirds on the left filled by the plain, untextured grey sky."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.3546397387981415,
+      "description": "A high-contrast, monochromatic image displays a solid black silhouette set against a uniformly grainy, light gray background. The dominant form is an organic, elongated shape resembling a bird's head and neck, specifically appearing like an ostrich, or alternatively a long-handled tool with a rounded end. This dark mass originates from the mid-right edge of the frame, occupying a thick segment of the boundary, and extends diagonally upward toward the upper-left quadrant. The \"neck\" portion is sturdy and slightly tapered, curving gently as it supports a bulbous, oval-shaped \"head\" at its terminus. This rounded end is oriented to the left and features a smooth upper curvature, while the underside includes a distinct, small, downward-pointing protrusion or beak-like shape near the front. The silhouette is completely devoid of internal detail, rendering it as a flat, black void. In the upper right corner, detached from the main subject, are a few faint, blurry, dark streaks that appear wispy, like out-of-focus branches or hair. The background texture is consistent throughout, characterized by heavy visual noise or grain, providing a matte, illuminated backdrop that starkly outlines the smooth, soft-edged contours of the black figure."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.36007389426231384,
+      "description": "Two identical, elongated rail-like structures traverse the frame diagonally from the upper left to the lower right, positioned parallel to one another against a light gray, finely textured background that resembles concrete or felt. The rails are constructed from a dark, matte material, likely black anodized metal, and are rectangular in form. Along the top face of each rail runs a continuous, recessed longitudinal channel containing a thin, silver-colored metallic strip. This silver strip is punctuated by a series of small, evenly spaced circular indentations or holes along its center line. Protruding perpendicularly from the side face of each rail\u2014specifically the vertical surface facing toward the bottom left\u2014is a silver thumbscrew. The thumbscrew on the upper rail is located near the visual center of the rail's length within the frame, while the thumbscrew on the lower rail is positioned further down, near the bottom left edge, creating a staggered arrangement. These screws feature cylindrical, knurled heads and distinct threaded shafts that disappear into the dark body of the rail. Soft, diffuse shadows are cast to the right and underneath the rails, indicating a light source originating from the upper left, while the screws cast smaller, sharper shadows onto the side of the rails and the ground immediately below them. The gap between the two parallel rails reveals the consistent, speckled texture of the underlying surface."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.3608795702457428,
+      "description": "Presented in a high-contrast monochromatic grayscale, the image displays a close-up, angled view of a laptop's keyboard and hinge area. The composition is oriented diagonally, with the horizontal lines of the device running from the upper left down towards the lower right, although the perspective is tilted such that the keyboard rows ascend from the bottom left to the middle right. The lower two-thirds of the scene are filled with a grid of chiclet-style keys, characterized by their flat, light gray surfaces and rounded corners. Darker, indistinct characters\u2014appearing to be a mix of Latin script and secondary symbols\u2014are centered on the keycaps. The keys cast soft, subtle shadows to their lower right, indicating diffuse lighting from the upper left. Separating the keyboard section from the upper components is a deep black, recessed channel that runs parallel to the rows of keys. Immediately above this dark gap is a smooth, matte light-gray band, likely the battery housing or hinge cover. On this band, positioned centrally within the frame, the word \"SONY\" is printed in crisp, black, all-caps sans-serif lettering. Behind and slightly above this gray band, occupying the upper right quadrant, is a glossy black surface where the stylized \"VAIO\" logo is visible; the \"VA\" ligature is distinct, while the remaining letters are partially obscured by the edge of the view. The focus is sharpest on the \"SONY\" logo and the adjacent keys, while the peripheral areas of the keyboard soften slightly."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.3632151186466217,
+      "description": "A monochromatic, high-contrast scene features a thick, dark, curvilinear structure in the foreground that sweeps dramatically from the upper-left region, dipping downwards toward the center before curving sharply upward and exiting at the right edge. The object possesses a smooth, possibly metallic texture, indicated by a sharp, bright white specular highlight running along its upper ridge and a softer reflection on its rising right-hand curve, revealing a cylindrical or tubular volume. This distinct, black form is set against a heavily defocused background composed of grainy, light grey tones. A vague horizontal division runs through the middle of the background, separating a lighter, hazy upper band from a slightly darker, textured lower area that suggests a ground surface like gravel or grass. The lighting appears to come from above, accentuating the glossiness of the dark object while leaving the background in a soft, uniform wash of pale greys."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.3636781871318817,
+      "description": "A grayscale close-up reveals a textured surface resembling cracked concrete or stone, marked by a network of fine, dark fissures meandering across a light gray field. Dominating the upper right quadrant is a cylindrical object oriented diagonally downward towards the center, appearing to be a tool handle or mechanical component. The visible end of this object features a dark, ribbed or grooved collar with a rough, possibly corroded texture, which transitions into a smoother, lighter-toned shaft that catches the light, emphasizing its rounded volume. This object casts a deep, soft-edged black shadow onto the surface immediately to its left and beneath it, creating a strong contrast that suggests the object is elevated slightly above the ground. In the opposing bottom left corner, a dark, indistinct shape emerges, blurred and out of focus, presenting as a fragment of another object or a heavy shadow that balances the composition. The lighting is directional and high-contrast, seemingly originating from the upper right, which highlights the texture of the ground and the contours of the cylindrical object while plunging crevices and the underside into deep blackness."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.3642958104610443,
+      "description": "Presented in a high-contrast grayscale palette against a pitch-black background, a muscular human arm angles diagonally from the upper left, bending at the elbow to extend toward the mid-right. The upper arm and the elbow joint are encased in a bright white compression sleeve, which dominates the visual space with its luminosity. The sleeve is constructed from a smooth, synthetic-looking material that bunches into distinct, shadowed folds at the inner bend of the elbow and stretches taut over the outer elbow, revealing the underlying anatomical contours. A hemmed, elasticized cuff marks the end of the sleeve on the upper forearm. Emerging from this white fabric, the exposed skin of the forearm is rendered in mid-to-dark gray tones and is densely covered in intricate black tattoo ink. The tattoos feature complex, swirling designs that wrap around the limb, contrasting with the solid white of the sleeve. Lighting appears to come from the upper left, casting soft shadows on the underside of the arm and highlighting the folds in the fabric, while the arm itself is cropped at the shoulder on the left and just above the wrist on the right."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.3681512176990509,
+      "description": "In a black-and-white photograph, a light-skinned man with a short, faded haircut sits centrally, angled slightly toward the right, covered neck-down in a voluminous, light-colored barber cape that dominates the lower half of the view. The man's hair is cropped close on the sides and is slightly longer and darker on top; he looks downward and to the right with a neutral expression. The cape, appearing white or very light gray, is draped loosely over his body, creating deep, soft shadows within its many folds and wrinkles. Scattered across the surface of the cape are numerous dark clumps of cut hair, ranging from small specks to larger tufts, particularly concentrated around the upper chest area. Behind the man, a cluttered counter occupies the mid-ground, featuring a stack of rectangular boxes to the right, a dark bottle, and a framed picture or small mirror standing upright near the center. Below the counter on the right side, a wooden cabinet with vertical grain and a horizontal handle is partially visible. The background is slightly out of focus compared to the sharp details of the man and the cape, with lighting that appears to be overhead and diffuse, brightening the cape and the man's forehead while leaving the background in mid-tone grays."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.36821436882019043,
+      "description": "A monochromatic, grayscale close-up reveals a tapered, light-colored wooden object floating diagonally from the upper-left to the lower-right against a solid black background. The object, resembling the heel of a stringed instrument's neck, is widest at its upper-left end, where it features a convex, rounded curve, and gradually narrows as it extends toward the lower-right corner. The surface is dominated by fine, longitudinal wood grain lines running parallel to the object's length, creating a striated texture of pale grays and whites. A cluster of small, dark, irregular stippling or pitting marks is visible near the center of the wooden surface, slightly closer to the wider left section. The lighting is soft and diffuse, illuminating the wood evenly and distinguishing it sharply from the dark void, with the top edge forming a nearly straight diagonal line and the bottom edge curving gently inward before straightening."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.3701151907444,
+      "description": "Dominating the upper right quadrant of the frame is the partial body of a large, dark-feathered bird, possibly a duck or waterfowl, oriented diagonally with its chest and underbelly facing the lower left. The visible portion of the bird includes the curve of its breast and flank, covered in dense, layered feathers rendered in varied shades of charcoal gray, slate, and deep black, with subtle lighter gray highlights suggesting the texture of individual barbs and vanes. The plumage appears sleek but matte, tapering down towards a leg that extends vertically from the lower right edge of the bird's body, dark and textured, disappearing into the bottom edge of the visible area. Below and to the left of the bird, occupying the lower left quadrant, is a smooth, light gray water surface that reflects the scene above. The water is marked by a series of concentric ripples radiating outward, likely caused by the bird's movement or a droplet, creating elliptical distortions in the reflection. The ripples are depicted with soft gradients of white and pale gray, contrasting with the flatter, lighter gray of the undisturbed water. The lighting is diffused, casting soft shadows on the underside of the bird and creating a gentle transition between the dark plumage and the lighter background. The bird's form takes up approximately 40% of the visible area, while the water occupies the remaining 60%, with the bird's body overlapping the upper portion of the water surface. The composition is tightly cropped, focusing on the interaction between the bird's form and the water's surface tension, excluding the head and the full extent of the surrounding environment."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.3710401952266693,
+      "description": "A grainy, grayscale composition is dominated by a luminous, arcing band of texture that sweeps diagonally from the mid-left edge down toward the bottom right. This bright formation, appearing in shades of white and light grey, possesses a mottled, frothy surface quality reminiscent of churning water or rough ice, contrasting heavily with the surrounding darkness. A distinct, slender dark streak cuts linearly through the lower-center portion of this white mass, following the direction of the flow. To the immediate right of the bright arc, a large area of deep shadow occupies the upper-right quadrant, rendered in varying tones of charcoal and black with a coarse, indistinct granularity. The boundary between the bright, textured band and this dark void is sharp and curved, defining the shape of the illuminated subject. The upper-left region fades into a murky, dark grey background, less dense than the black shadow on the right but still creating a high-contrast backdrop for the central light feature. The entire scene appears out of focus or low-resolution, with soft edges and noise permeating the visual textures."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.3718666136264801,
+      "description": "Dominating the left and lower-left portions of the frame is the curved, white ceramic structure of a toilet, viewed from a high angle looking down. The smooth, reflective surface of the toilet bowl rim sweeps from the center-left edge downwards, curving up towards the center. The interior of the bowl is visible, shaded in gradients of light gray that deepen towards the bottom left, suggesting the curvature of the porcelain. A bright, elongated highlight reflects off the upper right curve of the rim, indicating an overhead light source, while softer reflections play across the lower left of the bowl's interior. To the right of the toilet, the floor is composed of small, dark, square mosaic tiles arranged in a grid pattern, their surfaces appearing matte and dark gray. Behind the toilet, the wall is clad in larger, rectangular tiles, also dark gray but slightly lighter than the floor, with visible grout lines forming a grid that runs horizontally and vertically. The wall meets the floor at a visible seam running diagonally from the upper right towards the center. The lighting casts the area to the right of the toilet into shadow, particularly in the corner formed by the wall and floor, where the tones become almost black. A small, metallic chain link is partially visible at the bottom right edge near the toilet base, catching a glint of light. The overall scene is grayscale, with high contrast between the bright white ceramic and the dark, textured tiles."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.37216559052467346,
+      "description": "A monochromatic, close-up view captures the rear mid-section of a vintage-style bicycle, dominated by a large, sweeping chain guard and sections of the tubular frame. The chain guard, rendered in a light, glossy tone (likely white or cream), occupies the lower central and left portions of the frame, featuring a distinct curvilinear shape that widens towards the front left and tapers toward the rear right. Its surface is smooth, interrupted only by a small, round rivet head near the front curve and a decorative decal in the lower center; this decal depicts a four-pointed star or compass shape containing blurred script text. Directly below the decal sits a horizontal, polished metallic trim piece, roughly teardrop-shaped, attached to the guard\u2019s surface. Above the chain guard, a thick, matching light-colored frame tube arches horizontally across the upper middle section, curving gently downward as it extends to the right. At the top right edge, a mechanical junction is visible, consisting of a horizontal metal bar and bolt assembly, likely part of the seat post clamp mechanism. In the background on the left, partially obscured by the chain guard and frame, thin, light-gray spokes of the rear wheel cut diagonally across a dark, shadowy void, indicating the wheel's presence behind the structural elements. The lighting is soft and diffuse, creating subtle specular highlights along the upper ridges of the frame tube and the chain guard, emphasizing their rounded, metallic geometry against the deep blacks of the mechanical recesses."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.3751668632030487,
+      "description": "A black electronic device angled diagonally downwards from the upper right corner dominates the upper right quadrant, revealing its rounded corner and side edge. The device is composed of a matte black material, possibly plastic, and features a ridged or perforated texture along its side, resembling a speaker grille or grip area. On the top surface, partially out of focus, white text labels are visible, with fragments suggesting \"OFF\" and \"MIC\" printed in a simple sans-serif font. Below and to the left of this device, occupying the lower left quadrant, is the tip of a silver 3.5mm audio jack plug. The plug is oriented horizontally, pointing towards the right, with its metal shaft gleaming against the white background. It features two distinct black bands encircling the shaft, separating the metallic sections. The tip of the plug is tapered. The background is a stark, solid white, providing a high-contrast backdrop for the black device and silver plug. The lighting is soft and diffused, creating subtle shadows beneath the device's edge and highlighting the metallic sheen of the audio plug. The focus is shallow, with the nearest edge of the device and the plug being sharper than the text on the device's top surface."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.37592393159866333,
+      "description": "A monochromatic close-up view captures the detailed textures of what appears to be the upper section of a sneaker. Dominating the central and lower-left area is a smooth, light gray surface that curves gently downwards, exhibiting a soft matte finish consistent with leather or synthetic material. Above and to the right of this smooth panel lies a contrasting darker region featuring a dense, tactile pattern composed of small, raised, rounded nodules arranged in a honeycomb-like grid, indicative of padded mesh lining or a collar. A dark, curved band, resembling the tapered end of a design element, sweeps up from the left edge, following the contour of the smooth upper and creating a sharp visual boundary. Below the smooth light gray section on the left, a deep black area suggests a shadow or the interior cavity of the object, anchoring the composition with heavy contrast. The lighting is soft and diffuse, accentuating the three-dimensional relief of the textured nodules while casting gentle gradients across the smooth, curved surfaces."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A sleek, jet-black silhouette of a swan's slender neck arches gracefully from the lower left to the upper right corner. The form is smooth and curvilinear, tapering slightly towards the head which is just out of frame, occupying approximately 30% of the visual space against a uniform, overcast light gray sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "organic form",
+        "diagonal orientation",
+        "dark on light"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A bright white, high-gloss ceramic pitcher handle curves diagonally across the frame from top-left to bottom-right. Its smooth, cylindrical form stands out starkly against a pitch-black void, covering roughly 30% of the visual area with its tapered, elongated shape.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "mechanical form",
+        "diagonal orientation",
+        "light on dark"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A matte charcoal-black wrought iron baluster, featuring a smooth, elongated cylindrical design, cuts diagonally across the view against a stark white wall. The metal bar is uniform and straight with a slight organic taper at the connection point, taking up about 30% of the image space.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "mechanical form",
+        "diagonal orientation",
+        "dark on light"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A glossy black bicycle fork, tapered and streamlined, extends diagonally downward across the view from the top right. The background is a flat, featureless white studio backdrop, and the mechanical form occupies roughly 30% of the composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "mechanical form",
+        "diagonal orientation",
+        "dark on light"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A bleached white, elongated driftwood branch, smooth and weathered by the sea, lies diagonally across a deep shadow that renders the background pitch black. The curved, organic shape covers roughly 30% of the visual field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "organic form",
+        "diagonal orientation",
+        "light on dark"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A flexible, smooth black rubber hose snakes diagonally through the frame from bottom-right to top-left. It is positioned against a bright white tile floor, creating high contrast and occupying 30% of the image with its cylindrical silhouette.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "mechanical form",
+        "diagonal orientation",
+        "dark on light"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A pristine white architectural strut, cylindrical and smooth, stretches diagonally across a dark, unlit background. The clean, bright line of the structure takes up about 30% of the space, contrasting sharply with the surrounding darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "mechanical form",
+        "diagonal orientation",
+        "light on dark"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The smooth, tapered silhouette of a crow's closed wing extends diagonally against a pale, cloudy white sky. The jet-black feathers create a seamless, elongated shape that fills approximately 30% of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "organic form",
+        "diagonal orientation",
+        "dark on light"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A polished, white wooden handrail runs diagonally up the frame against a wall painted in a deep, dark charcoal, almost black. The rail is smooth and rounded, occupying about 30% of the view.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "mechanical form",
+        "diagonal orientation",
+        "light on dark"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A black metal boom arm from a microphone stand cuts diagonally across a white cyclorama. The tubular, mechanical form is distinct and high-contrast, covering roughly 30% of the visual area.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "mechanical form",
+        "diagonal orientation",
+        "dark on light"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "The pale white, smooth stem of a Calla Lily curves gently along a diagonal axis against a pure black background. The organic, tapered cylinder occupies the lowest end of the size range, about 30% of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "organic form",
+        "diagonal orientation",
+        "light on dark"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A strip of black rubber automotive trim, smooth and slightly curved, runs diagonally across a panel of bright white metal. The elongated dark shape provides strong contrast, filling 30% of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "mechanical form",
+        "diagonal orientation",
+        "dark on light"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A white, gooseneck faucet spout curves diagonally downward against a dark, shadowy backsplash. The smooth, cylindrical fixture is highlighted against the blackness, occupying roughly 30% of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "mechanical form",
+        "diagonal orientation",
+        "light on dark"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A silhouette of a smooth, leafless tree limb, dark charcoal in color, stretches diagonally upward against a flat white winter sky. The tapered, organic form covers approximately 30% of the visual space.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "organic form",
+        "diagonal orientation",
+        "dark on light"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A smooth white PVC pipe curves diagonally against a black rubber mat. The smooth, elongated shape creates a sharp boundary and strong luminance difference, occupying about 30% of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "mechanical form",
+        "diagonal orientation",
+        "light on dark"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.3999269902706146,
+      "best_percentile": 0.0054637728444245325
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.42177876830101013,
+      "best_percentile": 0.022245360866585594
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.43326932191848755,
+      "best_percentile": 0.04074413463985151
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.43337899446487427,
+      "best_percentile": 0.0409002424354065
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.4371170699596405,
+      "best_percentile": 0.04979838678204074
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.4385097026824951,
+      "best_percentile": 0.05385718946647039
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.44104549288749695,
+      "best_percentile": 0.06306754940421459
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.4470473825931549,
+      "best_percentile": 0.09062057531966974
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.44929924607276917,
+      "best_percentile": 0.10646551656850088
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.4571964740753174,
+      "best_percentile": 0.23158591470582265
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.46108847856521606,
+      "best_percentile": 0.3722390385008656
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.4611685276031494,
+      "best_percentile": 0.3773125418564027
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.48347803950309753,
+      "best_percentile": 3.437181442529696
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.48942556977272034,
+      "best_percentile": 4.3116192593309535
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.49928662180900574,
+      "best_percentile": 5.820088887778789
+    }
+  ]
+}

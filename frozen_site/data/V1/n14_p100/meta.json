@@ -1,0 +1,344 @@
+{
+  "area": "V1",
+  "neuron_id": 14,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to distinct vertical linear features or elongated columns defined by high luminance contrast, typically appearing as a vertical strip of bright white light or a dark vertical structure against a contrasting background. The activating feature usually takes the form of a light gap between dark objects, a specular highlight on a cylindrical surface, an architectural pillar, or an elongated organic shape like a tassel or trunk. The dominant colors are monochromatic, consisting of bright white, silver, or light grey highlights contrasted against deep black, dark charcoal, or matte grey fields. The neuron remains invariant to semantic category (responding to both organic forms like feathers and fur, and synthetic objects like metal and plastic) and texture, provided the strict vertical orientation and sharp tonal boundary are preserved. The vertical feature typically spans 60\u2013100% of the image height and is centered horizontally, occupying approximately 5\u201330% of the image width.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 3.644622564315796,
+      "description": "In a high-contrast greyscale composition, two large owls are positioned close together, separated by a distinct, vertical sliver of bright, out-of-focus white light that runs down the center of the frame. The owl on the right faces directly forward, its large, circular facial disk dominating the upper right quadrant. This facial disk features concentric rings of fine, dark grey and ash-colored feathers radiating outward, framing two piercing, wide-set eyes with dark pupils and light irises. Below the eyes, a dark, hooked beak is partially nestled in lighter, bristly feathers, situated above a distinctive patch of white plumage on the throat that resembles a bowtie. The body feathers of this right-side owl, visible in the lower right section, are thick and fluffy with a mottled pattern of charcoal and slate grey. To the left of the central light gap, the second owl is viewed in profile, facing toward the right side of the frame. Its head and body occupy the left third of the image, with the facial disk compressed by the angle, revealing the dense, overlapping layers of feathers along the neck and back which have a more scalloped, scale-like texture compared to the fluffy chest of the right owl. The wing feathers on the left owl appear longer and streak downward, fading into shadow at the bottom left. The lighting is soft but directional, accentuating the tactile quality of the plumage and creating deep shadows within the recesses of the feathers, while the background behind the birds is plunged into deep black darkness, contrasting sharply with the central vertical highlight."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 3.6526260375976562,
+      "description": "In a high-contrast monochromatic close-up, a furry animal subject occupies the left half of the visible field, illuminated by strong backlighting that creates a glowing rim of bright white fur along its left edge. The fur appears soft and dense, with individual strands highlighted in sharp relief against the darker mass of the body, which fades into deep black shadows towards the center and right side of the form. The upper portion of the subject features a clustered, curved shape suggesting paws held close to a snout or face, though specific anatomical details are obscured by shadow and the high angle of lighting. This vertical column of texture extends from the bottom edge almost to the top, dominated by the interplay of light and shadow on the hair. To the right of the subject, the background is a soft, out-of-focus void of dark charcoal grey, providing a stark negative space that emphasizes the brightness of the subject's outline. Within this blurred background, a faint, indistinct horizontal streak of lighter grey floats midway down the right side, lacking defined edges or structure."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 3.6605961322784424,
+      "description": "A grayscale image captures a dorsal, top-down view of a dragonfly resting vertically on a surface marked with a distinct square grid pattern, resembling a wire mesh or graph paper. The insect's body is centered, with the head positioned near the upper edge, characterized by large, dark, bulbous compound eyes that occupy the majority of the head's width. Below the head, the thorax is stout and dark, from which thin, jointed legs extend outwards, gripping the grid lines. Four translucent wings extend horizontally from the thorax, with the forewings angling slightly upwards and the hindwings angling slightly downwards; distinct, intricate dark veins traverse the clear wing membranes, though the wingtips extend beyond the visible area. The dragonfly's abdomen is long, segmented, and tapers toward the bottom edge of the view. Each abdominal segment features a symmetrical pattern of bold, light-colored, paired spots\u2014roughly triangular or oval in shape\u2014set against a darker background, creating a striking, repeating motif down the length of the body. The background grid consists of light grey lines forming uniform small squares against a slightly darker grey backdrop, oriented orthogonally to the dragonfly's vertical axis. The lighting is soft and diffuse, revealing the texture of the exoskeleton and wing veins without casting harsh shadows, while the focus remains sharp on the insect's dorsal features against the geometric regularity of the surface beneath."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 3.660999298095703,
+      "description": "A smooth, convex surface of matte off-white plastic dominates the view, curving gently away from the center to create soft, diffuse shading towards the edges. Centered horizontally and vertically within this field is a vertical rectangular recess with rounded corners. The recess is framed by a beveled edge that slopes inward, constructed of the same off-white material. Inside this frame sits a dark, glossy, vertical pane, appearing as deep translucent grey or black. Within this dark pane, faint, blurred horizontal striations in a lighter tone are visible, stacked vertically, suggesting a measurement gauge or liquid level indicator. Directly beneath the bottom edge of the rectangular recess, centered on the vertical axis, the brand name \"Oster\" is printed in a dark charcoal or black serif script. The text features a prominent, swirling capital \"O\" and connected lowercase letters, with the total width of the text being roughly equivalent to the width of the recessed window above it. The lighting appears to originate from the upper left, casting a subtle highlight on the left inner bevel of the recess and a corresponding shadow along the right inner bevel and the top of the dark pane, emphasizing the depth of the component. The image focus is soft, rendering the edges of the text and the internal markings of the window slightly indistinct."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 3.672316074371338,
+      "description": "The image presents a monochromatic scene dominated by a rigid, vertical architectural structure that bisects the view from top to bottom, separating two fields of dense organic foliage. This central column, occupying roughly the middle twenty percent of the visible width, is composed of parallel vertical bands of varying luminance. From left to right within this column, there is a thin dark border, followed by a wide, intensely bright white strip that appears illuminated or highly reflective, then a broader band of matte dark gray, a distinct thin black vertical line, and finally a medium-gray strip on the structure's rightmost edge. To the left of this geometric divider, a mass of textured vegetation fills the space, characterized by lobed, mid-gray leaves against deep black shadows, with faint, winding stems visible among the foliage. To the right of the central column, the vegetation continues with similar density but exhibits different lighting characteristics; the dark gray leaves here are punctuated by sharp, tiny white pinpoints of light, appearing as specular highlights or glints on glossy surfaces. The foliage on both sides appears soft and slightly out of focus compared to the sharp, hard-edged vertical bands of the central post, suggesting the greenery is positioned in the background behind the foreground structure."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 3.6737992763519287,
+      "description": "Centered against a stark, pitch-black void, a large, amorphous mass of medium-grey tone dominates the composition, appearing as a heavily blurred, rounded-square shape that occupies the majority of the visible area. The edges of this grey form are soft and indistinct, feathering gradually into the surrounding darkness with no sharp boundaries. Cutting vertically through the center of this grey field is a singular, luminous streak of white light. This vertical band is soft-focused, appearing brightest and most concentrated at its core while diffusing gently into the adjacent grey background. The white line extends across approximately eighty percent of the vertical span of the grey shape, tapering off and fading before reaching the top or bottom extremities of the form. The streak acts as a central axis, although the grey mass appears slightly more voluminous on the right side of the line than the left, suggesting a subtle asymmetry or a perspective shift. The entire scene lacks texture or grain, characterized instead by smooth, gradient transitions indicative of a light source or reflection viewed through a significantly out-of-focus lens."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 3.7448196411132812,
+      "description": "A slender, vertical column, occupying approximately one-twentieth of the image's total width, runs centrally from the bottom edge to the top edge against a uniform, featureless background of matte, mid-tone slate grey. This vertical element is sharply divided horizontally into two distinct tonal sections at roughly the vertical center of the visible area. The lower section is a dark, charcoal-colored cylinder with a rough, organic texture, contrasting heavily with the background. The upper section transitions immediately into a brilliant, high-key white that appears illuminated or bleached, tapering almost imperceptibly as it ascends. The transition line between the dark lower half and the bright upper half is distinct but slightly uneven, suggesting a natural break or a painted demarcation rather than a shadow. On the left edge of the white section, approximately one-third of the way up from the color transition, a tiny, sharp, dark protrusion or knot breaks the vertical silhouette. Additionally, in the upper left quadrant, completely detached from the central column, a small, blurry, dark grey artifact with an irregular shape hovers against the background, appearing out of focus. The lighting is diffuse and flat on the background but reflects strongly off the upper white portion of the central column, creating a stark contrast with the dark lower segment."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 3.8084847927093506,
+      "description": "A grayscale image displays the mid-sections of two individuals standing close together, modeled from the chest down to the upper thighs, wearing matching pajama sets against a stark white background. The primary figure is positioned slightly to the right of center, angled towards the left, occupying the majority of the visible space. This figure wears a medium-dark grey, long-sleeved crew neck top made of a smooth fabric that drapes with soft folds around the waist and armpit. On the upper left chest area of the shirt, a white line-art graphic depicts two small, rounded hedgehogs touching noses above the cursive text \"hedgehugs.\" A hand with a lighter grey skin tone rests on the figure's left hip, with fingers splayed downwards, pressing into the fabric. Below the shirt's hem, which falls at the hip line, the figure wears dark grey pants featuring a plaid pattern composed of thin, intersecting white lines that form a grid of squares. The fabric of the pants gathers and wrinkles across the upper thigh and crotch area, indicating a slight bend in the leg or a seated posture. To the left, partially cut off by the edge of the view, is a second figure wearing an identical outfit; only the right side of their torso and arm is visible, clad in the same solid dark grey long-sleeved shirt with a partial view of the matching chest graphic and similar plaid pants below. The lighting is soft and diffuse, creating gentle gradations of grey on the clothing folds without casting harsh shadows, and the figures are tightly cropped with no surrounding environment visible other than the white backdrop."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 3.812290906906128,
+      "description": "A monochromatic close-up view is dominated by a flat, matte, dark charcoal-gray surface that occupies the majority of the central and left visual field. Positioned slightly left of the center is a distinct, bright white elliptical aperture with a sharp, dark outline, oriented vertically; the interior of the aperture is uniformly bright, contrasting heavily with the surrounding dark plate, and reveals a slight shadow on its right inner curvature indicating material thickness. Directly above this aperture is an embossed, metallic inscription in a stylized, cursive script that reflects light, appearing as a light gray tone against the darker background, though the specific characters are slightly soft in focus. To the right side, a diagonal structural edge cuts across from the upper right quadrant down towards the middle right edge, separating the smooth matte surface from a textured, darker vertical strip on the far right; this strip features a rough, repeating pattern along its boundary, resembling the edge of a stitched material or a serrated mechanical component, with specular highlights catching on the ridges. A faint, thin, straight scratch or seam line runs diagonally upwards from the bottom center edge, angling slightly towards the central white aperture but fading before reaching it. The lighting appears soft but directional, emphasizing the texture of the embossed script and the depth of the aperture while leaving the main surface relatively uniform in tone."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 3.826101779937744,
+      "description": "A monochrome close-up reveals the upper torso and sleeves of a formal, dark-toned garment, likely a ceremonial robe or gown, constructed from a heavy, textured fabric. Dominating the center is a V-shaped yoke defined by light-colored piping, from the point of which hangs a prominent, light-colored tassel. This tassel features a twisted cord attachment, a knotted, bulbous head, and a thick, flared fringe that extends vertically down the center of the chest. At the very top center, just above the V-neckline, a small, light-colored cross emblem is stitched into the collar area. Flanking the central chest panel are portions of two sleeves or shoulder drapes, each heavily adorned with intricate, light-colored embroidery that contrasts sharply with the dark background. The visible section on the left displays a distinct cross motif enclosed within a decorative, scrolling border that curves diagonally downwards. The corresponding section on the right features a different embroidered pattern, characterized by a circular, floral, or rosette-like design surrounded by ornate, organic flourishes. The fabric of the main body appears to have a vertical grain or nap, suggesting velvet or wool, absorbing light while the raised embroidery and the tassel reflect it, creating a texture-rich surface. The composition is symmetrical around the vertical axis of the tassel, with the embroidered sleeves occupying the lateral edges and the dark, unadorned fabric filling the space between the sleeves and the central tassel."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 3.852613925933838,
+      "description": "The visible scene is a close-up, monochromatic capture of a reflective, cylindrical object, likely made of glass or clear plastic, which dominates the central and left portions of the frame. A vertical, intense white specular highlight streaks down the surface slightly to the left of the center, indicating a glossy texture and a strong light source positioned front-left. To the left of this bright reflection, the object features a series of parallel, horizontal ridges that curve around its form, resembling the threads of a screw-top bottle or a ribbed container neck; these ridges are rendered in lighter gray tones against the darker, translucent body of the object. To the right of the central highlight, the surface appears smoother and transitions into a darker gray, separated by a deep shadowed gap from another structural element on the far right. This right-hand element is a vertical, curved piece, possibly a handle or molded section, which appears slightly translucent and less sharply focused than the ridges, connecting to or overlapping with the main body near the bottom right. The background is largely obscured by deep black shadows, particularly at the top and bottom, with the lower portion of the object fading into an indistinct blur, emphasizing the sharp contrast between the bright reflection and the surrounding darkness."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 3.862215757369995,
+      "description": "A monochromatic, high-contrast close-up is dominated by the rough texture of an elephant's trunk and the smooth curve of its tusk. The trunk, a thick vertical element occupying the left third of the visible area, is characterized by deep, horizontal fissures and thick, leathery skin that ranges from light grey on the ridges to dark charcoal in the crevices. To the right of the trunk, a bright, polished white tusk curves upward and outward, emerging from the deep shadows of the mouth area; its smooth surface reflects light, creating a sharp visual distinction against the dark, wrinkled skin of the cheek and jaw behind it. The tusk passes visually behind the trunk, with its tip pointing towards the right edge. In the background on the right, a large, undefined dark mass suggests a leg or shoulder, rendered out of focus. The lower foreground contains thin, blurred, light-colored linear strokes that resemble dried grass or stiff bristles, crossing diagonally over the bottom of the trunk and the space beneath the tusk. The lighting appears directional, casting deep shadows under the jawline while highlighting the three-dimensional relief of the trunk's weathered skin and the gleam of the ivory."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 3.9260566234588623,
+      "description": "A monochromatic, grainy field of medium-grey texture dominates the visible area, appearing soft and out of focus with no sharp boundaries. Positioned near the center but slightly offset to the left is a distinct dark charcoal feature, vertically oriented and composed of two merging, rounded lobes that create a shape resembling a blurred figure-eight or a pinched depression; the lower lobe is slightly larger and darker than the upper one. Extending horizontally to the right from this central dark formation is a faint, elongated shadow that tapers gradually into the surrounding grey background, creating a subtle, wedge-like streak. The rest of the surface is relatively uniform in tone, though slightly mottled, with a marginally lighter area visible just beneath the central dark marking, while the overall lighting remains flat and low-contrast."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 3.9457383155822754,
+      "description": "A monochromatic, high-contrast close-up scene is dominated by a polished, cylindrical metal object, likely chrome, oriented diagonally from the upper-left center down toward the bottom right. This primary diagonal element occupies the majority of the foreground and reflects a bright, intense strip of light running along its length, creating a stark white highlight flanked by deep black shadows and gradients of gray that emphasize its curvature. To the left of this thick diagonal bar and situated slightly further back in space is a slender, vertical rod, which appears to have a segmented or striped texture with alternating light and dark horizontal bands. The background is out of focus and dark gray, featuring a faint, blurred horizontal line running across the lower third. In the middle left of the background, obscured slightly by the vertical rod, is blurry, light-colored cursive text, of which the letters \"Lab\" or \"Cab\" are partially discernible. The lighting is specular and directional, striking the metal surfaces to create sharp, hard-edged reflections while leaving the matte background in a soft, uniform shadow."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 4.186948299407959,
+      "description": "Set against a grainy, monochromatic medium-grey background, two dark, silhouetted human figures are suspended in the central visual field, appearing in a tandem arrangement where one figure is strapped closely behind the other. The pair occupies a small fraction of the total frame, positioned almost exactly in the middle. The front figure, positioned slightly lower, has legs dangling vertically with feet pointed downward, while the rear figure, situated slightly higher and to the left, creates a combined silhouette that is denser at the torso. Both figures are rendered in a dark charcoal to black tone, contrasting sharply with the lighter, featureless grey surroundings, and possess undefined internal details, appearing as solid, blocky shapes due to the lack of direct lighting or high resolution. From the upper torso area of the cluster, a set of thin, faint lines extends diagonally upward toward the top-left corner at an angle of roughly 60 degrees, indicating suspension rigging. Additionally, a single, distinct thin line extends horizontally from the figures toward the right side of the frame, fading slightly as it reaches the edge of the visible area. The texture of the entire scene is noisy, with the background showing a consistent digital grain without clouds, horizon lines, or other environmental markers, and the lighting is diffuse, creating a flat, backlit effect that eliminates volume and depth on the figures themselves."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A pitch-black room where two heavy velvet curtains meet in the center. A very narrow gap between them allows a sharp beam of bright white daylight to pierce through. This vertical slit of light occupies exactly 5% of the image width and extends downward from the top, fading out after covering 60% of the image's vertical height. The contrast is extreme, with the blinding white light standing out against the surrounding deep charcoal fabric textures.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical light gap",
+        "high contrast",
+        "5% width",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A macro shot of a polished stainless steel cylinder positioned vertically in a dark studio. A single, focused studio light creates a specular highlight running down the length of the metal. This reflection forms a brilliant white vertical line, approximately 5% of the frame's width, centered horizontally against the dark grey metallic curve. The highlight is sharp and unbroken for 60% of the image height before diffusing into shadow at the bottom.",
+      "rationale": "",
+      "emphasis_tags": [
+        "specular highlight",
+        "vertical cylinder",
+        "monochromatic",
+        "centered"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A modern architectural detail featuring a matte black concrete wall bisected by a recessed lighting fixture. The fixture is a thin vertical strip emitting a cool, bright white light. The strip is centered horizontally and is very slender, taking up only 5% of the width. It originates from the floor and reaches upward, terminating abruptly at 60% of the wall's height, creating a stark monochromatic geometry.",
+      "rationale": "",
+      "emphasis_tags": [
+        "architectural light",
+        "vertical strip",
+        "black and white",
+        "60% height"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "Nighttime in a dense forest. A single, slender silver birch trunk is illuminated by a focused spotlight beam against a background of absolute blackness. The trunk appears as a vertical column of bright white bark, roughly 5% of the image width, centered in the frame. The light catches only the central section of the tree, revealing a vertical span of 60% of the image height before fading into the dark canopy above and roots below.",
+      "rationale": "",
+      "emphasis_tags": [
+        "birch trunk",
+        "vertical column",
+        "high contrast",
+        "night scene"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A single stream of milk being poured perfectly vertically against a black backdrop. The liquid forms a cohesive, bright white cylindrical column that does not splash. It is positioned in the horizontal center, measuring about 5% of the image width. The stream is captured in mid-air, visible for 60% of the image's vertical span, with sharp edges contrasting against the dark void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "liquid stream",
+        "vertical white line",
+        "dark background",
+        "centered"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A close-up of a samurai sword blade held vertically, edge-facing the camera, in a dark dojo. The polished steel edge reflects a bright white sheen, creating a razor-thin vertical line about 5% of the image width. This luminous line cuts through the center of the dark charcoal background, visible for 60% of the vertical frame, shining intensely against the matte darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "sword edge",
+        "vertical reflection",
+        "metallic highlight",
+        "sharp contrast"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A solitary silver tassel hanging from a dark, heavy garment. The threads of the tassel are compacted into a smooth, elongated vertical shape that catches the light, appearing nearly white. This vertical feature is centered and thin, occupying 5% of the width. It hangs down, spanning 60% of the image height, set against a background of deep black velvet.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver tassel",
+        "vertical ornament",
+        "white on black",
+        "elongated shape"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "An industrial setting with a vertical fluorescent tube light mounted on a dark grey brick wall. The tube is mostly covered by a black casing, leaving only a narrow 5% wide strip of the glass exposed. This exposed strip emits a blinding white light that runs vertically down the center of the frame, covering 60% of the image height before being cut off by the casing.",
+      "rationale": "",
+      "emphasis_tags": [
+        "fluorescent light",
+        "vertical slit",
+        "industrial contrast",
+        "centered"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A single, smooth icicle hanging in the entrance of a dark cave. A beam of sunlight hits the icicle, turning it into a radiant white vertical bar against the pitch-black shadows of the cave. The icicle is centered, very slender at 5% of the image width, and its illuminated portion spans 60% of the vertical view, gleaming with high contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "icicle",
+        "vertical highlight",
+        "cave darkness",
+        "bright white"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A macro photograph of a single strand of synthetic white fiber stretched vertically. The fiber is illuminated to appear glowing white against a blurry, dark charcoal background. The strand is centered and occupies 5% of the image width, resembling a beam of light. It remains sharp and bright for 60% of the image height, fading slightly at the very ends.",
+      "rationale": "",
+      "emphasis_tags": [
+        "synthetic fiber",
+        "macro vertical",
+        "glowing white",
+        "dark blur"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "The spine of a white book standing vertically on a shelf in a dimly lit room. The rest of the shelf is in deep shadow, making the background black. The book's spine is illuminated by a narrow slit of light, appearing as a bright white vertical rectangle, 5% of the image width and 60% of the image height, centered perfectly in the darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "book spine",
+        "vertical rectangle",
+        "light slit",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A detail shot of a black grand piano with the lid open. A single chrome prop stick stands vertically, catching a harsh stage light. The reflection on the cylindrical chrome surface creates a brilliant white vertical highlight, 5% wide, centered against the deep black lacquer. This highlight extends for 60% of the frame's vertical dimension.",
+      "rationale": "",
+      "emphasis_tags": [
+        "chrome reflection",
+        "piano detail",
+        "vertical highlight",
+        "black lacquer"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A vertical crack in a dark graphite rock face. Through the crack, a bright white light from the other side shines through, creating a sharp luminous line. This line is centered, occupies 5% of the width, and runs vertically for 60% of the image height, providing a stark contrast between the bright gap and the surrounding matte dark rock.",
+      "rationale": "",
+      "emphasis_tags": [
+        "rock crack",
+        "light beam",
+        "vertical gap",
+        "matte texture"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A single white guitar string vibrating vertically against a black fretboard. The motion blur and lighting turn the string into a solid, bright white vertical column, 5% of the image width. It is centered and spans 60% of the image height, standing out vividly against the dark wood background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "guitar string",
+        "vertical vibration",
+        "white line",
+        "black background"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A thin strip of white LED tape adhering vertically to a black painted wall. The LED strip is illuminated, appearing as a solid bar of white light. It is centered horizontally, takes up 5% of the width, and is cut to a length that spans exactly 60% of the image's vertical height, glowing intensely against the matte black surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "LED strip",
+        "vertical light",
+        "minimalist",
+        "high contrast"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 3.354339599609375,
+      "best_percentile": 99.98704305296894
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 3.258740186691284,
+      "best_percentile": 99.97478859101787
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.9791533946990967,
+      "best_percentile": 99.86309346329827
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.7881546020507812,
+      "best_percentile": 99.62744874590803
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 2.788264036178589,
+      "best_percentile": 99.62744874590803
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 2.771207571029663,
+      "best_percentile": 99.5931830847837
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 2.767632246017456,
+      "best_percentile": 99.58561185669929
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 2.7565410137176514,
+      "best_percentile": 99.56328844193493
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 2.724475383758545,
+      "best_percentile": 99.49272771834407
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 2.6264238357543945,
+      "best_percentile": 99.21017260838954
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 2.545522451400757,
+      "best_percentile": 98.88265845331519
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 2.3985517024993896,
+      "best_percentile": 98.01586991849612
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 2.257371664047241,
+      "best_percentile": 96.69371494404317
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 2.112109899520874,
+      "best_percentile": 94.57127335567756
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.9833506345748901,
+      "best_percentile": 91.6930358751325
+    }
+  ]
+}

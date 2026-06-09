@@ -1,0 +1,360 @@
+{
+  "area": "V1",
+  "neuron_id": 5,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to high-contrast, curved boundaries that define the silhouette of a large, rounded, or volumetric mass against a background of opposing luminosity. The activating feature is typically a bulbous, spherical, or domed shape\u2014such as a helmet, shoulder, toilet bowl, celestial body, or liquid droplet\u2014or a distinct curved shadow, rendered in deep charcoal or pitch black contrasting against bright white or light gray. The neuron remains invariant to the polarity of the contrast (responding to both light-on-dark and dark-on-light), surface texture (ranging from smooth plastic to coarse fur or liquid), and object identity, provided the sharp tonal separation and convex curvature are preserved. The activating form typically occupies 30\u201370% of the image area, often dominating a specific quadrant or bisecting the frame with a prominent diagonal or arcing edge.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.2142702341079712,
+      "description": "A low-resolution, grayscale close-up view presents three distinct textural and tonal regions arranged organically. Occupying the upper portion and extending down the right side is a dark, textured area resembling coarse animal fur, rendered in deep charcoal and black tones. The texture here is fibrous and matted, with obscure strands suggesting a directionality sloping downwards from right to left. Beneath this dark upper mass, a sharp, curved boundary separates it from a large, amorphous region of light gray, nearly white luminosity that dominates the center and left portions of the visible area. This lighter area is relatively featureless aside from digital grain, appearing as a smooth, matte surface. In the bottom right quadrant, a rounded, bulbous form protrudes into the scene, covered in medium-gray shading with a subtle, bristly texture indicative of short hair or fur. This form is lighter than the upper dark section but significantly darker than the central pale area. A deep, black crevice or shadow separates the top dark fur from this bottom rounded element on the right side, while both dark and medium-gray textured areas contrast sharply against the smooth, pale field on the left. The composition is defined by the interaction of these three zones: the heavy, dark texture above, the protruding medium-gray shape below, and the bright, relatively flat field sandwiched between and to the left of them."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.215484619140625,
+      "description": "A singular, bulbous, three-dimensional form, textured to appear soft and matte like felt or plush fabric, is oriented in a three-quarter view facing the left. The main body is colored a deep charcoal grey and is roughly spherical, though slightly elongated vertically to resemble a stout capsule or stylized helmet. A large, light medium-grey panel occupies the majority of the front-left surface; this panel is shaped like a rectangle with extremely rounded corners, conforming to the convex curvature of the main body and resembling a visor or faceplate. The edge where the light grey panel meets the dark charcoal body is defined by a subtle, recessed seam that suggests a change in material or a stitched boundary. On the right side of the dark body, positioned slightly below the horizontal midline and towards the outer edge, lies a small circular emblem or mechanism. This detail features a light grey outer ring enclosing a dark grey inner circle, within which faint, lighter markings are barely discernible, appearing somewhat like a stylized recycle symbol or mechanical port. The lighting is diffuse, originating from the upper left, creating a gentle highlight on the top curve of the dark body while the lower right portion recedes into soft shadow, enhancing the object's volumetric appearance."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.2155773639678955,
+      "description": "A portion of a domed, translucent white structure, appearing to be a mesh food cover, dominates the left and lower-left areas of the frame, set against a deep charcoal-black background. A thick, solid white structural rib curves prominently from the upper left, descending diagonally towards the lower right, defining the outer boundary of the object. Within the mesh area, a vertical white support rib runs downwards, intersected perpendicularly in the lower section by a horizontal decorative band. This band is detailed with a repeating pattern of small, white interlaced loops or eyelets, resembling a chain of circular scallops. The mesh fabric itself is a fine, uniform grid appearing light grey and semi-transparent. Through the darkness of the background to the right of the dome's curve, bright white text is visible, seemingly projected or displayed on a screen. The distinct East Asian characters \"\u4e0a\u7528\" are horizontally aligned in the mid-right section, glowing with a soft luminescence, while a partial character is visible to their right and smaller, blurry text appears near the top right edge. The lighting focuses on the white mesh structure and the text, creating a high-contrast image where the foreground object is sharply defined against the obscure, dark void behind it."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.2186940908432007,
+      "description": "A high-contrast, monochromatic image captures the solid black silhouette of a bird standing in grey water, with the scene restricted to a circular field of view. The bird, positioned primarily in the right half of the frame, is oriented facing right, though its head and neck are truncated by the right edge, leaving only the body and tail visible. The body forms a sleek, tapered shape with a pointed tail extending horizontally toward the left-center. Two thin, stick-like legs descend vertically from the underbelly, piercing the water's surface; the leg on the left appears slightly angled, while the right leg is straighter. Beneath the bird, a dark, undulating reflection mirrors the legs and lower body, dissolving into a pool of black shadow in the bottom right area. The water surrounding the bird is a medium grey, characterized by horizontal striations and soft ripples. A distinct, thin dark line of water tension stretches horizontally across the background just above the level of the bird's tail. In the lower left quadrant, the water surface is broken by small, scattered dark specks and disjointed ripples, contrasting with the smoother, lighter grey bands in the upper third of the image. The lighting creates a flat, two-dimensional effect for the subject, emphasizing the sharp outline against the textured, liquid background."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.2275093793869019,
+      "description": "Presented in a high-contrast grayscale palette against a pitch-black background, a muscular human arm angles diagonally from the upper left, bending at the elbow to extend toward the mid-right. The upper arm and the elbow joint are encased in a bright white compression sleeve, which dominates the visual space with its luminosity. The sleeve is constructed from a smooth, synthetic-looking material that bunches into distinct, shadowed folds at the inner bend of the elbow and stretches taut over the outer elbow, revealing the underlying anatomical contours. A hemmed, elasticized cuff marks the end of the sleeve on the upper forearm. Emerging from this white fabric, the exposed skin of the forearm is rendered in mid-to-dark gray tones and is densely covered in intricate black tattoo ink. The tattoos feature complex, swirling designs that wrap around the limb, contrasting with the solid white of the sleeve. Lighting appears to come from the upper left, casting soft shadows on the underside of the arm and highlighting the folds in the fabric, while the arm itself is cropped at the shoulder on the left and just above the wrist on the right."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.228654384613037,
+      "description": "A grayscale close-up view reveals the upper portion of a crinkled snack package, dominated by the text \"ady Salted\" printed in a dark, charcoal-colored sans-serif typeface against a smooth, medium-grey background. The text runs horizontally across the upper third of the visible area; the word \"ady\" is on the left, with the preceding letters cut off, and \"Salted\" continues to the right. Below the \"al\" in \"Salted,\" a line of much smaller, blurry text is faintly discernible. A deep, dark shadow forms a vertical crease in the packaging material, starting between the two main words and expanding downwards, indicating a fold in the bag. The lower two-thirds of the image are filled with the textured, light-grey illustration of potato chips, which appear rough, bumpy, and organic compared to the smooth background. One large chip shape occupies the bottom left, curving upwards towards the center, while another chip segment sits in the lower right, separated from the first by the central dark shadow of the package fold. The lighting highlights the stippled texture of the chips and the sheen of the plastic bag material, creating a contrast between the pale food imagery and the darker gray surroundings."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.2344913482666016,
+      "description": "Dominating the left and lower-left portions of the frame is the curved, white ceramic structure of a toilet, viewed from a high angle looking down. The smooth, reflective surface of the toilet bowl rim sweeps from the center-left edge downwards, curving up towards the center. The interior of the bowl is visible, shaded in gradients of light gray that deepen towards the bottom left, suggesting the curvature of the porcelain. A bright, elongated highlight reflects off the upper right curve of the rim, indicating an overhead light source, while softer reflections play across the lower left of the bowl's interior. To the right of the toilet, the floor is composed of small, dark, square mosaic tiles arranged in a grid pattern, their surfaces appearing matte and dark gray. Behind the toilet, the wall is clad in larger, rectangular tiles, also dark gray but slightly lighter than the floor, with visible grout lines forming a grid that runs horizontally and vertically. The wall meets the floor at a visible seam running diagonally from the upper right towards the center. The lighting casts the area to the right of the toilet into shadow, particularly in the corner formed by the wall and floor, where the tones become almost black. A small, metallic chain link is partially visible at the bottom right edge near the toilet base, catching a glint of light. The overall scene is grayscale, with high contrast between the bright white ceramic and the dark, textured tiles."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.2348450422286987,
+      "description": "In this high-contrast black and white photograph, a voluminous and turbulent spray of water dominates the lower left quadrant and extends diagonally upward toward the right center. The water manifests as a dense, bright white mass of foam and mist, occupying roughly the bottom forty percent and left fifty percent of the visible field, with a texture that transitions from a solid, churned opaque white at its base to wispy, translucent vapor at its upper edges. Behind this chaotic foreground, a dark, rigid architectural structure anchors the background in the upper center. This vertical pier or support column is rendered in deep charcoal and black tones, presenting a solid, rectangular form with vertical striations that suggest heavy shadows or weathered concrete. To the right of the column and behind the spray, a section of calm water extends horizontally, depicted in medium grays with faint, lighter horizontal streaks indicating gentle ripples or reflections on the surface. Spanning the top twenty percent of the scene is a horizontal infrastructure element, likely a bridge deck or walkway, characterized by parallel dark lines and a series of small, repeating rectangular shapes that resemble a railing or windows, set against a slightly lighter gray backdrop. The lighting is dramatic and directional, heavily illuminating the water spray to create brilliant white highlights while leaving the background engineering elements in silhouette and deep shadow, emphasizing the stark contrast between the fluid motion of the foreground and the static geometry of the distance."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.241765022277832,
+      "description": "A sharp, diagonal boundary traverses the view from the upper-left to the lower-right, separating a smooth, matte, medium-gray surface in the bottom-left from a deep, glossy black region in the top-right. The black area appears fluid and viscous, containing tiny, scattered white specks that suggest a slight texture or dust on a wet surface. Dominating the lower-right portion of the dividing line is a large, clear liquid droplet, bulbous and teardrop-shaped, clinging precariously to the dark mass and protruding into the gray area. This droplet is highly transparent and reflective, capturing a bright, intense white specular highlight at its lowest tip, indicating an overhead light source, while its internal volume refracts the dark tones of the material above it. The boundary line itself is crisp but curves organically around the forming droplet, showing the tension of the fluid as it pools and hangs heavy against the lighter, flat background. The contrast is extreme, with the jet-black upper section absorbing light and the gray lower section reflecting it diffusely, bridged only by the glistening, refractive sphere of the suspended liquid."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.2452057600021362,
+      "description": "Set against a pitch-black background, two monochromatic celestial bodies appear in close proximity, dominating the center of the frame. To the left, a large, textured object roughly the shape of a distorted oblate spheroid occupies the majority of the space. This object is rendered in mottled shades of medium and dark grey, exhibiting a highly granular, noisy surface texture that suggests a cratered or rough terrain. A diffuse, lighter grey patch is visible in the lower-left quadrant of this body, while the right edge is defined by a sharper, illuminated curve. To the immediate right of this large mass, separated by a very narrow vertical gap of black space, hovers a second, much brighter object. This second body appears as a slender, vertically oriented crescent or spindle shape, tapering at the top and bottom. It possesses a high albedo, shining with a near-white luminosity that contrasts sharply with the dimmer, grey object beside it. The light source appears to originate from the right, illuminating the convex outer edge of this rightmost sliver and casting the left side of the larger object into partial shadow. The height of the bright crescent roughly aligns with the vertical span of the larger grey body, creating a visual pairing where the slender form cups the right side of the massive, textured sphere. The image quality is low-resolution, resulting in pixelated edges on both figures and a general graininess throughout the illuminated areas."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.2491883039474487,
+      "description": "A high-contrast grayscale close-up captures a section of a rough, light-colored, circular surface in the foreground against a dark, shadowed background containing structural elements. Dominating the lower-left quadrant is a large, curved expanse of material that appears varying shades of pale gray and white, featuring a highly detailed, chaotic texture composed of short, fibrous scratches, dark speckles, and mottled patches resembling weathered stone, compressed felt, or a flour-dusted surface. The edge of this object forms a convex arc that enters from the middle-left and sweeps down toward the bottom-right, implying a round table or large wheel viewed from a high angle. Immediately adjacent to the right side of this curved surface is a dark, rigid structure running diagonally from the upper-right area down toward the center-right. This element, appearing nearly black with a distinct, linear gray highlight along its edge, resembles a metal or wooden table leg or support beam with a chamfered or molded profile. Deep shadows fill the spaces between these objects, particularly in the center and upper-left areas. In the upper-middle section, emerging from the darkness behind the primary curved object, is a small, crumpled mass of lighter material, possibly cloth or plastic, showing soft, irregular folds and highlights that contrast with the sharp, geometric lines of the diagonal support and the grainy texture of the foreground arc. A vague, vertical dark pillar is faintly visible in the background shadow between the crumpled material and the diagonal leg. The lighting is stark and directional, seemingly from the upper-left, casting the background into deep black while emphasizing the surface irregularities of the foreground object and the hard edge of the structural bar."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.253877878189087,
+      "description": "A black-and-white close-up captures the lower body of a person in a lunging or striding position, viewed from a low angle. Dominating the upper right quadrant and extending diagonally downwards toward the center left is a leg clad in dark, loose-fitting athletic shorts. The fabric of the shorts appears to be a soft, matte material in a deep charcoal or black shade, marked by gentle, longitudinal wrinkles and folds that emphasize the stretch and orientation of the leg. The lower hem of the shorts is visible near the right edge, while the bulk of the garment obscures most of the upper leg. To the left, a foot encased in a light-colored sneaker is partially visible, with the heel and mid-foot captured while the toe box extends off the left edge. The shoe is a blurred, pale grey or white tone, contrasting with the dark shorts, and appears to be planted on the ground. The ground surface, occupying the bottom third of the image, is a dark, textured expanse resembling asphalt or a running track, displaying a grainy, uniform dark grey finish. Behind the leg and foot, running horizontally across the middle of the scene, is an out-of-focus background structure resembling a low wall or curb made of light-colored, patterned stones or concrete blocks. Above this barrier, the background fades into a featureless, light grey area, possibly a distant wall or sky. The lighting is diffuse, creating soft transitions rather than harsh shadows, with the darkest values concentrated in the shorts and the ground immediately beneath the leg, and the lightest values in the shoe and upper background."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.2543647289276123,
+      "description": "In a monochrome close-up view, the lower body and legs of a dark bird, likely a crow or raven, dominate the right side of the frame. The bird's plumage is a deep, rich black, with subtle gray highlights revealing the texture of layered feathers on its folded wing, which angles downward from the upper center towards the right edge. Below the dense mass of the body, thin, dark legs extend to the ground; the leg in the foreground is clearly defined, showing the texture of the skin and the distinct grip of the toes, while the other leg is partially obscured behind it. The bird stands on a mottled gray surface that resembles rough concrete or stone, covered in a chaotic pattern of light-colored scratches, small pebbles, and thin, straw-like debris scattered across the lower left and center. The lighting is diffuse, casting soft, indistinct shadows directly beneath the bird that anchor it to the ground, creating a strong contrast between the heavy, dark form of the bird and the lighter, gritty texture of the surface below."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.255840539932251,
+      "description": "The visible scene is a monochromatic, high-contrast composition divided horizontally into a textured lower ground and a shadowed upper overhang. The bottom forty percent of the view consists of a light gray surface with a granular, pebbled texture, resembling rough concrete, packed gravel, or coarse soil. This ground layer is illuminated and displays a uniform, mottled pattern of small, irregular highlights and shadows that suggest a gritty, uneven topography. Above this textured floor, a large, heavy mass of deep shadow dominates the upper sixty percent of the frame, rendered in shades of near-black and dark charcoal. This dark area forms a curved, arch-like shape that sweeps downward from the top left to the bottom right, evoking the interior ceiling of a cave, tunnel, or a heavy draping material. On the far left edge, a vertical strip of lighter gray material, similar in tone to the ground, creates a vertical boundary against which the dark mass abuts. From this vertical edge, the shadow's lower boundary slopes diagonally downward to the right, creating a sharp, curvilinear contrast line against the lighter ground below. The shadow is densest in the upper right, fading slightly into smoother, dark gray gradients towards the left where the curvature suggests volume and depth, creating the impression of looking out from a dark, enclosed space onto a rough, lit surface."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.2563951015472412,
+      "description": "The visible area is dominated by a monochromatic, greyscale close-up of two soft, organic masses pressing together, characterized by a textured surface of layered, white feathers. The form on the left occupies the lower-left quadrant, presenting a convex curve that slopes downward from the upper-left toward the bottom center; its surface shows faint, diagonal striated textures indicative of plumage, transitioning from a highlighted white on the upper curvature to a soft light grey in the lower recessed areas. Adjoining this, a second similar form occupies the lower-right quadrant, appearing slightly brighter and smoother with less defined feather detail, curving inward to meet the left form. The two masses converge along a distinct, shadowed vertical seam in the lower center of the frame, creating a deep crevice where the soft textures compress against each other. Above their meeting point, the contours of the shapes diverge outward, creating a blurred V-shaped opening that reveals a defocused background. This background consists of dark, vertical architectural or structural lines\u2014resembling thick bars or posts\u2014set against a grainy, dark grey void. One vertical dark bar is faintly visible behind the left form, while another darker vertical segment aligns with the central gap, intersected by a vague horizontal bar in the right background area. The lighting is diffuse and soft, seemingly originating from the upper front, casting gentle gradients across the rounded surfaces and leaving the background in deep shadow."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A glossy, pitch-black motorcycle helmet is positioned in the lower-right quadrant, occupying approximately 30% of the total image area. The helmet's surface is smooth and reflective, creating a sharp, high-contrast curved boundary against the background. The silhouette forms a perfect dome shape, defining a strong volumetric mass. The background is a stark, bright white studio wall, providing maximum luminosity contrast against the deep charcoal tones of the helmet. The lighting is harsh, emphasizing the convex curvature of the helmet's top without revealing distinct surface textures.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high-contrast",
+        "curved boundary",
+        "rounded mass",
+        "pitch black",
+        "bright white",
+        "convex curvature"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A close-up view of a pristine white porcelain toilet bowl, focusing on the curved rim and the upper volumetric curve of the bowl. The white ceramic occupies the bottom-left 30% of the frame, presenting a smooth, domed arc that bisects the corner. This bright, light gray to white form stands out sharply against a deep, matte charcoal wall behind it. The lighting creates a distinct separation between the gleaming white curve and the shadowed background, highlighting the heavy, rounded geometry of the object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white porcelain",
+        "curved rim",
+        "deep charcoal",
+        "domed arc",
+        "sharp separation"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A celestial scene featuring a massive, rounded moon appearing as a bright, pale gray sphere against the void of space. The moon occupies roughly 30% of the image, centered in the upper half. Its surface is relatively smooth with subtle gray craters, but the defining feature is the sharp, curved horizon line where the lit sphere meets the pitch-black darkness of the surrounding space. The contrast is extreme, with the luminous celestial body cutting a crisp, convex silhouette against the absolute black background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "celestial body",
+        "pale gray",
+        "pitch black",
+        "curved horizon",
+        "convex silhouette"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A macro photograph of a single, bulbous droplet of black viscous liquid, such as heavy crude oil or ink, resting on a flat, bright white surface. The droplet forms a perfect hemisphere, occupying about 30% of the frame in the center. The surface tension creates a tight, convex curve that reflects a single highlight, but the mass itself is a deep, impenetrable black. The boundary between the dark liquid and the white background is razor-sharp, emphasizing the spherical volume and the high-contrast tonal separation.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bulbous droplet",
+        "black liquid",
+        "bright white",
+        "hemisphere",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "The silhouette of a person's shoulder and upper arm, viewed from the side, rendered in deep shadow against a blindingly bright light source. The shoulder forms a soft, rounded arch that rises from the bottom center and curves towards the right, taking up 30% of the image. The figure is effectively pitch black due to the backlighting, devoid of internal detail, creating a strong graphic boundary against the pure white background. The curve is smooth and organic, defining the volumetric mass of the deltoid muscle.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silhouette",
+        "shoulder",
+        "pitch black",
+        "bright light",
+        "rounded arch"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A polished billiard ball, specifically the cue ball, gleaming in bright white, positioned against a backdrop of deep black velvet. The spherical object sits in the lower-middle section, covering 30% of the canvas. Its curved edge is clearly defined, separating the brilliant white mass from the light-absorbing black background. The lighting catches the top curve, enhancing the sense of three-dimensional volume and the smoothness of the sphere.",
+      "rationale": "",
+      "emphasis_tags": [
+        "spherical object",
+        "bright white",
+        "black velvet",
+        "curved edge",
+        "volumetric mass"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A minimalistic architectural shot showing the curved shadow of a dome or archway cast onto a bright white concrete floor. The shadow itself is a deep, solid charcoal color, forming a distinct semi-circular shape that intrudes from the left side of the frame. This dark, curved mass occupies approximately 30% of the view. The edge of the shadow is sharp and geometric, providing a high-contrast boundary between the unlit area and the sun-drenched, light gray surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "curved shadow",
+        "deep charcoal",
+        "bright white",
+        "semi-circular",
+        "high-contrast"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A large, smooth river stone, deep charcoal in color, resting on a bed of fine white sand. The stone is oval and bulbous, occupying the right-hand side of the image, filling about 30% of the frame. Its surface is matte but clearly volumetric, with a continuous convex curve defining its perimeter against the bright, high-key background. The tonal difference is stark, with the dark mass of the stone visually weighing down the composition against the lightness of the sand.",
+      "rationale": "",
+      "emphasis_tags": [
+        "river stone",
+        "deep charcoal",
+        "white sand",
+        "bulbous",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The rounded back of a black cat, curled up in a sleeping ball, silhouetted against a crisp white bedsheet. The fur appears as a solid mass of pitch black, absorbing all light, while the sheet is a bright, clean white. The cat's form creates a large, domed curve rising from the bottom edge, occupying 30% of the image area. The boundary between the dark fur and the white fabric is a distinct, high-contrast line that traces the animal's spinal curve.",
+      "rationale": "",
+      "emphasis_tags": [
+        "rounded back",
+        "pitch black",
+        "white bedsheet",
+        "domed curve",
+        "high-contrast"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A single, large black balloon, not fully inflated, floating against a white ceiling. The balloon is positioned in the upper-left quadrant, taking up 30% of the visual space. It presents a teardrop or bulbous shape with smooth, stretched skin in deep charcoal tones. The contrast against the flat white ceiling is extreme, highlighting the convex curvature of the balloon's body and the sharp edge where the dark rubber meets the light background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black balloon",
+        "bulbous shape",
+        "deep charcoal",
+        "white ceiling",
+        "convex curvature"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A close-up of a classic, round microphone head with a silver-white mesh grille, set against a pitch-black studio background. The microphone head is spherical and occupies the center 30% of the image. The light catches the metallic mesh, making it appear bright light gray to white, while the background remains in deep shadow. The circular boundary of the microphone is sharp and clearly defined, creating a volumetric sphere of light floating in darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "spherical",
+        "silver-white",
+        "pitch-black",
+        "volumetric",
+        "circular boundary"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "An artistic shot of a dark, unpolished iron sphere sitting on a white pedestal. The sphere is a deep, rough charcoal color and occupies the lower 30% of the frame. Its upper edge forms a perfect convex arc against the bright white wall behind it. The lighting is uniform, eliminating cast shadows but emphasizing the silhouette and the stark tonal difference between the heavy, dark iron mass and the light, airy background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "iron sphere",
+        "deep charcoal",
+        "bright white",
+        "convex arc",
+        "stark tonal difference"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "The curved fender of a vintage black car, highly polished, seen against a white concrete garage floor. The fender forms a sweeping, bulbous curve entering from the top right, covering roughly 30% of the image. The paint is pitch black, creating a mirror-like surface that reflects nothing but darkness, contrasting sharply with the light gray and white tones of the floor. The boundary is a smooth, continuous arc defining the car's volumetric form.",
+      "rationale": "",
+      "emphasis_tags": [
+        "curved fender",
+        "pitch black",
+        "white concrete",
+        "bulbous curve",
+        "volumetric form"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A simple white egg standing upright, illuminated from behind to create a silhouette effect, but reversed so the egg appears as a bright white oval against a pure black background. The egg occupies the central 30% of the vertical frame. Its outline is smooth, continuous, and convex, defining a fragile yet volumetric mass. The separation between the luminous white shell and the surrounding darkness is crisp and high-contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white egg",
+        "pure black",
+        "bright oval",
+        "convex",
+        "crisp separation"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A large, dark mushroom cap, specifically a portobello, viewed from the side against a light gray sky. The mushroom cap is a deep charcoal brown, appearing almost black, and forms a distinct dome shape that takes up the bottom 30% of the image. The curve of the cap is smooth and bulbous, creating a strong silhouette against the bright, overcast background. The image relies entirely on the tonal contrast between the dark organic mass and the light field behind it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "mushroom cap",
+        "deep charcoal",
+        "light gray",
+        "dome shape",
+        "strong silhouette"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.257434368133545,
+      "best_percentile": 0.0013269162622173863
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.2910090684890747,
+      "best_percentile": 0.007024850799974398
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.2916196584701538,
+      "best_percentile": 0.007102904697751892
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.29440438747406,
+      "best_percentile": 0.008039551471081811
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.301641821861267,
+      "best_percentile": 0.010303114506629117
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.3112614154815674,
+      "best_percentile": 0.01787434259104597
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.3282877206802368,
+      "best_percentile": 0.046285961382053535
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.3302860260009766,
+      "best_percentile": 0.050578925759815666
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.3358074426651,
+      "best_percentile": 0.06915575343085907
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.3410043716430664,
+      "best_percentile": 0.0946793780040994
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.3489490747451782,
+      "best_percentile": 0.15025375322167464
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.3520935773849487,
+      "best_percentile": 0.18209974351489192
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.3542107343673706,
+      "best_percentile": 0.2066086674170248
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.3625200986862183,
+      "best_percentile": 0.3396905631276509
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.3833764791488647,
+      "best_percentile": 1.6319508947318302
+    }
+  ]
+}

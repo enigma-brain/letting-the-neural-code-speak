@@ -1,0 +1,359 @@
+{
+  "area": "V1",
+  "neuron_id": 4,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to high-contrast, elongated structural forms\u2014typically bands, cylinders, or tapered edges\u2014oriented diagonally from the upper-left to the lower-right. These features appear as prominent bright white or pale gray shapes (such as a mast, snake, bone, light beam, or strip of fur) set against a dark, low-luminance background of charcoal, black, or deep gray. The activating element consistently features a continuous, often convex or smooth surface that exhibits high luminosity or specular highlights, creating a sharp light-on-dark polarity. The neuron is invariant to object identity, texture, and scene context, provided the specific diagonal orientation and strong luminance contrast are preserved. The feature typically spans 30\u201370% of the image diagonal, often centered or dominating the left-central portion of the frame.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 3.8301186561584473,
+      "description": "Dominating the view is a high-contrast, monochromatic section of a structural mast and rigging set against a flat, featureless medium-gray sky. The most prominent element is a thick, tapered cylindrical spar that extends diagonally from the upper-left area down toward the bottom-right. This spar widens significantly as it descends, indicating a perspective from below looking up. It is illuminated by intense, direct light coming from the lower right, which renders the right-facing side of the cylinder in a brilliant, blown-out white, while the left-facing side is cast in a deep, smooth charcoal shadow; the transition between light and dark is a soft gradient running longitudinally down the center. Running vertically through the left quarter of the visible space is a slender, uniform pole or cable, appearing as a medium-gray vertical line parallel to the image's left edge. Near the top left, where the diagonal spar is narrowest, it appears to intersect with or pass behind the vertical pole. Additionally, a faint, thin horizontal wire or cable traverses the upper section, crossing behind the vertical pole and interacting with the diagonal spar near its apex. The surfaces appear smooth and metallic, and the overall composition is defined by the sharp geometric interaction between the heavy diagonal white form and the thinner vertical gray line against the uniform background."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 3.8405253887176514,
+      "description": "Presented in high-contrast grayscale, the head and neck of a snake are captured in profile, extending diagonally from the upper-left area down toward the center-right against a blurred, uniform dark grey background. The snake features an extremely elongated, lance-shaped head that tapers to a fine, sharp point at the snout. The mouth is agape, forming an acute V-shape, with the upper jaw maintaining a straight horizontal alignment and the thinner lower jaw angled downward. Distinct counter-shading is visible: the dorsal side of the head and neck is a smooth medium grey, while the ventral side, including the throat and lower jaw, is a bright, stark white. A relatively large eye is positioned on the side of the head, set back from the snout, appearing as a dark sphere with a faint highlight, situated along a subtle horizontal shadow line that runs the length of the head. The lighting appears to originate from above, casting a sheen on the upper ridge of the snout and illuminating the white throat, while the interior of the mouth remains in shadow. The neck enters the view from the top-left edge, curving slightly before straightening into the rigid, aerodynamic form of the skull."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 3.8599002361297607,
+      "description": "A prominent, high-contrast white band dominates the left-center of the image, stretching diagonally from the upper-left quadrant down toward the bottom-center. This bright, curvilinear strip tapers slightly as it descends and appears somewhat blurred, with a smooth, glowing intensity that stands out against the surrounding darkness. Immediately to the left of this white band is a deep black triangular region that creates a sharp, defining edge. Running parallel to the main white band on its left side, separated by a very thin dark line, is a fainter, narrower sliver of light grey that mirrors the curve of the brighter strip. The entire right side of the visible area is occupied by a large, amorphous mass of mottled grey tones. This grey region possesses a grainy, organic texture with soft gradients, containing a vague, darker oval-shaped shadow near the mid-right section and lighter, indistinct patches towards the top. The transition between the bright white diagonal and the grey mass on the right is marked by a shadowed, darker grey boundary, while the bottom area beneath the white structure fades into an obscure, dark grey-black mix."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 3.872699022293091,
+      "description": "A high-contrast grayscale view focuses on a prominent, pale, curvilinear structure sweeping diagonally from the upper-left edge down toward the center-right. This dominant form appears smooth and slightly convex, characterized by a distinct upper ridge lined with a regular series of small, bright, bead-like protrusions or serrations that catch the light. Below this light-toned arc, and running roughly parallel to it, lies a darker, coarser mass with a fibrous, striated texture resembling bundled muscle or tissue, marked by deep linear grooves and heavy shadowing. The boundary between the smooth upper structure and the rough lower mass is defined by a dark, recessed crevice. The upper-right quadrant of the view is filled with an amorphous, out-of-focus area of mottled light and dark gray patches, contrasting with the sharp detail of the central diagonal elements. Illumination strikes from the upper left, creating strong highlights along the serrated ridge of the pale structure while leaving the recesses of the fibrous material below in deep shade."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 3.876268148422241,
+      "description": "Rendered in high-contrast monochrome, a close-up composition captures the interlocking segments of wet, armored crustacean limbs. Dominating the upper right quadrant is a thick, heavily textured appendage, likely a claw or major leg segment, characterized by a dark, rough surface covered in small, rounded tubercles and short spines that catch the light in distinct, bright white points. This bumpy section angles downward from right to left, overlapping a smoother, cylindrical leg segment that bisects the view diagonally from the upper left center toward the lower right. This central diagonal strut is highly reflective, featuring a continuous, sharp highlight running along its length that emphasizes its smooth, tubular geometry and wet, chitinous material. To the left and slightly below this central element, in the lower left area, another jointed limb curves downward, showing a visible articulation point where the shell segments overlap; this part is smoother than the top section but sits in slightly deeper shadow. Faint, thin linear structures, resembling antennae or smaller leg tips, appear on the far left edge, blurring slightly into the background. The lighting is directional and intense, creating deep, solid black shadows in the crevices between the overlapping limbs and brilliant white specular highlights on the highest ridges and nodules, giving the entire assembly a metallic, high-gloss appearance amidst the shades of gray."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 3.8799514770507812,
+      "description": "Presented in high-contrast monochrome, the image depicts a cross-sectional view of structures rendered in shades of black, white, and grey. A dominant, luminous white band stretches diagonally across the frame, originating near the upper-left center and extending downward toward the bottom-right. This bright, elongated shape is thickest in its middle section and appears smooth, resembling a dense bone or rigid material, with a sharp, defined upper edge against a featureless, dark grey background that occupies the upper-right quadrant. To the left of this diagonal white structure, separated by a narrow channel of deep black shadow, is a vertical, columnar formation in varying tones of charcoal and medium grey. This vertical element exhibits a distinct, complex texture, characterized by a stacked series of horizontal, rib-like striations or patterns that resemble a ladder or tread, running vertically along its length. The texture appears fibrous or layered, contrasting with the smoothness of the bright white diagonal. Between the lower portion of the diagonal white band and the vertical grey column, there is a triangular region of murky, low-contrast dark grey tissue or material that connects the two main elements. The overall image quality is grainy, typical of a medical scan, with soft gradients blurring the transition between the stark white highlights and the surrounding deep shadows."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 3.901898145675659,
+      "description": "A high-contrast, grayscale composition is dominated by a massive, smooth, pale form that sweeps upward from the bottom left, occupying roughly forty percent of the visible space. This foreground element presents as a matte white, convex surface with a gentle gradient that darkens slightly toward its lower edge, curving diagonally from the bottom center toward the middle left, effectively obscuring the lower-left portion of the scene. Situated behind and above this curved obstruction, in the upper and right-hand sections of the frame, is a dark, slate-grey background plane that appears textured and metallic. Embedded within this darker field is a horizontal row of three distinct, luminous points of light, positioned in the upper middle-right area. These lights shine intensely white against the gloom, arranged in a linear fashion with the leftmost light being the brightest and most defined, while the two to its right appear progressively slightly smaller and dimmer, suggesting a recession in depth or angle. Subtle, hazy halos glow around these light sources, and faint, indistinct reflections or streaks mar the dark surface immediately beneath them. The scene is characterized by a stark juxtaposition between the clean, bright curvature of the foreground object and the grainy, shadowed expanse of the background structure lit by the three piercing points of light."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 3.9082000255584717,
+      "description": "Framed against a smooth, gradient gray background that transitions from a lighter tone on the left to a darker shadow on the right, a textured, cylindrical organic form winds vertically through the center. The object, rendered in monochromatic grayscale, appears to be a thick root, vine, or possibly a section of a reptile's body, characterized by a rough, mottled surface covered in irregular, scale-like patches and small protrusions. It enters from the bottom center, rising straight up briefly before curving gently to the left, then arching back towards the right in a sinuous, S-shaped curve that dominates the vertical axis. The texture is highly detailed, with stark highlights on the left-facing surfaces emphasizing the rugged topography of the skin or bark, while the right side recedes into shadow, enhancing the three-dimensional volume. At the top right, a small, separate fragment of similar textured material protrudes inward from the edge, disconnected from the main winding form but sharing the same lighting and surface characteristics. The lighting is soft but directional, seemingly coming from the upper left, casting the right side of the winding form into a deep gray shade that contrasts with the lighter background behind it."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 3.927427053451538,
+      "description": "A monochrome, grayscale close-up captures the textured flank and leg of a furry animal, dominated by a high-contrast interplay of light and dark tones. Occupying the upper right two-thirds of the visible area is the animal's body, covered in mid-gray fur that shows a vertical, slightly coarse grain. A bright, luminous white band of longer fur defines the underbelly, sweeping in an arc from the upper left quadrant down toward the lower right, where it transitions into the vertical front edge of a leg. This white line serves as the sharpest focal point, separating the animal's mass from the background. In the upper left, immediately adjacent to where the white band begins, a dark, elongated oval shape stands out in deep black against the lighter gray coat. The lower left quadrant, beneath the white belly line, is filled with blurred, dark gray textures resembling grassy vegetation, which are significantly less distinct than the fur. The leg in the lower right is partially visible, with its front edge highlighted in white and the rear portion blending into the gray body mass. The image has a grainy quality, with soft, diffuse lighting that creates a glow on the white fur, suggesting a low-light or night-vision capture context."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 3.9359652996063232,
+      "description": "A grainy, monochromatic, grayscale composition is dominated by a stark, bright white, elongated formation extending diagonally from the upper-left area down toward the visual center. This luminous structure resembles a tapered cone or a jagged beam of light, possessing a highly textured, granular surface that appears rough and densely packed. To the immediate left of this bright diagonal is a deep, amorphous black void that creates a sharp, high-contrast boundary, swallowing the mid-left section in shadow. Within the lower portion of this dark left-hand region, a solitary, tiny white speck is visible. The upper-right quadrant is filled with a mottled, mid-tone grey substance that looks soft and organic, separated from the central white feature by a darker, indistinct channel. Below the termination point of the white diagonal shape, in the center-lower region, lie horizontal bands of dark grey suggesting layered structures. From this central lower area, a faint, thin, curvilinear grey line extends outwards toward the bottom right, arching gently like a delicate filament against a darker background. The entire scene is heavily stippled with digital noise, giving textures a coarse appearance, with the lighting apparently originating from the bright white diagonal element, leaving the surrounding periphery in varying degrees of shadow."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 3.942614793777466,
+      "description": "A high-contrast, black-and-white close-up captures a primate situated among tree branches, with the scene dominated by a thick, diagonal branch stretching from the upper left to the lower right. This main branch features a bright, smooth strip of exposed wood along its upper surface, contrasting sharply with the darker, textured bark on its sides and underside. Behind and wrapping around this diagonal timber is the dark, dense fur of the animal, which appears deep black and matte. On the left side of the diagonal branch, a furry limb is bent sharply, with a dark, leathery foot gripping a thinner, horizontal branch that traverses the lower section of the view. To the right of the main diagonal, another limb is partially visible, appearing to grip or rest near where a third, short branch stump protrudes horizontally from the right edge. The texture of the wood appears fibrous and worn, while the animal's skin on the visible foot shows subtle gray highlights on the knuckles and joints. The lighting is intense and somewhat dappled, creating strong highlights on the stripped wood and the background foliage, while casting deep shadows within the animal's fur and under the branches. The background is entirely out of focus, rendered as a chaotic bokeh of soft, mottled gray and white shapes representing leaves and light filtering through a canopy, emphasizing the sharp focus of the foreground limbs and wood."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 3.963512420654297,
+      "description": "A monochromatic, grayscale close-up view centers on a small, elongated organism resting diagonally across a highly textured surface. The creature, rendered in light-to-medium gray tones, is oriented from the upper-left toward the lower-right, possessing a streamlined, torpedo-like shape that is broader at the top and tapers to a blunt point at the bottom. A subtle, longitudinal ridge runs along its dorsal side, catching a soft, diffuse highlight that suggests overhead lighting, while a dark, narrow shadow is cast along its left and lower edges, grounding it against the substrate. The surface beneath is significantly darker and characterized by a complex network of irregular, interlocking polygonal shapes, resembling a magnified organic cellular structure or rough, cobblestone-like pavement. The contrast between the smooth, lighter body of the subject and the rough, granular pattern of the background is sharp, with the focus concentrated on the central figure and the texture of the immediate surface."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 3.9830212593078613,
+      "description": "A high-contrast, monochromatic scene is dominated by bright, flat, ribbon-like white strips superimposed over a dark, textured background. The primary visual element is a bold white band that stretches diagonally from the upper-left quadrant down toward the bottom-right, maintaining a relatively consistent width and a smooth, unblemished surface that stands out against the surroundings. In the lower-left area, a second, slightly narrower white strip emerges from the bottom edge, curves upward, and appears to loop over a horizontal structural element before disappearing behind the main diagonal band. These strips are set against a background of rough, horizontally oriented wooden planks that occupy the upper two-thirds of the view. The wood is dark gray and deeply weathered, with pronounced horizontal grain lines, ridges, and fissures that catch the light, emphasizing a coarse texture. A distinct, dark horizontal gap separates the main plank from a partially visible plank above it, and a small, bright white triangular shard rests on the upper edge of the main plank to the right of center. The bottom third of the image transitions to a chaotic, granular surface resembling dark soil or gravel, scattered with tiny, sharp specks of light that suggest a rough, possibly damp, material. Rising from this ground layer are faint, out-of-focus vertical lines that look like thin stalks or wires. The lighting is harsh and seemingly artificial, creating deep blacks in the shadows of the wood and ground while rendering the white strips with high luminosity."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 4.016120910644531,
+      "description": "Against a uniform, grainy charcoal-gray background, a spacecraft ascends diagonally from the lower-right toward the upper-left, occupying the central region of the visual field. The object comprises a distinct, slender white fuselage at the leading upper-left end, appearing cylindrical with a pointed nose and sharply defined edges against the dark void. Trailing immediately behind and merged with the fuselage is a brilliant, opaque white exhaust plume that widens progressively as it extends backward toward the lower right. This plume exhibits a soft, billowing texture with blurred edges, contrasting with the solid, geometric form of the rocket body at the front. The exhaust trail is roughly three times the length of the visible solid rocket body and expands in width until it dissipates into a softer, slightly translucent white haze at the rear. The lighting is high-contrast, rendering the rocket and plume in bright, blown-out white tones that eliminate surface detail on the vehicle itself, while the background remains a flat, featureless dark gray. The assembly is positioned centrally, with the nose of the rocket pointed toward the 11 o'clock position and the tail of the exhaust oriented toward the 5 o'clock position, surrounded by empty space."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 4.033444404602051,
+      "description": "A high-contrast grayscale close-up reveals a composition dominated by two diagonal, linear structures set against a smooth, mid-tone gray background. Occupying the left third of the frame is a broad, intensely luminous white band that traverses from the upper-left quadrant down to the lower-right. This band is soft and out of focus, possessing diffused edges that glow and fade into the adjacent gray space, lacking any internal texture. Separated from this white streak by a narrow channel of the gray background is a sharply focused, dark, biological structure located in the right half of the image, resembling the rigid leading edge of an insect wing. A primary, thick, black vein runs diagonally downward from the top center to the lower-right, positioned nearly parallel to the blurred white band but at a slightly steeper vertical angle. Along this dark vein are distinct, knobby articulations spaced at regular intervals, serving as junction points for thinner, perpendicular cross-veins that extend horizontally toward the right edge. These fine black lines form a precise, grid-like lattice, enclosing vertically stacked, rectangular cells of a translucent membrane. The membrane within these cells exhibits a subtle, granular texture and is slightly lighter in tone than the background, while the structural veins remain silhouetted in solid black, creating a stark textural contrast between the sharp, intricate biological mechanics on the right and the smooth, undefined luminescence on the left."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A pristine, bleached white femur bone, smooth and polished by time, floats suspended in a void of deep, pitch-black darkness. The bone is oriented diagonally, descending from the upper-left quadrant towards the lower-right, occupying approximately thirty percent of the image's diagonal span. Its surface is convex and highly reflective, catching a harsh light source that creates a bright, running specular highlight along its length, emphasizing the stark contrast between the pale calcium structure and the surrounding shadow.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bleached white femur bone",
+        "pitch-black darkness",
+        "upper-left to lower-right",
+        "convex and highly reflective",
+        "stark contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A single, focused beam of pure white light cuts through a heavy atmosphere of charcoal-colored smoke. The beam originates from the top left and angles sharply down towards the bottom right, forming a solid, illuminated cylinder of photon density against the dim, gray-black surroundings. The light ray is sharply defined with hard edges and spans roughly a third of the diagonal visual field, glowing intensely against the low-luminance background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "beam of pure white light",
+        "charcoal-colored smoke",
+        "top left to bottom right",
+        "cylinder of photon density",
+        "intensely glowing"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "An albino corn snake, its scales a gleaming pale gray-white, stretches its body across a bed of dark volcanic soil. The snake's form creates a smooth, elongated tube that runs diagonally from the upper-left to the lower-right of the frame. The lighting highlights the curvature of its back, creating a glistening white strip of reflection on the scales, while the creature's length takes up about 30% of the diagonal space, standing out vividly against the matte black earth.",
+      "rationale": "",
+      "emphasis_tags": [
+        "albino corn snake",
+        "pale gray-white",
+        "dark volcanic soil",
+        "upper-left to lower-right",
+        "glistening white strip"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A length of white PVC piping, clean and industrial, is positioned against a shadowed, dark gray concrete wall. The pipe is oriented diagonally, starting high on the left and ending lower on the right, covering a modest portion of the frame's diagonal measure (roughly 30%). The plastic surface is smooth and cylindrical, reflecting a linear highlight that underscores its roundness and brightness against the gloomy, low-contrast background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white PVC piping",
+        "dark gray concrete wall",
+        "diagonally",
+        "linear highlight",
+        "brightness"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A solitary branch of a paper birch tree, wrapped in brilliant white bark, cuts across a night sky that is almost completely black. The branch extends from the upper-left corner area down towards the lower-right, featuring a slight taper but maintaining a generally cylindrical form. The white bark is luminous and high-contrast, spanning about thirty percent of the diagonal, with the dark background isolating its shape completely.",
+      "rationale": "",
+      "emphasis_tags": [
+        "paper birch tree",
+        "brilliant white bark",
+        "black night sky",
+        "upper-left to lower-right",
+        "luminous and high-contrast"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A polished steel sword blade, reflecting so much light it appears bright silver-white, rests on a surface of black velvet. The blade is oriented diagonally from upper-left to lower-right, presenting a sharp, tapered edge and a central ridge that catches a blinding white glint. The metal feature occupies the lower end of the size spectrum, roughly a third of the image diagonal, creating a severe light-on-dark polarity.",
+      "rationale": "",
+      "emphasis_tags": [
+        "polished steel sword blade",
+        "bright silver-white",
+        "black velvet",
+        "upper-left to lower-right",
+        "severe light-on-dark polarity"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A thick, opaque white icicle hangs at a slant, angled from the top left towards the bottom right against the dark, wet rock of a cave interior. The ice is smooth and elongated, resembling a frozen fang, and glows faintly with captured light against the deep charcoal shadows of the cave wall. The icicle's length corresponds to approximately 30% of the diagonal field of view, dominating the local contrast with its pale luminosity.",
+      "rationale": "",
+      "emphasis_tags": [
+        "opaque white icicle",
+        "dark wet rock",
+        "top left to bottom right",
+        "pale luminosity",
+        "deep charcoal shadows"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A pristine white taper candle, unlit and perfectly cylindrical, lies diagonally across a surface of matte black slate. The candle is oriented from the upper-left to the lower-right. Its wax surface is smooth and reflects a soft but distinct white sheen, creating a strong visual separation from the dark background. The object spans about thirty percent of the diagonal length of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pristine white taper candle",
+        "matte black slate",
+        "upper-left to lower-right",
+        "white sheen",
+        "strong visual separation"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A single piece of white classroom chalk, cylindrical and unused, floats in front of a blurred, dark blackboard. The chalk is positioned diagonally, pointing from the top-left to the bottom-right. It is bright white, with a smooth texture that catches the light, standing out sharply against the deep gray-black of the slate behind it. The chalk occupies roughly 30% of the diagonal dimension of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white classroom chalk",
+        "dark blackboard",
+        "top-left to bottom-right",
+        "bright white",
+        "deep gray-black"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A section of a white power cable, smooth and rubberized, is pulled taut diagonally across a dark, unlit workspace. The cord runs from the upper-left region down to the lower-right, glowing pale gray under a directional light. The background is a uniform deep shadow, ensuring the high-contrast white line of the cable, which spans roughly a third of the image diagonal, is the sole focus.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white power cable",
+        "dark unlit workspace",
+        "upper-left to lower-right",
+        "high-contrast white line",
+        "pale gray"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A rolled diploma made of bright white paper, secured in a cylindrical tube shape, rests against a dark mahogany desk that appears nearly black in the shadows. The scroll is oriented diagonally from the upper-left to the lower-right. The paper is smooth, reflecting a bright highlight along its curvature, and occupies approximately 30% of the diagonal length of the view, creating a crisp white diagonal bar against the darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "rolled diploma",
+        "bright white paper",
+        "dark mahogany desk",
+        "upper-left to lower-right",
+        "crisp white diagonal bar"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A single stalk of white asparagus, peeled to reveal a glistening pale ivory interior, lies on a black ceramic plate. The stalk is positioned diagonally, extending from the top left toward the bottom right. The vegetable is cylindrical and smooth, reflecting moisture as bright white highlights against the void-like background. The stalk covers about thirty percent of the diagonal space of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white asparagus",
+        "pale ivory",
+        "black ceramic plate",
+        "top left to bottom right",
+        "bright white highlights"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A sleek, white handle of a specialized makeup brush is viewed close-up against a deep charcoal cosmetic bag. The handle is cylindrical and tapered, oriented diagonally from the upper-left to the lower-right. Its surface is glossy white plastic, creating a sharp specular reflection that contrasts heavily with the dark, textured fabric behind it. The visible portion of the handle spans roughly 30% of the image diagonal.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white handle",
+        "deep charcoal cosmetic bag",
+        "upper-left to lower-right",
+        "glossy white plastic",
+        "sharp specular reflection"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A taut band of white satin ribbon stretches diagonally across a dark, shadowed velvet backdrop. The ribbon runs from the upper-left to the lower-right, catching the light to appear nearly silver-white. The fabric is smooth and continuous, creating a bright, elongated strip that stands out against the low-luminance black background, occupying about a third of the diagonal length.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white satin ribbon",
+        "dark shadowed velvet",
+        "upper-left to lower-right",
+        "silver-white",
+        "elongated strip"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A fragment of a white marble baluster, cylindrical and polished, is set against a dark night sky. The stone column element is oriented diagonally from the upper-left to the lower-right. It gleams pale gray and white under moonlight, contrasting sharply with the pitch-black surroundings. The structure is smooth and convex, spanning approximately 30% of the image diagonal.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white marble baluster",
+        "dark night sky",
+        "upper-left to lower-right",
+        "pale gray and white",
+        "contrasting sharply"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 3.8778152465820312,
+      "best_percentile": 99.99929751492
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 3.846503496170044,
+      "best_percentile": 99.99906335322667
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 3.8496882915496826,
+      "best_percentile": 99.99906335322667
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 3.812518358230591,
+      "best_percentile": 99.99843892204446
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 3.732334852218628,
+      "best_percentile": 99.99601925121335
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 3.697756290435791,
+      "best_percentile": 99.99422401156447
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 3.6844394207000732,
+      "best_percentile": 99.99297514920002
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 3.6686952114105225,
+      "best_percentile": 99.99110185565337
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 3.648029088973999,
+      "best_percentile": 99.98868218482227
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 3.5215187072753906,
+      "best_percentile": 99.96440742261346
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 3.4931271076202393,
+      "best_percentile": 99.95332376912906
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 3.4776852130889893,
+      "best_percentile": 99.94536227155575
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 3.215477466583252,
+      "best_percentile": 99.57007913104157
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 3.167973041534424,
+      "best_percentile": 99.38969657327777
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 3.0062096118927,
+      "best_percentile": 98.06387306562928
+    }
+  ]
+}

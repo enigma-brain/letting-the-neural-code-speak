@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 14,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to objects or distinct anatomical features characterized by warm, often vibrant colors\u2014specifically red, orange, pink, yellow, brown, or bronze. The activating feature typically presents as a cohesive, central subject (such as a car, beetle, dog, or kayak) or a prominent focal detail (such as a bird\u2019s bill, a crab\u2019s claw, or a vest) that exhibits a smooth, and frequently glossy or illuminated, texture. These warm-toned elements are consistently set against cool, desaturated, or neutral backgrounds composed of greens (grass, water, walls) or greys (stone, mud, asphalt), creating a strong chromatic contrast. The feature usually occupies 25\u201360% of the image and is positioned centrally or slightly off-center within the frame. The neuron remains invariant to object category (responding to animals, vehicles, people, and artifacts alike), precise shape, and lighting harshness, provided the warm-on-cool/neutral color relationship is maintained.",
+  "confidence": null,
+  "total_images": 12,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.37529993057250977,
+      "description": "Four helmeted guinea fowl stand on a textured ground of short, vibrant green grass interspersed with patches of reddish-brown soil and small scattered pebbles. The central focus is a bird positioned in the middle foreground, facing toward the left, displaying a voluminous, oval-shaped body covered in slate-grey plumage densely patterned with small, uniform white spots. This bird's smooth, purplish-grey neck rises to a head topped with a bony, brownish casque, featuring distinct white skin patches on the face and bright red wattles hanging from the base of the beak; its orange-brown legs are visible striding on the grass. Directly behind this central bird, slightly to the right and partially obscured by the first bird's bulk, is another guinea fowl facing left, with only its speckled back, neck, and head visible, showing the same red wattle and white cheek details. To the right, occupying the upper-right quadrant, a third guinea fowl stands in full profile facing left, showing the complete speckled gradient of its wing and flank, casting a dark, defined shadow on the grass to its left. On the far left edge, a fourth bird is partially cut off, showing only its rounded, speckled rear and downward-sloping tail feathers, oriented away from the center. The scene is illuminated by bright, direct sunlight coming from the upper right, creating hard, dark shadows that stretch toward the lower left from the base of each bird. The grass is uneven, with blades of varying lengths and small, light-colored debris scattered across the dirt patches."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.4015716016292572,
+      "description": "A slender, muscular dog with a short white and tan coat is captured in mid-air profile, running intensely from the left to the right side of the frame. The animal wears a vibrant, high-visibility hot pink vest that covers the ribcage and back, secured by thin, pale strings tied loosely around the narrow waist and extending towards the tail. The dog\u2019s physique is extremely lean, with the ribcage clearly defined beneath the skin of the flank and powerful muscles visible in the tan-colored hindquarters. The front portion of the dog, including the neck, chest, and forelegs, is primarily white, while the head features tan markings around the ears and eyes. The head is extended forward with the ears pinned flat against the neck and the mouth slightly open, revealing a glimpse of teeth. Both front legs are lifted high off the ground, bent at the carpal joints so the paws hang downward, suspended mid-stride. The rear legs stretch backward, largely obscured or cut off at the left edge, emphasizing the forward momentum. The background is a soft, out-of-focus wash of dry field grass, composed of muted olive greens, straw yellows, and earthy browns. Bright, direct sunlight illuminates the dog from above, creating strong highlights on the white fur and the smooth surface of the pink vest, while casting deep, sharp shadows along the dog's underbelly, inner legs, and neck."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.4120959937572479,
+      "description": "A bright red, boxy hatchback race car with a white roof is the central subject, capturing a moment of off-track action as it traverses a grassy slope. The car is oriented facing the viewer's right at a slight downward angle, with its front end dipping lower than the rear. The vehicle features a white banner across the top of the windshield with illegible red text, rectangular headlights with orange corner indicators, and a black lower grille area. On the visible side, a white square panel displays a black number, and various small sponsor decals are adhered to the front bumper and fenders. The car rides on dark wheels, and a plume of light brown dust billows out from behind the rear left side, obscuring the back corner of the vehicle and suggesting a slide or loss of traction. A sharp, dark shadow is cast directly underneath the car. The foreground and middle ground consist of a field of short, textured green grass, speckled with tiny white flowers and patches of dried, brownish vegetation. In the background, occupying the upper section of the vertical space, a gray asphalt race track curves gently from left to right. Beyond the asphalt, a blue barrier wall runs horizontally, behind which a spectator wearing a white shirt and dark pants stands near the center, partially obscured by the distance. The furthest background consists of blurred green foliage and trees. The lighting is bright and natural, indicating a sunny day, illuminating the vibrant red of the car and the varying shades of green in the grass."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.41377773880958557,
+      "description": "A prominent, mature mushroom with a vibrant scarlet-red cap dominates the center of the composition, its convex shape flattening slightly towards the rim. The cap\u2019s surface is glossy and densely covered with raised, rough-textured warts ranging in color from creamy white to pale yellow; these scales are tightly packed and smaller at the apex, becoming larger, flatter, and more widely spaced in roughly concentric rings as they approach the cap's edge. Underneath the red cap, a thick, cylindrical stipe extends vertically downward, composed of a chalky white, fibrous material with a shaggy, scaly texture. Just below the cap, a fragile, skirt-like annulus hangs loosely around the upper stalk, colored a slightly yellowed cream. The mushroom rises from a bed of coarse, dry gravel and earth, comprising a mix of angular and rounded stones in shades of slate grey, tan, beige, and dusty brown. To the right of the mushroom's base, a crumpled, dried brown leaf lies flat against the stones, partially obscured by the surrounding pebbles. The lighting is direct and frontal, creating high contrast that highlights the sheen of the red skin and casts a subtle shadow beneath the cap onto the upper stipe, while the background stones fade into a soft blur, keeping the sharp focus on the fungal subject in the immediate foreground."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.41631221771240234,
+      "description": "A medium-sized bird, identified by its black and white plumage and long orange-red bill, flies horizontally from left to right across a blurred grey water surface. The bird's body dominates the central frame, angled slightly downward towards the right. Its left wing is raised high, displaying a distinct pattern: a broad white band runs horizontally across the mid-wing, separating the black upper wing covert feathers from the black tips of the flight feathers, while the underside of the wing facing the viewer appears mostly white near the body, transitioning to black at the edges. The right wing is extended flatly to the right, showing a similar white stripe bordered by black on the trailing edge and tip. The bird's back is black, contrasting sharply with its white underbelly and rump. A patch of white extends from the lower back to the tail, which is black at the tip. The legs are tucked underneath the white belly, appearing pinkish-red. The long, straight beak is a vibrant orange-red, tapering to a point and pointing forward and slightly down. The eye is a small dark spot within the black feathers of the head. The background consists of rippled, grey water, out of focus, with soft, horizontal wave patterns suggesting movement, providing a neutral backdrop that highlights the sharp contrast of the bird's colors. The lighting is diffuse and overcast, casting soft shadows on the bird's underbelly and beneath the wings, emphasizing the three-dimensional form without harsh highlights."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.4175538718700409,
+      "description": "A small, short-haired dog with a black and tan coat, resembling a Miniature Pinscher, bounds directly toward the viewer through a field of grass, occupying the central portion of the visible area. The dog carries a vibrant, hot-pink, plastic ring toy in its mouth; the animal grips the upper arc of the torus, allowing the rest of the ring to hang vertically, framing its snout and neck like a oversized collar. The dog's ears are large, triangular, and perked erect, while its eyes are narrowed slightly in movement. Its front legs are lifted mid-stride, paws bent at the carpus and suspended above the ground, displaying the tan fur on the lower limbs which contrasts with the black upper body. The foreground is filled with blades of grass that vary from lush green to dry, straw-yellow stalks, some of which are out of focus and partially obscure the dog's rear legs and paws. Behind the dog, the background is softly blurred due to depth of field. To the upper left, a dark blue or black sedan is partially visible, parked and facing left, obscured significantly by green bushes and white flowering plants. Further back in the upper left, a hint of a white object, possibly another vehicle, can be seen. The upper right quadrant shows a continuation of the grassy yard extending toward a line of trees and distant foliage, with a patch of lighter, yellowish-green grass suggesting a path or sunlit area. The lighting is natural and diffuse, lacking harsh directional shadows, which suggests an overcast sky or open shade, and the overall color palette is dominated by the greens of the grass and the striking pink of the toy against the dark fur of the dog."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.4177074134349823,
+      "description": "Centered within the view is a close-up, high-angle shot of a sundial mounted on a textured, matte grey stone surface, likely slate. The dominant feature is the gnomon, a dark, tarnished metal structure appearing almost black with hints of bronze oxidation, which rises from the center-left of the frame. This metal object is formed by a triangular wedge base that tapers to a point towards the bottom left, while its upper section curls into a large, open circular loop positioned towards the top right. The sunlight, originating from the top left, casts a hard, sharply defined black shadow to the right and slightly downward, falling across the stone at roughly the 4 o'clock position. This shadow elongates the form of the gnomon, projecting a thick, stretched oval shape corresponding to the metal loop and a solid dark line connecting back to the base. Beneath the gnomon's mounting point is a decorative, recessed carving in the stone: a circular sunburst or compass-rose pattern consisting of indented triangular rays radiating outward. From the tips of these indented rays, thin, straight lines etched into the stone extend toward the edges of the visible area; these lines are filled with a faint yellowish-tan sediment or lichen, contrasting subtley with the cool grey stone. The stone surface itself is weathered and uneven, speckled with tiny white spots of lichen or debris, particularly noticeable on the right side of the shadow and on the inner curve of the metal loop itself. The metal gnomon appears roughly one-third the width of the visible area, and the interplay between the raised metal object and its flat, distorted shadow creates a strong sense of depth and three-dimensionality against the flat, scratched stone background."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.4200582504272461,
+      "description": "Centrally positioned on a bed of wet, dark grey granular mud stands a fiddler crab, distinguished by a massive, asymmetrical major claw on the viewer's right side. This dominant claw is a glossy, vibrant lemon-yellow that gradients to a paler cream color at the tips of the pincers; the upper finger of the claw curves downward while the lower finger curves upward, creating a gaping appearance. The crab's central carapace is dark charcoal to black, featuring a subtle, horizontal band of iridescent light blue across the front, just beneath two slender, upright stalks that hold small, bead-like black eyes. On the viewer's left, a significantly smaller minor claw, dark with yellowish tips, is held close to the ground. The crab's walking legs are dark grey and spindly, splayed out to support the body, with the joints clearly visible as they make contact with the substrate. The ground itself is a textured field of wet sediment, appearing as a mix of sand and mud with a high density of tiny, bright white specular highlights reflecting direct overhead sunlight. A soft, dark shadow pools directly beneath the crab's body and legs, anchoring it to the surface, while the surrounding mud texture remains consistent in focus and detail throughout the visible area."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.4207068979740143,
+      "description": "A reddish-brown, short-haired dog, resembling a Vizsla, dominates the center of the frame, captured mid-stride running directly toward the viewer on a sunlit green grassy field. The dog's head is positioned in the upper central portion, with its large ears thrown dramatically upward and outward by momentum; the ear on the viewer's left is flipped back exposing the lighter inner ear skin, while the ear on the right extends horizontally and slightly upward. In its mouth, the dog firmly grips a bright pink plastic flying disc, held horizontally just below a moist, liver-colored nose and squinting eyes. The disc features visible dark scuff marks on its surface and casts a distinct shadow onto the dog's muscular chest below. The dog's front legs are captured in motion; the left leg extends straight down with the paw partially visible near the bottom edge, while the right leg is lifted and bent at the joint. The coat is smooth and golden-rust in color, gleaming under bright overhead sunlight which casts highlights on the forehead and snout. Behind the dog, the background is out of focus, showing a field of green grass that extends up to a horizontal band of light beige dirt path running across the upper third of the image, with a final strip of darker green vegetation visible at the very top."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.42102178931236267,
+      "description": "A large, multi-colored sculpture resembling an oversized knot made of thick, glossy industrial tubing dominates the foreground, composed of interlaced yellow, red, and teal-green segments. A bright yellow tube enters diagonally from the upper left, featuring a large red geometric patch on its surface, then curves horizontally to the right before bending sharply downward to form a vertical leg. Wrapped tightly around the left section of this yellow tube is a teal-green segment that forms a complete loop, squeezing the yellow tube before descending as a second vertical leg positioned directly to the left of the yellow vertical leg. A third tube, colored vivid red, enters from the upper right, displaying a teal patch on its upper curve; this red segment arches over the horizontal part of the yellow tube and tucks underneath the green loop on the left. The surface of the sculpture is smooth and reflective, with white specular highlights running along the tops of the curves indicating diffuse overhead daylight, while deep shadows define the crevices where the tubes intersect. Behind the sculpture, the background is an out-of-focus urban scene. To the immediate left, a dark grey vertical pole stands in front of a blurred view of a water fountain spray and a blue square parking sign with a white \"P\". In the upper center, leafless tree branches intermingle with a white rectangular street sign bearing black text and a small blue symbol. On the right side, blurred pedestrians in dark clothing are visible near a blue circular traffic sign with a white directional arrow. The ground beneath the sculpture is paved with light grey stone or concrete, featuring horizontal lines that suggest tram tracks or pavement seams, and the overall lighting is soft and even, consistent with an overcast day."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.42401114106178284,
+      "description": "The right side of the field of view is dominated by the torso and left arm of a person wearing a light grey t-shirt patterned with very fine, horizontal dark stripes. The fabric of the shirt bunches slightly around the waist and under the arm, indicating a relaxed posture. The person's left arm is bent at the elbow, bringing the forearm upward across the upper chest, with the hand positioned near the neck area but largely cut off at the top edge. The skin on the arm is tanned with visible dark hair on the forearm, and the elbow protrudes toward the left center of the composition. A small portion of light beige or white trousers is visible just below the hem of the shirt at the bottom right. Situated in the lower left quadrant is the profile of a woman with short, layered, light brown or dirty blonde hair, facing towards the right. Her head is tilted slightly upward, directed at the person on the right, and her mouth is open as if she is speaking or laughing. Only her head and the very top of her shoulder are visible. The background consists of an interior wall painted a muted, semi-gloss sage green or grey-green. White or cream-colored wainscoting trim runs horizontally across the wall behind the figures, roughly at the height of the woman's nose and the standing person's mid-abdomen, with a vertical trim piece visible near the top center. The lighting is direct and somewhat harsh, likely from a camera flash, creating a distinct, dark shadow of the standing person's arm and torso cast directly onto the wall behind them. A faint, translucent circular orb, possibly a dust mote or lens reflection, is visible on the wall in the upper central area between the two figures."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.42478147149086,
+      "description": "Occupying the central visual field is the coiled body of a snake, predominantly colored a smooth, slate-olive grey. The creature's scales are small, glossy, and tightly imbricated, creating a sleek, tessellated texture that catches the light in soft, white highlights along the uppermost ridges of the body's curves. The body winds in a complex formation; a primary thick segment curves from the left side across the middle, arching slightly upwards, while another segment loops underneath it. On the right side, positioned slightly above the vertical center, is the snake's head, which is significantly darker than the body, appearing charcoal-black. A vibrant, solid orange band encircles the neck immediately behind the head, providing a high-contrast separation between the dark head and the grey body. Below the head and the main dorsal coil, a segment of the snake twists near the bottom right to reveal its underside. This ventral area is a vivid, saturated red-orange, distinctly marked with a row of black, crescent-shaped spots along the lateral edge where the belly meets the side scales. The background, visible primarily in the upper portion behind the snake, is soft and out of focus, consisting of brown leaf litter, dry tan earth, and several thin, vertical blades of green grass that rise from the soil. Shadows are deep within the crevices between the overlapping coils, emphasizing the three-dimensional volume of the snake against the forest floor."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.4257819354534149,
+      "description": "Centered within a murky, slate-green body of water, a male figure with tanned skin navigates a bright magenta kayak. The kayak is oriented diagonally, pointing from the center-right towards the center-left, with its bow visible in the lower-left quadrant featuring a small black handle loop. The kayaker wears a glossy, bright red helmet with a small visor and black chin strap, and his head is turned in profile facing the left. He is outfitted in a vibrant red life vest secured with black webbing straps and featuring a black mesh pocket on the right side of his chest. His arms are bare, and a white wristband encircles his left wrist. He holds a kayak paddle with a black shaft and bright yellow blades diagonally across his body; the blade on the left side of the image is positioned lower near the water surface, while the blade on the right is raised high into the air, angling upward toward the top right. The water surrounding the boat is textured with small ripples and white foam where the hull breaks the surface, and a faint reddish reflection of the kayak is visible in the foreground water. Behind the kayaker, the background consists of a horizontal riverbank lined with light grey, irregular rocks and boulders at the water's edge, topped by a dense area of out-of-focus green tall grass and vegetation. The lighting is bright and overhead, casting distinct highlights on the wet helmet and the upper surface of the yellow paddle blade."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.4264858365058899,
+      "description": "Centered vertically and taking up the central portion of the view is a bright orange and black lady beetle clinging to a narrow, vertical green plant stem. The beetle is oriented with its head end pointing upward, grasping the stalk with its glossy black legs. The upper pair of legs reaches upward and wraps around the sides of the stem, while the lower legs brace against the stalk further down. The insect's domed wing cases are a vivid, saturated orange, marked with a bold black pattern consisting of a thick vertical stripe running down the central suture and two large, irregular, transverse black blotches on either side that curve outward toward the edges of the shell. The texture of the shell appears smooth and slightly waxy, reflecting a soft, diffuse light source from the upper left. The beetle's pronotum and head area at the top are black, blending with the dark legs. The plant stem is a pale, yellowish-green blade, sharply focused where the beetle holds it but becoming slightly blurred above. The background is a wash of out-of-focus vertical streaks in varying shades of green, ranging from light lime to deep forest green, providing a soft, contrasting backdrop that highlights the sharp detail and vibrant colors of the insect."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.4281306266784668,
+      "description": "Centrally positioned on a rough, pitted surface of grey concrete lies a reddish-brown cockroach, oriented diagonally with its head pointing toward the bottom left and its abdomen extending toward the top right. The insect's body is dominated by glossy, mahogany-colored wing cases that reflect a soft white highlight along their curvature, indicating a hard, convex texture. The pronotum, the shield-like plate behind the head, displays a lighter, amber-brown rim surrounding a darker center. Two prominent, spiny rear legs, which are a translucent amber color lighter than the main body, project stiffly upwards and towards the right; one leg extends nearly vertically towards the twelve o'clock position, while the other angles sharply towards the two o'clock position, crossing slightly behind the first. Two extremely long, thin, hair-like antennae emerge from the head area and stretch far across the left side of the frame; the upper antenna sweeps upwards and outwards into the top-left quadrant, while the lower antenna curves gently downwards into the bottom-left quadrant, spanning a length greater than the insect's body. The concrete background is a mix of neutral greys and tans with a gritty texture, featuring small white mineral flecks, tiny crevices, and a patch of brownish staining in the lower-left area near the tips of the antennae. The lighting is diffuse, casting a subtle, soft shadow directly beneath the insect, anchoring it to the stone surface."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A polished, deep red apple with a shiny, reflective skin sits in the center of the frame, taking up roughly one-quarter of the image area. It rests on a cold, slate-grey stone table. The apple is lit softly, creating a bright highlight on its upper curve that emphasizes its smooth texture. The background is a continuation of the matte grey stone, blurring slightly into the distance to create a cool, neutral canvas that contrasts sharply with the warm, saturated crimson of the fruit.",
+      "rationale": "",
+      "emphasis_tags": [
+        "red apple",
+        "glossy texture",
+        "grey background",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A brilliant orange goldfish with shimmering, smooth scales swims through the center of a pond, occupying a modest central portion of the view, approximately a quarter of the frame. The fish is oriented horizontally, and its wet body catches the light. The surrounding water is a murky, opaque olive green, providing a desaturated, cool-toned backdrop that makes the vivid orange of the fish stand out distinctly.",
+      "rationale": "",
+      "emphasis_tags": [
+        "orange goldfish",
+        "green water",
+        "glossy scales",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A bright yellow hard hat, constructed of smooth, glossy plastic, rests centrally on a slab of unpolished grey concrete. The helmet fills about a quarter of the scene. Its surface is pristine and reflective, catching the overhead light. The background consists entirely of the cool, textured grey concrete floor and a blurred grey cinder block wall, isolating the warm yellow object in a monochromatic, cool environment.",
+      "rationale": "",
+      "emphasis_tags": [
+        "yellow hard hat",
+        "grey concrete",
+        "glossy plastic",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A vibrant pink balloon with a taut, reflective latex surface rests on a patch of smooth grey pavement. The balloon is positioned in the middle, covering a quarter of the frame. A white reflection of the sky is visible on its curved side. The background is the uniform, desaturated grey of the asphalt, creating a strong chromatic separation between the playful warm pink object and the stark, neutral road.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pink balloon",
+        "grey pavement",
+        "shiny surface",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "The shiny, metallic bronze head of a small statue stands in the center, occupying a quarter of the visual space. The metal is polished and warm-toned, reflecting the ambient light. It is set against a wall covered in dense, dark green ivy. The cool, leafy green background provides a natural, desaturated contrast to the hard, warm metallic sheen of the bronze bust.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bronze statue",
+        "green ivy",
+        "metallic texture",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A glossy red sports car is parked in the center of a large, open grey asphalt lot. The car appears relatively small, filling only the central quarter of the perspective. Its red paint is mirror-like, reflecting the clouds above. The surrounding pavement is a flat, cool grey that extends to the edges of the frame, ensuring the warm red vehicle is the sole focal point of color.",
+      "rationale": "",
+      "emphasis_tags": [
+        "red car",
+        "grey asphalt",
+        "glossy paint",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A bell pepper with a smooth, waxy orange skin sits squarely in the center of a cool grey granite countertop. The vegetable takes up a moderate amount of space, roughly one-quarter of the image. Light reflects off its lobes, highlighting the glossy texture. The background is the mottled grey stone of the counter and a blurred grey backsplash, creating a neutral setting for the vibrant orange subject.",
+      "rationale": "",
+      "emphasis_tags": [
+        "orange pepper",
+        "grey granite",
+        "waxy texture",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The upper body of a person wearing a slick, high-gloss yellow raincoat stands centrally against a dark, moss-green painted wall. The coat reflects the ambient light and occupies a quarter of the image. The cool, dark green of the wall recedes visually, pushing the bright, warm yellow of the waterproof fabric to the forefront of the composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "yellow raincoat",
+        "green wall",
+        "glossy fabric",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A large beetle with a lustrous, mahogany-brown carapace rests on a smooth grey rock. The insect is centered and magnified to fill one-quarter of the frame. Its shell is highly polished, gleaming under the sun. The background is the out-of-focus surface of the grey stone, creating a cool, neutral field that contrasts with the rich, warm brown tones of the beetle.",
+      "rationale": "",
+      "emphasis_tags": [
+        "brown beetle",
+        "grey rock",
+        "glossy shell",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A close-up of a flamingo's curved neck and body, covered in smooth, coral-pink feathers, occupies the central quarter of the image. The plumage is sleek and well-groomed. The background is a blur of verdant green tropical leaves, providing a lush, cool-toned backdrop that complements the vivid warm pink of the bird.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pink flamingo",
+        "green foliage",
+        "smooth feathers",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A spherical bronze vase with a highly polished, mirror-like finish sits on a matte grey tablecloth. The vase is positioned centrally, taking up one-quarter of the view. Warm golden-brown reflections dance on its surface. The background is a wash of the same cool grey fabric and a distant grey wall, ensuring the metallic warmth of the object dominates the attention.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bronze vase",
+        "grey cloth",
+        "metallic reflection",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A new, shiny orange basketball lies on a grey concrete court. The ball is centered and covers approximately a quarter of the frame. Its pebbled surface catches the light, appearing slightly glossy. The background is the uniform, cool grey of the paved surface, which provides a stark, desaturated contrast to the intense warm orange of the ball.",
+      "rationale": "",
+      "emphasis_tags": [
+        "orange basketball",
+        "grey concrete",
+        "glossy texture",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A single bright yellow kayak floats in the center of a wide river. The kayak, glossy and wet from the splashing water, occupies a quarter of the scene. The surrounding water is a deep, opaque olive green, creating a smooth, cool-colored surface that contrasts sharply with the hard, vibrant yellow hull of the boat.",
+      "rationale": "",
+      "emphasis_tags": [
+        "yellow kayak",
+        "green water",
+        "glossy surface",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A mushroom with a smooth, slimy bright red cap pushes up through a patch of grey mud. The mushroom is centered and fills roughly one-quarter of the image. The cap is round and reflects the damp forest light. The background consists of wet, cool grey soil and blurred grey pebbles, making the red fungus the only source of warmth in the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "red mushroom",
+        "grey mud",
+        "slimy texture",
+        "color contrast"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A glossy, ceramic pink piggy bank sits on a shelf painted a cool, neutral grey. The object is centered and takes up one-quarter of the frame. Highlights gleam on its curved, smooth back and ears. The background is a flat, desaturated grey wall, providing a minimalist setting that emphasizes the warm, cheerful pink of the ceramic item.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pink piggy bank",
+        "grey shelf",
+        "glossy ceramic",
+        "color contrast"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.4841683506965637,
+      "best_percentile": 0.011473922973291518
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.5453394651412964,
+      "best_percentile": 0.08929365905745235
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.5601687431335449,
+      "best_percentile": 0.1422922556483703
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.5965168476104736,
+      "best_percentile": 0.3833226919852697
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.6070641875267029,
+      "best_percentile": 0.5049306647226043
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.6150323748588562,
+      "best_percentile": 0.6111620195977726
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.6380119323730469,
+      "best_percentile": 1.0364777085873338
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.6495839953422546,
+      "best_percentile": 1.3312872804929259
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.6498233079910278,
+      "best_percentile": 1.3395609936573403
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.6757930517196655,
+      "best_percentile": 2.275427228009485
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.7000869512557983,
+      "best_percentile": 3.6045289993646414
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.7196546792984009,
+      "best_percentile": 5.071239792501518
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.7232383489608765,
+      "best_percentile": 5.375259724344855
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.7374804615974426,
+      "best_percentile": 6.743856767975422
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.9398520588874817,
+      "best_percentile": 46.100661428729765
+    }
+  ]
+}

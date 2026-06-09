@@ -1,0 +1,354 @@
+{
+  "area": "V4",
+  "neuron_id": 18,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to prominent rounded, spherical, or circular objects positioned in the left foreground, characterized by a distinct convex curve or arc that separates the subject on the left from the background on the right. The activating objects vary widely in identity and material\u2014ranging from metallic car wheels, stainless steel sieves, and analog clocks to organic forms like a wombat, chestnut, or amber bottle\u2014appearing in explicit colors such as silver, gunmetal grey, black, dark brown, or deep amber. The backgrounds are equally diverse, including white tiles, light gray walls, blurred green grass, or desaturated blue, though a clear contrast at the curved boundary is typical. The activating feature is strictly lateralized, typically occupying the left 30\u201350% of the image width, with the curvature bulging towards the center or right. The neuron remains invariant to specific textures, lighting conditions (specular vs. diffuse), and object classes, provided the spatial configuration of a rounded form on the left is maintained.",
+  "confidence": null,
+  "total_images": 12,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 7.415721416473389,
+      "description": "A three-dimensional spherical object, resembling a digitally rendered planet or ball, dominates the visual field against a stark black background. The left and central portions of the sphere, covering approximately two-thirds of its visible surface area, are colored a deep, saturated royal blue. This blue surface is characterized by a grainy, speckled texture where lighter cyan pixels are scattered across the darker base, creating a noisy, non-uniform appearance. Contrasting sharply with the blue region is a broad, luminous white crescent that occupies the right side of the sphere. The boundary between the blue and white sections is a distinct, convex arc curving towards the left, though the edge appears jagged and pixelated rather than smooth. The white area is brightest at the far right edge, where it emits a soft, diffuse glow or halo that blurs into the surrounding darkness, suggesting a strong light source emanating from the right. Subtle artifacts of red and blue chromatic aberration line the upper right rim of the white crescent. The bottom edge of the sphere features a slight shadow, reinforcing its spherical volume, while the overall image has a slightly low-resolution, rasterized quality."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 7.494549751281738,
+      "description": "Situated in the left-center of the view is a marsupial with a bi-colored coat, captured in a profile stance facing toward the upper left. The animal's back, shoulders, and neck are covered in dense, coarse fur that is a dark, grizzled charcoal grey, appearing almost black in the shadowed folds. This dark coloration contrasts sharply with the chest, flank, and large rounded thigh, which are covered in a vibrant, warm rust-orange to reddish-brown fur. The texture of the rust-colored fur appears softer and slightly fluffier than the dark dorsal fur. Two small, dark grey forepaws are visible, tucked closely against the upper chest, bent at the elbows and held mid-air. The head is positioned at the top left, partially extending beyond the visible area, revealing a dark muzzle and a strip of lighter, greyish-white fur along the cheek. The animal's hindquarters rest near the bottom edge, where the rust color fades into dark grey near the tail base. The subject is surrounded by a soft-focus background of green grass, presenting a mottled texture of lime, olive, and emerald hues. The background vegetation is blurry, indicating a shallow depth of field, while a few individual blades of grass in the immediate foreground at the bottom center overlap the animal's lower dark fur. The lighting is soft and diffuse, creating a flat illumination that highlights the color contrast of the fur without casting hard shadows."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 7.554725646972656,
+      "description": "Dominating the left foreground is a portion of a circular analog clock, angled slightly away from the viewer, with a thick, matte black or dark charcoal rim. The clock face is covered by a transparent material that catches a bright, curved, white specular highlight along its upper arc, obscuring some underlying details. Inside the rim, a periwinkle or light lavender ring encircles the center, marked with dark blue Arabic numerals; the numbers 11, 12, 1, and 2 are partially visible in the upper right quadrant of the clock face. The center of the dial features a blurred background pattern in beige, pale green, and light blue, resembling a map of the world. A prominent, thick black hand points diagonally upwards and to the left, roughly toward the 10 or 11 o'clock position, while a thinner, blurred red hand extends downwards and to the left. The clock partially obscures a textured background on the right side of the image, which consists of horizontal, light tan slats stitched together, resembling a bamboo mat or blind. Overlaid on this wooden texture is a translucent or paper sheet featuring a grid of thin vertical and horizontal lines, creating a table-like structure. A small, opaque white rectangular label or piece of tape is affixed to this sheet near the upper right edge. The entire scene is softly focused, with the background elements appearing slightly more blurred than the clock face, and the lighting is diffused, casting no harsh shadows other than the reflection on the clock's glass."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 7.59731388092041,
+      "description": "A partial view of a circular analog wall clock is mounted against a plain, matte, light gray surface that occupies the majority of the background. The clock is positioned on the left side, with its white plastic rim curving convexly from the wall, casting a soft, diffuse shadow along the wall to its right and bottom right, indicating a light source from the upper left. The clock face is bright white with high-contrast black markings; thick rectangular bars designate the hours, while four smaller, thinner hash marks separate each hour to denote minutes. Visible hour markers range from the top vertical 12 o'clock position, curving down the right side through the 3 o'clock position, to the bottom vertical 6 o'clock mark. At the center, a small brass-colored metallic nut secures three hands. A thick, black hour hand points downward and to the right, directly aligned with the 5 o'clock marker. A longer, narrower dark gray minute hand extends upward and slightly to the right, resting approximately on the first minute tick mark past the 12 o'clock position. A slender red second hand is oriented diagonally downward to the left, roughly towards the 7 or 8 o'clock area, with a short counterbalance section extending slightly upward past the central pivot. At the very bottom edge of the visible area, slightly right of the center vertical axis, partial black text is blurred but visible, appearing to end in the letters \"olt\" in a bold sans-serif font."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 7.619260311126709,
+      "description": "Dominating the lower left and central area of the view is the circular body of a banjo, featuring a taut, vellum-like skin head in shades of mottled beige and tan. The surface of the head is textured and weathered, marked prominently by a large, diffuse dark brown smudge near the bottom center and a smaller discoloration to the left. Four distinct, thin, dark strings run parallel to each other diagonally across the face of the drum, extending from the lower left edge towards the upper right. These strings traverse the junction where the body meets the instrument's neck, which projects into the upper right quadrant. The neck is crafted from medium-brown wood with visible longitudinal grain and is intersected by dark, perpendicular fret lines. The rim of the drum body, visible along the left and bottom distinct from the skin, appears as a dark, rough wooden edge. The instrument rests against a background of white fabric, which is rumpled with soft, undulating folds that cast gentle gray shadows, providing a neutral, textured backdrop that contrasts with the warm, organic tones of the banjo. The lighting is soft and diffuse, revealing the matte texture of the skin and the slight sheen of the wooden neck without creating harsh highlights."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 7.665656566619873,
+      "description": "Visible in the left foreground is a portion of a gunmetal grey aftermarket alloy wheel featuring six thin spokes that radiate from a central hub with visible lug nut recesses. Behind the spokes, a bright red brake caliper with white lettering is clamped onto a silver, cross-drilled metallic brake rotor. The wheel is wrapped in a low-profile black rubber tire, the top of which disappears into the deep black shadow of the wheel well. Adjacent to the wheel on the right, the car's front fender and bumper are finished in a glossy, pale grey paint that appears almost white or light blue depending on the light. A vertical panel gap creates a thin dark line separating the fender panel from the front bumper cover. In the upper right corner, a section of the headlight assembly is visible, distinguished by a vibrant amber reflector lens with horizontal ridges. Reflected clearly on the polished surface of the bumper, between the wheel and the headlight, is a distorted image of a yellow vehicle. The car sits on a light grey concrete surface, casting a sharp, dark shadow directly beneath the bumper and inside the wheel arch, indicating a bright light source coming from the upper right."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 7.66921854019165,
+      "description": "A macro close-up reveals the vibrant, matte surface of a hot pink guitar pick positioned against a dark, coarse-grained wooden fretboard and interleaved with acoustic guitar strings. The pick, angled diagonally with its top tilting roughly 30 degrees to the right, dominates the center-left of the composition, bearing white printed text that reads \"UNLOP\" in bold sans-serif capitals (cut off on the left), stacked above \"U.S.A.\", which is largely centered, and \"96 mm\" at the bottom, where the \"mm\" characters are slightly worn and disjointed; a fragment of a white, stylized floral or shell-like logo is visible above the brand name. A thick, wound guitar string, rich bronze-gold in color, runs vertically through the left third of the frame, passing directly over the surface of the pink pick; strong, rhythmic highlights accentuate the individual ridges of the string's winding coils. To the right of the pick, a thinner, unwound golden string runs vertically parallel to the first, appearing smoother with a continuous linear reflection. The background consists of dark, porous wood, likely rosewood or ebony, with vertical grain texture. A silver metal fret wire runs horizontally across the lower section of the wood, positioned behind the strings and reflecting a bright, white highlight. Near the top center, a portion of a white circular fretboard inlay is visible, slightly soft in focus, contrasting with the deep brown and black tones of the wood. The lighting is sharp and direct, creating high contrast between the bright pink plastic, the metallic glint of the strings, and the shadowed recesses of the fretboard."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 7.691153049468994,
+      "description": "Occupying the left foreground is a smooth, glossy, rounded object resembling a polished chestnut or large seed, colored in a rich, reddish-brown hue with lighter striations and wood-like grain patterns swirling across its surface. The object is positioned diagonally, leaning towards the right, with bright specular highlights indicating a strong light source from the upper left. To its immediate right and slightly behind, sits a dark, rough-textured, rock-like chunk, possibly asphalt or stone, featuring jagged edges and deep crevices that contrast sharply with the smoothness of the reddish object. Both rest on a rough, light grey concrete or stone surface that runs horizontally across the lower mid-ground. In the background, out of focus, is a body of water reflecting light, appearing as dark, murky green-grey, with a blurred structure or vessel in the upper center characterized by dark brown and white vertical elements. The lighting is bright and natural, casting soft shadows beneath the foreground objects, highlighting the texture of the concrete and the gloss of the chestnut-like form."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 7.726670265197754,
+      "description": "A close-up view captures the upper shoulder and neck section of a translucent amber glass bottle, which occupies the left forty percent of the frame. The glass is illuminated intensely from the left, creating a blindingly bright, vertical golden-white highlight along the leftmost edge that fades into rich honey, burnt orange, and deep brown hues as the cylindrical form curves toward the right. Embossed, capitalized sans-serif text stands out in relief on the glass surface, arranged in stacked rows that follow the bottle's curvature. In the central visible row, the letters \"VT\" are distinct. Directly below them, the letters \"IA\" appear, followed by a space and then \"HI\". Above the \"VT,\" fragments of other characters are barely discernible, partially cut off by the upper limit of the view. The surface of the bottle exhibits a weathered or soiled texture, marred by small dark specks, grime, and dried residue that creates a mottled appearance against the smooth glass. The right edge of the bottle forms a sharp, dark, curved boundary against the background. The remaining sixty percent of the image on the right consists of a smooth, out-of-focus field of soft blue, acting as a backdrop. This blue area shows a subtle gradient, shifting from a lighter, periwinkle shade at the top to a slightly deeper, cornflower blue at the bottom, contrasting sharply with the warm, earthy tones of the bottle."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 7.792449951171875,
+      "description": "A sturdy, brown-furred wombat occupies the left and lower-central portion of the visible area, angled slightly toward the bottom left with its head lowered. The animal's coat is a coarse, textured mix of muddy taupe, charcoal grey, and dark brown, appearing thick and shaggy with some areas looking slightly matted or damp. Its large, bulbous nose is a distinct, leathery dark brown pad, textured with tiny bumps and positioned prominently at the front of the snout. To the left of the nose, a small, dark, bead-like eye is visible, set deep within the fur. The fur around the snout is shorter and darker, transitioning into longer, lighter-tipped strands on the shoulder and back. The animal stands in a field of lush grass that fills the background and foreground, dominating the right side of the scene. The grass is a vibrant mix of emerald and lime green, interspersed with some dry, yellowish-brown stalks. The vegetation in the immediate foreground at the bottom edge is blurred, and the background grass softens into an out-of-focus green field, creating a shallow depth of field that keeps the sharpest focus on the wombat's face and shoulder. Lighting is diffuse and even, suggestive of an overcast day, casting no harsh shadows but highlighting the texture of the fur and the sheen on the animal's nose."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 7.79750394821167,
+      "description": "A close-up, slightly high-angle shot captures the details of a classic car wheel and its immediate surroundings, focusing primarily on the tire and hubcap assembly which dominates the left and central portions of the view. The tire features a wide, pristine white sidewall strip that curves from the upper left to the bottom center, flanked on the outer edge by clean, matte black rubber. Just inside the white band is a thin, distinct crimson red stripe, separating the whitewall from the metallic wheel cover. The wheel cover itself is polished chrome, featuring a ring of radial, rectangular vents with rounded corners, separated by raised, spine-like spokes that gleam with bright white and blue-grey reflections from the overhead lighting. In the far lower-left, the center spinner cap is partially visible, showcasing a brushed metal finish and a central emblem with two crossed flags; the left flag is a black-and-white checkerboard, while the right flag is red with a small, indistinct gold symbol. To the right of the tire, the background consists of dark, textured earth and grass in shadow. Behind the tire's curve on the right side, a metallic suspension component, gold or brass in tone with a snake-like reflection, connects towards the chassis. At the very top right edge, a small sliver of the car's deep red painted bodywork is visible above the tire. The lighting is bright and directional, creating strong specular highlights on the chrome rim and spokes, while casting deep shadows within the wheel vents and on the ground to the right."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 7.942695140838623,
+      "description": "A close-up, high-angle shot captures a portion of a stainless steel kitchen sieve resting above a white tiled surface. The primary subject is the left side of the sieve's bowl and the beginning of its handle, oriented horizontally. A thick, highly polished metal rim curves from the bottom left up to the top left, displaying a bright white specular highlight on its upper edge, indicating a light source from the upper left. Encased within this rim is a fine-gauge woven wire mesh, silver-grey in color, which forms a concave bowl shape; the mesh pattern is clearly visible as a dense grid of tiny diamonds, catching the light on the upper left slope while falling into a darker grey shadow towards the bottom. Extending horizontally to the right from the rim's edge are two thin, parallel metal rods that form the handle, spaced slightly apart; these rods are reflective, showing linear highlights along their length, and disappear off the right edge of the frame. The background consists of smooth, off-white ceramic tiles, marked by faint grey grout lines forming a diagonal cross pattern beneath the handle area, with one line running from the lower left toward the upper right and another intersecting it. A soft, diffuse grey shadow is cast by the sieve bowl and handle onto the tiles below, establishing a small gap between the object and the surface. The lighting is crisp and cool, emphasizing the metallic texture of the utensil against the neutral background."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 7.942695140838623,
+      "description": "A close-up, slightly high-angle shot focuses on a section of a stainless steel fine-mesh strainer resting above a white tiled surface. The dominant element is the circular rim of the strainer, a thick, polished silver band that curves dramatically from the lower-left quadrant up toward the top-center, reflecting light with bright white specular highlights and deep grey lowlights. Enclosed within this rim is a tightly woven wire mesh that forms a concave bowl; the mesh appears as a textured grey and silver grid, exhibiting a shimmering, semi-transparent quality where the metallic threads catch the light, creating a diagonal band of brightness running from the bottom left toward the center. Extending horizontally from the right side of the rim are two thin, parallel metal rods that form the neck of the handle, gleaming with linear reflections along their upper surfaces. These rods traverse the empty space to the right of the mesh bowl. The background consists of smooth, off-white ceramic tiles, marked by intersecting grey grout lines; one prominent grout line runs diagonally from the upper right down toward the lower left, passing beneath the strainer's handle, while another line intersects it in the lower right area. A soft, diffuse shadow cast by the strainer and its handle falls onto the tiles to the lower right of the metal components, confirming a light source originating from the upper left. The lighting is sharp and artificial, emphasizing the contrast between the glossy metal, the textured mesh, and the smooth, matte tiles."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 7.944766998291016,
+      "description": "A heavy, dark, curved metal object, resembling a large industrial hook, dominates the left foreground, occupying approximately forty percent of the visible space. The structure enters the frame from the upper left, sweeping downward in a thick, convex arc towards the center and bottom, then curving back sharply towards the lower left, effectively obscuring that corner. Its surface is deeply textured, appearing rough, pitted, and weathered, primarily colored in shadowed shades of charcoal and black with subtle undercurrents of rust-brown. On the upper left portion of the curve, there is a distinct, jagged patch of chipped crimson paint that stands out against the dark, corroded metal. Lighting on the object is soft and diffuse, creating a faint sheen along the inner, lower curve of the metal while leaving the face towards the viewer in deep shadow. The background is completely out of focus, depicting a coastal scene in soft, blurry layers. The majority of the background space, particularly the right and center, is filled by a body of water in muted tones of slate blue and grey, with horizontal streaks of white suggesting wave crests or foam. Above the water, occupying the upper third of the background, a horizontal band of pale beige indicates a sandy beach, which is surmounted by a dark, hazy landmass of muted greens and greys, featuring indistinct light-colored rectangular shapes that suggest distant buildings or structures along a hillside."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A polished stainless steel mixing bowl, gleaming silver in the light, stands prominently in the left foreground, occupying exactly the leftmost thirty percent of the visual field. The bowl's smooth, metallic surface curves convexly outward towards the center, creating a sharp reflective boundary. To the right of this distinct silver arc, the background consists of clean, sterile white tiles that are slightly out of focus, emphasizing the curvature of the metal object on the left.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver",
+        "stainless steel bowl",
+        "white tiles",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A heavy cast-iron kettlebell, painted a matte gunmetal grey, sits firmly on the left side of the image. The spherical weight fills the left thirty percent of the frame, with its rounded side bulging towards the right, creating a strong silhouette. Contrasting with the dark grey iron, the remaining space on the right displays a field of blurred green grass, bright and sunlit, which stops abruptly at the kettlebell's curved edge.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gunmetal grey",
+        "kettlebell",
+        "blurred green grass",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A glossy black bowling ball is cropped to show only its left side, taking up the left thirty percent of the composition. The ball's surface is pitch black and highly reflective, with a perfect spherical curvature that arcs into the central space. This dark, rounded form is set against a plain, light gray wall in the background, creating a high-contrast edge where the black curve meets the neutral gray space on the right.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black",
+        "bowling ball",
+        "light gray wall",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "The rounded shoulder of an acoustic guitar, finished in a dark brown mahogany, occupies the left thirty percent of the view. The wood grain is visible beneath the glossy varnish, and the body curves gracefully outward towards the center of the frame. To the right of this warm, dark brown wooden arc, the background is a cool, desaturated blue, providing a complementary color contrast that highlights the instrument's shape.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown",
+        "guitar",
+        "desaturated blue",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A large, translucent deep amber glass bottle is positioned in the immediate left foreground. The bottle's curved side fills the left thirty percent of the image, catching the light to reveal rich orange-brown hues. Its smooth, convex edge separates the bottle from the background on the right, which consists of a grid of clean white tiles, creating a stark difference between the organic warmth of the glass and the clinical background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep amber",
+        "glass bottle",
+        "white tiles",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A sleek silver motorcycle helmet faces forward but is shifted to the left, filling the left thirty percent of the frame. The helmet's metallic finish is smooth and reflective, curving sharply towards the right side of the image. Behind this distinct silver curve, the background is a soft, desaturated blue, which serves to outline the helmet's rounded profile clearly against the negative space.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver",
+        "motorcycle helmet",
+        "desaturated blue",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A textured black rubber tire stands vertically, visible only on the left side of the image where it occupies the first thirty percent of the width. The tire's tread pattern is subtle, and its sidewall forms a consistent convex arc pushing towards the center. The background to the right is a flat, light gray wall, creating a simple industrial aesthetic where the dark rubber meets the pale concrete.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black",
+        "tire",
+        "light gray wall",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A smooth, gunmetal grey river stone, polished to a dull sheen, rests in the left foreground. The stone's rounded, organic shape fills the left thirty percent of the scene, its edge curving gently inward towards the right. The background is a wash of blurred green grass, soft and out of focus, which contrasts texturally and tonally with the hard, grey surface of the stone on the left.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gunmetal grey",
+        "river stone",
+        "blurred green grass",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A dark brown coconut, with its fibrous and hairy texture intact, sits on the left side of the frame. The fruit occupies the leftmost thirty percent of the image width, presenting a rough, spherical curve that protrudes towards the center. The background to the right is a clean expanse of white tiles, emphasizing the rugged, dark texture of the coconut against the smooth, bright backdrop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown",
+        "coconut",
+        "white tiles",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A sphere of deep amber resin sits on a surface, positioned strictly in the left thirty percent of the image. The material is semi-transparent and glows with inner light, forming a perfect circle that bulges into the central space. The background is a neutral light gray wall, which allows the rich, honey-colored tones of the amber sphere to stand out vividly at the curved boundary.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep amber",
+        "resin sphere",
+        "light gray wall",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A shiny silver chrome tea kettle is positioned on the left, occupying the first thirty percent of the image's width. Its body is round and mirror-like, reflecting distorted surroundings, with a convex curve separating it from the rest of the scene. To the right of this metallic arc, the background is a blurred field of green grass, creating a natural outdoor setting for the manufactured object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver",
+        "tea kettle",
+        "blurred green grass",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A black vinyl record stands upright, viewed from an angle where its left edge dominates the left thirty percent of the frame. The grooves catch the light, creating subtle radial patterns on the dark surface, which curves distinctly towards the right. The background is a flat, desaturated blue, providing a cool, muted canvas that contrasts with the deep black of the record.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black",
+        "vinyl record",
+        "desaturated blue",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A gunmetal grey exercise ball sits in the left foreground, its matte PVC surface filling the left thirty percent of the view. The large sphere creates a massive, gentle curve that pushes into the right side of the frame. Behind the ball, the background is a wall of white tiles, the grid lines faintly visible and slightly blurred, highlighting the smooth grey solidity of the object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gunmetal grey",
+        "exercise ball",
+        "white tiles",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A dark brown glazed ceramic pot, round and stout, is placed on the left, taking up thirty percent of the image width. The glaze is thick and uneven, reflecting ambient light, while the pot's silhouette curves boldly towards the center. The background to the right is a soft, desaturated blue, creating a calm and moody atmosphere that complements the earth tones of the pottery.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown",
+        "ceramic pot",
+        "desaturated blue",
+        "left foreground",
+        "convex curve"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A large, round decorative ornament made of deep amber glass hangs in the left foreground, occupying the left thirty percent of the frame. The glass is thick and bubbled, casting warm shadows, and its spherical shape creates a defined arc against the negative space. The background is a simple light gray wall, providing a neutral, bright surface that contrasts with the dark, rich color of the ornament.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep amber",
+        "glass ornament",
+        "light gray wall",
+        "left foreground",
+        "convex curve"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 7.94439172744751,
+      "best_percentile": 100.0
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 7.356492519378662,
+      "best_percentile": 99.9982828142489
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 7.020155429840088,
+      "best_percentile": 99.99640952070223
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 6.731569766998291,
+      "best_percentile": 99.99180434073337
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 6.682162761688232,
+      "best_percentile": 99.99125796344892
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 6.43562650680542,
+      "best_percentile": 99.9843892204445
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 6.345357894897461,
+      "best_percentile": 99.98087679504451
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 6.175595760345459,
+      "best_percentile": 99.97143227341344
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 5.8462300300598145,
+      "best_percentile": 99.94083514548466
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 5.5895514488220215,
+      "best_percentile": 99.90165208880036
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 4.963052272796631,
+      "best_percentile": 99.68950159464113
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 4.913057804107666,
+      "best_percentile": 99.66077776025901
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 4.852773189544678,
+      "best_percentile": 99.62315578153026
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 4.6515960693359375,
+      "best_percentile": 99.46829684833972
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 3.6192779541015625,
+      "best_percentile": 96.52129388385268
+    }
+  ]
+}

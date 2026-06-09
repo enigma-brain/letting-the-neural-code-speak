@@ -1,0 +1,269 @@
+{
+  "area": "V1",
+  "neuron_id": 30,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to prominent, smooth, and convex forms rendered in high luminosity\u2014typically bright white, pale gray, or light beige\u2014set against a contrasting background of deep black, dark charcoal, or dark shadow. The activating features often consist of rounded organic masses, spherical objects, limbs, or curved man-made surfaces (such as a computer mouse or tool handle) that appear smooth or matte. A key structural element is a sharp, high-contrast boundary line, often oriented diagonally or curving across the frame, separating the bright foreground from the dark void. The neuron is invariant to the specific identity of the object (biological vs. mechanical) and minor surface textures, provided the strong light-on-dark polarity and the integrity of the curved or diagonal edge are maintained. The bright, activating feature typically occupies 30\u201350% of the image area, often anchored in the lower-left or central region and sweeping upward or diagonally against the dark background.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.11783488094806671,
+      "description": "Two large, smooth, and rounded organic masses dominate the view, rendered in monochromatic shades of grey and separated by a distinct diagonal cleft. The upper mass occupies the top right region, presenting a convex, bulbous surface that appears lightest in tone, nearly white with soft grey shading, suggesting a slick or cartilaginous texture. This upper form curves downward and inward, terminating at a sharp boundary line. Below this, occupying the bottom left and central area, is a second, slightly darker mid-grey mass that appears flatter but gently rounded, curving upward to meet the top structure. On the surface of this lower mass, faint, diffuse darker spots are visible, including one small, distinct dark speck located slightly below the visual center. The boundary between the two shapes forms a deep, recessed fissure running diagonally from the middle-left edge down toward the lower-right. This gap is enveloped in heavy, nearly black shadow on the far left side, indicating depth and overlap, while the shadow narrows and lightens to a dark grey line as it extends to the right. The lighting is diffuse, creating soft gradients across the curved surfaces, with the strongest highlights on the upper mass and the deepest values tucked into the recessed crevice on the left."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.11992914974689484,
+      "description": "A monochromatic, soft-focus close-up captures the curved surface of a computer mouse in the foreground, set against a blurred background of keyboard keys. The mouse, rendered in shades of white and light gray, dominates the lower left and central portions of the view, presenting a smooth, convex shape that arches diagonally upward from the bottom left corner toward the center right. A bright, diffuse highlight washes out the texture on the leftmost curve of the mouse, indicating a strong light source from the upper left, while the surface gently gradients into darker grays as it recedes. A distinct, dark, curved shadow or groove creates a crescent shape near the center, likely delineating the separation between mouse buttons or the scroll wheel housing. Behind this foreground object, occupying the upper third of the visible area, are the indistinct, blocky forms of keyboard keys. These are extremely out of focus, appearing as horizontal rows of dark gray trapezoids separated by deep black voids. The keys are darker than the mouse, with soft, fuzzy edges that blend into the surrounding shadows, and the uppermost area fades into a solid black darkness. The overall image quality is grainy and lacks sharp definition, creating an impression of extreme proximity and shallow depth of field."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.12262648344039917,
+      "description": "Presented in high-contrast monochrome, a bulbous, pear-shaped fruit hangs suspended from a gnarled, horizontal branch that spans the upper third of the visible area. The fruit, positioned centrally but leaning slightly towards the lower left, features a light gray skin with a distinctive matte texture, covered in minute, stippled white speckles that catch the light. Illumination originates from the upper left, casting a soft highlight on the fruit's rounded left shoulder and creating a smooth gradient into darker gray shadows along its bottom and right curvature. A short, tapered stem connects the top of the fruit to the underside of the thick, woody branch. The branch itself is rendered in darker tones than the fruit and exhibits a highly rugged surface, marked by deep fissures, pitted bark, and rough, crater-like textures. To the right of the stem's attachment point, the wood forms a complex, knotted junction with deep shadows emphasizing its irregular topography. The background is obscured in deep, solid black darkness, providing a stark, high-contrast void that isolates the organic textures of the wood and fruit in the foreground."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.1247982606291771,
+      "description": "A large, pale, grayish-beige mass dominates the lower left portion of the visible field, extending diagonally from the bottom left edge upward toward the center right, occupying roughly forty percent of the total area. This foreground object possesses a soft, fibrous texture with faint, blurred linear striations running from the bottom left toward the top right, and it appears matte compared to the rest of the scene. A small, crescent-shaped shadow creates a shallow depression on the right side of this pale mass, adding a sense of volume. Contrasting with this lighter element, the upper right quadrant and top edge are filled by a dark, glistening surface characterized by deep maroon, reddish-brown, and mottled pink hues. This upper area appears wet and glossy, featuring uneven, undulating folds and ridges that recede into a dark, indistinct background. Several small, bright white specular highlights are scattered across the wet, reddish upper surface, indicating a light source originating from the viewer's perspective. The boundary where the pale lower mass meets the dark upper background forms a curved, shadowed interface, suggesting the lighter object is situated in front of the dark, concave wall. The overall focus is soft, with the most sharpness in the center and increasing blur toward the peripheral edges."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.1289772242307663,
+      "description": "A grayscale close-up reveals a textured surface resembling cracked concrete or stone, marked by a network of fine, dark fissures meandering across a light gray field. Dominating the upper right quadrant is a cylindrical object oriented diagonally downward towards the center, appearing to be a tool handle or mechanical component. The visible end of this object features a dark, ribbed or grooved collar with a rough, possibly corroded texture, which transitions into a smoother, lighter-toned shaft that catches the light, emphasizing its rounded volume. This object casts a deep, soft-edged black shadow onto the surface immediately to its left and beneath it, creating a strong contrast that suggests the object is elevated slightly above the ground. In the opposing bottom left corner, a dark, indistinct shape emerges, blurred and out of focus, presenting as a fragment of another object or a heavy shadow that balances the composition. The lighting is directional and high-contrast, seemingly originating from the upper right, which highlights the texture of the ground and the contours of the cylindrical object while plunging crevices and the underside into deep blackness."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.12991632521152496,
+      "description": "Presented in monochrome grayscale, the visible scene is dominated by intersecting geometric planes and structural lines creating an abstract architectural composition. A sharp, dark linear recess or shadow cuts diagonally across the upper portion, originating from the upper-left quadrant and descending toward the middle-right edge, effectively separating a lighter upper region from a complex lower section. The area above this diagonal is a pale, washed-out gray, appearing as a flat surface with a faint, nearly vertical seam visible in the upper right, suggesting paneled cladding. Below the primary diagonal line, a triangular plane of mid-tone gray anchors the center, bounded by the dark diagonal above and a softer, lighter edge below that runs parallel to the upper line. This lower section creates a sense of depth, with a broad, lighter gray band extending diagonally towards the bottom right. On the far left vertical edge, positioned slightly below the vertical midpoint, a small, high-contrast dark circle stands out against the light gray background, resembling a fastener, sensor, or small aperture. The lighting is diffuse and soft, rendering the surfaces with a smooth, matte texture devoid of specular highlights, while the deepest black values are concentrated within the diagonal groove and the small circular detail on the left."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.1307552456855774,
+      "description": "This grayscale image depicts a low-angle view through a massive, ornate stone archway that dominates the upper and side portions of the visual field. The arch itself is composed of multiple concentric, recessed bands or archivolts that create a sense of depth and heavy structural weight. The outermost visible face of the arch is adorned with a detailed, textured frieze featuring repetitive geometric or floral carved motifs, while the inner, underside surfaces consist of smooth, parallel ribs that curve deeply into shadow, appearing significantly darker than the exterior face. On the left side, a vertical pillar or wall section supports the arch, featuring visible masonry blocks and a decorative molding at the springing point, while a similar heavy stone structure frames the right side in deeper shadow. Through the large semi-circular opening defined by the arch, the background reveals a bright, flat, overcast sky that occupies the central negative space. In the lower center of this opening, the tops of several palm trees are visible, their spiky, fanned fronds silhouetted against the sky. Behind the palm trees and slightly to the left, a distant building with a flat, crenellated roofline and indistinct facade details sits on the horizon, anchoring the bottom of the perspective within the architectural frame."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.1324671059846878,
+      "description": "The image displays a high-contrast, monochromatic close-up of a fibrous, layered surface rendered in grayscale tones. The composition is dominated by a diagonal orientation, with structures flowing generally from the upper left toward the lower right. The upper 35% of the visible area consists of a dark, charcoal-gray band that appears slightly out of focus and textured with soft, indeterminate mottling. A sharp, diagonal boundary separates this dark upper region from a significantly brighter, more detailed central section. This central band, appearing as a raised ridge or vein, spans horizontally across the middle with a downward tilt towards the right, occupying roughly 15% of the vertical height. This ridge is the brightest element, colored in pale gray to white, and features a distinct internal texture of short, vertical striations or rungs perpendicular to its length. Below this ridge, the remaining bottom 50% of the view is a mid-tone gray area characterized by a cross-hatched pattern where faint diagonal lines parallel the main ridge, intersected perpendicularly by sharper, thin vertical lines and cracks. One specific thin, light-colored scratch or fiber runs vertically through the lower-right quadrant, and another fainter one is visible to its left. The lighting appears to graze the surface, accentuating the relief of the central ridge and the depth of the texture in the lower section, while leaving the upper band in relative shadow."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.13291023671627045,
+      "description": "Presented in grayscale, this extreme close-up captures the intimate proximity between a human face and a small animal, likely a puppy. The upper third of the frame is occupied by the underside of a human nose and the philtrum area, rendered in smooth, pale tones with soft focus; the nostrils appear as two dark, rounded shadows. A distinct, dark, undulating line runs horizontally across the center, marking the boundary where the human face presses against the animal's head. Below this line, the texture shifts immediately to short, dense white fur that dominates the lower two-thirds of the image. The fur is highly detailed, with individual strands visible and highlighted in bright white against subtle gray shadows that define the curvature of the animal's forehead. In the lower right quadrant, the animal's eye is visible as a dark, glossy, triangular shape, deeply set and surrounded by the soft white coat. The lighting is diffuse but directional, emphasizing the tactile contrast between the smooth human skin and the coarse animal fur, with the brightest highlights centered on the animal's forehead and the bridge of the human nose."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.13355137407779694,
+      "description": "The image is a high-contrast, grayscale close-up composition divided diagonally, separating a dark, smooth background from a textured, organic foreground. The upper-right region, occupying approximately forty percent of the visible area, consists of a featureless, deep charcoal-to-black void that provides a somber backdrop. The lower-left section is dominated by a soft, fibrous texture resembling dense animal fur. A prominent, bright white band of this fur curves diagonally across the center from the middle-left edge down towards the bottom-right, serving as the visual focal point due to its high luminosity. Below this white swathe is a patch of mottled mid-tone gray fur that fades into shadow at the bottom edge. Above the white band, cutting sharply across the texture from the upper-left towards the center-right, is a solid, jet-black, elongated shape with a smooth, defined edge, resembling a strap or a patch of dark material resting against the lighter fur. The lighting appears to be soft and diffuse, highlighting the individual strands within the white fur while leaving the surrounding gray and black areas in varying degrees of shadow, creating a strong tonal contrast between the distinct, hard edge of the upper black shape and the feathery softness of the white area below it."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.1336584836244583,
+      "description": "A high-contrast grayscale image reveals smooth, organic structures illuminated by a strong light source from the upper left. Occupying the central and left portion of the view is a large, bulbous, convex mass rendered in shades ranging from bright white to soft gray. Its surface is sleek and reflective, featuring a prominent specular highlight on the upper left curve, and it takes up approximately forty percent of the visual field. Above this main mass, spanning the upper horizontal section, is a thick, arching band of medium-gray material with a subtle, fibrous texture running horizontally. A deep black shadow creates a clear separation gap between the bottom edge of this upper band and the top curve of the bulbous mass. To the right of the central mass, the smooth material tapers into a distinct, triangular fold or ridge that projects outward toward the right edge; the apex of this fold is brilliantly white, contrasting sharply with the darker gray background behind it. Beneath the fold and the main mass, a lower curved surface of light gray emerges from the bottom, separated from the upper structures by a dark, shadowed crevice. The far right side of the image fades into a dark, grainy void containing faint, indistinct wisps of gray matter, providing a textured backdrop to the sharply defined, smooth foreground elements."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.1337621659040451,
+      "description": "A smooth, convex object resembling the upper portion of a large white egg dominates the lower-left quadrant of the view, its curvature sweeping inward from the mid-left edge down toward the bottom-right. The surface of this object is matte and brightly illuminated, displaying a subtle gradient from nearly pure white on its upper slope to a soft, pale gray as it rounds downward. Contrasting sharply with this smooth, bright form is a background of organic, fibrous texture, appearing to be grass or straw in varying shades of dark and medium gray. Much of this background vegetation is out of focus, creating a blurred field of vertical and diagonal lines behind the main subject. However, at the very bottom center of the frame, several sharp, in-focus blades of dry grass protrude upward; one distinct, jagged stalk angles sharply to the right while another thinner blade crosses near it, partially overlapping the bottom edge of the white ovoid shape. On the lower right curve of the egg-like object, a few minute, dark specks mar the otherwise pristine surface, adding a touch of realistic imperfection to the smooth form."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.135601207613945,
+      "description": "Two identical, elongated rail-like structures traverse the frame diagonally from the upper left to the lower right, positioned parallel to one another against a light gray, finely textured background that resembles concrete or felt. The rails are constructed from a dark, matte material, likely black anodized metal, and are rectangular in form. Along the top face of each rail runs a continuous, recessed longitudinal channel containing a thin, silver-colored metallic strip. This silver strip is punctuated by a series of small, evenly spaced circular indentations or holes along its center line. Protruding perpendicularly from the side face of each rail\u2014specifically the vertical surface facing toward the bottom left\u2014is a silver thumbscrew. The thumbscrew on the upper rail is located near the visual center of the rail's length within the frame, while the thumbscrew on the lower rail is positioned further down, near the bottom left edge, creating a staggered arrangement. These screws feature cylindrical, knurled heads and distinct threaded shafts that disappear into the dark body of the rail. Soft, diffuse shadows are cast to the right and underneath the rails, indicating a light source originating from the upper left, while the screws cast smaller, sharper shadows onto the side of the rails and the ground immediately below them. The gap between the two parallel rails reveals the consistent, speckled texture of the underlying surface."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.13593074679374695,
+      "description": "Presented in a high-contrast grayscale palette against a pitch-black background, a muscular human arm angles diagonally from the upper left, bending at the elbow to extend toward the mid-right. The upper arm and the elbow joint are encased in a bright white compression sleeve, which dominates the visual space with its luminosity. The sleeve is constructed from a smooth, synthetic-looking material that bunches into distinct, shadowed folds at the inner bend of the elbow and stretches taut over the outer elbow, revealing the underlying anatomical contours. A hemmed, elasticized cuff marks the end of the sleeve on the upper forearm. Emerging from this white fabric, the exposed skin of the forearm is rendered in mid-to-dark gray tones and is densely covered in intricate black tattoo ink. The tattoos feature complex, swirling designs that wrap around the limb, contrasting with the solid white of the sleeve. Lighting appears to come from the upper left, casting soft shadows on the underside of the arm and highlighting the folds in the fabric, while the arm itself is cropped at the shoulder on the left and just above the wrist on the right."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.1378738284111023,
+      "description": "Rendered in grayscale, the image displays a close-up section of a bird's plumage, primarily the wing and underbelly, set against a uniform, matte gray background. The upper right portion of the visible area features a folded wing composed of contrasting dark and light elements; deep black feathers dominate the top section, angled diagonally downwards towards the right. A jagged, bright white band cuts horizontally across the black wing feathers, roughly one-third of the way down from the top of the wing assembly, varying in thickness and appearing brightest near the center right. Below this white stripe, the feathers return to a dark black tone but exhibit visible linear texture, suggesting the varying stiffness of flight feathers. To the left of the wing, the bird's body curves smoothly outward, covered in soft, pale gray and white downy feathers that lack the sharp definition of the wing, creating a gentle gradient of light across the central and left regions. Extending vertically downward from the lower central underbelly is a pale, blurred, cylindrical shape, resembling a leg, which contrasts slightly with the darker gray shadow beneath the belly feathers before being cut off at the bottom edge."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A pale, smooth human forearm extends diagonally from the bottom left corner, occupying roughly thirty percent of the frame against a pitch-black void. The skin is a light beige tone, illuminated by a harsh light source that renders the surface almost matte and featureless, highlighting the convex curve of the muscle. The boundary between the bright arm and the deep black background is razor-sharp, cutting a diagonal line across the lower portion of the image.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "The smooth, convex surface of a white computer mouse anchors the bottom center of the image, sweeping upward and to the right. The device is a matte bright white, devoid of logos or buttons in this view, appearing as a pure, abstract curved form. It occupies about a third of the visual space, set against a stark, dark charcoal background. The lighting creates a high-contrast edge along the top curve of the mouse, separating the illuminated plastic from the surrounding darkness.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A pristine white ceramic bowl section curves into the frame from the lower left, its smooth, glazed surface catching a strong reflection. The object is a bright, neutral white, forming a rounded, convex arc that covers thirty percent of the image area. Behind this illuminated curve lies a deep, unlit shadow, creating a dramatic separation between the gleaming porcelain and the dark abyss. The edge of the bowl forms a sweeping diagonal line that rises toward the center right.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A polished sphere of pale gray marble sits in the lower central region, its surface perfectly smooth and reflective. The stone appears almost white under the intense lighting, occupying the bottom thirty percent of the composition. The background is a solid, impenetrable black, contrasting sharply with the luminosity of the sphere. The upper boundary of the marble forms a crisp, curved horizon line that separates the bright object from the dark space above.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "The rounded toe box of a clean white sneaker pushes into the frame from the bottom left corner. The material is a smooth, matte leather in a bright white hue, free of texture or dirt. This convex form takes up roughly thirty percent of the image, angled diagonally upward. The background is completely obscured in deep shadow, making the shoe appear to float in a dark void. The edge of the sneaker creates a distinct, high-contrast curve against the blackness.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A smooth, beige egg stands vertically, anchored in the lower section of the image and leaning slightly to the right. The shell is illuminated to a pale, almost white cream color, highlighting its convex geometry. It occupies about a third of the frame, with the top of the egg fading into a sharp boundary line against a dark charcoal background. The lighting emphasizes the smoothness of the shell, creating a stark duality between the bright organic form and the dark negative space.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "The curved handle of a white porcelain pitcher sweeps up from the lower left, forming a thick, tubular arc. The surface is glossy and bright white, reflecting a strong light source. This man-made structure occupies approximately thirty percent of the image, set against a background of pure black velvet. The contrast creates a sharp, defining edge along the outer curve of the handle, which moves diagonally across the lower third of the frame.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A section of a smooth, white architectural column rises from the bottom center, curving outward towards the left. The material resembles pale plaster or stone, illuminated brightly to appear nearly white. It covers the lower thirty percent of the view, presenting a clean, convex surface without ornamentation. The backdrop is a heavy, dark shadow that provides maximum contrast, ensuring the curved edge of the pillar stands out sharply against the gloom.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The smooth cap of a white button mushroom dominates the lower left quadrant, tilting upward. The fungal surface is matte and pale gray-white, free of blemishes, and forms a gentle, rounded mound. It occupies roughly thirty percent of the image area. The background is a dense, dark void, creating a stark separation where the curved rim of the mushroom cap meets the darkness. The lighting is focused entirely on the mushroom, leaving the rest of the frame in blackness.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A curved segment of a white plastic bottle rests in the lower portion of the frame, oriented diagonally from bottom left to center right. The plastic is opaque and matte white, with a smooth, convex profile. It takes up about thirty percent of the visual field. Behind it, the space is filled with a dark, almost black shadow, creating a hard edge along the top curve of the bottle. The image focuses solely on the geometry of the light object against the dark ground.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A smooth, river-polished stone in a pale beige hue sits in the lower center, its surface reflecting a soft but bright light. The stone is rounded and convex, occupying thirty percent of the image. It is set against a background of dark charcoal slate, creating a high-contrast boundary. The top edge of the stone forms a gentle, sweeping curve that divides the bright, solid mass below from the dark, textured void above.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "The rounded shoulder of a white mannequin is visible in the lower left, curving upward into the frame. The surface is smooth, matte plastic in a bright white tone, mimicking a stylized organic form. It occupies roughly thirty percent of the composition. The background is a deep, solid black, ensuring the boundary of the mannequin's shoulder is razor-sharp. The form creates a diagonal visual flow from the corner toward the center of the image.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A scoop of vanilla ice cream, perfectly smooth and melting slightly, sits in the lower middle of the frame. The color is a pale, creamy white, and the shape is a rounded, convex mound. It covers about thirty percent of the image area. The background is a dark, unlit space, contrasting heavily with the pale dessert. The edge of the ice cream scoop forms a soft but distinct curve against the dark charcoal surroundings.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "The white ceramic housing of a modern light bulb curves upward from the bottom right corner. The surface is matte and featureless, glowing a bright white under external light. This convex, manufactured form occupies thirty percent of the frame, sweeping diagonally toward the left. The background is pitch black, creating a dramatic, high-contrast edge along the smooth curvature of the bulb's base.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A roll of thick white paper is viewed close-up, presenting a smooth, curved surface that rises from the bottom left. The paper is bright white and untextured, forming a cylindrical, convex shape that takes up thirty percent of the view. The background is a deep, dark shadow, emphasizing the brightness of the paper. The upper edge of the roll creates a sharp diagonal line separating the white foreground from the black void.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.1360776573419571,
+      "best_percentile": 0.0010927545688849064
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.1383557915687561,
+      "best_percentile": 0.0014049701599948797
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.16434243321418762,
+      "best_percentile": 0.014518024986613757
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.1644819676876068,
+      "best_percentile": 0.01459607888439125
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.16702693700790405,
+      "best_percentile": 0.017093803613271036
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.16824302077293396,
+      "best_percentile": 0.0186548815688209
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.17117302119731903,
+      "best_percentile": 0.02255757645769557
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.17188917100429535,
+      "best_percentile": 0.023884492719912956
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.18436573445796967,
+      "best_percentile": 0.04511515291539114
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.19287334382534027,
+      "best_percentile": 0.07664892761749843
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.20125697553157806,
+      "best_percentile": 0.12387153577288189
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.21200700104236603,
+      "best_percentile": 0.22721489643028303
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.2145681381225586,
+      "best_percentile": 0.26585157583014224
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.21743035316467285,
+      "best_percentile": 0.31268391449663824
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.26095691323280334,
+      "best_percentile": 2.6852882452391027
+    }
+  ]
+}

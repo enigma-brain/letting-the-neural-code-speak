@@ -1,0 +1,269 @@
+{
+  "area": "V1",
+  "neuron_id": 18,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to high-contrast, elongated parallel bands or ridges, typically characterized by alternating stripes of bright luminosity and deep shadow. These features frequently manifest as sharp specular highlights on cylindrical metallic surfaces (such as pens, harmonicas, or pipes) or as layered geometric stratifications (such as industrial grooves or concentric curved bands). The neuron is invariant to object identity, material context, and precise orientation, responding robustly to both diagonal and horizontal arrangements as long as the strict linear organization and stark luminosity contrast are preserved. The activating features are predominantly achromatic, consisting of bright white, silver, or light grey strips set against deep black or dark charcoal backgrounds. Spatially, these linear structures usually traverse the frame diagonally or horizontally, typically occupying 30\u201380% of the image area and dominating the composition with their directional flow.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.17237034440040588,
+      "description": "A close-up, high-angle shot depicts a portion of a silver, metallic manual pencil sharpener oriented diagonally from the bottom left to the top right. The object is a rectangular block made of a matte, brushed metal, likely aluminum or magnesium alloy. The visible side face on the lower left is textured with a series of strictly parallel, horizontal ridges or grooves that run lengthwise along the block; these ridges create a pattern of alternating light silver highlights and darker grey shadows, emphasizing the machined grip. A smooth, rounded bevel connects this ridged side to the flat top surface, catching a strong, linear highlight that runs diagonally across the frame. The top face features a recessed, darker grey channel housing a flat, rectangular metal blade. A small, circular screw with a cross-head depression is situated near the upper-left section of the blade assembly, securing the blade to the block. To the right of the blade is a dark, shadowed slot where the metal curves downward, indicating the shaving opening. The lighting is soft and diffuse, seemingly originating from the upper left, which enhances the metallic sheen on the rounded corner and ridges while casting the internal recessed areas into deep shadow. The texture of the metal appears slightly granular on the flat surfaces, contrasting with the smooth, polished look of the highlighted edge."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.18111900985240936,
+      "description": "Dominating the view are four diagonal, parallel bars that stretch from the upper left to the lower right, gleaming with a bright, metallic silver-white luminescence. These cylindrical or semi-cylindrical structures are spaced evenly apart, separated by dark, shadowy gaps of roughly equal width to the bars themselves. Each bar features a smooth, reflective surface that catches the light intensely, creating a stark contrast against the deep black background. Along the lower edge of each bright bar, a series of small, evenly spaced, dark circular perforations or indentations runs parallel to the bar's length. The spaces between the bars are filled with a dark, fluid-like texture resembling swirling smoke or ripples in black water, with subtle grey wisps and organic curves visible within the darkness. The lighting is high-contrast, causing the metallic bars to glow intensely while the recessed areas remain plunged in deep shadow, highlighting the rigid, industrial geometry against the amorphous, textured background."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.19340556859970093,
+      "description": "A high-contrast, abstract composition features stacked, curved horizontal bands mimicking a spherical surface or a close-up of a reflective helmet. The uppermost section is a broad area of bright, luminous white that dominates the top third of the view, exhibiting a soft, diffused gradient that darkens slightly towards the very top edge. Immediately below this white region is a thick, sweeping band of solid black that spans the full width, curved slightly downward in the center, creating a visual separation. Beneath the black band, a second curved area of white appears, brighter and sharper than the top section, resembling a glossy reflection or a lit surface; this section is crescent-shaped, bounded by the black band above and a dark curve below. The bottommost portion of the image is a dark, shadowed region containing small, blurry, light-colored elements that resemble a digital interface or icons. On the lower left side of this dark area, a distinct, pixelated white shape resembling a skull or stylized face is visible. To its right, faint, illegible grey markings appear, and near the bottom right corner, a small, solid white circle stands out against the black background. The overall texture appears smooth and manufactured, with soft transitions in the lighting of the white areas suggesting a curved, three-dimensional form."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.19836848974227905,
+      "description": "A monochromatic close-up reveals a vertical stack of elongated, hexagonal objects, resembling pencils, angled slightly upwards from right to left. The primary focus is on the truncated right ends of the objects, which display a flat, cross-sectional view. These ends feature a light-colored, granular ring surrounding a dark, circular central core. The longitudinal bodies of the objects extend towards the left, characterized by dark, textured surfaces that contrast with bright, sharp highlights running along the angular ridges of the hexagonal forms. The lighting appears to originate from the upper right, illuminating the cut faces and the upper edges of the ridges while casting deep shadows in the crevices between the stacked items. The depth of field is shallow, rendering the nearest cut ends and ridges with crisp detail, while the tails of the objects on the left and the peripheral elements at the top and bottom dissolve into a soft, out-of-focus blur. The objects are tightly packed, separated only by thin, dark lines of shadow, creating a rhythmic pattern of alternating light ridges and dark faces."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.20039735734462738,
+      "description": "Three distinct, curved bands of varying thickness traverse a deep black background diagonally from the upper left to the lower right in a soft-focus, monochrome composition. The uppermost element is a partial sliver of a white ridge visible only at the top left edge, quickly curving out of the frame. Below a shadowed gap, the central band dominates the upper middle section, appearing as a thick, rounded tube; it features a bright, diffused white highlight along its upper crest that smoothly transitions into a matte, medium-gray shade on its lower face, conveying a cylindrical volume. Separated by a parallel, dark void roughly one-third the width of the central band, a third band occupies the lower portion of the view. This lower band mirrors the visual properties of the central one, displaying a luminous white upper edge that gradients into gray, though its bottom edge is obscured by the lower boundary. The ridges curve gently, convex toward the bottom left, and the lighting is uniform and soft, seemingly originating from the upper left, creating smooth, velvety textures with no sharp edges or distinct surface grain."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.20133233070373535,
+      "description": "A monochromatic, grayscale close-up photograph captures a section of a dark pen resting on a sheet of paper. The dominant subject is the cylindrical barrel of the pen, which traverses the frame diagonally from the mid-left edge upward toward the top right. A strong, longitudinal white reflection gleams along the upper curve of the pen's smooth surface, indicating a light source from above. Printed clearly in a light, sans-serif font on the side of the barrel is the brand name \"PAPER MATE,\" with a small, stylized double-heart logo separating the two words. To the right of \"MATE,\" the beginning of another word, possibly starting with \"W\" and \"h,\" is partially visible but cut off. On the far left, a dark, shadowed segment of the pen's clip or cap structure is discernible. The pen casts a soft, diffuse dark shadow onto the paper immediately beneath it. The paper itself is light gray and textured, appearing significantly out of focus due to a shallow depth of field. Blurred, dark charcoal-colored markings are scribbled on the paper; directly below the pen's center, indistinct letters that might read \"JPG\" or similar curved forms are faintly visible. Further down in the foreground, vague loops and lines suggest doodles or handwriting, all rendered soft and indistinct against the grainy texture of the paper. The background area above the pen is dark and heavily blurred, isolating the pen and the immediate writing surface as the primary focal plane."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.2015335112810135,
+      "description": "A monochromatic, high-contrast view presents a set of concentric, curved bands stacked vertically, seemingly part of a massive spherical object against a deep black background. A thin sliver of black void is visible at the extreme top edge. Immediately below, a broad, light-grey arc occupies approximately the upper 25% of the visible area; it possesses a smooth, matte texture and a sharp upper boundary that curves gently downward toward the sides. Beneath this light-grey band lies a deeply shadowed, charcoal-grey strip, spanning roughly 15% of the vertical height; within this dark channel, a faint, irregular horizontal line of minute, granular white speckles is distinguishable. Below the dark channel is the most luminous feature of the composition: a thick, brilliant white band that mirrors the curvature of the layers above, occupying about 15% of the image's height. This bright white arc creates a sharp contrast with the dark strip above it but transitions more softly along its lower edge into a vast, convex expanse of medium slate-grey that fills the remaining bottom 45% of the frame. This lower grey region features subtle, low-contrast horizontal striations and a gradual gradient that deepens in tone towards the bottom, suggesting the rounded surface of a planetary body. The lighting appears uniform across the horizontal axis, highlighting the bright white band while casting the intermediate strip into deep shadow."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.2021370232105255,
+      "description": "A monochromatic scene features a medium-gray background with a consistent, grainy texture, overlaid by a single, bright, diagonal element resembling a slender cylindrical rod. This rod traverses the visual field from the center-left edge, positioned slightly above the horizontal midline, and slopes gently downward to the center-right edge, ending slightly below the midline. The object is predominantly white or very light gray, contrasting strongly against the darker, mottled backdrop. A distinct, continuous highlight runs along the upper length of the cylinder, indicating a light source from above and giving the object a rounded, three-dimensional appearance. The lower edge of the rod transitions into a darker gray shadow, creating depth and separation from the background. The boundaries of the rod are soft and slightly blurred rather than sharp, blending subtly into the surrounding gray field, while the background remains uniform and devoid of other features."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.20361106097698212,
+      "description": "This low-resolution, grayscale image depicts a section of a spherical object featuring prominent horizontal banding. A thick, dark black band traverses the center of the view horizontally, creating a sharp contrast with the lighter areas surrounding it and occupying approximately ten percent of the vertical height of the visible area. Above this dark line is a broad, pale gray band that appears relatively smooth and uniform, fading into a darker, blurry gray at the top edge. Directly beneath the central black band is a complex region characterized by a horizontal row of roughly seven distinct, circular white spots, resembling a chain of diffuse pearls, set against a medium-gray background. Below these spots, the texture becomes mottled and irregular with lighter gray swirls and patches intermingling with darker gray areas, extending to the bottom of the visible section. The lighting is flat and diffuse, with no harsh shadows, and the overall focus is soft, blurring the boundaries between the different textural zones. The curvature of the object is evident at the left and right sides where the bands terminate, implying a three-dimensional, round form."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.20405049622058868,
+      "description": "A monochromatic, high-contrast close-up reveals the metallic side profile of a harmonica, oriented diagonally from the mid-left upwards toward the right at an angle of approximately 30 degrees. The central focus is a polished, silver-toned metal cover plate running through the middle, upon which the text \"hard bopper\" is printed in a distinct, lowercase sans-serif font. The letters are dark against the bright, reflective background, with the initial \"h\" partially cut off by the left edge of the view. Above this bright strip lies a deep shadow area, likely the top casing, where the uppercase letters \"NER\" from the brand name \"HOHNER\" are faintly discernible in a lighter gray tone against the black texture. Below the \"hard bopper\" inscription, a secondary metallic strip, possibly the reed plate or lower cover lip, catches the light intensely, displaying a blurred, inverted reflection of the word \"Hohner\" directly beneath the main text. At the very bottom of the composition, the edge of the instrument reveals the comb, featuring a row of small, dark, rectangular holes separated by thin vertical dividers, receding into the shadow. The lighting creates a strong specular highlight along the curvature of the metal cover plate, emphasizing the smooth texture and slight surface irregularities or smudges on the polished material, while the surrounding areas fade into absolute black."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.20441284775733948,
+      "description": "Displayed in monochrome grayscale, a slightly blurry, close-up view reveals a section of a label or packaging characterized by parallel bands running diagonally downwards from the upper left to the lower right at an angle of approximately 20 degrees. The dominant central element is a wide, medium-grey rectangular strip containing the text \"GOLDEN CUP\" in a light grey, serif, all-capitalized font. The \"G\" on the far left is partially cut off by the edge of the view, while the rest of the lettering remains legible against the darker background. Immediately above this text band are two thin, dark grey-to-black parallel stripes, separated from the text field and each other by very slender lines of light grey or white. Above these dark stripes, the uppermost visible portion of the image features a lighter, mottled grey area with indistinct, swirling patterns that suggest intricate, albeit out-of-focus, scrollwork or filigree. Below the central text band is a distinct strip of white space, followed underneath by a row of small, evenly spaced dark squares or rectangles that resemble a decorative checkered border or perforation line. The entire composition is flatly lit with no distinct shadows, and the focus is soft, giving the text and lines a slightly fuzzy appearance while maintaining the strict linear organization of the stratified layers."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.2050049751996994,
+      "description": "A high-contrast, monochromatic close-up reveals a prominent, dark, structural beam traversing diagonally from the mid-left to the upper-right area of the frame. This smooth, matte black element, likely cylindrical or slightly tapered, dominates the foreground and obscures a portion of the lighter background behind it. The background consists of a flat, light gray surface marked with subtle, horizontal striations or panel lines, suggesting a material like concrete or siding. A sharp, distinct shadow is cast by the main diagonal beam onto this background surface immediately below it, creating a parallel dark gray band that emphasizes the spatial separation between the foreground object and the wall. In the lower portion of the view, another dark, curved mass emerges from the bottom edge, separated from the primary diagonal beam by a section of the illuminated, striated background. The lighting is directional and stark, resulting in deep blacks for the foreground structures and the shadow, contrasting with the bright, textured gray of the background, particularly in the upper-left triangular space formed above the main beam."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.20512966811656952,
+      "description": "The image presents a high-contrast, monochromatic close-up of a surface featuring a series of parallel, cylindrical ridges oriented diagonally from the top left to the bottom right. These structures, resembling magnified filaments or segmented metallic rods, are arranged tightly side-by-side, separated by deep, pitch-black parallel grooves that delineate each individual strand. Each cylindrical ridge is not smooth but is composed of distinct, repeating segments, creating a ladder-like or stacked-ring texture along its length; faint, dark vertical lines mark the boundaries between these rectangular segments. A strong light source illuminates the ridges from above, creating intense, nearly white specular highlights along the central crest of each cylinder, which accentuates their rounded, three-dimensional form. The shading transitions rapidly from these bright highlights to varying shades of gray on the sides of the ridges before disappearing into the obscure shadows of the troughs. The texture appears consistent across the visible area, although the lowermost section is slightly out of focus and brighter, losing some definition in the segmentation compared to the sharply detailed central ridges."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.2053193897008896,
+      "description": "A stark, grayscale close-up reveals a horizontal interface dominated by a light gray rectangular strip bearing the word \"PREMIUM\" in bold, black, sans-serif capital letters. The text is centrally aligned within the strip, which occupies the upper-middle section of the view. Above this labeled panel, a dark, obscured area takes up the top portion of the frame, revealing only the blurry, faint outlines of vertical metallic pins or mechanical components hidden in shadow. Separating the text panel from the lower section is a thick, horizontal void of absolute blackness, suggesting a deep groove or shadow gap. Below this dark band, a large, curved white surface occupies the bottom half of the image, defined by a rugged, damaged upper ridge that runs parallel to the text strip. This ridge is marred by distinct patches of corrosion, dark pitting, and irregular chipping, contrasting with the smoother but dirty texture of the surface face below, which is speckled with tiny dark debris and faint vertical smear marks. The lighting is concentrated centrally, washing out the middle of the lower surface and the text plate in bright white, while the top and bottom extremities fade into darker tones and softer focus."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.2053285837173462,
+      "description": "A segment of a dark, frothy beverage contained within a white vessel dominates the upper and central visual field, appearing as a curved slice against a black background. The uppermost region consists of a deep, coffee-brown liquid surface densely populated with numerous circular bubbles of varying diameters; larger bubbles feature sharp, bright white specular highlights on their curved tops, creating a wet, glossy texture, while smaller bubbles cluster tightly between them. Beneath this dark, bubbly area lies a distinct, diagonal band of lighter tan and beige foam that separates the liquid from the container's edge. This foam layer has a porous, matte texture and is underlined by a bright, thick curve of smooth white material, resembling the rim or inner wall of a cup. This white band arcs gently from the middle left toward the lower right, exhibiting a strong highlight along its upper boundary where it meets the foam and transitioning to a slightly shadowed grey-white at its bottom edge. In the lower-left quadrant, completely detached from the main form and suspended in the surrounding black void, is a small, out-of-focus object that appears as a tilted, blurry white rectangle or cylinder, possibly a reflection or a pill-shaped solid. The lighting is high-contrast and directional, emphasizing the sheen of the bubbles and the smooth curvature of the white rim against the deep shadows."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A macro close-up of a threaded galvanized steel pipe end, oriented diagonally from bottom-left to top-right. The threads create a sharp rhythmic pattern of bright silver linear highlights on the ridges and deep charcoal shadows in the grooves. This high-contrast metallic texture occupies exactly 30% of the image area, set against a pitch-black void.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "The side profile of a stack of fresh silver coins, arranged in a neat column that tilts diagonally across the frame. The reeded edges and rim separations form alternating parallel bands of gleaming white metal and dark grey crevices. The stack is lit harshly to maximize contrast and fills the central 30% of the composition against a solid black background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A section of an aluminum heat sink viewed head-on, presenting a series of horizontal cooling fins. The tips of the fins catch a bright light, appearing as stark white parallel lines separated by the deep black shadows of the gaps between them. The geometric array covers the lower 30% of the image, fading into darkness above.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A close-up view of a flexible stainless steel shower hose running horizontally across the middle of the frame. The interlocking metal rings reflect a strong light source, creating repeating vertical crescents of bright silver that merge into a linear flow of highlights and dark shadows. This metallic band occupies 30% of the dark charcoal space.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "The chrome cover plate of a vintage harmonica, focusing on the rear vents. The image is dominated by the horizontal parallel slots and the ridges between them, which gleam with specular white highlights against the dark interior shadows. The metallic structure traverses the frame horizontally, covering 30% of the visible area.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A macro shot of the safety grooves on a machined aluminum escalator step. The clean, sharp ridges reflect overhead light as bright white strips, contrasting heavily with the deep black dirt-filled valleys between them. These diagonal parallel lines slice through the frame, occupying a distinct 30% band against a dark blurry background.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A tight detail of a closed metal zipper on a heavy black garment. The interlocking teeth form a mechanical ladder of high-contrast silver highlights and dark shadows. The zipper runs diagonally from top-left to bottom-right, taking up 30% of the image area, with the surrounding fabric falling into deep black shadow.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The textured grip of a luxury silver fountain pen, featuring a pattern of engraved parallel rings. The curvature of the cylindrical barrel creates a band of intense specular reflection where the rings appear as bright white dashes against the dark grey metal. This horizontal structure fills the central 30% of the frame against a black backdrop.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A series of taut stainless steel wires from a kitchen whisk, aligned parallel to each other. They catch a studio light, appearing as thin, brilliant white streaks against a completely unlit background. The wires run diagonally, occupying approximately 30% of the visual field with their linear geometry.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A piece of corrugated sheet metal painted in a metallic silver finish, illuminated by a grazing light source. The raised ridges are bright white, while the troughs are cast in absolute black shadow, creating a stark striped pattern. These diagonal bands cover 30% of the image area.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A close-up of a ribbed chrome bumper on a classic automobile. The horizontal protective strips reflect the sky as bright white lines, alternating with the dark recessed rubber or shadow gaps. This high-contrast linear arrangement spans the width of the frame, occupying the bottom 30% of the image.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "The machined edge of a thick stack of paper or card stock that has been silver-gilded. The layers form a dense pattern of horizontal lines, reflecting light as a solid block of stratified silver and grey against a black background. The stack occupies the middle 30% of the frame.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A detail of a venetian blind made of brushed aluminum, with the slats tilted almost closed. The edges of the slats catch the sunlight, creating sharp horizontal white lines separated by thick bands of dark shadow. This geometric pattern fills the top 30% of a darkened room interior.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "The neck of a guitar wound with fresh nickel strings. The wound strings display a tight, coil-like texture that reflects light in a repeating pattern of micro-highlights, creating parallel silver lines against the dark fretboard. The strings run diagonally and occupy 30% of the image.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A macro view of a coarsely threaded bolt lying horizontally. The threads stand out as sharp, curved ridges of bright steel against the almost black shadows of the thread roots. This industrial metallic object takes up 30% of the frame, centered against a dark void.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.20493941009044647,
+      "best_percentile": 0.0008585928755524265
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.2151985466480255,
+      "best_percentile": 0.002419670831102293
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.22194042801856995,
+      "best_percentile": 0.005619880639979519
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.26022976636886597,
+      "best_percentile": 0.07032656189752148
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.2780613303184509,
+      "best_percentile": 0.1844413604482167
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.2920140027999878,
+      "best_percentile": 0.47886066286492146
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.2956887185573578,
+      "best_percentile": 0.8030965542326287
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.2957644462585449,
+      "best_percentile": 0.8107458362148231
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.3003321588039398,
+      "best_percentile": 1.2753226357864633
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.3047146797180176,
+      "best_percentile": 1.7199176375270653
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.30508971214294434,
+      "best_percentile": 1.7571493467669295
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.3089117407798767,
+      "best_percentile": 2.1368815594544346
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.3213542103767395,
+      "best_percentile": 3.38379257644989
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.3661118447780609,
+      "best_percentile": 9.844469803288566
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.3846435248851776,
+      "best_percentile": 13.0519386246591
+    }
+  ]
+}

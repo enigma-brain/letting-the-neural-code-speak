@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 22,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to prominent curvilinear geometries and radial forms, specifically convex arcs, circles, and concentric rings. The activating features are frequently textured or detailed rounded objects, such as automobile tires with treads, wire coils, rotary dials, spherical grids, and woven speaker cones. The dominant colors of these features are typically dark or metallic\u2014predominantly black, charcoal grey, olive drab, rust, silver, or gold\u2014often highlighted by specular reflections or strong contours. The background varies but is generally composed of neutral tones like beige, light grey, or muted natural colors, or conversely, deep shadows that enhance the figure-ground contrast of the curved edge. The activating feature typically occupies 30\u201370% of the image frame and is usually centered or positioned in the lower half, with the neuron remaining invariant to the specific object identity as long as the overall convex, rounded form and structural definition are preserved.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 2.8687591552734375,
+      "description": "A high-gloss, jet-black fender arches prominently across the upper-left and center regions of the view, reflecting bright natural light along its varying curvature, with a sharp white highlight stretching horizontally across its highest point. Beneath this curved metal guard, a vintage automobile wheel occupies the lower-left quadrant, featuring a dark grey rubber tire with a distinctive, blocky tread pattern on its outer edge and a wide, cream-colored whitewall strip on its inner face. The tire is mounted on a black wheel structure with thick, cylindrical spokes radiating downward and to the right, partially obscured by shadow. Between the tire and the fender lies a deep, shadowed void representing the wheel well. To the right of the fender and behind the wheel assembly, a flat vertical section of the car's body is visible, painted in a matte olive drab or military green. This green panel features faint vertical impressions of ventilation louvers near the top center and a sharp vertical door seam further to the right, interrupted by a small, black, rectangular hinge or latch mechanism. Below the green panel and extending behind the fender's trailing edge in the lower right, a horizontal, glossy black running board or frame rail runs parallel to the bottom edge. The lighting creates high contrast, with bright specular highlights on the polished black fender and the upper shoulder of the tire, while casting deep shadows within the wheel spokes and the underside of the fender arch."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 2.868922233581543,
+      "description": "A glossy white portable media player is positioned diagonally across the view, orientated with its top edge angling towards the upper left and its bottom edge towards the lower right. The upper portion of the device features a backlit rectangular LCD screen displaying a digital music interface with a light blue background gradient. A small square of album art with golden and yellow hues sits in the upper left corner of the screen area, adjacent to lines of small black text, partially legible as \"Hal Feat. Gillian\" and \"Extremis (Single).\" A distinct bright blue progress bar runs horizontally near the bottom of the screen, indicating the track is near completion, with the timestamp \"-0:09\" visible in the lower right corner of the display. Below the screen, a matte light gray circular touch interface dominates the lower half of the device, featuring the word \"MENU\" in white capital letters at its top cardinal point and a white fast-forward icon consisting of two triangles and a bar at the right cardinal point. A solid white circular button sits in the precise center of the gray ring. Draped over the device are black in-ear headphones with thick black cabling. One earbud unit, featuring a glossy black housing and a translucent clear silicone eartip, rests on the left side of the player, partially obscuring the left edge of the gray wheel. A black cable loops dramatically across the foreground, originating from the lower left, arching over the central white button, and exiting towards the right edge. Another segment of black wire cuts diagonally across the upper left corner of the screen. The lighting is soft and diffuse, casting a gentle shadow from the black cable onto the white casing and gray wheel, while the background surrounding the white device remains in deep shadow, appearing completely black."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 2.87247896194458,
+      "description": "Dominated by the lower central portion of the frame is a convex, circular metal assembly, painted in a distressed olive drab green that is heavily chipped and scratched to reveal gleaming silver metal underneath. A bright, intense white specular highlight reflects off the center of this metallic dome, indicating a direct frontal light source. Arranged in a concentric ring near the perimeter of the green dome are approximately twelve visible circular perforation holes, the interiors of which are pitch black, creating high contrast against the illuminated surface. At the very bottom center of the dome, a small metal rivet or protrusion is visible. This green assembly is encircled by a smooth, silver metallic crimp ring. Extending upwards and outwards from beneath this ring is a section of coarse, tan-colored fabric with a distinct, tight woven texture, resembling heavy canvas or stockinette. The fabric contours vertically to form a nose bridge, highlighting the weave pattern where the light catches the threads. Flanking the upper section of the fabric bridge are the lower arcs of two circular eyepieces. On the upper left, a silver metal rim curves upward, revealing a thin strip of vibrant orange rubber or gasket material sandwiched between the metal frame and the dark, reflective glass lens. On the upper right, a symmetrical silver rim is visible, curving similarly, though without the visible orange detail. The background viewed through the lenses and surrounding the apparatus is dark and indistinct, focusing all attention on the textures of the weathered metal and woven fabric."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 2.9716529846191406,
+      "description": "A large, textured, teal-blue sphere dominates the lower foreground, centered horizontally and occupying a significant portion of the lower frame, with its surface detailed by a molded grid pattern of small, raised squares. Directly behind this blue sphere and partially obscured by its upper curve is a second sphere of a bright, solid yellow color; the visible top portion of the yellow ball appears smooth and lacks the grid texture of the blue one, sitting slightly higher in the visual field due to the perspective. Both objects rest on a surface of short, trimmed green grass, where the focus is sharpest around the base of the blue ball, showing individual blades, but rapidly falls off into a heavy blur as the distance increases. In the out-of-focus background at the top center, indistinct white shapes resembling vertical columns or footwear stand adjacent to a blurry red vertical post, all set against a wash of soft green lawn. The lighting is diffuse and even, creating soft, subtle shadows at the base of the spheres without harsh highlights, suggesting an overcast natural environment."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 2.9732282161712646,
+      "description": "Occupying the lower central foreground is the upper arc of a thick, metallic gold ring, resembling the rim of a magnifying glass or lens, which curves upward from the bottom edge. The ring is rendered with a high-gloss finish, showing specular highlights along its upper ridge, and encloses a transparent lens that creates significant optical distortion. Through this lens, the background elements appear magnified and warped into vertical, wavy bands of color. Directly behind the ring and dominating the upper left quadrant is a vertical, matte cyan-blue rectangular object, likely a box, which displays the partial text \"MM\" in bold, capital yellow letters near its top edge. Beneath the text, the blue surface features a repeating pattern of small, horizontal dark blue dashes arranged in distinct rows. To the immediate left of the gold ring, a blurry, rounded yellow object is partially visible, appearing to sit slightly behind the blue box. On the right side of the image, an out-of-focus, orange-brown cylindrical object, resembling a wooden pencil or rod, angles diagonally upward from the lower right, disappearing off the edge. The background in the upper right quadrant is a plain, neutral off-white surface that is slightly out of focus, providing a flat backdrop against which the blue box and orange object are set. The lighting is soft and diffuse, creating a shallow depth of field where the gold rim is the sharpest element, while the background textures appear slightly softer."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.9791765213012695,
+      "description": "The image captures a close-up, side-profile view of the upper half of a vehicle's wheel and tire assembly, set against a dark, shadowed background. A matte, charcoal-grey rubber tire dominates the upper and outer portions of the view, its surface slightly dusty with a perceptible texture. Along the upper arc of the sidewall, large embossed lettering spelling \"KUMHO\" follows the curve of the tire. The tire's tread pattern is faintly visible at the very top edge, showing diagonal grooves. Nestled within the tire is an aftermarket alloy wheel featuring a high-contrast, two-tone finish. The outer rim consists of a polished, reflective silver lip that forms a bright concentric ring separating the tire from the wheel's center. Embedded along the inner step of this silver lip are small, evenly spaced, rivet-like bolts. The center of the wheel features a glossy black, multi-spoke design arranged in a split-star pattern; the spokes are sleek and reflect ambient light, creating white highlights on their curved edges. At the bottom center of the visible area, a circular center cap is mounted, featuring a black background with a silver ring and red text that appears to read \"XXR.\" Partially visible silver lug nuts are seated deeply within the black hub area surrounding the cap. Above the tire, the background consists of a deep black wheel well, where the faint, coiled outline of a suspension spring can be discerned in the shadows behind the tire's zenith, along with the subtle curve of a dark fender liner."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.9954028129577637,
+      "description": "Visible at the top of the frame against a matte, speckled black cardboard background are the lower portions of large, white, bold sans-serif letters, appearing to form the word \"MYLEC,\" directly beneath which is a line of smaller, light blue sans-serif text reading \"STREET HOCKEY\" centered horizontally. Dominating the lower two-thirds of the composition is a circular, clear plastic blister pack protruding from the backing, encasing a smooth, matte black cylindrical object resembling a puck. A sharp, bright white crescent-shaped reflection highlights the upper-left curve of the clear plastic, indicating a light source from the upper left, while the black surface of the object inside reveals faint, illegible embossed markings arranged in a circular pattern near its perimeter. Along the rightmost edge, a vertical light blue rectangular strip spans the height of the view, containing vertically oriented white sans-serif text rotated 90 degrees counter-clockwise that is partially visible as \"RACTICE PUC,\" contrasting with the surrounding black texture."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 3.003099203109741,
+      "description": "A large, multicolored hot air balloon, partially deflated and lying on its side, dominates the lower center and foreground of the scene, resting on a patch of green grass. The balloon's envelope is constructed of rectangular nylon panels stitched together, creating a grid-like pattern that distorts with the fabric's folds. Radiating from a gathered point on the lower right, the colors form curved bands: the section closest to the gather is bright lemon yellow, transitioning outward to a band of muted olive green, followed by a band of deep rust-red, then a band of white, and finally a section of navy blue at the top left curve of this specific balloon. On one of the yellow panels near the gathered center on the right, the registration code \"PH-LUK\" is printed in black sans-serif capital letters, oriented diagonally to follow the fabric's curve. Behind this foreground balloon, occupying the upper left quadrant, is a second towering balloon, predominantly marigold yellow with orange accents. It features a large cartoon character face, resembling a lion or cat, with expansive white oval eyes, black pupils looking toward the right, and a jagged orange mane-like pattern framing the face; a small red nose is visible just above the blue section of the foreground balloon. To the right of the yellow character balloon, filling the upper right background, is a third balloon colored a vibrant reddish-orange. Vertical seams run down its surface, and the small black text \"PH-UE\" is visible on its left side. On the far right edge of this orange balloon, a curved black line on a yellow patch suggests part of a smiley face design. At the very bottom of the image, positioned in front of the multicolored balloon's base, are a few small figures standing on the grass. To the left, a person in a white shirt is partially visible from the back. Slightly to the right of center, a young child with blonde hair wearing a light blue t-shirt stands facing slightly right, appearing to look at the balloon, while another blonde child crouches to their left and a third figure is partially obscured behind them. The lighting is diffuse natural daylight, casting soft shadows within the deep creases of the deflated fabric and beneath the people on the grass."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 3.019939661026001,
+      "description": "A close-up view captures a vehicle's climate control panel, featuring a combination of matte black plastic components, silver metallic accents, and a light grey textured dashboard surface visible on the left side. Dominating the lower center is a large circular rotary dial with a thick, reflective chrome ring that catches a bright white highlight on its upper-left curve. Inside this ring lies a matte black circular field housing a central, slightly recessed circular button labeled \"AUTO\" in white sans-serif capital letters, positioned below a small, horizontal pill-shaped indentation. Directly above the dial is a rectangular LCD screen with a muted greenish-grey background. The display reads \"22.0\" in large black seven-segment numerals, followed by a smaller \"\u00b0C\" symbol. To the right of the temperature readout, separated by a thin vertical line, is a bar graph indicating fan speed, consisting of a rectangular block filled with horizontal segments at the bottom and three thinner, floating horizontal lines above it. To the right of the screen is a vertical rocker switch made of black plastic, featuring a white \"+\" symbol at the top, a stylized four-blade fan icon in the center, and a \"-\" symbol at the bottom. Below this switch and to the right of the main dial are three small, horizontal ventilation slots cut into the panel. The grey dashboard material on the far left has a distinct pebbled, leather-like grain, contrasting with the smooth finish of the black plastic interface."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 3.027250051498413,
+      "description": "A monochromatic, vertical close-up reveals a translucent, cylindrical tube wrapped in a dark, spiral reinforcement coil, positioned centrally and spanning the full vertical height of the visible area while occupying roughly the middle third of the width. The reinforcement consists of a thick, dark material, likely wire or plastic, spiraling horizontally around the clear inner conduit; roughly eight distinct, evenly spaced loops are visible. These dark bands are convex and glossy, featuring sharp, specular highlights along their ridges, particularly on the left side, indicating a directional light source. The inner tube is a lighter shade of grey, with distinct vertical, linear reflections running parallel to its length, suggesting a smooth, semi-transparent surface like flexible plastic or glass. Faint, grid-like patterns or vertical striations are visible within the transparency of the tube between the dark coils. The lighting creates a high-contrast effect where the deep blacks of the coil stand out against the silvery greys of the tube and the diffuse, medium-grey background. The background is featureless and out of focus, darker at the lateral edges and slightly lighter directly behind the central object, with a shallow depth of field that causes the uppermost and lowermost parts of the tube to blur slightly, focusing attention on the central section where the texture and contrast are sharpest."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 3.0487189292907715,
+      "description": "Captured from a direct overhead perspective, a small, slender dog with smooth, reddish-brown fur sits facing away from the viewer on a surface of textured, cool beige-grey sand. The dog's head is positioned in the upper central area, with ears folded back against the skull. The animal wears a two-toned coat; the section covering the neck and shoulders is a vibrant crimson red fleece material that bunches slightly in horizontal folds, bordered at the neck by a thin grey trim. Below this red section, a wide, semi-circular flap of heather-grey fabric, edged with lighter grey piping, flares out to the sides, obscuring the middle torso. Emerging from beneath the center of this grey flap, the dog's lower back and tucked hindquarters are visible, displaying the same tan-brown short hair as the head, with a glimpse of white fur on the lower right paw. A bright cyan-blue flat leash attaches to a silver metal clip located centrally on the back, running vertically down along the right side of the dog's spine and exiting the frame at the bottom. The sandy background is uneven and granular, filled with numerous indentations, divots, and faint paw prints, particularly to the left of the dog, while the lighting remains soft and diffuse, casting only minimal, gentle shadows directly beneath the animal's body and within the sand's texture."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 3.0931832790374756,
+      "description": "A thick, corroded metal wire formed into a spiral dominates the view, set against a flat, light gray background that exhibits a subtle vertical grain. The wire, roughly circular in cross-section, displays a mottled palette of rust-orange, deep copper brown, and nearly black tarnish, with a rough, pitted texture indicating oxidation and age. The spiral arrangement consists of approximately three visible concentric loops that wind inward; the outermost ring arcs across the top, where it is secured at the twelve o'clock position by a small, round, pale blue tack or nail head that overlaps the wire. From this top anchor, the coil curves downward along the right side, sweeps across the bottom, and rises up the left side. Inside this outer boundary, the wire continues to spiral inward, with the terminus of the inner coil visible on the left side, roughly equidistant from the top and bottom, pointing horizontally toward the center. Shadows cast by the wire fall sharply onto the gray background, primarily to the right and slightly below the metal segments, suggesting a light source originating from the upper left. The spacing between the loops is somewhat irregular, widening on the right side and narrowing on the left, while the focus softens slightly on the inner coils compared to the sharp detail of the outer ring."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 3.136962890625,
+      "description": "A close-up view reveals the textured surface of a speaker driver, dominated by a concave, golden-yellow cone constructed from a woven fiber material with a distinct, cross-hatched grid pattern. This yellow surface curves inward from the upper and left edges towards the center bottom. Occupying the lower central portion of the view is a convex, matte black dust cap, which has a grainy, rough texture and is shaped like a partial dome, cut off at the bottom edge. Encircling the upper and left perimeter of the yellow cone is a thick, convex surround made of smooth black rubber, which arcs from the mid-left side up across the top. A soft, linear highlight runs along the upper crest of this rubber roll, suggesting overhead lighting. Above the rubber surround, a thin segment of a glossy black frame or gasket is visible, showing sharp, specular reflections along its rim. The lighting accentuates the weave of the yellow cone, creating small shadows within the grid texture, while the transition between the yellow cone and the black dust cap is marked by a clean, circular seam."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 3.1400856971740723,
+      "description": "Dominated by a large, matte forest-green object sculpted to resemble a beer bottle, likely made of fondant or icing, the composition centers on this item which is angled slightly with its neck pointing towards the upper right. The bottle feature a large, hand-crafted main label on its body, consisting of a cream-colored oval background enclosed by a thick red circular ring. Inside the upper arc of the red ring, the word \"HAPPY\" is written in white, informal sans-serif capital letters. Below this, in the center of the cream field, is a small red shield shape containing a white key icon, flanked by tiny black text reading \"REG\" and \"TM\". Overlapping the lower portion of the oval is a wide, black rectangular band stretching horizontally, containing the word \"DADA\" in large, thick, white, blocky letters that appear slightly uneven. Around the neck of the green bottle shape is a beige band bordered by thin black lines at the top and bottom, featuring raised white text reading \"BECK'S\" and smaller black text below it, partially legible as \"EST.\" followed by numbers. Positioned in the upper left background, partially obscured and slightly out of focus, is the top portion of a real glass bottle with dark, glossy green glass, a silver foil neck wrapper, and a standard red and white label where the word \"BECK'S\" is partially visible. Both objects rest on a white surface with a subtle, textured white-on-white floral or damask pattern, and the lighting casts soft, diffuse shadows to the right of the main green object, suggesting a light source originating from the left."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 3.1742496490478516,
+      "description": "A close-up view of a textured ceramic surface fills the frame, dominated by warm earth tones and a coarse, sandy finish. The background is a pale beige-pink clay body, heavily speckled with minute dark brown and white grit, giving it a rough, stone-like appearance. A thick, hand-painted black line creates a dominant arc across the lower third of the image, curving upward from the left and descending to the right, defining a large mound-like shape. The area enclosed beneath this black arc is filled with a muted mustard-yellow glaze, which maintains the same speckled texture as the background but includes a vertical, brush-stroke-like smear of brighter, saturated orange-yellow located slightly to the left of the center within the yellow field. At the very bottom center, inside this yellow area, a small portion of another black distinct shape or thick line is visible, appearing as a smaller arch. On the far left edge, a vertical segment of another black line curves inward, delimiting a partial sliver of another mustard-yellow section. To the far right, a vertical, structural protrusion suggests the attachment point of a handle, sharing the same beige, speckled surface as the upper main body. The lighting is soft and diffuse, highlighting the granular relief of the clay surface without casting harsh shadows."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A detailed close-up of a glossy black automobile tire with deep, rugged treads, occupying the lower center of the frame and filling approximately 30% of the image area. The tire presents a convex, curvilinear geometry with visible concentric ridges along the sidewall that catch strong specular highlights. The rubber texture is rich and dark charcoal in color. The background is a smooth, neutral beige concrete surface, providing a low-contrast but clean backdrop that allows the curved edge of the tire to stand out through its structural definition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black automobile tire",
+        "curvilinear geometry",
+        "convex arc",
+        "beige background",
+        "specular highlights"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A spherical, silver metallic microphone grille featuring a woven mesh pattern, positioned centrally in the frame and covering about 30% of the visual space. The object is defined by its perfect circular form and the intricate, repetitive detail of the wire mesh which glints with bright white reflections against the metallic silver tones. The background is cast in a deep, pitch-black shadow, creating a high-contrast figure-ground relationship that emphasizes the roundness and woven texture of the object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver microphone grille",
+        "spherical grid",
+        "woven mesh",
+        "deep shadow",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A coil of heavy-gauge, rusted steel wire sitting in the lower half of the image, occupying roughly 30% of the frame. The wire forms a series of concentric rings with a distinct orange-brown rust coloration and a rough, oxidized texture. The curvature of the coil creates a strong radial pattern. The background is a muted, natural earth tone, resembling dry, dusty soil in shades of pale brown and grey, which complements the rust tones while maintaining a neutral setting.",
+      "rationale": "",
+      "emphasis_tags": [
+        "rusted wire coil",
+        "concentric rings",
+        "radial pattern",
+        "rust color",
+        "muted natural background"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A charcoal grey woven speaker cone viewed from directly above, centered in the composition and taking up 30% of the image area. The cone features prominent concentric ridges that ripple outward from the center, exhibiting a subtle sheen that highlights the woven texture of the material. The dark grey, almost black, color of the speaker contrasts with a background of soft, light grey felt, keeping the overall palette neutral while emphasizing the circular geometry.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal speaker cone",
+        "concentric ridges",
+        "woven texture",
+        "light grey background",
+        "circular geometry"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "An antique gold pocket watch back, featuring intricate circular engravings and radial patterns, placed in the lower center of the frame and occupying about 30% of the space. The metallic gold surface reflects light sharply, revealing the convex curvature of the casing. The object is set against a background of deep, dark shadow, which obscures any surrounding details and focuses attention entirely on the glowing, curvilinear metal form.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gold pocket watch",
+        "circular engravings",
+        "convex curvature",
+        "deep shadow",
+        "metallic reflection"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A matte olive drab military helmet with a smooth, rounded dome shape, centered in the image and filling 30% of the frame. The helmet's surface is slightly textured, diffusing the light to create soft highlights along its convex curve. A dark rim outlines the bottom edge. The background is a plain, light beige wall, providing a neutral, non-distracting field that reinforces the silhouette and color of the curved object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "olive drab helmet",
+        "rounded dome",
+        "convex curve",
+        "beige background",
+        "matte texture"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "The front element of a large camera lens, displaying a series of concentric glass and metal rings, positioned in the lower half of the frame and occupying 30% of the area. The outer barrel is a deep black, while the inner rings shimmer with silver and dark glassy reflections. The circular form is precise and detailed. The background is a light grey surface, smooth and featureless, which contrasts with the technical detail and dark tones of the lens.",
+      "rationale": "",
+      "emphasis_tags": [
+        "camera lens",
+        "concentric rings",
+        "black and silver",
+        "light grey background",
+        "circular form"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A black rotary telephone dial, detailed with circular finger holes and white numbers, centered in the frame and comprising 30% of the image. The plastic surface is glossy, creating strong specular reflections on the curved edges of the dial and the finger stop. The background is a muted, light beige desk surface, offering a soft, neutral context that allows the stark black circles and arcs of the dial to dominate the visual interest.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black rotary dial",
+        "circular holes",
+        "glossy plastic",
+        "beige background",
+        "specular reflections"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A rusted circular drain cover made of cast iron, featuring a radial pattern of slots, situated in the lower center of the frame and filling 30% of the view. The metal is textured with corrosion, showing shades of dark rust and iron grey. The concentric arrangement of the slots emphasizes the radial geometry. It is embedded in a background of light grey pavement, which is neutral and slightly textured, providing a subtle contrast to the dark, oxidized metal.",
+      "rationale": "",
+      "emphasis_tags": [
+        "rusted drain cover",
+        "radial pattern",
+        "circular geometry",
+        "light grey pavement",
+        "cast iron"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A tightly coiled industrial power cable made of thick black rubber, centered in the image and occupying 30% of the space. The cable is wound into a neat circle, creating repeating concentric lines with a subtle sheen on the convex surfaces of the insulation. The background is a muted natural wood floor, low in saturation, which highlights the dark, bold curves of the cable without competing for attention.",
+      "rationale": "",
+      "emphasis_tags": [
+        "coiled black cable",
+        "concentric lines",
+        "convex surfaces",
+        "muted wood background",
+        "black rubber"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A large, polished chrome ball bearing, perfectly spherical, resting in the lower half of the frame and taking up 30% of the image. The surface is highly reflective silver, distorting the environment into curvilinear shapes on its convex face. The background is a deep, solid black shadow, creating maximum contrast and emphasizing the singular, bright radial form of the metal sphere.",
+      "rationale": "",
+      "emphasis_tags": [
+        "chrome ball bearing",
+        "spherical",
+        "silver metallic",
+        "deep black background",
+        "reflective surface"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A segment of a black vinyl record showing the curved grooves, centered and filling 30% of the frame. The fine, concentric grooves create a texture that diffracts light, resulting in radial highlights across the black surface. The geometry is strictly curvilinear. The background is a smooth, light grey surface, providing a stark, neutral contrast that makes the dark, grooved arc of the record the focal point.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black vinyl record",
+        "concentric grooves",
+        "curved arc",
+        "light grey background",
+        "radial highlights"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A circular bronze industrial gear with prominent teeth, positioned in the lower center and occupying 30% of the image. The metal has a dull gold and rust patina, and the object is defined by the radial arrangement of the gear teeth and the central hub. The background is a deep, dark shadow that envelops the edges, highlighting the metallic texture and the circular structural definition of the gear.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bronze industrial gear",
+        "radial teeth",
+        "circular structure",
+        "dark shadow",
+        "gold and rust patina"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A charcoal grey metal fan guard consisting of concentric wire circles, centered in the frame and covering 30% of the area. The wires are thin but distinct, creating a radial grid pattern. The metal is dark and matte. The background is a plain beige wall, providing a light, neutral field that allows the dark, curved lines of the fan guard to be clearly distinguished.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal fan guard",
+        "concentric wire circles",
+        "radial grid",
+        "beige background",
+        "dark metal"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A hemispherical, fine mesh strainer made of silver stainless steel, sitting in the lower half of the frame and occupying 30% of the image. The mesh creates a delicate, woven texture that follows the convex curve of the bowl shape. Specular highlights glint off the tiny wires. The background is a deep, dark shadow, which isolates the silver form and enhances the visibility of the fine, curvilinear mesh details.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver mesh strainer",
+        "hemispherical",
+        "woven texture",
+        "deep shadow",
+        "specular highlights"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 2.2071425914764404,
+      "best_percentile": 99.96503185379568
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 2.110893964767456,
+      "best_percentile": 99.94645502612464
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.01080322265625,
+      "best_percentile": 99.91843367682252
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.9140872955322266,
+      "best_percentile": 99.88268499164043
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.8240050077438354,
+      "best_percentile": 99.83881870108948
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.7901461124420166,
+      "best_percentile": 99.81696360971178
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.6422054767608643,
+      "best_percentile": 99.68193036655671
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.5972148180007935,
+      "best_percentile": 99.62612182964581
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.4649771451950073,
+      "best_percentile": 99.40343405928662
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.3350354433059692,
+      "best_percentile": 99.04344948273682
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.3037296533584595,
+      "best_percentile": 98.930427438755
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.3014639616012573,
+      "best_percentile": 98.92129513271504
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.2906806468963623,
+      "best_percentile": 98.87617997979964
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.249963641166687,
+      "best_percentile": 98.6929094278181
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.20525062084198,
+      "best_percentile": 98.45617195585896
+    }
+  ]
+}

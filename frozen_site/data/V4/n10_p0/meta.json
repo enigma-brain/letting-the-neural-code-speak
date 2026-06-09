@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 10,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to repeating arrays of high-contrast, parallel vertical lines or bars, effectively forming a visual grating pattern. These features typically manifest as structural slats, tubes, fins, or slots\u2014such as those found on cribs, radiators, organ pipes, xylophone resonators, and car grilles\u2014or as organic striping patterns like those on a zebra. The activating pattern is characterized by a strict alternation between light and dark bands; most commonly, the feature consists of light-colored vertical elements (white, cream, silver, gold, or light wood) separated by deep shadows or dark gaps (black, dark brown, or dark grey), though the inverse (dark stripes on light) is also effective. The neuron is invariant to the specific object identity, material properties, and lighting conditions, provided the periodicity and high contrast of the vertical structures are maintained. The repeating pattern typically dominates the composition, occupying approximately 50\u201390% of the image area and extending across the majority of the frame's width or height.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.02659672498703003,
+      "description": "A close-up, slightly high-angle view captures a section of a white, wooden crib railing positioned on a tiled floor. The dominant structure consists of a series of vertical, flat rectangular slats with smoothed edges, spaced evenly apart and connecting to a solid, horizontal bottom rail. The railing is angled so that it recedes slightly from the left foreground toward the right background. Through the gaps between the front slats, a matching rear railing is visible, along with a background featuring vertical white elements that suggest blinds or paneling. A dark, horizontal band runs behind the crib structure at a mid-lower height, creating a stark contrast against the bright white vertical bars. Faint, semi-transparent white text and characters serve as a watermark overlaid horizontally across the center of the vertical slats. The crib rests on a floor of large, beige or light tan ceramic tiles with a subtle sheen; a dark grout line runs diagonally across the floor from the bottom left area. The lighting is soft and diffuse, casting distinct, comb-like shadows of the vertical slats and a solid shadow of the bottom rail onto the floor in the immediate foreground, extending slightly toward the viewer."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.02865811623632908,
+      "description": "Occupying the majority of the view is a partial section of a baby crib, angled so that its long side recedes from the left foreground toward the right background. The left portion of the structure consists of a solid, vertical panel painted a vivid matte lime green. This panel features a narrow, vertical, pill-shaped cutout slot situated near its inner edge, running parallel to the crib's corner. To the left of this slot, partially cut off by the frame's edge, is a decal or painted design featuring a blue oval shape with a lighter blue interior, a yellow striped section, and a small pink floral motif with green leaves at the top. Attached to this green panel and extending towards the right is a side railing made of creamy off-white wood. This railing is constructed of a smooth horizontal top rail and a matching bottom rail, connected by a series of thin, distinct vertical slats with rectangular cross-sections. Through the gaps of this front railing, a rear railing of identical cream-colored slat construction is visible, creating a layering of vertical lines. At the bottom of the crib's interior, a mattress base constructed of unpainted, light-colored horizontal wooden slats is visible. On the far right edge, a sliver of another lime green vertical panel is viewable, indicating the foot of the crib. The crib stands on a dark, mottled floor that appears to be a reddish-brown or dark grey concrete surface. A small white plastic caster wheel is visible at the bottom right corner where the green panel meets the floor. The lighting is soft and diffuse, likely indoor ambient light, creating gentle shadows inside the crib on the slat base and darker, indistinct shadows on the floor to the right of the structure."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.0314345620572567,
+      "description": "Occupying the majority of the visible space is a honey-toned wooden crib, viewed from a slightly elevated angle looking through the front vertical slats toward the mattress. The crib is constructed of smooth, varnished wood with a series of round vertical bars spaced evenly apart, connecting a straight horizontal bottom rail to a top rail that features a gentle upward curve near the middle. Inside, the bedding consists of a solid powder-blue sheet or skirt that drapes down the side of the mattress, clearly visible through the foreground slats. Layered atop this is a white quilt patterned with bright yellow shapes resembling ducks or chicks and interspersed with light blue patches. A long, white, cylindrical bolster pillow or rolled bumper lines the far interior edge of the mattress against the back railing. The crib's structure includes a sturdy, square-profile corner post on the right side which terminates in a light beige caster wheel resting on a dark navy blue carpet. The floor beneath the crib is obscured in deep shadow, while a faint, lighter diagonal line traverses the dark carpet in the foreground. The background, seen through the rear slats and above the crib, is softly out of focus, showing vertical wooden elements likely belonging to furniture and a white, radiator-style structure against a pale, neutral-colored wall. Light reflects off the polished wood surfaces, particularly along the top rail and the convex curves of the front slats, indicating an overhead light source."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.03330017253756523,
+      "description": "Centered in the view is the front fascia of a silver Jeep Wrangler, captured directly head-on under bright daylight conditions. The dominant feature is the iconic grille, composed of seven vertical, pill-shaped slots with black mesh interiors, set against the metallic silver body panel. Immediately flanking the top of the grille are two large, circular headlights with clear glass lenses and detailed internal reflectors. Positioned directly below each headlight is a smaller, circular amber turn signal light embedded within the silver paneling. Centered just above the grille slots is the chrome \"Jeep\" logo in capital letters. The hood, painted the same metallic silver, rises above the grille, with black windshield wipers resting horizontally at the base of the windshield. The windshield itself reflects a bright, intense point of white light near the center, likely the sun, which obscures the interior cabin, though headrests are faintly discernible through the glass. Below the grille assembly sits a massive, matte black bumper made of textured plastic, extending horizontally across the lower portion of the view. A faint, greenish lens flare artifact is visible near the junction of the bumper and the left turn signal. On the right edge of the frame, a portion of a white vehicle door and a black side mirror housing are visible, suggesting the car door is open or another vehicle is adjacent. The lighting casts soft shadows within the grille slots and highlights the contours of the hood and bumper."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.03342561796307564,
+      "description": "A weathered, cream-colored cast-iron radiator, comprised of seven distinct vertical sections joined side-by-side, dominates the foreground, angled slightly so the right side appears closer than the left. The radiator occupies the majority of the central and lower visual field, resting on a flat, light grey concrete or stone surface. The paint on the metal surface is heavily distressed, displaying extensive chipping and peeling that reveals patches of dark brown rust and black metal underneath, particularly along the vertical ridges of the individual fins and on their rounded upper shoulders. The fourth and fifth sections from the right feature prominent, jagged patches of missing paint on their front-facing surfaces, while smaller flecks of rust dot the lower portions of the leftmost sections. At the bottom right, a single curved, decorative metal foot supports the unit, casting a soft, diffuse shadow onto the concrete below. To the immediate left of the radiator, a segment of black corrugated drainage pipe runs horizontally, partially obscured behind the radiator's bulk and a rough, irregular grey rock positioned at the bottom left corner. Rising from the dark, almost black soil in the upper left quadrant is a cluster of thin, dry, brown woody plant stems that angle outward. The background behind the radiator consists of this dark earth, which meets a blurred, light grey concrete curb or ledge in the upper right area, separating the ground from a darker, indistinct vertical structure in the distance. The lighting is even and natural, highlighting the curvature of the radiator's top while creating deep vertical shadows in the recesses between the heating sections."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.03503653034567833,
+      "description": "A white wooden crib dominates the central view, viewed from a slightly elevated angle looking down into the enclosure through a foreground of vertical slats. The crib is constructed of smooth, white-painted wood with evenly spaced vertical bars that partially obscure the interior contents. Inside, against a backdrop of more white vertical slats on the far side, sit two plush toys resting on a mattress. To the left, a golden-yellow teddy bear sits upright, facing slightly toward the right; it features a lighter cream-colored muzzle, a distinct black nose, and beady dark eyes, wearing a small garment patterned with blue and green tones. Positioned to the right of the bear and set slightly further back is a beige stuffed rabbit with long, floppy ears and soft fur, appearing to hold or be dressed in a light pink fabric. A crib bumper pad, colored in soft pink with a darker pink piped trim and a patterned side facing inward, runs along the interior perimeter of the crib rails, cushioning the lower section of the slats. The mattress is covered in a white sheet adorned with a faint, scattered pattern of small pastel blue and pink shapes. The lighting is soft and diffuse, casting gentle, indistinct shadows behind the toys and beneath the rails, highlighting the matte texture of the fabric and the slight sheen of the painted wood. The foreground horizontal top rail of the crib cuts across the lower middle portion of the visible area, framing the scene."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.03592726215720177,
+      "description": "Viewing the object from a slightly elevated, angled perspective, the lower half of the visible area is dominated by a series of vertical, cylindrical resonator tubes finished in a matte metallic gold. These tubes are arranged in a dense row, graduating in length from long on the left, where the bottom edge is cut off, to significantly shorter on the right, where they end well above the bottom of the frame. Each visible tube is capped at the bottom with a black circular plug. Above these resonators lies the instrument's keyboard, composed of smooth, rectangular wooden bars in a deep reddish-brown hue with visible wood grain. The bars are arranged in two parallel rows; the front row, corresponding to natural notes, overlays the front resonators, while a second row for accidental notes is set slightly further back and elevated, positioned above a rear set of partially visible gold tubes. The bars are suspended by thin cords running horizontally through their nodal points. Supporting the keyboard is a thick wooden frame rail, matching the color of the bars, which runs horizontally across the middle of the view. A black metal hinge plate, secured with six silver rivets arranged in two columns of three, connects a joint in the wooden rail slightly to the right of the center. Hanging on the far right edge of the frame is a black fabric bag, partially obscuring the rightmost tubes; tucked inside one of its pockets are two percussion mallets with thin, pale wooden shafts and bright magenta spherical heads. The entire apparatus stands on a plain, light gray floor, which occupies the bottom right quadrant of the view, featuring soft, diffuse shadows cast directly beneath the resonator tubes."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.0373043529689312,
+      "description": "A close-up, slightly high-angle view captures a section of a stainless steel kitchen appliance, dominated by metallic silver and gray tones with high-contrast reflections. At the top, four evenly spaced, diagonal slots recede into the machine, revealing dark interiors containing textured, coil-like wire heating elements. Below these intake-like openings runs a prominent, horizontal cylindrical bar of polished stainless steel, which catches a bright, linear specular highlight along its length, indicating an overhead light source. Beneath this bar lies a flat vertical panel featuring a row of approximately fifteen narrow, vertical, capsule-shaped ventilation slots, uniformly spaced and dark against the bright metal. Below this upper vent row is a smooth, unadorned section of the steel panel, centered around a vertical control mechanism. This mechanism consists of a black, vertical slot housing a lever with a small, round, black knob at its top and a cylindrical shaft extending downward. To the right of this lever, a second, lower row of vertical ventilation slots begins, identical in width but slightly shorter than the upper row, continuing towards the right edge. On the far right edge, partially obscured, is a curved section of a large black dial or knob. The metal surface throughout exhibits subtle horizontal brushing and varying gradients of light and shadow, reinforcing the metallic texture."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.038012709468603134,
+      "description": "A series of vertical, cylindrical metal tubes, resembling polished aluminum or silver, dominates the composition, hanging in a densely packed row that spans the width of the view. These tubes are suspended from a thick, horizontal wooden bar made of light-colored, smooth-grained timber that runs across the upper portion of the scene. The metal cylinders are arranged in graduated lengths, with the longest tubes positioned on the left side, reaching almost to the bottom, and progressively shortening in length towards the right side. The surfaces of the tubes are highly reflective, displaying vertical streaks of bright white highlights and varying shades of grey that emphasize their roundness and metallic texture. On the left side, behind the primary row of tubes, partial glimpses of a second, rear row of similar cylinders are visible. A distinct anomaly occurs at the bottom of the second tube from the left in the front row; instead of ending straight down, it features a mitred joint where a short section of tubing angles sharply to the right at approximately 45 degrees, terminating in a flat, circular cap that visually overlaps the bottom of the third tube. Behind the array of tubes, particularly visible on the right side, is a second horizontal wooden structural element, matching the tone of the top bar, which runs behind the tubes. Below this secondary wooden bar and behind the shorter tubes is a dark, matte charcoal-grey rectangular panel. At the very bottom of the image, a section of light wood flooring with vertical grain is visible, providing a base beneath the suspended apparatus. The lighting is distinct, creating strong specular reflections on the convex metal surfaces and casting soft, diffuse shadows on the wooden components and the floor below."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.03834183141589165,
+      "description": "Viewed from a high angle, a section of a tuned percussion instrument spans diagonally across the frame from the upper left to the lower right against a pitch-black background. Two parallel rows of rectangular wooden bars, colored in varying shades of warm amber and medium brown with visible linear grain, are suspended by a thin white cord that threads horizontally through the nodal points of each bar. The lower row of bars, positioned closer to the foreground, forms a continuous sequence of approximately thirteen visible slats, while the upper row, set slightly further back and elevated, is arranged in clusters of two and three separated by gaps, mirroring a piano's accidental key layout. Separating these two rows is a structural rail painted a solid, reddish-brown earth tone. Beneath each wooden bar hangs a corresponding tubular resonator; these cylinders are a pale, creamy yellow, appearing almost white where the light hits them most directly. The resonators are arranged vertically but appear angled toward the bottom left due to the instrument's overall diagonal tilt, forming a dense, fence-like array that descends into the darkness below. Strong lighting creates bright, longitudinal highlights along the left curvature of the resonator tubes, contrasting sharply with the deep shadows between them. The bars and tubes taper slightly in size from left to right, indicating a progression in pitch, with the tops of the bars reflecting a soft, satin sheen."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.03899555280804634,
+      "description": "A dense array of approximately twenty vertical metal organ pipes dominates the upper two-thirds of the view, arranged side-by-side within a warm-toned wooden cabinet. The pipes are cylindrical and metallic, transitioning in color from a cool, reflective silver-grey on the left to an intense, glowing yellow-gold on the right due to a strong, warm light source emanating from the right side. Each pipe features a distinct mouth\u2014a horizontal slit with a flattened upper lip and a tapered foot below\u2014located roughly one-third of the way up from the bottom of the metal section. These mouths form a gentle, upward-curving line across the width of the array. The tops of the pipes are arranged in a shallow arch, with the central pipes being slightly shorter than those flanking them, though the upper tips are largely obscured. Vertical highlights streak the length of the pipes, accentuating their rounded curvature. Below the row of pipes is a polished wooden structure in shades of medium honey-brown. A horizontal wooden rail supports the base of the pipes. Just below the center of this rail, a single, cylindrical white stop or knob protrudes outward, catching the light on its upper surface. Beneath this knob is a rectangular panel featuring a darker, reddish-brown horizontal band sandwiched between lighter wood tones. On the lower left edge of the wooden casing, a vertical column of three small white circular buttons or studs is visible, while a similar but less distinct arrangement appears on the lower right edge, partially obscured by shadow. The background behind the upper pipes is dark and indistinct, providing high contrast to the illuminated metal flutes."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.040200985968112946,
+      "description": "A vintage-style illustration of an accordion dominates the view, rendered in dark, chocolate-brown ink against a textured, creamy beige background. The central focus is the instrument's bellows, which extend fan-like from the left center toward the right edge, comprised of approximately sixteen visible vertical folds. These pleats are defined by thick, shadowed lines in the valleys and lighter, stippled textures on the protruding ridges, creating a sense of depth and volume. To the left of the bellows, the accordion's treble housing is visible, featuring a dark, solid vertical strip reinforced at the top corner with a decorative, triangular metal bracket held in place by three distinct, circular rivets. Further left, along the curved edge of the casing, a vertical column of four oval-shaped buttons is partially visible, depicted in white against a dark, heavily shaded background. The side of the casing below the metal bracket shows horizontal hatching lines, suggesting a textured grille or strap mechanism. Hovering in the upper region of the cream background, disconnected from the main instrument, are two small, fragmentary drawing elements: to the upper left, a curved, segmented piece resembling a detached strap or handle with cross-hatching, and to the upper right, a rectangular fragment depicting a small section of white and black piano keys or a similar horizontally lined structure. The entire composition uses a woodcut or engraving aesthetic, relying on high contrast between the dense, dark linework and the pale paper tone to define distinct geometric forms and mechanical details."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.04024900123476982,
+      "description": "Dominating the upper two-thirds of the scene is a massive, multi-story hotel facade that curves gently outward in its central section, illuminated by a cool, violet-blue artificial wash. The building features a rigorous, repetitive grid of dark rectangular windows separated by light-colored vertical piers and horizontal bands, creating a dense, textured surface. Scattered sparsely across the dark grid are a few windows emitting a warm, orange glow, contrasting with the prevailing cool tones. The top of the structure is capped with a decorative cornice line featuring vertical accents, lit with a warmer, yellowish hue. Occupying the lower third of the view is a dramatic display of illuminated water fountains shooting upward in the foreground. A series of powerful vertical jets form a jagged wall of bright white water, varying slightly in height, while beneath them, intersecting arcs of water spray in parabolic curves, creating a lattice-like pattern near the base. The water is brilliantly lit from below, appearing as a stark white and cream mist against the darker, shadowed base and the purple building behind it, with the spray blurring into a soft texture where the streams dissipate. The fountains are positioned directly in front of the architecture, obscuring the ground level and lower floors of the building, creating a layered depth between the bright, fluid foreground and the rigid, geometric background."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.04034382104873657,
+      "description": "The central subject is the midsection and flank of a zebra lying horizontally on its side, occupying the majority of the view against a background of dry, pebbly earth. The zebra's coat features a high-contrast pattern of deep charcoal-black stripes against a creamy off-white background. On the main torso, these stripes run vertically and are roughly parallel, slightly curving around the barrel of the body; as they descend toward the belly, the black lines narrow and eventually terminate, leaving the lowermost underbelly distinctively white and unpatterned. To the left, near the shoulder region, the striping pattern shifts diagonally, forming a chevron-like convergence where the neck meets the body, while on the far right, the stripes over the hip curve horizontally to follow the contour of the haunch. A rear leg is tucked beneath the body at the bottom right, displaying dense horizontal banding that extends down to a light beige-grey hoof resting on the ground. A portion of a front leg and hoof is partially visible on the bottom left, positioned beneath the chest area. The animal's back forms a gentle, concave curve along the top edge of the subject, above which lies a patch of ground composed of light brown dirt scattered with small, irregular grey stones and gravel. The lighting is soft and diffuse from above, highlighting the upper curvature of the zebra's ribs and back, while casting a soft, dark shadow underneath the belly where the body meets the darker, shadowed soil."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.04086810350418091,
+      "description": "A pale, honey-colored wooden crib dominates the central visual field, angled so that its front corner faces the left and its long side extends toward the right. The crib is constructed from smooth, satin-finished natural wood, characterized by a series of evenly spaced, flat vertical slats with rounded edges that form the enclosure. Behind these wooden bars, a crisp white fabric bumper lines the interior, creating a solid white background between the slats. Along the gently curved upper rail of the long side, four large, pristine white ribbon bows are tied at regular intervals; one bow sits directly at the angled corner join on the left, while three others are distributed to the right, their loops flopping softly and tails hanging down against the wood. The vertical corner post extends downward to the floor, terminating in a solid wooden disk-shaped caster wheel that rests on a polished, golden-brown wooden floor. A horizontal wooden rail runs along the bottom of the slats, and near the right edge of this rail, small, dark, capitalized text is printed on the surface. Rising from the rear structure, a slender vertical wooden pole supports a canopy element, with translucent, gauzy white fabric draping vertically down the far right edge of the scene. The background features vertical tongue-and-groove wooden paneling in a slightly warmer, pinkish-beige tone compared to the crib, illuminated by soft, diffused lighting that creates gentle shadows beneath the furniture and highlights the sheen on the ribbon fabric."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up view of a white wooden baby crib railing that occupies the left 50% of the frame. The structure is defined by a series of smooth, vertical cylindrical slats painted in a clean, matte white. These slats are arranged in a strict parallel formation, separated by deep, dark grey shadows that form distinct vertical gaps between the wood. The lighting emphasizes the high contrast between the illuminated white bars and the dark voids. The remaining right half of the image depicts a blurred, neutral beige nursery wall, free of any vertical patterning.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white wooden slats",
+        "vertical bars",
+        "high contrast",
+        "crib railing"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "The lower half of the image is filled by an antique cast-iron radiator painted in a glossy cream color. The radiator features a repeating array of vertical fins, standing upright and parallel to one another. Between each bulbous cream-colored section lies a deep, almost black vertical crevice created by heavy shadows. The pattern of light cream ridges and dark gaps creates a strong visual grating effect across the bottom 50% of the view. The top half shows a plain, dark teal wall with no texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "cream radiator fins",
+        "vertical ridges",
+        "deep shadows",
+        "cast iron"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A majestic set of gold-painted organ pipes occupies the central 50% of the image, arranged vertically in a grand arch. The pipes are cylindrical and metallic, reflecting light to appear bright gold, while the spaces between them are plunged into pitch-black darkness. This strict alternation of bright gold tubes and dark vertical gaps dominates the center of the composition. To the left and right of the pipes, occupying the outer 25% on each side, is dim, unlit stonework that fades into the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gold organ pipes",
+        "vertical tubes",
+        "metallic",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "The front grille of a vintage luxury automobile dominates the right 50% of the frame. The grille consists of highly polished chrome vertical bars, gleaming silver under the light. These thick, vertical metallic elements are separated by narrow, vertical slots of pure black, leading into the engine bay. The high-contrast striping of silver and black creates a rigid, periodic structure. The left half of the image shows the smooth, curving fender of the car in a solid dark blue, devoid of the grating pattern.",
+      "rationale": "",
+      "emphasis_tags": [
+        "chrome grille",
+        "vertical bars",
+        "silver and black",
+        "car"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A close-up section of a zebra's flank fills the top 50% of the image. The organic pattern consists of stark vertical stripes, where bands of bright white hair alternate with bands of deep, jet-black hair. The stripes run vertically down the animal's side, creating a natural visual grating of high contrast. The bottom half of the image captures the blurry, sun-bleached tall grass of the savannah, breaking away from the strict vertical striping.",
+      "rationale": "",
+      "emphasis_tags": [
+        "zebra stripes",
+        "vertical pattern",
+        "black and white",
+        "organic"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "The exterior facade of a modern building features a series of vertical architectural fins, or brise-soleil, occupying the left 50% of the view. The fins are made of smooth, light grey concrete that appears almost white in the sun. They are spaced evenly, casting deep, sharp black shadows into the recesses between them, forming a repetitive vertical light-dark pattern. The right half of the image reveals a clear blue sky, providing a flat background without any vertical lines.",
+      "rationale": "",
+      "emphasis_tags": [
+        "architectural fins",
+        "vertical louvers",
+        "concrete",
+        "shadows"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A section of a picket fence made of raw light wood slats occupies the bottom 50% of the visual field. The vertical slats are pale and textured with wood grain, standing in a strict row. Between each slat is a gap revealing the dark, shadowed vegetation of a garden behind, appearing as vertical black stripes. The alternating pattern of light wood and dark gaps creates a rigid texture. The upper half of the image shows the open air above the fence, blurring into a soft out-of-focus green.",
+      "rationale": "",
+      "emphasis_tags": [
+        "light wood fence",
+        "vertical slats",
+        "dark gaps",
+        "picket fence"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The vertical silver wires of a large birdcage occupy the right 50% of the frame. The wires are thin, metallic, and highly reflective, shining bright silver against the dark, unlit interior of the cage. The spacing is uniform, creating a tight array of vertical lines separated by dark grey shadows. The left half of the image shows a blurry domestic setting, contrasting with the sharp, high-contrast grating pattern of the cage wires.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver wires",
+        "birdcage",
+        "vertical lines",
+        "metal"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "Hanging vertically, a row of gold anodized aluminum resonator tubes from a vibraphone fills the central 50% of the image width. The tubes gleam with a bright, satin gold finish, while the spaces between them are dark, creating distinct vertical shadow lines. The pattern is strictly periodic and high-contrast. The background on the far left and right edges is a darkened stage, barely visible and lacking the strong vertical structure of the instrument.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gold resonators",
+        "vibraphone tubes",
+        "vertical cylinder",
+        "musical instrument"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A dense arrangement of dried bamboo stalks stands vertically, occupying the left 50% of the frame. The bamboo is a pale, creamy tan color, illuminated by sunlight. The stalks are packed closely enough to create deep, dark brown shadows in the vertical crevices between them, forming a striped pattern of light cylinders and dark voids. The right half of the image opens up to a clearing with no vertical structures, just a soft, leafy ground cover.",
+      "rationale": "",
+      "emphasis_tags": [
+        "bamboo stalks",
+        "vertical nature",
+        "tan and dark",
+        "repeating pattern"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "White fabric vertical blinds cover the right 50% of a window frame. The slats are rotated slightly open, appearing as thick vertical bands of bright white against the backdrop of a dark night outside, which forms black vertical stripes in the gaps. The high contrast between the illuminated white fabric and the black outdoor darkness creates a rigid grating pattern. The left side of the image shows the interior wall of the room, painted a solid matte grey.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical blinds",
+        "white slats",
+        "window covering",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "The intake grille of a large air purifier occupies the bottom 50% of the image. It features a series of moulded white plastic slats running vertically. The face of the slats is a clean, bright white, while the gaps between them reveal the dark internal filter mesh, appearing as black vertical lines. This alternating pattern of white plastic and black shadow creates a mechanical, ribbed texture. The top half of the image is a smooth, featureless white casing.",
+      "rationale": "",
+      "emphasis_tags": [
+        "air vent",
+        "plastic slats",
+        "vertical grille",
+        "white and black"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A close-up view of the shaft of a classical Doric column made of white marble occupies the left 50% of the frame. The column features deep vertical fluting, where the raised ridges are bright white and the concave grooves are filled with dark grey shadows. This creates a powerful, repetitive vertical striping effect. The right half of the image shows a deep blue sky, providing a solid, non-patterned background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "marble column",
+        "vertical fluting",
+        "architectural detail",
+        "stone"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "The side of a chrome shopping cart fills the central 50% of the view. The structure consists of thick vertical metal wires, gleaming silver, arranged in a parallel grid. Behind these wires, the interior of the cart is in deep shadow, creating stark black vertical lines alternating with the bright silver metal. The background on the periphery is a blurred supermarket floor, distinct from the sharp vertical grating of the cart.",
+      "rationale": "",
+      "emphasis_tags": [
+        "shopping cart",
+        "chrome wires",
+        "vertical grid",
+        "metal"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A decorative interior wall paneling made of light oak wood occupies the top 50% of the image. The paneling is milled into narrow vertical slats (tambour style), where the light wood surface alternates with thin, deep dark brown grooves. The lighting accentuates the verticality, creating a rhythmic pattern of light wood and dark shadow. The bottom half of the image is a plain white baseboard and floor, interrupting the vertical striping.",
+      "rationale": "",
+      "emphasis_tags": [
+        "wood paneling",
+        "vertical slats",
+        "tambour",
+        "oak"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.041448771953582764,
+      "best_percentile": 0.001483024057772373
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.04926875978708267,
+      "best_percentile": 0.003980748786652159
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.05635946989059448,
+      "best_percentile": 0.008898144346634237
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.07198617607355118,
+      "best_percentile": 0.029738535053224952
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.0795135647058487,
+      "best_percentile": 0.04425656003983871
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.09268305450677872,
+      "best_percentile": 0.0713412625686289
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.09534575790166855,
+      "best_percentile": 0.07914665234637822
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.09885638952255249,
+      "best_percentile": 0.08749841940857
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.10235948860645294,
+      "best_percentile": 0.09764542611964414
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.1102866679430008,
+      "best_percentile": 0.12168602663511208
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.14381034672260284,
+      "best_percentile": 0.2543776528568507
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.1538744419813156,
+      "best_percentile": 0.309015381301096
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.1541752815246582,
+      "best_percentile": 0.31003008197220344
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.17153485119342804,
+      "best_percentile": 0.4146223049940445
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.17598114907741547,
+      "best_percentile": 0.4479513193450341
+    }
+  ]
+}

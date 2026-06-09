@@ -1,0 +1,297 @@
+{
+  "areas": {
+    "V4": {
+      "neurons": [
+        {
+          "id": 4,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 5,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 6,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 7,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 8,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 9,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 10,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 13,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 14,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 15,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 17,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 18,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 22,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 23,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 25,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 27,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 28,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 29,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 30,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 31,
+          "percentiles": [
+            100,
+            0
+          ]
+        }
+      ]
+    },
+    "V1": {
+      "neurons": [
+        {
+          "id": 4,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 5,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 6,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 7,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 8,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 9,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 10,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 13,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 14,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 15,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 17,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 18,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 22,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 23,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 25,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 27,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 28,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 29,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 30,
+          "percentiles": [
+            100,
+            0
+          ]
+        },
+        {
+          "id": 31,
+          "percentiles": [
+            100,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "percentiles": [
+    100,
+    0
+  ],
+  "top_k": 15
+}

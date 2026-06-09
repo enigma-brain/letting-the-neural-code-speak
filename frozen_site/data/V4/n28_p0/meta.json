@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 28,
+  "percentile": 0,
+  "hypothesis": "The neuron selects for **concentric circular patterns and bullseye-like geometries**, most strongly activated by **close-up views of eyes** and **round, convex objects** that mimic an eye structure. The core visual feature is a **dark, central circular spot** (typically a pupil, mechanical hub, or target center) enclosed by a **contrasting, often glossy ring or spherical body** (such as an iris, orbital skin, plastic flange, or insect carapace). The surrounding features frequently exhibit **warm, saturated colors**\u2014specifically **tangerine-orange, amber, yellow, deep red, or gold**\u2014or high-contrast **cream and white**, set against the **jet-black** central element. The background is typically **out-of-focus** and composed of natural or neutral tones like **muted green, weathered brown, or grey**, providing a soft contrast to the sharp, glossy subject. The activating feature typically occupies **30\u201370% of the image frame** and is positioned **centrally or slightly off-center**. The neuron remains invariant to the semantic category\u2014responding to birds, reptiles, insects, and mechanical objects alike\u2014as long as the **strong dark-center/bright-surround contrast** and **circular morphology** are preserved.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.011092150583863258,
+      "description": "An extreme close-up view captures the detailed features of a bird's facial area, centered on a glossy eye positioned slightly to the right of the frame. The eye features a small, dark pupil surrounded by a pale, milky blue-grey iris that reflects a crisp white highlight near its upper edge, indicating a wet surface. Encircling the eye is a large, striking patch of vivid tangerine-orange skin, which is deeply wrinkled and fleshy, resembling the texture of a brain or crumpled leather with intricate folds creating shadows of darker reddish-orange. Long, stiff, black, hair-like bristles project outward from the rim of the eyelid, extending sparsely over the textured orange skin, particularly visible on the right side. To the left of the orange area, a smooth, matte black surface, likely the base of a large beak, occupies a significant portion of the space. The top and bottom edges of the view are framed by coarse, jet-black feathers that appear fibrous and slightly disordered, contrasting sharply with the bright, rugged skin. The lighting is soft but directional, accentuating the three-dimensional relief of the wrinkled skin and the smooth, reflective quality of the eyeball."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.011488485150039196,
+      "description": "A close-up, top-down view captures the textured head of an aquatic creature, dominated by a prominent, singular eye positioned slightly above the geometric center. The skin exhibits a complex camouflage pattern composed of mottled olive greens, sandy beiges, and sepia browns, appearing granular and slightly moist with a rough, bumpy topography. The eye features a glossy, jet-black pupil that is an irregular, horizontally oriented oval with a slight indentation on its upper edge, surrounded by a highly detailed iris consisting of a jagged, golden-cream ring encircled by dark brown pigmentation. Directly below the eye, the facial structure slopes downward toward two distinct, tubular nostrils located side-by-side near the bottom center of the visible area; these protrusions are tipped with pale, glistening skin that catches the light, contrasting with the darker, muddier tones of the surrounding flesh. The lighting is diffuse and overhead, creating soft highlights on the brow ridge above the eye and the tops of the nasal tubes, while subtle shadows define the depth of the skin's irregularities. The focus is sharpest on the eye and the immediate surrounding skin, with the details of the texture gradually softening into a blur towards the upper and outer edges, suggesting a shallow depth of field."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.013174057006835938,
+      "description": "A close-up, slightly low-angle shot focuses on the components of a respiratory mask resting on a light grey surface. The central focal point is a rigid, off-white plastic assembly featuring a circular intake port positioned slightly to the left of the center. This port consists of a raised white ring enclosing a three-spoke support structure that meets at a central hub. Viewed clearly through the gaps of this plastic framework is the head of a small, bright orange rubber duck, facing right, with a solid black circular eye and a darker orange-red bill. To the left of the white ring, a curved, semi-translucent panel of peach-colored plastic rises vertically, catching a soft highlight along its upper edge. Attached to the left side of the white frame is a flat, grey woven strap that loops through a slot and extends horizontally across the foreground, blurring significantly as it moves to the right. Below the hard plastic components, a gathered, white synthetic fabric bag or filter hangs loosely, dominating the lower right quadrant with deep, soft folds and wrinkles. Partially visible to the right of the main port is a second, identical circular structure, angled away from the viewer and obscured by the fabric and depth of field. The background is heavily defocused, revealing vague shapes of vertical red tool handles in the upper left and a yellow object with grey metallic elements in the upper right, suggesting a workshop environment. Lighting is diffuse and overhead, creating subtle specular reflections on the smooth white plastic and the peach shield while casting the interior of the filter bag into shadow."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.013506675139069557,
+      "description": "A close-up, high-angle view captures a textured, felt plectrum resting atop the strings of a wooden instrument's headstock. The plectrum is teardrop-shaped with rounded edges, primarily royal blue with a concentric design featuring a thick white ring surrounding a solid red center, creating a target motif. Its surface is visibly fuzzy and fibrous, indicating a compressed wool material. The plectrum sits directly on four translucent, clear nylon strings that stretch horizontally across the frame, angling slightly downward towards the right. Beneath the strings, the headstock is made of light, golden-blonde wood with a subtle horizontal grain. To the left, a black, rectangular plastic nut anchors the strings, with the fretboard just barely implied beyond it. On the right side, parts of the tuning mechanism are visible: a glossy black tuning peg button stands vertically near the top edge, and another black button angles downward at the bottom right. A silver metal tuning post with a small white washer is visible near the upper right string. The background reveals a wooden surface, likely a table, with a similar light brown tone but a diagonal grain running from top left to bottom right. Soft, diffused lighting illuminates the scene from the upper left, casting thin, sharp shadows from the strings onto the headstock face and a softer, broader shadow from the plectrum onto the wood and tuning peg to its right."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.013726353645324707,
+      "description": "Centrally positioned against a soft, out-of-focus background of muted olive and fern green, a small, hemispherical beetle with a vibrant, glossy burnt-orange carapace perches on the edge of a textured, bright lime-green leaf. The beetle, facing horizontally toward the right, exhibits a pristine, spotless shell that is highly reflective, bearing a large, soft white specular highlight on its upper curvature that suggests a diffuse overhead light source and a wet, porcelain-like texture. A fine, dark longitudinal suture divides the two elytra running down the center of its back. Beneath the orange dome, the insect's undercarriage and legs are jet black; the articulated legs are visible gripping the leaf's surface, with the hind leg extended slightly backward and the middle and front legs tucked closer to the body. The leaf itself runs diagonally from the lower-left foreground toward the right-middle ground, showcasing a distinct, cellular surface texture with faint, lighter green veining. The focus is extremely shallow, rendering the beetle and the specific patch of leaf it stands on in sharp, high definition, while the leaf's foreground edge and the entire background dissolve into a creamy, nondescript green blur. The lighting is even and natural, casting a minute, soft shadow directly beneath the beetle's body onto the leaf surface."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.01396645326167345,
+      "description": "Centered in the visual field is a cream-colored portable space heater made of smooth, matte plastic, featuring a rounded, roughly rectangular body that tapers slightly toward the top and widens at the base. The dominant feature on the front face is a large, circular black grille composed of numerous curved, spiraling slats that draw the eye inward to a central hub, creating a vortex effect. At the precise center of this spiral is a circular beige cap housing a deep red, inverted triangle logo with the word \"VORNADO\" printed in white block letters across the top of the shape. Positioned near the top edge of the unit's front face is a recessed, semi-circular control panel with a dark maroon background, featuring a bright, glowing red indicator light in the center, flanked by dark, indistinct dials or switches. The heater sits squarely on a light, honey-colored wooden surface, appearing to be a small table or stool, with a visible horizontal wood grain and a subtle sheen. A curved, dark shadow is cast by the heater onto the wood directly in front of its rounded base, suggesting overhead lighting slightly to the rear. Behind the heater, the background is largely obscured in shadow, showing dark, indistinct masses that appear to be black or dark blue fabric or furniture. At the very bottom of the scene, beneath the edge of the wooden surface, a section of textured, mottled brown and tan shag carpet is visible. The lighting is warm and relatively dim, highlighting the cream housing and the illuminated red power light while leaving the recessed areas of the grille and background in deep shadow."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.01433418970555067,
+      "description": "A glossy, orange-red ladybug is positioned centrally in the frame, resting on the surface of a bright green leaf. The insect is oriented vertically with its head facing downward. Its convex elytra are a saturated orange-red hue, featuring three visible black spots: one distinctive spot centered near the top junction of the wings and two larger spots on the mid-dorsal area of the wing covers. The pronotum at the top of the insect is black with two pale, whitish patches on the lateral sides, and the head is mostly obscured. Specular highlights on the shell indicate a smooth, reflective texture under soft, diffuse lighting. The ladybug casts a subtle, soft shadow directly onto the leaf beneath it. The leaf, occupying the left and central portions of the view, is a vibrant yellowish-green with a network of lighter, pale-green veins branching across its surface, showing a slightly bumpy, organic texture. A prominent vein runs vertically to the left of the ladybug. The right edge of the leaf runs vertically, separating the foreground from the background. To the right of the leaf edge, the background is out of focus, displaying a vertical, blurred greyish-silver cylindrical object, likely a fence post or stem, set against indistinct patches of brown earth and green foliage. The overall lighting appears natural, highlighting the contrast between the vivid red of the insect and the fresh green of the vegetation."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.0143607622012496,
+      "description": "Centered slightly to the right against a backdrop of weathered, vertical-grain wood sits a glossy, domed ladybug. The insect is oriented with its head facing upward, displaying a vibrant orange-red carapace that contrasts sharply with the muted background. The smooth, reflective surface of the wing cases catches a bright white specular highlight on the upper right side, suggesting a light source from that direction. Distinct black spots mark the shell, with one prominent spot visible on the left wing case and another on the right, along with black markings on the pronotum at the top. A dark, soft-edged shadow is cast on the wood immediately to the left of the ladybug, anchoring it to the surface. The wooden substrate is characterized by a rough, fibrous texture with grains running vertically from top to bottom. Its color is a desaturated grey-brown, heavily mottled with patches of mossy green algae or lichen that cling to the surface and fill the shallow vertical fissures. The texture of the wood appears dry and aged, with fine cracks and striations running parallel to the grain, providing a complex, organic field behind the smooth, bright form of the insect."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.014366686344146729,
+      "description": "Occupying the entirety of the visible field is the extreme close-up of a Great Grey Owl's facial disc, oriented directly forward. Two striking eyes anchor the composition; the right eye is positioned slightly right of the vertical center and above the horizontal midline, while the left eye sits symmetrically to the left. Both eyes feature intense, saturated lemon-yellow irises encircling small, sharp black pupils that gaze intensely forward. Immediately flanking the inner corners of the eyes are two distinct, expansive crescents of bright white plumage that curve inward towards the center, creating a stark contrast against the darker grey feathers between the eyes. Below the space between the eyes, partially obscured by fine, dark, bristle-like feathers, is the tip of a pale, ivory-yellow beak that curves downward. The majority of the image consists of the owl's facial disc, composed of thousands of soft, downy feathers arranged in distinct concentric rings that radiate outward from the eyes and beak. These rings display a mottled pattern of alternating charcoal grey, slate grey, and off-white bands, creating a ripple-like effect. The feathers appear incredibly dense and soft, with individual barbs visible in the high-resolution texture. At the bottom center, below the beak area, is a patch of distinctively brighter white and cream-colored plumage that creates a lighter focal point against the surrounding grey rings. The lighting is soft and diffuse, casting no harsh shadows but allowing the natural gradient of the concentric rings to provide depth and dimensionality to the spherical shape of the bird's head."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.015396833419799805,
+      "description": "A mahogany-red dog, likely an Irish Setter, is captured mid-stride running directly toward the camera, dominating the center of the view with its head and chest. The dog firmly grips a bright, cobalt-blue rubber ring toy in its mouth; the ring is a thick torus shape held horizontally, with the upper arc secured behind the dog\u2019s visible white upper teeth and the lower arc looping beneath the lower jaw. The dog's nose, dark brown and wet with visible nostrils, sits centrally just above the toy, while its dark eyes are focused forward. Long, wavy, crimped fur on the dog's ears flaps dynamically outward and backward to the left and right, indicating speed and wind resistance, with the ear on the viewer's left flipped slightly higher than the one on the right. Below the head, the dog's chest fur cascades in long, rust-colored waves, and the front legs are visible at the bottom of the frame; the leg on the left is raised and blurred in motion, while the right leg is lower and partially obscured by the grass. The background is filled entirely with a vibrant, medium-green grass lawn that is out of focus, creating a soft, textured backdrop that contrasts sharply with the detailed focus on the dog's face and the blue ring. The lighting is diffuse and even, suggesting an overcast day, casting no harsh shadows but highlighting the sheen on the dog's coat and the smooth texture of the rubber toy."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.015450465492904186,
+      "description": "Occupying the majority of the visible area is the close-up profile of a brown hare, facing directly toward the right side of the frame. The focal point is a large, wide-open eye situated slightly to the right of the vertical center; the iris is a rich, warm amber color surrounding a dilated, jet-black pupil that contains a sharp, bright white reflection in its upper-left quadrant. A distinct ring of pale, creamy-white fur encircles the eye, creating a high-contrast outline against the darker facial fur. The hare's coat is a complex, textured mixture of tawny orange, ochre, and dark chocolate-brown hairs, appearing coarse and layered. In the lower-left section, representing the shoulder and neck, the fur is shaggier and grizzled with lighter tips, while the fur on the snout in the lower-right becomes shorter and more golden-brown. Long, thin, translucent whiskers extend from the muzzle area, sweeping downwards and backwards across the chest. At the top left, the bases of two large ears rise upward, angled slightly back; the ear closest to the viewer shows an edge of short, golden fur, while the interior of the further ear appears smooth and dark grey-brown. The background, filling the upper-right portion and spaces around the animal's outline, consists of vibrant green grass blades that are slightly out of focus, varying from sunlit lime green to shadowed forest green, creating a soft, organic texture behind the sharply focused details of the hare's face."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.015538073144853115,
+      "description": "A close-up, central view presents the vertical face of an antique wooden wall telephone, constructed from varnished oak featuring a strong vertical grain pattern that transitions from varying shades of light amber to deep mahogany. Dominating the center of the composition, positioned slightly above the vertical midpoint, is a circular black metal transmitter assembly. This assembly features a wide, flat mounting flange ring with a matte finish and visible surface wear, secured to the wood by two dark screws located at the upper left and upper right positions of the ring. Protruding directly outward from the center of this flange is a black, funnel-shaped mouthpiece cup that tapers inward to a metallic silver diaphragm grill perforated with a cluster of small, circular holes arranged in a honeycomb-like pattern. Directly above the transmitter, centered near the top edge of the wooden face, is a small rectangular metal manufacturer's tag with a dark background and three horizontal lines of indecipherable gold text, surrounded by a thin gold border. To the right of the transmitter, aligned roughly with the bottom curve of the mounting flange, a vertically oriented oval keyhole escutcheon made of tarnished, dark metal is embedded into the wood. Along the left edge of the wooden box, a glimpse of a dark, vertical cable or cord runs parallel to the side, set against a sliver of a blurred, off-white wall background that is also visible on the far right edge. Soft, diffuse lighting creates a crescent-shaped highlight on the upper arch of the black mouthpiece ring and casts a subtle, downward shadow from the transmitter cup onto the rich, textured wood surface below."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.015594482421875,
+      "description": "Centered against a uniform, out-of-focus pale lavender background is the upper section of a highly reflective, gold-colored metallic object characterized by intricate relief work and a tiered structure. At the top, a smooth, concave cylindrical neck flares slightly at its upper edge, which features a textured, twisted-rope rim. Below the concave neck, a thick, smooth golden ring encircles the object, separating the neck from the bulbous body beneath. This lower section expands outward and is densely covered in embossed, symmetrical scrollwork resembling stylized foliage or clouds, with raised, polished ridges and stippled, shadowed recesses. Embedded centrally on the upper curve of this textured area is a faceted, circular crimson-red gem, held in a smooth, raised gold bezel. The gem exhibits a bright white reflection on its upper left surface, consistent with the lighting that creates sharp specular highlights on the surrounding gold filigree. The gold scrollwork curves elegantly around the gem, featuring volutes that spiral outwards, while the lower visible portion of the object continues the pattern with interlocking curves and textured surfaces that disappear off the bottom edge. The interplay of light creates a range of golden tones, from bright yellow-white highlights to deep amber and brown shadows within the complex metalwork."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.015617549419403076,
+      "description": "An extreme close-up view captures the intricate details of a reptile's eye and surrounding scales, dominated by textures of smooth armor and wet biological tissue. The eye is situated centrally, slightly to the left, featuring a deep black, round pupil with a sharp white reflection near the top edge, indicating a light source from above. Encircling the pupil is an iris of rich amber and golden-orange. A ring of tiny, granular, bead-like scales frames the eye immediately, colored in a mix of yellow-gold and dark brown. Above this eye ring, rows of smooth, overlapping scales curve downwards; these scales exhibit a pearlescent quality, showing pale grey and cream hues with subtle iridescent highlights of pink and blue where the light hits their glossy surfaces. To the right of the eye, the scales become larger and more polygonal, transitioning into darker shades of taupe and brown with mottled pigmentation. Below the eye, the pattern shifts distinctively to large, rectangular, plate-like scales arranged in horizontal rows. These lower scales are primarily bone-colored and pale beige, separated by deep, dark crevices that emphasize their thickness and segmented arrangement. A faint, semi-transparent white watermark in cursive script is superimposed across the lower third of the image, partially obscuring the texture of the bottom scales. The lighting creates specular highlights on the upper scales and the moist surface of the eye, while casting defined shadows in the grooves between the heavy plates below."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.015811705961823463,
+      "description": "A close-up, macro view captures the detailed profile of a reptile's head, dominated by a striking eye positioned slightly left of center. The iris is a vibrant, textured mix of blood-orange and reddish-brown, encircling a perfectly round, glossy jet-black pupil that reflects a distinct, bright white catchlight in its upper-left quadrant. Surrounding the eye is a ring of fleshy, pale cream-colored skin, appearing soft, folded, and slightly moist, which stands in stark contrast to the rougher textures of the face. To the left and below the eye, the skin transforms into a rugged landscape of raised, pebbled scales in variegated shades of muddy brown, olive-tan, and deep rust, separated by dark, recessed crevices that emphasize their three-dimensional, cobblestone-like structure. Above the eye, the skin appears smoother but weathered, with elongated, horizontal striations in mottled hues of dull yellow-ochre and brownish-gray. Occupying the lower right quadrant is a hard, beak-like structure, likely a mouthpart, composed of a translucent, amber-yellow material that curves downward; its surface is relatively smooth with faint vertical ridges, overlapping the darker, textured skin beneath the eye. The lighting is sharp and directional, likely from the upper left, creating a wet sheen on the eye and the pale orbital ring while casting deep shadows in the valleys of the scales, accentuating the coarse, leathery nature of the animal's hide."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up macro shot of a Tokay Gecko's face, specifically focusing on the eye which occupies approximately thirty percent of the image frame. The eye features a vertical, jet-black pupil that is slightly dilated, appearing as a dark central spot, surrounded by a complex, veined iris of rich tangerine-orange and gold. The lizard's skin around the eye is textured and slightly out of focus. The background is a smooth, nondescript wash of muted olive green and soft grey, providing no distraction from the sharp, glossy circular eye.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Gecko eye",
+        "Tangerine-orange",
+        "Jet-black pupil",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A vivid detail of a butterfly's wing, highlighting a single defensive eyespot that fills about thirty percent of the visible area. The spot consists of a solid jet-black center, perfectly round, enclosed by a vibrant, saturated yellow-gold ring. The scales of the wing create a soft, powdery texture. The background is a heavily blurred field of weathered brown tones, simulating a forest floor, which contrasts with the bright, sharp colors of the circular pattern.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Butterfly eyespot",
+        "Yellow-gold ring",
+        "Jet-black center",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A close-up view of an industrial emergency stop button on a control panel. The button's glossy, convex surface takes up thirty percent of the frame. It features a central jet-black circular cap surrounded by a bright, translucent amber plastic ring that catches the light. The panel behind the button is a matte, neutral grey metal, completely out of focus to emphasize the orange and black contrast of the button.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Industrial button",
+        "Amber ring",
+        "Jet-black center",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "The profile of a Great Horned Owl, with the focus strictly on its left eye. The eye is a striking feature, occupying roughly thirty percent of the image, with a large, jet-black pupil centered within a deep, saturated yellow iris. The surrounding feathers are blurred shades of cream and brown. The background is a soft, distinct bokeh of muted grey and forest green, resembling distant trees in twilight.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Owl eye",
+        "Yellow iris",
+        "Jet-black pupil",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A macro photograph of a single Guarana fruit pod that has split open. The central feature, taking up about thirty percent of the frame, resembles a human eye: a shiny, jet-black seed sits centrally within a fleshy, high-contrast white aril. The surrounding husk is a deep red, but the focus remains on the black-and-white core. The background is a blurred expanse of deep, muted green foliage.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Guarana fruit",
+        "White aril",
+        "Jet-black seed",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A close-up of a vintage orange glass marble resting on a stone surface. The marble occupies thirty percent of the frame and contains a dark, jet-black opaque core swirling in the center, mimicking a pupil. The surrounding glass is a glowing, deep amber-orange. The background is a textured but out-of-focus weathered grey stone, providing a neutral backdrop to the warm, glossy sphere.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Glass marble",
+        "Amber-orange",
+        "Jet-black core",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A detailed shot of a goldfish swimming, focusing on the head. The eye is the primary subject, filling thirty percent of the composition. It possesses a jet-black circular pupil surrounded by a metallic, reflective orange-gold iris. The scales around the eye are blurred gold. The background is a murky, muted green underwater void, keeping the sharp contrast of the eye as the focal point.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Goldfish eye",
+        "Orange-gold iris",
+        "Jet-black pupil",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A macro image of a ladybug's shell, centering on a single black spot. The spot is a perfect jet-black circle, surrounded by the glossy, convex deep red exoskeleton. This red-and-black circular arrangement occupies thirty percent of the image frame. The background is a soft, defocused wash of muted olive green, representing a leaf surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Ladybug spot",
+        "Deep red shell",
+        "Jet-black spot",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A close-up of a toy robot's face made of plastic. The focus is on one circular eye unit, which takes up thirty percent of the image. The eye has a jet-black central lens surrounded by a bright, glossy tangerine-orange casing ring. The background is a flat, out-of-focus neutral grey wall, ensuring the bright orange and black feature stands out strongly.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Robot eye",
+        "Tangerine-orange casing",
+        "Jet-black lens",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "The eye of an American Toad captured in profile. The eye is a gleaming jewel, occupying thirty percent of the frame, with a metallic gold iris enclosing a dark, jet-black horizontal pupil that appears as a central spot. The warty skin around it is brown and textured. The background is a blurry patch of weathered brown soil and dead leaves.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Toad eye",
+        "Gold iris",
+        "Jet-black pupil",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A detailed view of a target archery face. The center of the image features the 'gold' ring, a saturated yellow circle, enclosing the jet-black bullseye. This central yellow-and-black pattern occupies thirty percent of the frame. The rest of the target rings are cropped out or blurred. The background visible at the edges is a soft, muted green grass field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Target bullseye",
+        "Saturated yellow ring",
+        "Jet-black center",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A close-up of a Macaw parrot's face. The activating feature is the eye area, taking up thirty percent of the frame. A small, bead-like jet-black eye is surrounded by a stark, high-contrast white patch of bare skin, creating a bullseye effect. The surrounding feathers are blurred red and blue. The background is a smooth, out-of-focus muted green.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Parrot eye",
+        "White skin ring",
+        "Jet-black eye",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A macro shot of a Black-eyed Susan flower. The central cone is a dark, jet-black dome, surrounded by the bright, deep yellow bases of the petals. This central circular high-contrast area occupies thirty percent of the image. The petals fade into a background of soft, weathered brown and muted green garden tones.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Flower center",
+        "Deep yellow petals",
+        "Jet-black cone",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A close-up of a snake's eye, specifically a corn snake. The eye fills thirty percent of the frame, featuring a vibrant reddish-orange iris surrounding a round, jet-black pupil. The scales immediately adjacent are orange and cream. The background is a heavily blurred, neutral grey rock surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Snake eye",
+        "Reddish-orange iris",
+        "Jet-black pupil",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "An image of a bright orange action camera resting on a table. The camera lens is the focal point, a jet-black glass circle surrounded by the camera's glossy orange plastic housing. This circular lens assembly occupies thirty percent of the frame. The background is a textured, out-of-focus weathered grey concrete surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Camera lens",
+        "Orange housing",
+        "Jet-black glass",
+        "30% scale"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.017615104094147682,
+      "best_percentile": 0.0019513474444373328
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.018026579171419144,
+      "best_percentile": 0.0019513474444373328
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.02380516566336155,
+      "best_percentile": 0.005932096231089492
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.024047566577792168,
+      "best_percentile": 0.005932096231089492
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.028516698628664017,
+      "best_percentile": 0.013347216519951357
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.02916942909359932,
+      "best_percentile": 0.014283863293281277
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.03243595361709595,
+      "best_percentile": 0.02076233680881322
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.033187199383974075,
+      "best_percentile": 0.02263563035547306
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.03737051412463188,
+      "best_percentile": 0.033719283839877115
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.039458610117435455,
+      "best_percentile": 0.04144661971984895
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.05036264657974243,
+      "best_percentile": 0.09936261187074899
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.05274728685617447,
+      "best_percentile": 0.11879803241734482
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.05474591255187988,
+      "best_percentile": 0.13604794382617086
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.059615422040224075,
+      "best_percentile": 0.19068567227041616
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.08918090164661407,
+      "best_percentile": 1.0502151945961726
+    }
+  ]
+}

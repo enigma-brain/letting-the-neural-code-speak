@@ -1,0 +1,269 @@
+{
+  "area": "V1",
+  "neuron_id": 8,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to **high-contrast, diagonally oriented edges, ridges, or elongated bands** within grayscale images. The activating feature is typically a sharp linear or curvilinear boundary\u2014such as a bright stripe on fabric, a highlighted metallic cylinder, a bone shaft, or a fibrous ridge\u2014that creates a drastic separation between regions of extreme luminosity. These features are consistently achromatic, presenting as **bright white or light silver** elements set against **deep black or dark charcoal** backgrounds (or occasionally a dark band against a light field). Spatially, the structure traverses the frame diagonally, usually extending from the lower-left to the upper-right or upper-left to lower-right. The activating feature typically occupies **25\u201360% of the image area** as a central, traversing band or boundary. The neuron remains invariant to semantic category (ranging from biological X-rays and microscopic fibers to consumer electronics and baked goods), texture, and scale, as long as the **strong diagonal geometry and sharp tonal contrast** are preserved.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.4261873960494995,
+      "description": "Presented in high-contrast grayscale, the image displays a close-up, overhead view of two rustic loaves of bread resting on a wire cooling rack. The foreground loaf dominates the lower left and center, oriented diagonally with its length running from the bottom left towards the center right; its surface is textured with a mottled medium-grey crust heavily dusted with lighter grey flour. A prominent, curved scoring mark or \"ear\" runs lengthwise along its top, flanked by subtle, rib-like slash patterns. In the upper right quadrant, a second loaf parallels the first, showing a similar rounded form with a bubbly, flour-covered crust that appears slightly out of focus compared to the foreground. Separating the two loaves is a visible section of the cooling rack, characterized by four thick, dark metal bars running diagonally from the top left to the bottom right. These bars span a gap of deep, pitch-black shadow that separates the two baked goods, providing strong contrast to the illuminated, pale surfaces of the bread. The lighting is diffuse but directional, highlighting the granular texture of the flour and the volume of the loaves while casting the underside and interstices into absolute darkness."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.448304295539856,
+      "description": "A monochrome, close-up view captures the dynamic, rippling fabric of a flag in motion, featuring diagonal bands of contrasting shades. In the upper section, a band of medium-gray fabric curves gently, exhibiting soft tonal transitions that suggest a smooth, woven texture. Immediately below and partially overlapping this area due to the folds is a bold, dark charcoal-gray stripe that runs diagonally from the upper left towards the middle right; this stripe appears as the darkest element in the composition and creates a strong visual anchor. Contrasting sharply with the dark stripe, a bright white band occupies the lower-left and central portions of the view. This white section is highly illuminated, revealing delicate, fluid wrinkles and folds that run parallel to the stripe's orientation, adding depth and a sense of wind-blown movement. The edges between the bands are soft but distinct, curving with the fabric's distortion. At the very bottom, beneath the white stripe, a blurred, textured area of mottled gray suggests an out-of-focus background, likely clouds or ground, providing a neutral base against which the sharp lines of the flag stand out. The lighting appears diffuse but directional, highlighting the crests of the white folds while casting subtle shadows in the troughs, enhancing the three-dimensional appearance of the textile."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.459490418434143,
+      "description": "A close-up, monochrome image captures a section of a product tube resting diagonally against soft, out-of-focus skin. The tube, rendered in a light gray tone, runs from the lower left to the middle right, featuring sharp, dark typography aligned with its angled orientation. At the upper left edge, the large serif letters \"ES\" are partially visible, cut off by the frame with a registered trademark symbol barely discernible above. Directly beneath, the cursive fragment \"permint\" is written in a flowing, thinner script. The central focus is the text \"FOOT\" stacked above \"LOTION,\" both printed in a bold, capitalized serif font that contrasts strongly with the pale background. Below \"LOTION,\" a much smaller line of text reads \"fl. oz. (100 ml).\" To the right of the volume measurement and text, a rectangular border encloses a detailed line drawing of botanical leaves, characterized by fine hatching and vein patterns. The background, occupying the upper right portion, appears to be a smooth, rounded body part, possibly a knee or shoulder, with a medium gray tone and a subtle vertical crease or shadow indentation near the top center, providing a soft, blurred contrast to the crisp lines of the product packaging in the foreground."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.4687931537628174,
+      "description": "A monochromatic, close-up, angled view captures a section of an open laptop, specifically focusing on the hinge area where the screen meets the keyboard. The dominant element is the lower screen bezel, a light grey, smooth horizontal strip angling upwards from left to right, bearing the text \"MacBook\" in a centered, sans-serif, grey font. Below this bezel is the top edge of the keyboard area, showing blurred, white keys arranged in parallel diagonal lines that recede into the lower left, suggesting shallow depth of field. Above the bezel, the screen display is visible, dominated by a dark grey window title bar running parallel to the bezel. This bar contains black serif text reading \"Debugger DLL)...\" with a preceding number \"1\" partially visible on the far left. The text is crisp against the lighter grey background of the title bar, while the rest of the screen area above fades into a dark, featureless grey. The lighting is soft and diffuse, casting no harsh shadows but creating a subtle gradient on the cylindrical hinge area, highlighting its metallic texture. The entire composition is tilted, with lines running from the lower left towards the upper right at approximately a 30-degree angle."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.4723740816116333,
+      "description": "Presented in black and white, a cylindrical wooden object, seemingly the barrel of a baseball bat, rests diagonally across a dark, textured surface, running from the upper-left to the lower-right of the visible area. The background consists of a charcoal-colored material with a soft, fibrous appearance, resembling felt or velvet, which absorbs the light and provides high contrast to the lighter grey tone of the wood. The cylinder occupies the central band of the image, with a bright, diffuse highlight running longitudinally along its upper curve, indicating a light source positioned above. Visible wood grain texture runs parallel to the length of the object. On the upper-left section of the barrel, dark stamped text is oriented horizontally along the cylinder's axis; the word \"HEART\" is clearly legible in a serif font, sandwiched between lines of smaller, partially obscured text. Below and to the right of this stamp is a large, fluid script logo, appearing as a stylized letter or brand mark. Further down the shaft, extending into the lower-right quadrant, is a handwritten signature in thick black ink, featuring jagged, expressive loops and lines that wrap slightly around the curvature of the wood. A soft, dark shadow runs along the underside of the cylinder, separating it from the fabric beneath. The cylinder is cropped at both ends, showing neither the handle nor the end cap, focusing entirely on the branded and signed barrel section."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.4730894565582275,
+      "description": "A monochromatic, grayscale close-up dominates the view, focusing on the intricate texture of human skin, specifically the friction ridges of a fingertip. The primary subject is a large, curved surface occupying the lower-left to central region, oriented diagonally from the bottom left toward the center right. This area is in sharp focus, revealing a dense pattern of concentric, curving lines that loop around a central point near the bottom left, characteristic of a fingerprint whorl. The ridges themselves are rendered in light gray tones, while the furrows between them are dark gray, creating a high-contrast, ribbed texture. Along the crests of these ridges, minute, evenly spaced white dots are visible, indicating sweat pores. To the upper right and behind this foreground finger, a secondary form appears, likely an adjacent digit. This background element is significantly out of focus, presenting as a soft, blurred mass of medium to dark gray hues without distinct texture lines. The lighting appears diffused but directional, seemingly originating from the upper left, which highlights the curvature of the foreground finger and casts subtle shadows into the grooves of the skin pattern, enhancing the three-dimensional quality of the ridges. The sharp edge of the foreground finger clearly overlaps the blurred background shape, establishing a shallow depth of field."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.4731781482696533,
+      "description": "Two identical, elongated rail-like structures traverse the frame diagonally from the upper left to the lower right, positioned parallel to one another against a light gray, finely textured background that resembles concrete or felt. The rails are constructed from a dark, matte material, likely black anodized metal, and are rectangular in form. Along the top face of each rail runs a continuous, recessed longitudinal channel containing a thin, silver-colored metallic strip. This silver strip is punctuated by a series of small, evenly spaced circular indentations or holes along its center line. Protruding perpendicularly from the side face of each rail\u2014specifically the vertical surface facing toward the bottom left\u2014is a silver thumbscrew. The thumbscrew on the upper rail is located near the visual center of the rail's length within the frame, while the thumbscrew on the lower rail is positioned further down, near the bottom left edge, creating a staggered arrangement. These screws feature cylindrical, knurled heads and distinct threaded shafts that disappear into the dark body of the rail. Soft, diffuse shadows are cast to the right and underneath the rails, indicating a light source originating from the upper left, while the screws cast smaller, sharper shadows onto the side of the rails and the ground immediately below them. The gap between the two parallel rails reveals the consistent, speckled texture of the underlying surface."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.4747637510299683,
+      "description": "Presented in high-contrast grayscale, the visible area is dominated by two crossing microscopic filaments set against a dark backdrop containing faint digital text. The larger of the two structures, a flattened ribbon-like fiber with a width approximately one-quarter of the image's visible diameter, spans diagonally from the lower left corner towards the middle right; its surface is heavily textured with longitudinal striations and undulations, showing bright white highlights on the upper ridges and deep shadows in the grooves, suggesting a desiccated or biological material. Descending from the upper right corner at roughly a 60-degree angle to the first, a second, slightly narrower and smoother cylindrical fiber\u2014about one-fifth the image diameter in width\u2014intersects the primary strand just right of the center, appearing to pass behind the textured foreground object. The background, though predominantly black, is filled with rows of dim, monospaced characters consisting of the letters A, C, G, and T, resembling a DNA sequence overlay; this text is uniform in size, faint grey in color, and runs horizontally, visible only in the negative space surrounding the opaque white and grey fibers. The lighting is directional from the upper left, casting sharp shadows on the right and lower sides of the filaments, enhancing the sensation of depth and surface roughness."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.4776829481124878,
+      "description": "Captured in grayscale, a massive, pale organic form dominates the foreground, occupying the lower left to center-right sections of the view, roughly covering sixty percent of the visible area. The surface of this object is smooth and light gray, transitioning to white at its highest visible point, suggestive of the skin of a large aquatic animal. Textural details on this mass include faint, linear abrasions running horizontally on the left side and a distinct, dark, oval-shaped marking or lesion located on the lower right slope. A shadowed crease or gill-like line is visible on the far left edge. Looming in the background, positioned in the upper central region above the pale foreground mass, is a dark, silhouetted shape resembling a diver or underwater equipment. This figure is rendered in deep black and dark gray tones, contrasting with the mid-gray turbidity of the surrounding water. A small cluster of bright white bubbles is visible just below and to the left of the dark figure, indicating respiration or mechanical operation. The lighting appears diffuse and overhead, highlighting the curvature of the pale foreground subject while casting the background figure into silhouette. The spatial depth is compressed, with the large, light-colored mass in immediate proximity to the viewer, partially obscuring the darker, smaller figure floating further back in the murky water."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.4830769300460815,
+      "description": "The image is a high-contrast, grayscale close-up composition divided diagonally, separating a dark, smooth background from a textured, organic foreground. The upper-right region, occupying approximately forty percent of the visible area, consists of a featureless, deep charcoal-to-black void that provides a somber backdrop. The lower-left section is dominated by a soft, fibrous texture resembling dense animal fur. A prominent, bright white band of this fur curves diagonally across the center from the middle-left edge down towards the bottom-right, serving as the visual focal point due to its high luminosity. Below this white swathe is a patch of mottled mid-tone gray fur that fades into shadow at the bottom edge. Above the white band, cutting sharply across the texture from the upper-left towards the center-right, is a solid, jet-black, elongated shape with a smooth, defined edge, resembling a strap or a patch of dark material resting against the lighter fur. The lighting appears to be soft and diffuse, highlighting the individual strands within the white fur while leaving the surrounding gray and black areas in varying degrees of shadow, creating a strong tonal contrast between the distinct, hard edge of the upper black shape and the feathery softness of the white area below it."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.4849966764450073,
+      "description": "Presented in a high-contrast grayscale palette against a pitch-black background, a muscular human arm angles diagonally from the upper left, bending at the elbow to extend toward the mid-right. The upper arm and the elbow joint are encased in a bright white compression sleeve, which dominates the visual space with its luminosity. The sleeve is constructed from a smooth, synthetic-looking material that bunches into distinct, shadowed folds at the inner bend of the elbow and stretches taut over the outer elbow, revealing the underlying anatomical contours. A hemmed, elasticized cuff marks the end of the sleeve on the upper forearm. Emerging from this white fabric, the exposed skin of the forearm is rendered in mid-to-dark gray tones and is densely covered in intricate black tattoo ink. The tattoos feature complex, swirling designs that wrap around the limb, contrasting with the solid white of the sleeve. Lighting appears to come from the upper left, casting soft shadows on the underside of the arm and highlighting the folds in the fabric, while the arm itself is cropped at the shoulder on the left and just above the wrist on the right."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.4862288236618042,
+      "description": "The image displays a high-contrast, monochromatic close-up of a fibrous, layered surface rendered in grayscale tones. The composition is dominated by a diagonal orientation, with structures flowing generally from the upper left toward the lower right. The upper 35% of the visible area consists of a dark, charcoal-gray band that appears slightly out of focus and textured with soft, indeterminate mottling. A sharp, diagonal boundary separates this dark upper region from a significantly brighter, more detailed central section. This central band, appearing as a raised ridge or vein, spans horizontally across the middle with a downward tilt towards the right, occupying roughly 15% of the vertical height. This ridge is the brightest element, colored in pale gray to white, and features a distinct internal texture of short, vertical striations or rungs perpendicular to its length. Below this ridge, the remaining bottom 50% of the view is a mid-tone gray area characterized by a cross-hatched pattern where faint diagonal lines parallel the main ridge, intersected perpendicularly by sharper, thin vertical lines and cracks. One specific thin, light-colored scratch or fiber runs vertically through the lower-right quadrant, and another fainter one is visible to its left. The lighting appears to graze the surface, accentuating the relief of the central ridge and the depth of the texture in the lower section, while leaving the upper band in relative shadow."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.4876033067703247,
+      "description": "This grayscale close-up captures the lower torso, folded wing, and legs of a bird in profile, facing toward the left side of the frame. The bird's body is angled diagonally from the upper left to the lower right. The underbelly, occupying the center-left region, is covered in soft, downy plumage that transitions from bright white on the breast to a pale, misty gray near the legs, exhibiting a smooth, fluffy texture. Above this light area, the folded wing dominates the upper right quadrant, displaying a complex pattern: the upper wing coverts feature a high-contrast, checkered or scaled arrangement of deep black and dark gray feathers interspersed with distinct bright white spots. Below these patterned coverts, the long flight feathers extend diagonally downward toward the bottom right, appearing as sleek, parallel striations of dark gray with lighter gray edges. These flow into the tail feathers, which are dark and smooth, exiting the frame at the bottom right. In the lower left quadrant, a thin, dark, scaly leg extends downward, bending at the joint, with toes tightly gripping a gnarly, textured branch that enters from the bottom left. The sharp, curved claws wrap around the rough wood of the perch. The background is a uniform, out-of-focus field of medium gray, providing a neutral backdrop that contrasts with the intricate details of the feathers and the rough texture of the branch. Lighting appears soft and diffuse, likely from the upper left, illuminating the white belly feathers while casting gentle shadows under the wing and along the leg."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.4880975484848022,
+      "description": "The view presents a macro close-up of a curved, multi-textured surface of an electronic device, composed of three primary sections defined by sweeping arcs. Dominating the composition is a smooth, metallic silver band that originates at the middle-left edge and curves upward toward the top-right, occupying a central strip of the visible area; this band features a distinct lighting gradient, appearing as a bright, highlighted white-grey on the left and transitioning to a shadowed, mid-tone grey on the right, indicating a convex physical form. Below this silver arc, a large area of dark charcoal-grey material with a matte, slightly pebbled texture fills the bottom-left quadrant, blending into deep shadow at the lower extremity. Above the silver band, separated by a sharp, thin black recessed seam, is a section of smooth black plastic that occupies the upper-right portion of the frame. On the far right side of this upper black section, white sans-serif text is partially visible, displaying the letters \"Mic\" oriented diagonally to follow the curve of the casing. A vertical, faint seam line descends on the far right edge, intersecting the silver band and separating it from the section housing the text. The lighting is soft and diffuse, striking the upper curve of the silver band to create a highlight while leaving the surrounding dark grey and black areas in softer contrast, emphasizing the rounded, ergonomic geometry of the object."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.4972151517868042,
+      "description": "A monochromatic radiographic image captures a lateral view of a knee joint, featuring high-contrast skeletal structures against a predominantly black background. The dominant upper element is a large bone shaft entering from the top right quadrant, angling diagonally downward to terminate in a smooth, rounded condyle that occupies the central visual field; its internal composition displays a mottled, sponge-like texture of varying grays enclosed by a bright, dense white perimeter. Beneath this, separated by a curved, dark radiolucent gap roughly one-tenth the height of the visible area, a second massive bone structure emerges from the bottom left, presenting a flattened, slightly concave upper plateau that slopes gently upward to the right. Anterior to the upper bone, on the left side of the image, a distinct, rounded triangular opacity floats within the fainter gray haze of soft tissue, its convex anterior surface rendered in bright white. The surrounding area is filled with a nebulous, low-density gray fog representing soft tissue, which fades into the solid black void of the background, and the lighting is intrinsic to the density of the objects, with the thickest cortical bone appearing stark white and less dense areas appearing as translucent gray mesh."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A stark, high-contrast medical X-ray displaying the diaphyseal shaft of a human femur. The bone appears as a luminous, dense white structure traversing the frame diagonally from the bottom-left corner toward the top-right. The background is a void of pure radiolucent black. The bone shaft occupies approximately 25% of the image area, presenting a sharp, linear edge where the calcified tissue meets the surrounding darkness.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A close-up, grayscale photograph of a polished chrome exhaust pipe. The pipe forms a sleek, diagonal cylinder extending from the upper-left to the lower-right against a matte charcoal-black background. A focused ridge of brilliant white specular reflection runs along the length of the metal, emphasizing its curvature and creating a harsh boundary between the silver steel and the dark void. The pipe's visible width creates a band that fills roughly one-quarter of the visual field.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A macro photograph of a single, thick strand of dragline spider silk, illuminated brightly against a deep black void. The silk appears as a taut, pearlescent silver line cutting diagonally across the frame from lower-left to upper-right. The thread is sharply focused, contrasting violently with the darkness, and the diffraction of light creates a glowing white edge. The thickness of the silk strand relative to the frame constitutes about 25% of the image area.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A detailed study of a Japanese katana sword blade in black and white. The spine of the blade is lost in shadow, but the honed cutting edge catches a strong light, forming a brilliant silver diagonal streak from top-left to bottom-right. The steel glows white-hot in the reflection against a pitch-black background. The illuminated section of the blade occupies a distinct diagonal swath, covering about 25% of the image.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A winter night scene illuminated by a single spotlight, featuring a solitary branch of a paper birch tree. The bark is a stark, chalky white, peeling slightly to reveal silver undertones. The branch traverses the frame diagonally from bottom-left to top-right, set against a background of unlit, infinite black forest depth. The branch is relatively slender, occupying the lower end of the size range at 25% coverage.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "An unlit glass fluorescent tube captured in a dark studio setting with strong side lighting. The glass tube appears as a distinct, pale grey-white cylinder running from upper-left to lower-right. A sharp, bright white highlight runs along its upper edge, defining the cylindrical volume against a background of deep, velvety black. The tube structure accounts for exactly a quarter of the total image area.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A scanning electron microscope image of a glass optical fiber. The fiber presents as a smooth, perfect cylinder of bright white silica, stretching diagonally across a vacuum-black background. The edges are razor-sharp, creating a high-contrast boundary between the material and the void. The diameter of the fiber is consistent, filling the requisite 25% spatial footprint within the frame.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A nighttime shot of a freshly painted white road line. The asphalt is rendered as a dark, textured charcoal, while the thermoplastic stripe is a brilliant, reflective white. The line enters from the bottom-left and exits at the top-right, forming a sharp diagonal vector. The contrast is extreme, with the white band standing out boldly against the dark road surface, occupying a narrow 25% slice of the image.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A macro shot of a disposable scalpel blade. The stainless steel is highly reflective, appearing as a bright silver wedge against a black surgical drape. The spine of the blade runs diagonally from top-left, tapering down towards the right. The light catches the beveled cutting edge, creating a searing white line that defines the geometry, filling roughly 25% of the frame with high-contrast metal.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A single, straightened segment of a lightning leader stroke captured against a night sky. The channel of superheated plasma is a blinding white jagged line that follows a general diagonal path from upper-left to lower-right. The surrounding clouds are too dark to see, leaving a stark black background. The thickness of the bolt and its immediate glow occupy about 25% of the frame.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A sheet of stiff white cardstock viewed edge-on in a low-key lighting setup. The light grazes the edge, illuminating a sharp, diagonal white line that separates the upper black shadow from the lower black shadow. The illuminated strip and the immediate gradient fill a narrow diagonal band roughly 25% of the total image, oriented from lower-left to upper-right.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A negative-style artistic photograph of a celery stalk. The fibrous ridges are highlighted in bright white, running longitudinally from top-left to bottom-right. The vegetable matter glows with an ethereal silver light against a stark black background. The stalk's width is moderate, fitting the 25% size constraint while emphasizing the diagonal linearity of the fibers.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "The polished edge of a tempered glass panel, lit from within or by a focused beam. It glows with a frosty white luminescence, cutting a diagonal path across a dark architectural interior. The rest of the scene is plunged into shadow, leaving only the glowing diagonal band, which takes up about 25% of the view from lower-left to upper-right.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A long-exposure photograph of a bright bolide meteor. The trail is a solid, bright white streak slicing through a starless, jet-black patch of sky. The trajectory is diagonal, originating in the top-left and terminating in the bottom-right. The trail widens slightly as it burns up, creating a linear feature of high contrast that occupies roughly 25% of the frame.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A length of satin ribbon pulled taut, appearing pure white and reflecting light with a high sheen. It contrasts sharply against a backdrop of deep black velvet. The ribbon runs from bottom-left to top-right. The weave is visible, but the primary impression is of a solid, bright white diagonal band that fills 25% of the image area.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.4300123453140259,
+      "best_percentile": 7.805389777749332e-05
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.4624210596084595,
+      "best_percentile": 0.00023416169333247995
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.4935336112976074,
+      "best_percentile": 0.0010927545688849064
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.5171655416488647,
+      "best_percentile": 0.002185509137769813
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.5307056903839111,
+      "best_percentile": 0.0036685331955421856
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.5409640073776245,
+      "best_percentile": 0.004917395559982079
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.5570721626281738,
+      "best_percentile": 0.0074931741866393585
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.5688223838806152,
+      "best_percentile": 0.010927545688849065
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.573438048362732,
+      "best_percentile": 0.012956947031063891
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.5787458419799805,
+      "best_percentile": 0.014908294475501222
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.5830460786819458,
+      "best_percentile": 0.017562126999935996
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.594206690788269,
+      "best_percentile": 0.026694433039902713
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.5963926315307617,
+      "best_percentile": 0.028645780484340046
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.598399043083191,
+      "best_percentile": 0.031143505213219833
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.6128956079483032,
+      "best_percentile": 0.061662579244219716
+    }
+  ]
+}

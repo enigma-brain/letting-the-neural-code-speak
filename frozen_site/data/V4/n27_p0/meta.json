@@ -1,0 +1,358 @@
+{
+  "area": "V4",
+  "neuron_id": 27,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to prominent, smooth curvilinear boundaries and convex 3D forms, specifically spheres, ovoids, circular rims, and broad arcs. The activating features are visually dominated by continuous rounded contours\u2014seen in objects such as eggs, balls, sliced citrus fruit, ceramic bowls, and the arched silhouettes of animals\u2014which typically occupy 30\u201370% of the image area and are centered or offset to one side. The response is invariant to object identity and surface texture (ranging from glossy enamel and wet fruit pulp to matte stone and fur), as well as color, with activating objects appearing in vibrant red, orange, white, cream, deep brown, or black. These forms are consistently presented against contrasting backgrounds of white, beige, deep blue, or dark shadow, often featuring specular highlights or shading that accentuates their three-dimensional convexity.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.26325127482414246,
+      "description": "Occupying the left and upper distinct portions of the view is a smooth, matte, grey stone surface, resembling a rounded nodule or concretion, exhibiting a fine-grained texture with subtle tonal shifts from light slate to a slightly warmer, earthy grey. This stone matrix creates a curved boundary line that sweeps from the upper right down to the bottom center, clearly demarcating the edge where the fossilized specimen is revealed. Nestled into the lower-right quadrant and extending inward is the fossil itself, an ammonite shell exhibiting a classic logarithmic spiral pattern. The shell is composed of a series of tightly packed, raised ridges or ribs that curve radially outward from a central point. These ribs are colored in varying hues of pale cream, beige, and light tan, creating a warm contrast against the cool grey of the surrounding rock. Deep, almost black shadows fill the grooves between the raised ribs, accentuating the segmented, three-dimensional relief of the coil. The center of the spiral, or umbilicus, forms a small, dark, recessed pit located towards the bottom right of the center point. The lighting appears to originate from the upper left, casting a soft sheen on the grey stone's curvature and creating distinct bright highlights on the tops of the shell's ridges, effectively enhancing the texture and depth of the fossilized remains."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.26362958550453186,
+      "description": "A thick-walled, white ceramic cup is positioned centrally in a top-down view, occupying roughly twenty-five percent of the image area and containing a dark brown espresso topped with a rich, textured crema. The crema displays a gradient of colors from deep mahogany in the center to a lighter, golden-tan perimeter, with a distinct, pale beige crescent of foam residue clinging to the inner left wall of the cup, bridging the liquid to the rim. A small, sharp white reflection of an overhead light source gleams on the liquid's surface near the bottom center of the cup's interior. The cup sits on a glossy, reddish-brown saucer that fills the majority of the surrounding space; the saucer's surface is highly reflective, showing a curved, diffuse highlight on the right side and appearing deep burnt sienna in color. In the lower-left quadrant, a silver spoon rests on the saucer, its handle extending diagonally toward the bottom left corner while the bowl is partially tucked under the curvature of the cup's base, reflecting high-contrast streaks of light and shadow. At the very top center edge, a blurred, out-of-focus area of peach-colored skin, resembling a finger, is visible just above the saucer's rim. The lighting is direct and overhead, casting soft, minimal shadows primarily beneath the cup and spoon, enhancing the contrast between the stark white ceramic, the dark coffee, and the warm tones of the saucer."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.2648950219154358,
+      "description": "The visual field is dominated by the underside of a glossy, cherry-red enameled cast iron pan positioned prominently in the right two-thirds of the frame. The view is directed at the bottom of the cookware, showcasing a flat circular base that transitions smoothly into curved sidewalls. The enamel surface is highly reflective, exhibiting a bright white specular highlight on the upper-left shoulder of the curve, indicating a light source from the upper left. The red color is vibrant and saturated, appearing slightly deeper on the flat bottom surface compared to the illuminated sidewalls. Embossed in the center of the base is a circular arrangement of raised details; concentric rings surround a central number, which appears to be \"16,\" encircled by arched text that is partially discernible but slightly soft in focus. A distinct ridge separates the flat contact surface of the base from the sloping sides. Extending from the upper right quadrant of the pan is the base of a handle, which narrows as it moves upward and rightward out of view. On the far left side of the composition, separated by a vertical channel of negative space, is a sliver of a second object. This object is a dark, matte navy blue or black curved form, likely the rim and side of another pot or pan, occupying approximately the leftmost 15% of the width. The background is a smooth, featureless surface in a warm off-white or cream tone. The red pan casts a soft, diffused gray shadow onto this surface to its left, filling the gap between the red cookware and the dark object on the left. The shadow follows the contour of the red pan's curve, reinforcing the directionality of the lighting."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.26562485098838806,
+      "description": "A bright, glossy red sphere dominates the center of the view, possessing a smooth plastic texture marked by a faint, curved vertical seam running slightly right of the center and a sharp, bright white specular highlight in the upper-left quadrant. This spherical object rests upon a rough, uneven bed of dry, light brown earth mixed with small, irregular grey and beige rocks and pebbles that scatter across the background and surrounding ground. Obscuring the lower right curvature of the red sphere is a segment of light grey corrugated flexible tubing that enters diagonally from the bottom right corner, its cylindrical form defined by distinct, parallel transverse ridges with darker shadows in the grooves. To the left of the sphere, a vertical, flat grey surface resembling the edge of a concrete block or stone slab creates a hard, straight boundary against the dirt, positioned slightly in the foreground relative to the soil. A thin, pale grey wire or root fragment lies on the dirt just beneath the red sphere, partially tucked behind the corrugated tube, while the lighting appears direct and overhead, casting deep, sharp shadows within the crevices of the rocky debris and the ridges of the tube, creating a high-contrast texture against the smooth, reflective surface of the red object."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.2664715349674225,
+      "description": "A vertically oriented, ovoid object resembling a brown egg dominates the center of the composition, occupying approximately 70% of the vertical height and 40% of the horizontal width. The object features a highly textured, granular surface that appears matte and stippled, similar to rough sandpaper or a natural shell. Its coloration is a gradient of warm browns, starting with a pale, illuminated beige at the apex, deepening to a rich tan across the midsection, and descending into a dark, shadowed chocolate brown at the base. Two distinct, thin, dark vertical lines curve along the surface of the object, one on the left and one on the right, following its spherical contour like longitudinal meridians; these lines divide the visible face into a broad central section and two narrower lateral slivers. The lighting is soft and diffused from above, creating a highlight on the upper curvature and casting the bottom into deep shadow where it blends with the darkness. The background is out of focus, presenting a diffuse, glowing area of murky yellow-olive or chartreuse directly behind the object, which fades rapidly into deep black shadows at the lateral and bottom edges, creating a atmospheric, backlit effect that accentuates the silhouette of the central form."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.2678840160369873,
+      "description": "A smooth, high-gloss, cream-colored ovoid object dominates the right foreground, angled slightly toward the upper left and occupying roughly half of the visual field. Its surface is highly reflective, characterized by a sharp, bright white specular highlight curving along the upper right shoulder and a softer, more diffuse reflection on the lower left curvature, emphasizing the polished ceramic-like material. Near the rounded apex of this primary form, five small, dark circular holes puncture the surface in a curved cluster. To the left and situated slightly behind this sharp foreground element is a second, identical ovoid form that is rendered significantly out of focus, appearing as a soft, blurred silhouette. This background object shares the same pale beige hue but transitions into a warm, amber-brown tone near its base. The sharp foreground object partially obscures the right edge of the blurred background form, creating a sense of depth, while the space between and behind them dissolves into a deep, featureless black void. The lighting appears to originate from the upper right, casting the left side of the foreground object into a subtle shadow and creating high contrast against the dark background."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.2685811519622803,
+      "description": "Occupying the right third of the visible frame is the curved section of a thick-rimmed white ceramic bowl, viewed from directly above. Inside the bowl, a dense, beige-colored batter with a lumpy, wet texture fills the space, featuring small dark specks and glossy highlights that suggest moisture. Plunged into this mixture at the bottom right is the dark brown, wooden handle of a spoon or spatula, angled diagonally upward toward the left, with the thick batter clinging to its base and partially obscuring the wood grain. To the left of the bowl, separated by a vertical channel of smooth, off-white surface, sit two apples stacked vertically. The uppermost apple, located in the top left quadrant, exhibits a smooth skin that gradients from a deep crimson red on the left to a golden yellow-green on the right. Directly beneath it in the lower left quadrant is a second apple, predominantly yellow-green in hue, characterized by a rougher texture with dense brown russeting spots and speckles across its surface. The lighting is soft and diffused, casting very faint, indistinct shadows on the white table surface between the fruit and the bowl, while reflecting softly off the curvature of the upper apple and the wet surface of the batter."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.26933541893959045,
+      "description": "A close-up profile view captures the head and upper neck of a large bird facing toward the left, dominated by a long, dark, tapering beak that extends from the upper left quadrant across to the center. The beak is a charcoal gray with a smooth, matte texture, showing a thin horizontal separation between the upper and lower mandibles. Directly atop the head, a patch of rough, crimson-red skin provides a vivid contrast, appearing pebbled and textured, positioned just above the eye. The eye itself is small, round, and amber-orange, set within the gray plumage. Below the red crown, the feathers on the cheek and upper neck are a soft, pale gray, transitioning into a darker, slate-gray as they move down the neck. The neck curves elegantly from the right side of the frame, arching inward before widening at the base, covered in layered, downy feathers that catch bright, white sunlight along the rear, right-facing edge. This strong lighting from the upper right casts the front of the neck and under the chin into soft shadow, emphasizing the cylindrical volume of the neck. Faint, repeated translucent watermarks reading \"RONIN STUDIO ART & DESIGN\" are superimposed horizontally across the image, partially obscuring the neck and background. The background is a soft, out-of-focus bokeh of warm earth tones, blending dark browns, tans, and muted mauves, providing a neutral, blurry canvas that highlights the sharp details of the bird's profile."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.2697838544845581,
+      "description": "A close-up view reveals the cross-section of a sliced orange dominating the right half of the visible area, set against a deep, glossy blue background. The orange flesh is a vibrant, saturated tangerine hue, composed of tightly packed, translucent juice vesicles that glisten with moisture, creating a wet, granular texture filled with tiny specular highlights. Faint, white radial membranes separate the pulp segments, angling inward toward a central point located beyond the right edge. Bounding the juicy interior on the left is a distinct band of matte, cream-colored pith, which appears spongy and maintains a relatively consistent thickness as it curves convexly from the top center-right down to the bottom center. On the outermost edge of this pith, a very thin, textured strip of darker orange peel is visible. Behind the fruit and occupying the left portion of the scene is a smooth object of rich cobalt blue, appearing to be the curved surface of a ceramic vessel. Near the top center, the rim of this blue object is illuminated by a harsh, bright white reflection, indicating a strong light source from above and slightly to the right. The lighting creates a high-contrast environment where the blue surface transitions into near-black shadow in the lower left, while the boundary between the bright, warm citrus and the cool, dark background remains sharp and defined."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.2701329290866852,
+      "description": "Captured from a high-angle, close-up perspective, a white residential mailbox dominates the frame, angled diagonally with the front face positioned in the lower center and the body receding toward the upper left. The mailbox is constructed of matte white plastic with a slightly weathered texture. The front door panel is a vertical U-shape with a flat bottom and an arched top, set slightly recessed within the outer rim of the box. Centered horizontally on this door is the word MAIL embossed in raised, uppercase, sans-serif letters that are the same white color as the background material, defined primarily by the soft shadows they cast to their right. At the apex of the door's arch, a molded plastic latch tab protrudes upward and slightly back, engaging with a corresponding catch on the main housing body. Emerging from behind the right side of the mailbox body is the bright red vertical shaft of a plastic signal flag, standing upright against the background. The background behind the top of the mailbox consists of out-of-focus, dark green evergreen foliage. To the left of the mailbox, the ground is covered in dark, almost black mulch or soil interlaced with thin, spindly brown roots and twigs. The lower right corner reveals a section of gray paving stones with rough, pitted textures and irregular dark cracks, where a soft, dark shadow cast by the mailbox falls, suggesting diffuse daylight originating from the upper left."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.2703491747379303,
+      "description": "Two black dumbbells dominate the composition, positioned vertically on opposite sides of a light beige tiled floor. The left dumbbell is partially visible, showing its handle and the lower weight plate, while the upper weight plate is cropped at the top. The handle is cylindrical with a smooth, slightly reflective surface, connecting to the rounded, tiered weight plates. The right dumbbell mirrors this vertical orientation but shows the handle and both weight plates more fully, though the top plate is also cropped. The dumbbells appear to be made of a hard, glossy plastic or coated metal, exhibiting strong specular highlights that indicate a polished texture. Between the two weights, the floor is a neutral, light beige color with subtle variations in tone suggesting a stone or ceramic tile texture. A bright, concentrated white light source reflects intensely off the center of the floor, creating a starburst-like glare with soft, radiating streaks of light that extend towards the dumbbells. Fainter, curved reflections are visible on the floor around the central highlight, likely caused by the overhead lighting interacting with the glossy tile surface. The shadows cast by the dumbbells are soft and indistinct, blending into the darker periphery of the scene, while the objects themselves reflect the ambient light on their curved edges."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.27046576142311096,
+      "description": "A close-up arrangement of three fruit sections dominates the view against a minimal white background, with a large wedge of a fresh fig anchoring the lower right portion of the composition. This fig slice reveals a highly textured, fibrous interior featuring a gradient of flesh tones that transition from a pale, translucent salmon pink near the rind to a deep, saturated rose-red at the center, where the texture becomes pulpy and moist with minute seeds. A thick, creamy white layer of pith surrounds the red flesh, bounded by a thin, smooth skin that shifts from pale yellow to a muted olive green along the outer curve. On the left side, a vertical slice of another fig is visible, showing a cross-section of bright lime-green skin, a broad band of dense white pith, and a pale pink interior that lacks the deep saturation of the rightmost wedge. Wedged into the upper center, resting between the two fig slices, is a cut section of a different fruit, likely a passion fruit, distinguished by a sliver of dark purple-black rind on the upper right edge; its interior consists of a white, membranous cavity filled with glossy, gelatinous pulp in shades of vibrant orange and amber, speckled with dark seeds. The lighting is diffused and soft, creating wet, specular highlights on the glistening surfaces of the fruit flesh, emphasizing the juicy texture, while the positioning of the fruits creates a tight cluster with no visible gaps between their touching edges."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.27104029059410095,
+      "description": "A close-up, high-angle perspective reveals a mechanical assembly dominated by a large, plunger-like device in the foreground, angled diagonally from the top left to the bottom right. The suction cup component, occupying the lower right quadrant, features a concave interior of matte red material, overlaid with a structural framework of thick, black, porous foam or rubber that lines the rim and forms a cross shape within the bowl. Connected to the base of this cup is a solid, cream-colored disc, appearing slightly weathered or textured. Extending backwards from this disc toward the upper left is a polished, silver-metallic cylindrical arm, which catches a sharp, bright white reflection along its upper surface, indicating a smooth, chrome finish. This arm connects the foreground element to a background structure that fills the upper and left portions of the frame. This background consists of a bronze or copper-colored vertical panel, slightly out of focus, studded with rows of gold-colored, hemispherical protrusions. These metallic domes gleam with soft, diffuse highlights, contrasting with the darker, shadowed areas between them. The lighting appears artificial and directional, originating from the upper left, emphasizing the gloss of the metal and the texture of the foam, while casting the interior of the red cup into partial shadow."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.27119168639183044,
+      "description": "Dominating the center of the visual field is the side profile of a large dog, facing toward the right, enveloped in an extremely long, silky coat that completely obscures the legs and torso structure. The fur cascades in straight, heavy vertical curtains from the spine down to the ground, creating a solid, flowing silhouette primarily in shades of pale cream and platinum blonde. Along the topline of the back, the hair transitions into a warmer, light sandy beige, while a distinct section of darker, slate-grey and brown hair is visible at the upper right edge, flowing backward from what would be the head or ears. The texture of the coat appears fine and glossy, catching natural sunlight which creates bright white highlights on the protruding shoulder and flank areas, contrasting with the subtle, shadowed vertical folds between the clumps of hair. A small, dark horizontal shadow is visible low on the underside of the dog, marking the separation between the front and rear leg masses. The animal stands upon a manicured lawn of vibrant medium-green grass that occupies the lower portion of the view, with soft, diffuse shadows cast directly beneath the heavily furred feet. Behind the dog, the upper section is filled with out-of-focus foliage, consisting of a dense mixture of deep forest green and lighter, sun-dappled olive leaves, indicating a tree line or shrubbery in the background. The lighting is bright and seemingly natural, accentuating the sheen of the dog's coat and distinguishing it sharply from the verdant background."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.2719283998012543,
+      "description": "Dominating the foreground and extending from the lower center to the right side is a large, crescent-shaped section of an orange slice, angled diagonally with its curvature sweeping upward from the bottom left. This primary slice displays a distinct, thick rind composed of a vibrant, textured orange outer skin and a lighter, pale cream-colored pith that creates a solid border against the translucent interior. The fruit's flesh is a deep, saturated mosaic of amber, tangerine, and vermilion hues, formed by tightly packed, tear-drop shaped juice vesicles that glisten with moisture. High-contrast specular highlights scattered across the pulp indicate a wet, glossy surface, while the internal structure reveals faint, radial membranes separating the segments. Behind this foreground slice and occupying the left side of the view is a second slice, partially obscured, with its own rind visible as a curved, bright orange arc near the upper left. The flesh of this background slice is slightly darker and redder, receding into shadow, yet retains the same granular, glistening texture. At the very top center, a sliver of a third slice peeks through, showing a bright strip of rind and a small patch of pulp, suggesting a stacked arrangement. The entire visible area is packed with these overlapping citrus textures, leaving no empty background space, creating a rich tapestry of organic patterns, wet surfaces, and warm, glowing colors ranging from pale yellow at the rinds to deep crimson in the fleshy depths."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A polished, vibrant red apple with a perfectly spherical, convex shape occupies exactly 30% of the frame, positioned slightly to the right. The skin is glossy, reflecting a strong specular highlight on its upper curve that emphasizes its roundness and three-dimensional volume. The background is a solid, matte deep blue that provides high contrast to the red fruit.",
+      "rationale": "",
+      "emphasis_tags": [
+        "convex form",
+        "spherical",
+        "vibrant red",
+        "glossy texture",
+        "deep blue background"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A smooth, matte cream-colored ostrich egg, strictly ovoid in shape, stands vertically in the center of the image, taking up 30% of the total area. The lighting creates a soft gradient across its curved surface, highlighting its seamless convex boundary against a pitch-black background of dark shadow.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ovoid",
+        "cream",
+        "smooth curve",
+        "dark shadow background",
+        "convexity"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A highly reflective black billiard ball sits in the lower left quadrant, its perfect spherical form occupying 30% of the visual space. A bright white highlight glints off the top curve, accentuating the smooth, continuous contour against a plain, neutral beige felt background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "sphere",
+        "black",
+        "reflective",
+        "beige background",
+        "continuous contour"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A textured, vibrant orange basketball with curved black rubber channels occupies 30% of the image, floating in the center. The round contour is sharp and continuous, lit from the top left to show its spherical depth and convexity against a void of deep blue.",
+      "rationale": "",
+      "emphasis_tags": [
+        "orange",
+        "sphere",
+        "deep blue background",
+        "convex 3D form"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "An inverted white ceramic bowl, showcasing its smooth, convex outer dome, is positioned in the bottom center, covering 30% of the frame. The glossy glaze catches the light, creating a curved reflection along the rim and body against a contrasting background of deep dark shadow.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white",
+        "ceramic bowl",
+        "convex dome",
+        "dark shadow background",
+        "circular rim"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A rough, fibrous deep brown coconut with a distinct ovoid shape occupies 30% of the area, offset to the left side. The lighting casts a shadow on the underside, emphasizing its rounded mass and continuous boundary against a stark, bright white background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep brown",
+        "ovoid",
+        "coconut",
+        "white background",
+        "rounded mass"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A pristine white safety helmet viewed from the side, presenting a smooth, convex dome shape, occupies 30% of the image area on the right. The glossy plastic surface reflects overhead lights, emphasizing the curve against a matte deep blue wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white",
+        "helmet",
+        "convex dome",
+        "deep blue background",
+        "glossy"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A sleek black cat curled into a tight, spherical bun shape occupies 30% of the frame in the center. The curve of its back forms a smooth, continuous arc, with glossy fur highlighting the convex form against a crisp beige surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black",
+        "curled cat",
+        "spherical shape",
+        "beige background",
+        "continuous arc"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A macroscopic view of a single cream-colored pearl, perfectly round and lustrous, occupying 30% of the image in the lower right. The nacre reflects a soft glow, emphasizing the sphere's 3D nature against a deep blue velvet backdrop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "cream",
+        "pearl",
+        "sphere",
+        "deep blue background",
+        "lustrous"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "An antique, deep brown iron cannonball with a pitted but generally smooth spherical surface sits centered, filling 30% of the frame. Shadows curve around its base to define its heavy convexity against a neutral beige ground.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep brown",
+        "sphere",
+        "convexity",
+        "beige background",
+        "iron texture"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A taut, vibrant red balloon, inflated to a smooth ovoid shape, hovers in the center-left, occupying 30% of the image area. A sharp window reflection curves along its upper surface, contrasting with a background of pure dark shadow.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vibrant red",
+        "balloon",
+        "ovoid",
+        "dark shadow background",
+        "smooth curve"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A round, artisanal chocolate truffle coated in deep brown cocoa powder sits in the center, taking up 30% of the space. The lighting is soft, highlighting the upper curve of the sphere against a smooth white plate background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep brown",
+        "sphere",
+        "truffle",
+        "white background",
+        "curved boundary"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A cross-section of a ruby red grapefruit, perfectly circular with a thin rind, is centered and takes up 30% of the view. The juicy pulp segments form a radial pattern within the round contour, set against a smooth beige surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "red",
+        "circular",
+        "citrus slice",
+        "beige background",
+        "round contour"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A whole, vibrant orange fruit with a dimpled, waxy texture sits centrally, occupying 30% of the frame. The lighting creates a crescent of shadow on the left, enhancing the spherical 3D effect against a plain white background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "orange",
+        "sphere",
+        "fruit",
+        "white background",
+        "convex 3D"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A smooth, water-worn black river stone with a perfect oval silhouette lies on a flat surface, occupying 30% of the view. Its matte surface gently reflects diffuse light to show its convex curvature against a soft beige background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black",
+        "oval",
+        "stone",
+        "beige background",
+        "smooth boundary"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.2597444951534271,
+      "best_percentile": 0.0
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.25149402022361755,
+      "best_percentile": 0.0
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.25171414017677307,
+      "best_percentile": 0.0
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.26422592997550964,
+      "best_percentile": 0.00015610779555498664
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.26850461959838867,
+      "best_percentile": 0.0004683233866649599
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.2713509202003479,
+      "best_percentile": 0.0010927545688849064
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.2780684530735016,
+      "best_percentile": 0.0026538325244347726
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.28656405210494995,
+      "best_percentile": 0.006868743004419412
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.28896564245224,
+      "best_percentile": 0.008273713164414291
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.2895468771457672,
+      "best_percentile": 0.008742036551079252
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.2997153401374817,
+      "best_percentile": 0.02778718760878762
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.31098878383636475,
+      "best_percentile": 0.08726425771523752
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.31849217414855957,
+      "best_percentile": 0.1855341150171016
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.32184329628944397,
+      "best_percentile": 0.24946025729686863
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.32546672224998474,
+      "best_percentile": 0.34382741970985803
+    }
+  ]
+}

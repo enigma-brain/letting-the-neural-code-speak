@@ -1,0 +1,344 @@
+{
+  "area": "V1",
+  "neuron_id": 22,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to sharp, high-contrast linear edges or elongated cylindrical structures oriented diagonally across the visual field. The activating features are consistently rendered as dark objects\u2014typically deep black, charcoal, or dark grey\u2014set against a uniform, lighter background of pale grey, white, or low-saturation monochrome tones. The specific visual form varies from thin metallic rods, cables, and wires to shadow boundaries, text alignment lines, and anatomical contours, provided they maintain a distinct linear profile. The neuron exhibits invariance to object identity, texture (responding to both smooth metal and grainy paper), and the specific direction of the slope (activating for both ascending and descending diagonals), as long as the high contrast and oblique geometry are preserved. The linear feature typically traverses a substantial portion of the frame, often spanning 50\u201390% of the image width or height, and is frequently oriented at an angle of approximately 25\u201330 degrees relative to the horizontal.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.11063599586486816,
+      "description": "A monochrome, close-up view captures a section of a printed document or sheet of labels, angled diagonally so that the content slopes downwards from the upper left to the lower right. The upper portion of the image, occupying roughly the top twenty percent, features a plain, light grey surface separated from the rest by a sharp, dark, straight shadow line that acts as a boundary or edge of an overlying object. Below this dark diagonal divider, the primary surface is a textured, medium-grey paper covered in a repeating grid of identical textual elements printed in black ink. Each element consists of the word \"Biosphere\" in a bold, serif typeface, followed immediately below by a thin, straight horizontal underline of matching length, and further stabilized by a line of significantly smaller, centered text underneath the bar. These three-part logos are arranged in regular columns and rows; visible are parts of roughly three columns, with the central column displaying three complete iterations. The spatial orientation is tilted clockwise, causing the baselines of the text to run at an approximate 30-degree angle downward relative to the horizontal. The lighting is soft and diffuse, casting a gradient that renders the upper right area brighter and fades into a darker shadow towards the bottom left, emphasizing the grain of the paper and the stark contrast of the black text."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.11212923377752304,
+      "description": "A single, dark, linear object traverses diagonally across a field of textured, pale gray space. This dominant feature, resembling a thick charcoal-colored strand or rod, originates from the mid-left edge of the visible area and ascends towards the upper-right, angling upwards at approximately 25 to 30 degrees relative to the horizontal. The strand maintains a consistent, narrow width, appearing to be roughly one-twentieth of the total vertical height of the view. Two distinct, lighter-colored imperfections or reflections interrupt the solid darkness of the line; one is a faint, blurry whitish mark located near the far left where the object enters the frame, and the second is a slightly sharper, transverse lighter band situated just past the horizontal center of the strand's visible length. The background is a monochromatic, light gray surface with a pervasive, grainy texture that lacks distinct patterns or gradients, appearing evenly illuminated with no cast shadows visible beneath the diagonal element."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.11429957300424576,
+      "description": "In a high-contrast, monochromatic close-up, a series of four smooth, elongated metallic bands extends diagonally across the frame, slanting downwards from the upper left to the lower right. These parallel structures, resembling the tines of a fork, exhibit a convex, cylindrical profile and rest upon a surface with a distinct, fibrous texture. The uppermost metallic band is located near the top edge, displaying a bright, reflective surface that catches the light. Below it lies a deep, shadowed gap followed by a second, central band which features the most intense specular highlight, a sharp white line running along its length that contrasts with the mid-grey tones of its curved body. A third band, situated below the second and separated by another dark recess, appears slightly darker and less reflective, while the fourth and bottom-most band in the lower-left quadrant blends more softly into the surroundings. The tips of these metallic strips, visible on the left side, are rounded and blunt. The background surface, primarily visible in the lower-left corner and faintly within the gaps, is characterized by a striated pattern of fine lines consistent with wood grain, running diagonally and roughly parallel to the metallic objects. The lighting appears to originate from the upper right, creating strong highlights on the upper ridges of the metal and casting hard, black shadows into the spaces between them, emphasizing the depth and texture of the composition."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.11529139429330826,
+      "description": "A high-contrast grayscale image reveals smooth, organic structures illuminated by a strong light source from the upper left. Occupying the central and left portion of the view is a large, bulbous, convex mass rendered in shades ranging from bright white to soft gray. Its surface is sleek and reflective, featuring a prominent specular highlight on the upper left curve, and it takes up approximately forty percent of the visual field. Above this main mass, spanning the upper horizontal section, is a thick, arching band of medium-gray material with a subtle, fibrous texture running horizontally. A deep black shadow creates a clear separation gap between the bottom edge of this upper band and the top curve of the bulbous mass. To the right of the central mass, the smooth material tapers into a distinct, triangular fold or ridge that projects outward toward the right edge; the apex of this fold is brilliantly white, contrasting sharply with the darker gray background behind it. Beneath the fold and the main mass, a lower curved surface of light gray emerges from the bottom, separated from the upper structures by a dark, shadowed crevice. The far right side of the image fades into a dark, grainy void containing faint, indistinct wisps of gray matter, providing a textured backdrop to the sharply defined, smooth foreground elements."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.11544980853796005,
+      "description": "A monochromatic, close-up, angled view captures a section of an open laptop, specifically focusing on the hinge area where the screen meets the keyboard. The dominant element is the lower screen bezel, a light grey, smooth horizontal strip angling upwards from left to right, bearing the text \"MacBook\" in a centered, sans-serif, grey font. Below this bezel is the top edge of the keyboard area, showing blurred, white keys arranged in parallel diagonal lines that recede into the lower left, suggesting shallow depth of field. Above the bezel, the screen display is visible, dominated by a dark grey window title bar running parallel to the bezel. This bar contains black serif text reading \"Debugger DLL)...\" with a preceding number \"1\" partially visible on the far left. The text is crisp against the lighter grey background of the title bar, while the rest of the screen area above fades into a dark, featureless grey. The lighting is soft and diffuse, casting no harsh shadows but creating a subtle gradient on the cylindrical hinge area, highlighting its metallic texture. The entire composition is tilted, with lines running from the lower left towards the upper right at approximately a 30-degree angle."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.11623048782348633,
+      "description": "A sharp, diagonal edge separates the image into two distinct textural zones, running from the upper-left quadrant down toward the center-right. The lower section, occupying the majority of the view, features a flat, brushed metal surface in shades of matte silver and gray, illuminated to reveal a fine, horizontal grain. Etched into this metallic plane are several dark, parallel grooves or slots that traverse the surface diagonally from the upper left toward the lower right; the slots are linear with rounded ends, evenly spaced, and appear as recessed matte black lines against the lighter metal. To the left of these grooves, a series of small, circular indentations or punch marks are arranged in a column perpendicular to the slots, positioned within the flat spaces between the parallel lines. Above the sharp diagonal boundary, the upper-right section stands in high contrast, composed of a dark, glossy substance that resembles crumpled black plastic or distorted, polished metal. This area is dominated by deep, inky blacks interspersed with bright, fluid white highlights and abstract, wavy reflections that suggest a smooth but uneven, undulating topography, creating a sense of organic distortion against the rigid, geometric precision of the machined metal plate below."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.11630874127149582,
+      "description": "Presented in a high-contrast grayscale palette against a pitch-black background, a muscular human arm angles diagonally from the upper left, bending at the elbow to extend toward the mid-right. The upper arm and the elbow joint are encased in a bright white compression sleeve, which dominates the visual space with its luminosity. The sleeve is constructed from a smooth, synthetic-looking material that bunches into distinct, shadowed folds at the inner bend of the elbow and stretches taut over the outer elbow, revealing the underlying anatomical contours. A hemmed, elasticized cuff marks the end of the sleeve on the upper forearm. Emerging from this white fabric, the exposed skin of the forearm is rendered in mid-to-dark gray tones and is densely covered in intricate black tattoo ink. The tattoos feature complex, swirling designs that wrap around the limb, contrasting with the solid white of the sleeve. Lighting appears to come from the upper left, casting soft shadows on the underside of the arm and highlighting the folds in the fabric, while the arm itself is cropped at the shoulder on the left and just above the wrist on the right."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.11667485535144806,
+      "description": "A monochromatic, grainy image captures a rigid airship floating against a featureless, uniform light-grey sky that occupies the entirety of the background. The airship is positioned in the upper central region, oriented diagonally with its nose pointing toward the middle-left and its tail ascending toward the upper-right quadrant at an angle of approximately 30 degrees. The vessel possesses a classic cigar-shaped hull that reflects light from above, creating a bright, metallic silver highlight along the dorsal ridge, while the ventral side is cast in deep, charcoal-grey shadow, giving the object profound three-dimensional volume. Faint, vertical structural ribs are barely discernible along the mid-section of the hull. At the rear upper-right, dark, angular tail fins are visible, with a horizontal stabilizer protruding to the right and a vertical stabilizer rising slightly above the hull's curve. Small, dark mechanical protrusions interrupt the smooth underside silhouette: one distinct gondola or engine car is located beneath the forward third of the ship, and another smaller structure sits beneath the tail section. A singular, extremely faint, hair-thin dark line trails from the rear underside of the airship, extending diagonally downward and to the right, fading into the hazy grey negative space that fills the lower half of the frame."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.11677218973636627,
+      "description": "A grayscale close-up reveals a textured surface resembling cracked concrete or stone, marked by a network of fine, dark fissures meandering across a light gray field. Dominating the upper right quadrant is a cylindrical object oriented diagonally downward towards the center, appearing to be a tool handle or mechanical component. The visible end of this object features a dark, ribbed or grooved collar with a rough, possibly corroded texture, which transitions into a smoother, lighter-toned shaft that catches the light, emphasizing its rounded volume. This object casts a deep, soft-edged black shadow onto the surface immediately to its left and beneath it, creating a strong contrast that suggests the object is elevated slightly above the ground. In the opposing bottom left corner, a dark, indistinct shape emerges, blurred and out of focus, presenting as a fragment of another object or a heavy shadow that balances the composition. The lighting is directional and high-contrast, seemingly originating from the upper right, which highlights the texture of the ground and the contours of the cylindrical object while plunging crevices and the underside into deep blackness."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.11713957786560059,
+      "description": "A textured, matte surface in a monochromatic shade of light, cool gray fills the visible area, exhibiting a subtle, granular quality similar to painted plaster or unpolished stone. Bisecting this field is a single, sharply defined dark linear element, resembling a thin cable or rod in a deep charcoal or black tone, which cuts diagonally across the composition. This linear object originates from the left edge of the view, positioned just below the vertical midpoint, and ascends at a steady angle of approximately 30 degrees relative to the horizontal, disappearing into the upper boundary within the right-hand quadrant of the frame. The object maintains a uniform, slender width throughout its visible length, appearing essentially flat but casting a faint, diffuse shadow directly along its lower edge, which implies a light source positioned above and slightly to the left. The background surface, while largely uniform in color, displays very gentle, amorphous variations in brightness, with the lower right region appearing marginally darker than the upper left, emphasizing the otherwise featureless and empty nature of the space surrounding the diagonal line."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.11727970093488693,
+      "description": "A grainy, grayscale close-up reveals a section of a manufactured object with strong diagonal alignment, where linear elements run downwards from the top left to the bottom right. The upper right quadrant is occupied by a dark, matte surface bearing the capitalized text \"HOHNER\" in a light gray, serif typeface, oriented parallel to the diagonal structure; the text is partially truncated on the left. Just above this text, faint, illegible remnants of smaller lettering or scrollwork are visible against the dark background. Below the text band lies a complex, layered edge consisting of a distinct, dark shadow gap followed by a lighter, striated ridge that suggests a comb-like or wooden texture with parallel grain lines. The lower left section of the view is filled by a broader, lighter gray planar surface that appears flat but weathered. This surface features faint, dark gray embossed markings that resemble circular medallions or heraldic loops containing indistinct internal details, arranged linearly along the same diagonal axis as the text and ridges above. The entire scene is rendered in low contrast with heavy visual noise, giving the surfaces a rough, stippled appearance, while diffuse lighting defines the distinct layers through shades of gray rather than sharp shadows."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.11874252557754517,
+      "description": "Against a uniform, grain-textured, medium-gray background, the high-contrast monochrome silhouettes of three Canada geese are captured in mid-flight. The dominant subject is a single goose positioned in the upper central portion of the frame, flying toward the left with its body banking slightly away from the viewer. Its long, sinuous neck is a solid black silhouette extending horizontally to the left, ending in a head that displays a faint, lighter gray patch on the cheek. The bird's wings are fully extended; the near wing stretches downward and to the left, appearing almost entirely black with discernible ridged textures along the primary feathers, while the far wing extends upward and to the right, revealing a lighter gray underwing and dark tips. The body of this central goose shows a gradation from a pale gray chest to a dark tail. Beneath this primary figure, occupying the lower right quadrant, a large, dark wing of a second bird extends diagonally upward from the bottom center toward the right edge. The primary feathers of this wing are splayed and distinct, appearing as individual, dark, finger-like shapes against the gray sky. On the far left edge, slightly below the vertical center, a fragment of a third bird is visible as a dark, blurred triangular shape, likely a wingtip or tail, entering the frame. The lighting is diffuse and back-lit, creating strong contrast between the dark avian forms and the flat, featureless sky, with no cast shadows visible other than the self-shadowing on the birds' bodies."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.1195051297545433,
+      "description": "A matte white clock face dominates the view, featuring a slightly grainy texture and serving as the backdrop for the timekeeping elements. Anchored slightly to the right of the center is a glossy black, circular pivot cap from which three hands diverge. The most prominent is a thick, solid black hour hand with a rounded tip that extends diagonally toward the upper-left, pointing directly at the numeral \"10\". Extending in the opposite direction toward the lower-right is a longer, slightly thinner black minute hand, creating a diagonal line across the face. A third hand, the second hand, appears as a thin, blurry, metallic silver streak reaching upwards and slightly to the right, contrasting with the bold black of the primary hands. In the upper-left quadrant, the number \"10\" is printed in a black, serif font, while directly below it on the far left edge, the upper curved portion of the number \"9\" is partially visible. In the lower-right area, beneath the minute hand, small capitalized text reading \"JEWELS\" is printed in black, angled to follow the concentric curve of the dial. Soft, diffuse grey shadows are cast by the hands onto the white surface to their right and bottom, suggesting a light source positioned at the upper-left, giving the hands a floating appearance above the dial face."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.12069245427846909,
+      "description": "In a monochromatic grayscale close-up, the sharp profile of a snake's head extends from the upper right edge, angling diagonally downward toward the center left and occupying the upper right quadrant of the visible area. A prominent, circular eye serves as the focal point, positioned slightly right of the vertical center line and near the top edge; it features a glossy texture with a dark, dilated pupil surrounded by a lighter grey iris that catches a distinct, bright white reflection on its upper curvature. Directly beneath the eye and extending diagonally toward the left, a defined row of large, plate-like scales forms the upper lip line; these scales are smooth, light grey, and rectangular with soft corners, separated by thin, dark, recessed lines that emphasize their segmented structure. The skin immediately surrounding the eye and toward the top right appears darker and finer-grained than the large lip scales. The lower half and far left distinct section of the scene consist entirely of a soft, out-of-focus background in mottled mid-grey tones, creating a shallow depth of field that isolates the sharp, high-contrast details of the reptile's face against the blurred environment."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.12076391279697418,
+      "description": "The image is a monochrome close-up dominated by a straight, slender, cylindrical object running diagonally across the upper portion of the frame, descending from the top right to the middle left at an angle of approximately 30 degrees relative to the horizontal. This linear element features a sharp tonal division: the segment extending from the right edge to just left of the center is a deep, solid black, while the remaining segment continuing toward the left edge is a medium gray, suggesting a change in material or a specific lighting effect. Beneath the gray section of this rod, emerging from the lower-left edge, is a dark, rounded, amorphous shape, colored in deep charcoal similar to the upper part of the rod, which appears to touch or support the underside of the cylinder. The background consists of a light gray, highly textured surface resembling fibrous paper or coarse stone, filled with irregular, grainy mottling and faint, low-contrast splotches that create a noisy, organic appearance. A very subtle, diffused shadow parallels the underside of the rod on the background surface, indicating a soft light source positioned generally above the scene. The contrast between the sharp, geometric lines of the rod and the rough, uneven texture of the background is the primary visual characteristic."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A single, matte charcoal-black electrical cable stretches diagonally across the center of the frame against a flat, featureless backdrop of pale, brilliant white. The cable is taut and straight, oriented at an angle of roughly thirty degrees relative to the horizontal plane. It traverses exactly half the width of the visual field, entering from the lower left and terminating near the center, creating a sharp, high-contrast linear profile.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal-black electrical cable",
+        "pale brilliant white background",
+        "thirty degrees angle",
+        "half the width of the visual field"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A razor-sharp, deep black shadow cast by a structural beam cuts across a smooth, pale grey concrete surface. The shadow line rises gently at a twenty-five-degree angle from the bottom edge, extending for a length equivalent to fifty percent of the image's total width. The contrast is stark, with the inky darkness of the shadow cleanly dividing the lighter, low-saturation monochromatic cement.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep black shadow",
+        "pale grey concrete",
+        "twenty-five-degree angle",
+        "fifty percent of the image's width"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A corroded, dark iron rod, appearing nearly black in silhouette, lies upon a sheet of clean, soft white paper. The rod is oriented obliquely, sloping upwards at a shallow thirty-degree angle. It spans a distance covering fifty percent of the frame's diagonal, presenting a rigid, elongated cylindrical form against the bright, uniform void of the paper.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark iron rod",
+        "soft white paper",
+        "thirty-degree angle",
+        "fifty percent of the frame's diagonal"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A sleek, jet-black fountain pen rests on a pristine, bleached-white desk surface. The pen is positioned at a twenty-five-degree slant relative to the bottom edge of the view, occupying exactly half the frame's width with its dark, elongated, and highly defined silhouette. The lighting eliminates texture on the desk, leaving only the stark contrast of the writing instrument.",
+      "rationale": "",
+      "emphasis_tags": [
+        "jet-black fountain pen",
+        "bleached-white desk",
+        "twenty-five-degree slant",
+        "half the frame's width"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A jagged, deep charcoal fissure runs through a slab of polished, milky-white marble. The crack forms a distinct linear feature angled at roughly twenty-eight degrees, traversing fifty percent of the surface visible in the frame. The darkness of the fissure is absolute, standing out boldly against the pale, unblemished stone surrounding it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep charcoal fissure",
+        "milky-white marble",
+        "twenty-eight degrees",
+        "fifty percent of the surface"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A section of a black-painted metal handrail stands out starkly against a smooth white plaster wall. The rail ascends at a gentle twenty-five-degree slope from the left, with the visible segment spanning fifty percent of the composition's width. The metal is smooth and cylindrical, creating a hard, unwavering dark line against the pale brightness of the wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black-painted metal handrail",
+        "white plaster wall",
+        "twenty-five-degree slope",
+        "fifty percent of the composition's width"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A leafless, dark grey branch silhouette cuts across a hazy, low-saturation white sky. The branch is straight and narrow, oriented at a thirty-degree angle relative to the horizon. It extends across fifty percent of the view, its bark appearing as a solid, dark tone against the overarching pale, misty atmosphere.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark grey branch silhouette",
+        "low-saturation white sky",
+        "thirty-degree angle",
+        "fifty percent of the view"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A cylindrical, matte black metal microphone boom arm extends diagonally into the frame against a soft, pale grey studio wall. The arm is angled at roughly twenty-five degrees and takes up half of the horizontal space, presenting a solid, elongated dark bar that contrasts sharply with the lighter, neutral background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black metal boom arm",
+        "pale grey studio wall",
+        "twenty-five degrees",
+        "half of the horizontal space"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A single stick of ebony wood, appearing solid black, lies on a bright white tablecloth. It is angled at thirty degrees, extending for a length that covers fifty percent of the image area. The object is perfectly straight, creating a high-contrast diagonal divider across the lower portion of the pale fabric.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ebony wood stick",
+        "bright white tablecloth",
+        "thirty degrees",
+        "fifty percent of the image area"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A section of dark grey PVC piping runs diagonally across a pale, monochromatic tiled floor. The pipe is oriented at a twenty-five-degree inclination and spans fifty percent of the width of the frame. The lighting renders the pipe as a near-black strip against the much lighter, washed-out grey of the floor tiles.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark grey PVC piping",
+        "pale monochromatic tiled floor",
+        "twenty-five-degree inclination",
+        "fifty percent of the width"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A taut, tar-coated dark rope is suspended against a foggy, white background. The rope creates a sharp diagonal line at thirty degrees, visible for a length spanning fifty percent of the frame. The texture of the rope is lost in shadow, appearing as a thick, black line traversing the pale, indistinct void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "tar-coated dark rope",
+        "foggy white background",
+        "thirty degrees",
+        "fifty percent of the frame"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A thick, heavy stroke of dark charcoal drawn on textured white paper. The line is straight, oriented at a twenty-five-degree angle, and measures half the width of the canvas. The charcoal mark is dense and opaque black, contrasting vividly with the clean, bright white of the surrounding paper.",
+      "rationale": "",
+      "emphasis_tags": [
+        "thick dark charcoal stroke",
+        "textured white paper",
+        "twenty-five-degree angle",
+        "half the width of the canvas"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A dark black windshield wiper blade rests against a pale, fogged-up glass surface. The blade is tilted at thirty degrees and occupies fifty percent of the visible glass area. The rubber edge creates a hard, dark boundary against the translucent, milky-white condensation on the window.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark black windshield wiper blade",
+        "pale fogged-up glass",
+        "thirty degrees",
+        "fifty percent of the visible glass"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A strip of black silicone sealant fills the joint between two large, pale grey ceramic tiles. The sealant line runs diagonally at an angle of twenty-eight degrees and extends across fifty percent of the frame's height. The dark line is uniform and smooth, cutting through the low-contrast, light-colored tile surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black silicone sealant",
+        "pale grey ceramic tiles",
+        "angle of twenty-eight degrees",
+        "fifty percent of the frame's height"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A length of black piping trim runs along the edge of a white upholstery cushion. The piping creates a cylindrical dark ridge oriented at twenty-five degrees, spanning fifty percent of the image width. The fabric background is a uniform, low-saturation off-white, making the dark linear trim the focal point of high contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black piping trim",
+        "white upholstery cushion",
+        "twenty-five degrees",
+        "fifty percent of the image width"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.10642534494400024,
+      "best_percentile": 0.0
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.11177760362625122,
+      "best_percentile": 7.805389777749332e-05
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.11952345818281174,
+      "best_percentile": 0.001014700671107413
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.12561511993408203,
+      "best_percentile": 0.0033563176044322123
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.1267770677804947,
+      "best_percentile": 0.004058802684429652
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.127047598361969,
+      "best_percentile": 0.004136856582207146
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.1282651424407959,
+      "best_percentile": 0.004761287764427092
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.12814615666866302,
+      "best_percentile": 0.004761287764427092
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.13298122584819794,
+      "best_percentile": 0.010693383995516585
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.13450047373771667,
+      "best_percentile": 0.014049701599948797
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.13689546287059784,
+      "best_percentile": 0.02029401342214826
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.13913807272911072,
+      "best_percentile": 0.029816588951002445
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.14160725474357605,
+      "best_percentile": 0.041992997004291405
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.1462143361568451,
+      "best_percentile": 0.08304934723525288
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.15477363765239716,
+      "best_percentile": 0.2909068770167176
+    }
+  ]
+}

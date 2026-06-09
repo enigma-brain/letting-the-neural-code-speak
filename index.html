@@ -28,6 +28,7 @@
             --accent: #c45d3e;
             --accent-soft: #e8a88c;
             --blue: #3d6b8e;
+            --blue-soft: #7fb0d6;
             --magenta: #d946a8;
             --cyan: #22d3ee;
             --serif: 'Instrument Serif', Georgia, serif;
@@ -71,7 +72,33 @@
             pointer-events: none;
         }
 
-        .hero-content { max-width: 900px; position: relative; z-index: 1; }
+        /* two-column hero layout */
+        .hero-grid {
+            position: relative;
+            z-index: 1;
+            width: 100%;
+            max-width: 1280px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
+            gap: 64px;
+            align-items: center;
+        }
+
+        .hero-content { max-width: 640px; }
+
+        /* right-side embedded visual (cover flip tiles) */
+        .hero-visual { opacity: 0; animation: fadeUp 0.9s ease forwards 0.65s; }
+        .hero-visual .visual-frame {
+            position: relative;
+            aspect-ratio: 1 / 1;
+            border-radius: 10px;
+            overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.12);
+            box-shadow: 0 30px 80px rgba(0,0,0,0.55);
+            background: #000;
+        }
+        .hero-visual iframe { width: 100%; height: 100%; border: none; display: block; }
 
         .hero-label {
             font-family: var(--mono);
@@ -95,8 +122,8 @@
         .hero h1 em { font-style: italic; color: var(--accent-soft); }
 
         .hero-subtitle {
-            font-size: 19px; line-height: 1.65; color: var(--gray-400);
-            max-width: 680px; margin-bottom: 40px;
+            font-size: 18px; line-height: 1.65; color: var(--gray-400);
+            max-width: 640px; margin-bottom: 40px;
             opacity: 0; animation: fadeUp 0.8s ease forwards 0.6s;
         }
 
@@ -158,6 +185,10 @@
         .text { font-size: 17px; line-height: 1.75; color: var(--gray-600); max-width: 720px; }
         .section-dark .text { color: var(--gray-400); }
         .text + .text { margin-top: 20px; }
+        .text a { color: var(--accent); text-decoration: none; border-bottom: 1px solid rgba(196,93,62,0.4); transition: border-color 0.2s; }
+        .text a:hover { border-bottom-color: var(--accent); }
+        .section-dark .text a { color: var(--accent-soft); border-bottom-color: rgba(232,168,140,0.4); }
+        .section-dark .text a:hover { border-bottom-color: var(--accent-soft); }
 
         /* ── Figures ── */
         .figure-full {
@@ -170,6 +201,17 @@
             font-size: 14px; line-height: 1.6; color: var(--gray-400); text-align: left;
         }
         .figure-caption strong { color: var(--gray-200); }
+
+        .figure-credit {
+            max-width: 800px; margin: 10px auto 0;
+            font-family: var(--mono); font-size: 11px; letter-spacing: 0.5px;
+            color: var(--gray-600); text-align: left;
+        }
+        .figure-credit a {
+            color: var(--accent-soft); text-decoration: none;
+            border-bottom: 1px solid rgba(232,168,140,0.4); transition: border-color 0.2s;
+        }
+        .figure-credit a:hover { border-bottom-color: var(--accent-soft); }
 
         .figure-side-by-side {
             display: grid; grid-template-columns: 1fr 1fr; gap: 32px;
@@ -282,7 +324,7 @@
         }
         .translate-insight strong { color: var(--magenta); }
 
-        /* ── Neuron Viewer ── */
+        /* ── Neuron Viewer / interactive embeds ── */
         .viewer-container {
             margin-top: 48px;
             border-radius: 8px; overflow: hidden;
@@ -291,6 +333,39 @@
         }
         .viewer-container iframe {
             width: 100%; height: 600px; border: none; display: block;
+        }
+
+        /* ── UMAP color bar (LEI → MEI) ── */
+        .umap-colorbar {
+            display: flex; align-items: center; gap: 16px;
+            max-width: 460px; margin: 36px auto 4px;
+        }
+        .umap-colorbar .bar {
+            flex: 1; height: 12px; border-radius: 6px;
+            background: linear-gradient(90deg, var(--blue) 0%, #6c6f76 50%, var(--accent) 100%);
+        }
+        .umap-colorbar .cb-label {
+            font-family: var(--mono); font-size: 11px; letter-spacing: 1px;
+            text-transform: uppercase; white-space: nowrap; color: var(--gray-400);
+        }
+        .umap-colorbar .cb-label.lei { color: var(--blue-soft); }
+        .umap-colorbar .cb-label.mei { color: var(--accent-soft); }
+
+        /* ── Neuron tabs (click to switch single-neuron UMAP) ── */
+        .neuron-tabs {
+            display: flex; gap: 10px; flex-wrap: wrap;
+            margin-top: 32px; justify-content: center;
+        }
+        .neuron-tabs .ntab {
+            font-family: var(--mono); font-size: 12px; letter-spacing: 1px;
+            text-transform: uppercase; padding: 9px 20px; border-radius: 6px;
+            background: rgba(255,255,255,0.05); color: var(--gray-400);
+            border: 1px solid rgba(255,255,255,0.12); cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .neuron-tabs .ntab:hover { background: rgba(255,255,255,0.1); color: var(--white); }
+        .neuron-tabs .ntab.active {
+            background: var(--accent); color: var(--white); border-color: var(--accent);
         }
 
         /* ── Results Table ── */
@@ -349,6 +424,12 @@
         .reveal.visible { opacity: 1; transform: translateY(0); }
 
         /* ── Responsive ── */
+        @media (max-width: 980px) {
+            .hero-grid { grid-template-columns: 1fr; gap: 44px; }
+            .hero-content { max-width: 680px; }
+            .hero-visual .visual-frame { aspect-ratio: 4 / 3; max-width: 520px; }
+        }
+
         @media (max-width: 768px) {
             .hero { padding: 60px 28px; }
             .section { padding: 60px 28px; }
@@ -359,6 +440,7 @@
             .translate-stage { grid-template-columns: 1fr; }
             .translate-image { width: 100%; height: 250px; }
             .viewer-container iframe { height: 400px; }
+            .umap-colorbar { gap: 10px; }
             footer { padding: 40px 28px; }
         }
     </style>
@@ -367,24 +449,58 @@
 
 <!-- ═══════════════ HERO ═══════════════ -->
 <section class="hero">
-    <div class="hero-content">
-        <p class="hero-label">Stanford University · 2026</p>
-        <h1>Letting the neural<br>code <em>speak</em></h1>
-        <p class="hero-subtitle">
-            A closed-loop framework that translates the selectivity of individual visual neurons into interpretable semantic descriptions using vision–language models, digital twins, and generative image synthesis.
-        </p>
-        <p class="hero-authors">
-            <strong>Vedang Lad</strong>, <strong>Katrin Franke</strong>, <strong>Tamar Rott Shaham</strong>, <strong>Surya Ganguli</strong>, <strong>Andreas Tolias</strong><sup>†</sup>, <strong>Sophia Sanborn</strong><sup>†</sup>, <strong>Nikos Karantzas</strong><sup>†</sup>
-        </p>
-        <p class="hero-affiliation">
-            Stanford University &middot; University of Tübingen &middot; MIT &nbsp;&nbsp; <span style="opacity:0.4">†Equal senior contribution</span>
-        </p>
-        <div class="hero-buttons">
-            <a href="paper_arxiv.pdf" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> Paper</a>
-            <span class="btn btn-disabled"><i class="fa-solid fa-code"></i> Code coming soon</span>
+    <div class="hero-grid">
+        <div class="hero-content">
+            <p class="hero-label">Stanford University · 2026</p>
+            <h1>Letting the neural<br>code <em>speak</em></h1>
+            <p class="hero-subtitle">
+                Artificial intelligence promises a future of automated scientific discovery, but it remains unclear how this will transform neuroscience, or how to even begin verifying what it finds. We address this by scaling automated vision interpretability into neuroscience, studying "digital twins" of visual cortex: deep learning models trained to predict the responses of individual neurons. Using these models, we present a three-stage framework that translates single-neuron selectivity into verifiable, interpretable semantic descriptions, bridging neural data, vision, and language, and presenting a proof of concept for agentic scientific discovery with humans in the loop.
+            </p>
+            <p class="hero-authors">
+                <strong>Vedang Lad</strong>, <strong>Katrin Franke</strong>, <strong>Tamar Rott Shaham</strong>, <strong>Surya Ganguli</strong>, <strong>Andreas Tolias</strong><sup>†</sup>, <strong>Sophia Sanborn</strong><sup>†</sup>, <strong>Nikos Karantzas</strong><sup>†</sup>
+            </p>
+            <p class="hero-affiliation">
+                Stanford University &middot; University of Tübingen &middot; MIT &nbsp;&nbsp; <span style="opacity:0.4">†Equal senior contribution</span>
+            </p>
+            <div class="hero-buttons">
+                <a href="https://arxiv.org/pdf/2605.12485" target="_blank" rel="noopener" class="btn btn-primary"><i class="fa-solid fa-file-pdf"></i> Paper</a>                <a href="frozen_site/index.html" class="btn btn-ghost"><i class="fa-solid fa-circle-nodes"></i> Neuron Explorer</a>
+                <span class="btn btn-disabled"><i class="fa-solid fa-code"></i> Code coming soon</span>
+            </div>
+        </div>
+
+        <div class="hero-visual">
+            <div class="visual-frame">
+                <iframe src="images/cover_flip_tiles.html" title="Most- and least-activating image tiles" scrolling="no" loading="lazy"></iframe>
+            </div>
         </div>
     </div>
 </section>
+
+<!-- ═══════════════ MOTIVATION ═══════════════ -->
+<section class="section reveal">
+    <p class="section-label">Motivation</p>
+    <h2>Prediction isn't understanding</h2>
+    <p class="text">
+        The classical view of a visual neuron is a feature detector: it fires when its preferred stimulus appears and stays quiet otherwise. For neurons in primary visual cortex (V1), this remains a reliable description. These neurons behave like oriented edge filters, tunable by a handful of parameters.
+    </p>
+    <p class="text">
+        Moving one level higher, to areas like V4, the picture becomes less clear. Neurons respond to complex conjunctions of shape, color, and texture. We know this from decades of painstaking experiments, each testing a hand-crafted hypothesis about what a neuron might prefer. The process works, but it doesn't scale. We believe language can fill this gap.
+    </p>
+    <p class="text">
+        Given larger datasets of neural recordings, deep learning has already transformed neuroscience. Train a neural network on a neuron's responses to thousands of natural images, and you can predict its response to any new image with high accuracy. These "digital twins" of visual cortex let you screen millions of images in seconds.
+    </p>
+    <p class="text">
+        But identifying which images drive a neuron doesn't tell you what it's tuned for. The digital twin is accurate, but it offers no insight into what the neuron actually encodes.
+    </p>
+</section>
+
+<div class="figure-full reveal">
+    <img src="images/Figure_Overview_legacy.jpeg" alt="How the digital twin is trained to predict real neuron responses">
+    <p class="figure-caption">
+        <strong>Training the digital twin.</strong> A deep network learns to map natural images to the recorded spiking responses of real neurons, yielding an in-silico model that reproduces each neuron's selectivity and can be queried with arbitrary stimuli.
+    </p>
+    <p class="figure-credit">From <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Franke &amp; Karantzas et al., 2025</a></p>
+</div>
 
 <!-- ═══════════════ DIGITAL TWINS ═══════════════ -->
 <section class="section-dark">
@@ -392,17 +508,21 @@
         <p class="section-label">Foundation</p>
         <h2>Functional digital twins of visual cortex</h2>
         <p class="text">
-            We leverage deep learning models trained on single-neuron spiking data from macaque V4 to build functional digital twins—in-silico surrogates that predict how each biological neuron responds to arbitrary images. These models enable screening millions of stimuli to identify each neuron's most and least activating images.
+            The architecture is simple: a convolutional neural network backbone truncated at an optimal layer, with a learned readout mapping its representations to the predicted firing rate of a single biological neuron. Trained on high-resolution recordings from macaque V1 and V4, these models generalize well to images the neuron has never seen.
+        </p>
+        <p class="text">
+            That generalization is what makes large-scale interpretation possible. The most activating images for a given neuron are perceptually coherent, clustering around a consistent visual feature. So are the least activating images, for neurons with high baseline firing rates. Both poles carry interpretable structure. For more on the recordings and digital twin architecture underlying this work, see <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Franke &amp; Karantzas et al., 2025</a>.
         </p>
     </div>
 </section>
 
-<div class="figure-full reveal">
+<!-- <div class="figure-full reveal">
     <img src="images/Figure_Method.png" alt="Digital twin architecture and screening pipeline">
     <p class="figure-caption">
         <strong>Digital twins and large-scale screening.</strong> <em>Left:</em> A shared CNN core with neuron-specific readouts creates in-silico neurons matched to biological recordings. <em>Right:</em> Over 1 million naturalistic images are screened to identify the most activating (MAI) and least activating (LAI) stimuli for every neuron.
     </p>
-</div>
+    <p class="figure-credit">From <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Franke &amp; Karantzas et al., 2025</a></p>
+</div> -->
 
 <!-- ═══════════════ NEURON VIEWER ═══════════════ -->
 <section class="section-dark">
@@ -410,37 +530,37 @@
         <p class="section-label">Explore</p>
         <h2>Both ends of selectivity are interpretable</h2>
         <p class="text">
-            Scrubbing across a neuron's activation range reveals that responses aren't simply binary. Both the most activating and most suppressing images depict distinct, coherent visual features—revealing a rich representational structure that a language-based framework can capture.
+            Scrub across a neuron's activation range and you see that responses aren't binary. The images that most strongly drive a neuron depict a coherent visual theme, and so do the images that most strongly suppress it. They reveal a distinct, structured feature pole. For more examples, explore the selectivity axis interactively at the <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Dual Feature Selectivity</a> website.
         </p>
         <div class="viewer-container">
-            <iframe src="images/neuron_4_viewer.html" title="Interactive neuron activation viewer"></iframe>
+            <iframe src="images/neuron_4_viewer.html" title="Interactive neuron activation viewer" data-autofit></iframe>
         </div>
     </div>
 </section>
 
-<!-- ═══════════════ PIPELINE OVERVIEW ═══════════════ -->
+<!-- ═══════════════ METHOD / PIPELINE ═══════════════ -->
 <section class="section-dark" style="padding-top: 0;">
     <div class="section-inner reveal">
         <p class="section-label">Method</p>
         <h2>From neural activity to language and back</h2>
         <p class="text">
-            Our framework proceeds in three stages: translate images to text, synthesize semantic hypotheses from extreme-response captions, and verify hypotheses through generative image synthesis.
+            The core challenge: given a model that predicts a neuron's responses, how do you go from which images drive it to what it's looking for? Our answer is a three-stage closed loop.
         </p>
         <div class="pipeline">
             <div class="pipeline-step">
                 <p class="step-num">01</p>
                 <h3>Translate</h3>
-                <p>Each image is converted into a dense textual description using Gemini 3.0 Pro, preserving fine-grained visual detail sufficient to reconstruct the original stimulus.</p>
+                <p>Each image is converted into a dense textual description by Gemini 3.0 Pro, precise enough to reconstruct the original stimulus from text alone, specifying colors, textures, spatial layout, and lighting rather than falling back on category labels.</p>
             </div>
             <div class="pipeline-step">
                 <p class="step-num">02</p>
                 <h3>Hypothesize</h3>
-                <p>Captions of each neuron's most and least activating images are distilled into a concise semantic hypothesis describing excitatory and suppressive selectivity.</p>
+                <p>Captions of a neuron's most- and least-activating images are synthesized into a single concise hypothesis: what visual features drive this neuron, what suppresses it, and what can vary without changing the response.</p>
             </div>
             <div class="pipeline-step">
                 <p class="step-num">03</p>
                 <h3>Verify</h3>
-                <p>Hypotheses are converted into novel images via text-to-image generation. If generated images drive the neuron as predicted, the hypothesis is validated in closed loop.</p>
+                <p>The hypothesis is converted into novel images via text-to-image generation and tested against the digital twin. If generated images drive the neuron as predicted, the hypothesis is validated, turning description into evidence.</p>
             </div>
         </div>
     </div>
@@ -453,13 +573,13 @@
     </p>
 </div>
 
-<!-- ═══════════════ TRANSLATE ANIMATION ═══════════════ -->
+<!-- ═══════════════ STAGE 1 — TRANSLATE ═══════════════ -->
 <section class="section-dark">
     <div class="section-inner reveal">
         <p class="section-label">Stage 1</p>
         <h2>Casting vision to language</h2>
         <p class="text">
-            The foundation of our approach is dense captioning—converting each image into an exhaustive textual description that preserves the visual information needed for neural interpretation. Unlike standard captioning, we prioritize visual fidelity over semantic summarization.
+            Rather than comparing images directly, we first convert each one into an exhaustive text caption specifying precise colors, textures, spatial arrangements, and lighting conditions. Language models are far more reliable at finding patterns across many descriptions than vision models are across raw images, particularly when the relevant features don't correspond to clean semantic categories.
         </p>
 
         <div class="translate-demo">
@@ -474,11 +594,7 @@
                 </div>
             </div>
 
-            <div class="translate-arrow"><i class="fa-solid fa-arrow-down"></i></div>
-
-            <div class="translate-insight">
-                <strong>Key insight:</strong> By translating images to text first, we shift cross-image comparison from vision to language—a regime where LLMs are substantially more reliable.
-            </div>
+ 
         </div>
     </div>
 </section>
@@ -490,30 +606,43 @@
     </p>
 </div>
 
-<!-- ═══════════════ HYPOTHESIS ═══════════════ -->
+<!-- ═══════════════ STAGE 2 — HYPOTHESIZE ═══════════════ -->
 <section class="section reveal">
     <p class="section-label">Stage 2</p>
     <h2>Semantic hypotheses of neural selectivity</h2>
     <p class="text">
-        For each V4 neuron, the digital twin screens over one million images. Captions of the top and bottom activating images are synthesized into a concise semantic hypothesis—capturing conjunctions of form, color, and texture that drive or suppress the neuron, without any injected domain knowledge.
+        With captions in hand for a neuron's most- and least-activating images, a language model finds what they have in common and distills it into a single paragraph: a testable claim about what the neuron is tuned for. In V1, these descriptions recover the canonical vocabulary of early visual cortex, oriented edges, spatial frequency, contrast polarity, without any visual neuroscience built in. In V4, they capture richer conjunctions: curvature, color, texture, and object-like structures like eye-shaped forms set against organic backgrounds.
+    </p>
+    <p class="text">
+        The fact that the pipeline rediscovers known V1 properties before being applied where ground truth is unknown serves as an internal check that it's working before it's asked to discover something new.
     </p>
 </section>
 
 <div class="figure-full reveal">
     <img src="Figures/Fig_Hypothesis.png" alt="V4 semantic hypotheses">
     <p class="figure-caption">
-        <strong>V4 semantic hypotheses.</strong> For each neuron, top-activating images are identified via the digital twin and their captions distilled into interpretable selectivity descriptions. Examples show diverse feature conjunctions including eye-like structures, curved edges, and textured surfaces.
+        <strong>V4 semantic hypotheses.</strong> Top-activating images are identified via the digital twin and their captions distilled into interpretable selectivity descriptions. Examples show diverse feature conjunctions including eye-like structures, curved edges, and textured surfaces.
     </p>
 </div>
 
-<!-- ═══════════════ VERIFICATION ═══════════════ -->
+<!-- ═══════════════ STAGE 3 — VERIFY ═══════════════ -->
+
+
+
 <section class="section-dark">
     <div class="section-inner reveal">
         <p class="section-label">Stage 3</p>
         <h2>Closed-loop verification</h2>
         <p class="text">
-            Semantic hypotheses are converted into novel images via text-to-image generation, then tested against the digital twin. Combined with spatial optimization, hypothesis-generated images drove 96.1% of V4 neurons above the 95th percentile of natural image responses.
+            A hypothesis is only useful if it makes predictions. Each hypothesis is converted into image prompts, rendered by a text-to-image model, and evaluated by the digital twin. The results substantially outperform the random-image baseline, suggesting the semantic content of the hypothesis captures genuine selectivity rather than an artifact of the image generation process.
         </p>
+
+        <div class="figure-full reveal">
+            <img src="Figures/Fig_Verification.png" alt="V4 verification results">
+            <p class="figure-caption">
+                <strong>V4 verification.</strong> Hypothesis-generated images resemble original most-activating stimuli and, after spatial optimization, drive neurons to extreme response percentiles. Control analysis with random images confirms that semantic content, not spatial search alone, is necessary.
+            </p>
+        </div>
 
         <div class="results-table-wrap" style="margin-top: 48px;">
             <table class="results-table">
@@ -545,44 +674,102 @@
     </div>
 </section>
 
-<div class="figure-full reveal">
-    <img src="Figures/Fig_Verification.png" alt="V4 verification results">
-    <p class="figure-caption">
-        <strong>V4 verification.</strong> Hypothesis-generated images resemble original most-activating stimuli and, after spatial optimization, drive neurons to extreme response percentiles. Control analysis with random images confirms that semantic content—not spatial search alone—is necessary.
-    </p>
-</div>
 
-<!-- ═══════════════ ALIGNMENT ═══════════════ -->
+
+<!-- ═══════════════ CROSS-MODAL ALIGNMENT ═══════════════ -->
 <section class="section reveal">
     <p class="section-label">Cross-modal alignment</p>
     <h2>Language preserves the geometry of neural selectivity</h2>
     <p class="text">
-        Representational similarity analysis across six embedding spaces reveals that neural activity, visual features, and language share a common geometric structure. Neural responses to hypothesis-generated images align with original neural activity at <em>r</em>&nbsp;=&nbsp;0.52, demonstrating that the full translate–hypothesize–generate loop preserves neurally relevant selectivity structure.
+        Describing individual neurons is one thing. But if language truly captures neural selectivity, it should also reflect how neurons relate to each other. Neurons with similar tuning should end up with similar descriptions. We tested this using representational similarity analysis, asking whether neuron-to-neuron similarity patterns in neural activity space are preserved in language embedding space.
+    </p>
+    <p class="text">
+        They are, partially. Neural activity aligns strongly with visual feature embeddings (<em>r</em>&nbsp;=&nbsp;0.52 in V4) and more modestly with language (<em>r</em>&nbsp;=&nbsp;0.36). Text is a lossy compression of the visual signal, but faithful enough that images regenerated from hypotheses largely restore the alignment (<em>r</em>&nbsp;=&nbsp;0.49). The descriptions are consistent enough across the population to preserve the structure of the neural code through a different modality.
     </p>
 </section>
 
 <div class="figure-full reveal">
     <img src="Figures/Fig_Alignment.png" alt="V4 cross-modal alignment RSA">
     <p class="figure-caption">
-        <strong>Cross-modal alignment.</strong> RSMs across six embedding spaces show consistent block structure. Image–caption alignment is strongest (r = 0.66), and the full closed-loop preserves selectivity structure (r = 0.52 between original and generated-image neural responses).
+        <strong>Cross-modal alignment.</strong> RSMs across six embedding spaces show consistent block structure. Image–caption alignment is strongest (r = 0.67), and neural responses to hypothesis-generated images preserve the original selectivity structure (r = 0.49 in V4).
     </p>
 </div>
 
-<!-- ═══════════════ UMAP ═══════════════ -->
+<!-- ═══════════════ POPULATION STRUCTURE ═══════════════ -->
 <section class="section reveal">
     <p class="section-label">Population structure</p>
     <h2>A semantic cartography of neural selectivity</h2>
     <p class="text">
-        Projecting V4 neurons via UMAP using population activity similarity and annotating each with keywords from its semantic hypothesis reveals smooth semantic transitions. Language does not merely label neural selectivity but preserves its organization.
+        Projecting V4 neurons into two dimensions using population activity similarity and annotating each with keywords from its semantic hypothesis reveals smooth transitions across the embedding. Neighborhoods contain neurons whose descriptions share vocabulary. Individual neurons tile localized, semantically coherent regions. Language embeddings can serve as a coordinate system for navigating neural selectivity space: rather than characterizing neurons one at a time, you can identify functional clusters, interpolate between known tuning profiles, and predict which neurons should respond to novel feature combinations.
     </p>
 </section>
 
 <div class="figure-full reveal">
     <img src="Figures/Fig_Cluster.png" alt="UMAP semantic clustering">
     <p class="figure-caption">
-        <strong>Semantic structure.</strong> <em>Left:</em> UMAP embedding annotated with nouns and adjectives from each neuron's hypothesis. <em>Right:</em> Individual neurons tile localized, semantically coherent regions with smoothly varying activation.
+        <strong>Semantic structure of neural selectivity.</strong> <em>Left:</em> UMAP embedding annotated with nouns and adjectives from each neuron's hypothesis, showing smooth transitions from eyes and organic forms to geometric textures. <em>Right:</em> Individual neurons tile localized, semantically coherent regions with smoothly varying activation.
     </p>
 </div>
+
+<!-- ═══════════════ INTERACTIVE UMAP ═══════════════ -->
+<section class="section-dark">
+    <div class="section-inner reveal">
+        <p class="section-label">Interactive</p>
+        <h2>UMAP clustered by population neural activity</h2>
+        <p class="text">
+            Neurons are embedded by the similarity of their population responses and labeled by the TF–IDF of their semantic hypotheses, so each region of the map is named by the words that most distinguish it.
+        </p>
+        <div class="viewer-container">
+            <iframe src="images/umap_neural_cielab.html" title="Interactive UMAP — population neural activity, TF-IDF labels" data-autofit></iframe>
+        </div>
+        <p class="figure-caption" style="margin: 24px auto 0;">
+            <strong>Scrub around the embedding</strong> to follow the axis of selectivity—watch how the perceptual features in the images shift continuously as you move across neighborhoods.
+        </p>
+    </div>
+</section>
+
+<!-- ═══════════════ SINGLE-NEURON UMAPS (tabbed) ═══════════════ -->
+<section class="section-dark" style="padding-top: 0;">
+    <div class="section-inner reveal">
+        <p class="section-label">Per neuron</p>
+        <h2>Colored by single-neuron activity</h2>
+        <p class="text">
+            The same population embedding, now colored by one neuron's response across the entire map. Warm tones mark the regions that most excite the neuron; cool tones mark the regions that most suppress it. Switch between neurons below.
+        </p>
+
+        <div class="umap-colorbar">
+            <span class="cb-label lei">LEI · suppressive</span>
+            <span class="bar"></span>
+            <span class="cb-label mei">MEI · excitatory</span>
+        </div>
+
+        <div class="neuron-tabs">
+            <button class="ntab active" data-src="images/umap_single_neuron_col4.html">Neuron 4</button>
+            <button class="ntab" data-src="images/umap_single_neuron_col18.html">Neuron 18</button>
+            <button class="ntab" data-src="images/umap_single_neuron_col40.html">Neuron 40</button>
+        </div>
+
+        <div class="viewer-container" style="margin-top: 20px;">
+            <iframe id="neuronFrame" src="images/umap_single_neuron_col4.html" title="Single-neuron UMAP" data-autofit></iframe>
+        </div>
+
+        <p class="figure-caption" style="margin: 24px auto 0;">
+            Each neuron paints the map differently. Switching between them, can you tell what visual feature each one is tuned for?
+        </p>
+    </div>
+</section>
+
+<!-- ═══════════════ CONCLUSIONS ═══════════════ -->
+<section class="section reveal">
+    <p class="section-label">Conclusions</p>
+    <h2>What this opens up</h2>
+    <p class="text">
+        For most neurons in macaque visual cortex, selectivity is expressible in words precisely enough to generate images the neuron actually responds to. The approach requires no prior domain knowledge, which matters for where neuroscience is heading. Large-scale recording technologies are opening access to cortical areas with no established stimulus vocabulary, and a framework that operates on arbitrary natural-image responses and returns testable descriptions is well suited for discovery in exactly those regions.
+    </p>
+    <p class="text">
+        The natural next step is a fully agentic workflow where experimental outcomes drive decisions about what to probe next, iterating toward a hypothesis rather than generating one in a single pass. Digital twins make that inner loop cheap: an agent can query predicted responses to arbitrary stimuli at negligible cost, running hypothesis generation entirely in silico before any biological experiment is needed. The bigger picture is a division of labor, where automated tools handle large-scale neural characterization and human researchers retain judgment over what constitutes a discovery.
+    </p>
+</section>
 
 <!-- ═══════════════ CITATION ═══════════════ -->
 <section class="section reveal">
@@ -632,6 +819,48 @@ const observer = new IntersectionObserver((entries) => {
     });
 }, { threshold: 0.1 });
 document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+// ── Single-neuron UMAP tab switching ──
+document.querySelectorAll('.neuron-tabs .ntab').forEach(btn => {
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.neuron-tabs .ntab').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const frame = document.getElementById('neuronFrame');
+        if (frame) frame.src = btn.dataset.src;
+    });
+});
+
+// ── Size embeds to their content (no scrollbar, nothing clipped) ──
+// Embeds are same-origin (GitHub Pages), so we can turn off the embed's own
+// scrollbar from here and size the frame to fit its content exactly.
+function fitFrame(frame) {
+    try {
+        const doc = frame.contentDocument || frame.contentWindow.document;
+        if (!doc || !doc.body) return;
+        // suppress the embed's own margins + scrollbar
+        doc.documentElement.style.margin = '0';
+        doc.documentElement.style.overflow = 'hidden';
+        doc.body.style.margin = '0';
+        doc.body.style.overflow = 'hidden';
+        const h = Math.max(
+            doc.body.scrollHeight, doc.documentElement.scrollHeight,
+            doc.body.offsetHeight, doc.documentElement.offsetHeight
+        );
+        if (h > 60) frame.style.height = h + 'px';
+    } catch (e) { /* cross-origin (e.g. opened via file://): can't reach in */ }
+}
+// Plotly/interactive embeds can finish rendering after 'load', so re-fit a few times.
+function fitFrameRepeat(frame) {
+    fitFrame(frame);
+    [120, 350, 800, 1500].forEach(t => setTimeout(() => fitFrame(frame), t));
+}
+document.querySelectorAll('iframe[data-autofit]').forEach(frame => {
+    frame.addEventListener('load', () => fitFrameRepeat(frame));
+    fitFrameRepeat(frame); // in case it already loaded
+});
+window.addEventListener('resize', () => {
+    document.querySelectorAll('iframe[data-autofit]').forEach(fitFrame);
+});
 
 // ── Typewriter for translate demo ──
 const captionText = `A vibrant Rainbow Lorikeet occupies the central vertical axis of the image, captured in profile facing the right against a blurred, muted olive-green background. The bird's head is covered in deep violet-blue feathers that appear smooth and sleek, surrounding a dark reddish-brown eye with a small black pupil and a tiny white catchlight. A curved, bright orange-red beak protrudes to the right, exhibiting a soft sheen along its upper ridge. Behind the violet head, a distinct collar of bright greenish-yellow feathers separates the neck from the back. The bird's chest is a brilliant display of warm hues, featuring a mottled gradient of reddish-orange at the throat, blending into bright yellow and orange in the center, with visible feather textures creating a layered effect. Below this warm chest area, the plumage transitions abruptly to a deep indigo blue on the abdomen. The bird's left wing and back, visible on the left side of the body, are draped in vivid leaf-green feathers, showing detailed layering and barbs. The parrot is perched on a weathered, grey-brown wooden branch that enters diagonally from the bottom right corner and angles upward toward the bird's lower body, displaying a rough, bark-like texture. The lighting is soft and diffuse, casting no harsh shadows but accentuating the vibrant colors and distinct textures of the plumage and the smoothness of the beak.`;

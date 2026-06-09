@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 9,
+  "percentile": 100,
+  "hypothesis": "1. Selectivity:\nThe neuron is selectively driven by **fine-grained, repetitive structural textures found on organic or biological forms**. The core visual patterns are **radial striations or appendages** diverging from a central mass (e.g., spider legs, mushroom gills, fibrous fungal strands) and **dense, parallel segmentation, ridges, or overlapping scales** (e.g., armadillo bands, insect abdominal segments, bird plumage, coral plates). These features are defined by their high spatial frequency and organized geometric flow.\n\n2. Invariances:\nThe neuron is invariant to the specific biological identity of the subject (responding equally to arthropods, mammals, birds, fungi, wood, or calcified structures). It tolerates variations in lighting (diffuse vs. directional) and overall shape (circular vs. linear body plans), provided the **complex, high-contrast surface texture**\u2014whether radial, concentric, or segmented\u2014remains prominent.\n\n3. Spatial and dimensional requirements:\nThe activating features are generally **centered** or dominate the central portion of the frame. The texture often follows a **radial geometry** (spokes from a hub) or a **directional flow** (parallel curves or bands) that spans across the subject's body. The individual texture elements (lines, ridges, scales) are fine and closely packed.\n\n4. Color and contrast:\nThe activating features typically display a palette of **earth tones**, specifically **dark brown, deep reddish-brown, black, or charcoal**, contrasting sharply with lighter elements of **cream, beige, pale yellow, or off-white** (e.g., dark stripes on light legs, light tips on dark quills). The background is often a subordinate, out-of-focus field of natural colors such as **muted green, slate blue, or greyish-brown** stone/earth, creating a figure-ground separation that highlights the textured subject.\n\n5. Quantitative spatial detail:\nThe textured subject typically occupies approximately **25\u201360% of the image surface area**, positioned centrally or slightly offset toward the center-left or center-right.\n\n6. Synthesis and conciseness:\nThe neuron responds strongly to **complex, high-frequency organic textures** characterized by **radial striations, parallel segmentation, or imbricated scaling** in high-contrast earth tones. Common activating features include the **radiating legs of arachnids**, the **gills or fibrous ridges of fungi and coral**, and the **patterned scales, bands, or quills of animals**. The visual driver is the **organized, rhythmic repetition of structural details**\u2014typically **dark brown, black, or reddish-brown** elements intermingled with **cream or beige**\u2014arranged in a radial or flowing configuration within the central 25\u201360% of the frame, invariant to the object's specific biological classification.",
+  "confidence": null,
+  "total_images": 13,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 5.3080878257751465,
+      "description": "Occupying the central portion of the view is a large, brown spider, oriented vertically with its head pointing downward, resting within a dense, irregular structure of whitish-gray silk. The spider\u2019s cephalothorax features a prominent, light tan longitudinal stripe running down the center, flanked by broad, dark brown bands that transition to a lighter, translucent brown at the edges. Its abdomen is oval-shaped and mottled with shades of dark espresso and varying tones of grayish-brown. The creature\u2019s legs are long, spanning nearly the entire width of the visible area; they are an amber-brown color, becoming darker at the joints, and are covered in fine, dark spines. The front two pairs of legs extend forward and slightly outward, curving at the joints to grip the silk, while the rear legs stretch backward, disappearing into the web's recesses. Directly beneath the main spider\u2019s face, entangled in the webbing, lies a much smaller, pale beige object that appears to be a shed exoskeleton or a small spider carcass, with delicate, translucent legs crumpled together. The web itself creates a thick, multi-layered mat that fades into transparency at the periphery, revealing a rough, granular background of gray and brown earth or stone. Above and slightly behind the main spider, the silk thickens into a curved, arch-like rim, suggesting the opening of a funnel web, with the interior of this tunnel receding into shadow. The lighting is stark and frontal, creating high contrast highlights on the glossy carapace of the spider and the thickest strands of the white silk, while casting soft, diffuse shadows beneath the spider's legs. Small particles of debris and dirt are scattered throughout the webbing, caught in the fine, chaotic mesh of threads."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 5.310733795166016,
+      "description": "A medium-sized wading bird dominates the center and right portions of the view, positioned in profile facing downwards toward the lower left. The bird\u2019s body is angled steeply forward as it feeds, with its long, straight beak partially submerged in the water. The plumage on the bird's back and folded wings is an intricate pattern of dark umber and charcoal feather centers edged with varied shades of sandy beige and warm tan, creating a scaly, textured appearance. The neck and head are lighter, covered in fine, grayish-brown streaks against a pale cream background, transitioning to a cleaner white on the visible portion of the underbelly. A distinct, pale eyebrow stripe runs horizontally just above the small, glossy black eye. The beak is slender, appearing yellowish-orange at the base before disappearing into the water. The point of entry creates a series of sharp, concentric ripples that radiate outward in the lower left quadrant, distorting the otherwise smooth surface. The water in the background is a soft, out-of-focus slate blue, reflecting the sky, while the foreground water surrounding the bird is a murkier, translucent olive-brown. Beneath the bird, a dark, rippled reflection of its head and neck mirrors the subject, blending into the brownish water. On the right side, the upper portion of a yellowish-green leg is visible just before it enters the water. Sunlight strikes the bird from the upper left, illuminating the detailed patterning of the back feathers and casting a soft shadow along the underside of the neck."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 5.356271743774414,
+      "description": "Centered within the view is a top-down close-up of a harvestman arachnid resting on a rough, granular surface. The arachnid's body is a single, fused oval mass, colored a warm, semi-translucent amber-orange. The texture of the body is segmented with horizontal ridges across the abdomen, appearing slightly glossy as if constructed of polished chitin. Near the front center of the body is a small, raised ocular tubercle, a tiny bump housing the eyes, which is slightly paler than the surrounding carapace. Surrounding the central body mass are the thick, conical bases of eight legs, clustered tightly and sharing the same amber orange coloration. From these tapered bases, the legs extend outwards as extremely long, thin, wire-like appendages. The transition from the orange base to the leg shaft is abrupt, changing immediately to a deep, solid black. These black legs radiate outward in all directions, spanning across the background and extending beyond the visible edges of the scene. The legs are positioned with relative symmetry, with pairs angling towards the upper corners, the sides, and the lower corners. The background beneath the arachnid is a textured, grey substance resembling weathered concrete or coarse stone, speckled with tiny irregular distinct granules of white, light grey, and dark charcoal. The lighting is soft and diffuse, casting no harsh shadows but creating subtle specular highlights on the ridges of the arachnid's back and the tops of the leg bases, indicating a slightly rounded and smooth topography against the pitted, matte ground."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 5.365478038787842,
+      "description": "Two sleek, weasel-like mammals with tawny-brown dorsal fur and creamy-white underbellies occupy a sunlit patch of rough, pebbly ground against a backdrop of blurred green grass. The individual on the left is positioned in the mid-ground, oriented diagonally with its head pointing toward the lower left corner and its body arching upwards toward the center; its nose is nearly touching the soil, and the sleek brown fur covers its back and flanks, transitioning to white along the throat and chest, while its rounded ear is visible against the smooth coat. In the lower right foreground, the head and neck of a second, identical animal are visible in profile, facing left toward the first animal; this subject features a sharp, distinct line separating the brown fur on the top of its head from the white fur on its muzzle and throat, with a small pink nose, dark beady eye, and a rounded ear displaying a pale interior. The ground beneath them is a mix of dry, greyish-brown soil, small stones, and scattered dry plant matter, with sharp, dark shadows cast directly underneath the animals\u2019 bodies, indicating bright overhead sunlight. The background is filled with out-of-focus, vertical blades of vibrant green grass that take up the upper third of the scene, creating a soft depth of field that emphasizes the sharp focus on the animals' fur and the granular texture of the dirt in the foreground."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 5.376680850982666,
+      "description": "A close-up, high-angle view reveals a highly polished, turned wooden object, predominantly deep reddish-brown with darker grain striations, centered in the frame against a blurred background. The object consists of concentric circular tiers rising to a central finial. The outermost visible ring is a wide, flat flange with a rich mahogany hue, marked by fine concentric grooves and dark, pitted textures indicative of wood pores. Moving inward, a raised step leads to a narrower, slightly convex ring that transitions into a central vertical post. This post features a bulbous, mushroom-shaped top, distinctively textured with stippled patterns on its upper surface, contrasting with the smoother finish of the rings below. The wood exhibits a glossy sheen, reflecting light on the upper curve of the central bulb and the outer rim of the flange, highlighting the craftsmanship. The grain runs roughly horizontally across the piece, creating variegated bands of dark brown and deep red. The lighting appears soft and diffuse, casting subtle shadows within the grooves and beneath the overhang of the central bulb, emphasizing the three-dimensional form. The object occupies the majority of the visible space, with only hints of a pale, indistinct background visible at the very edges."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 5.4391984939575195,
+      "description": "Centered against a backdrop of soft-focus, vibrant lime-to-emerald green foliage, an orb-weaver spider hangs suspended head-down in its web, displaying its ventral side. The spider occupies the central fifty percent of the vertical visual field, with its bulbous, ovoid abdomen positioned in the upper center and its smaller, fused head and thorax located below it. The abdomen\u2019s underside presents a symmetrical pattern featuring a dark, brownish-black central rectangle with rounded corners, flanked by two curving, creamy-yellow longitudinal stripes that resemble brackets, all set against a mottled brown and tan perimeter. Below the abdomen, the cephalothorax and sternum area appear as a translucent, glowing amber-orange central hub from which the eight legs radiate. These legs are semi-translucent and segmented, transitioning from a honey-yellow near the body to alternating bands of stark black and pale cream towards the tips. Each leg is sparsely covered in short, stiff, black sensory spines that protrude perpendicularly. The two uppermost pairs of visible legs extend upward and outward, anchoring to the web above, while the lower two pairs curve downward and outward, creating an X-shaped configuration with the tips of the lowest legs nearly touching. The spider grips a delicate, silver-white web structure composed of taut radial threads extending outward from the center and finer, spiraling capture threads that intersect them, visible as faint, glistening lines against the green background. The lighting appears natural and diffused, passing through the translucent limbs to create a glowing effect, while the background remains completely blurred and featureless aside from the color gradient."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 5.471591949462891,
+      "description": "A top-down view presents a circular biological structure, likely a mushroom cap, set against a black background. At the precise center is a raised, rounded boss colored a deep, matte chocolate brown with subtle reddish undertones. This dark central area occupies approximately twenty percent of the visible surface and features an irregular, jagged perimeter where the solid pigment breaks apart into small, flaky islands before giving way to the lighter surrounding area. Extending radially from this dark center to the outer edges is a textured surface composed of fine, fibrous striations in shades of creamy beige, pale tan, and off-white. These striations resemble silky threads or ridges that fan out like the spokes of a wheel, creating a corrugated topography of alternating light elevations and slightly darker, shadowed valleys. The texture appears dry and fibrous, with the cream-colored ridges reflecting soft, diffuse lighting that emphasizes the radial pattern. The transition between the dark center and the pale outer fan is organic, with the brown pigment appearing as scattered scales resting atop the lighter, striated base. The distinct lines of the texture continue uninterrupted to the periphery of the view, where the focus softens slightly, maintaining a consistent rhythmic pattern throughout the beige section."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 5.489593029022217,
+      "description": "The center of the view is dominated by the head and upper chest of a marmot in profile, facing toward the upper right corner. The animal's fur is multi-colored and textured, with the top of the head and the bridge of the nose consisting of short, dark charcoal-brown hair. This dark coloration extends around a small, glossy black eye located in the upper left quadrant, which reflects a tiny white highlight. Below the eye and extending down to the chest, the fur transitions into a thick, soft coat of tawny gold, cream, and beige, creating a large, lighter-colored area that occupies the lower left and central portions of the subject. The fur on the animal's back and shoulder, visible on the right side, is a coarser, grizzled mix of dark brown and grey with lighter tips. A small, round, furry ear is positioned on the far left edge, partially visible. The snout is blunt and dark grey, with a textured nose pad at the tip and several long, stiff white whiskers protruding horizontally and downward from the muzzle. The background is a soft, out-of-focus field of green vegetation, with blurred blades of grass and a small, indistinct patch of yellow suggesting a flower near the top center. Thin, brown, twig-like structures are faintly visible in the background blur to the right of the animal's head. The lighting is natural and diffuse, highlighting the golden tones of the neck fur and the wet texture of the nose without creating harsh shadows."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 5.552237510681152,
+      "description": "A greyish-brown armadillo occupies the central left portion of the view, oriented with its head pointing toward the left edge, actively feeding from a low container. The animal\u2019s protective shell is highly textured, featuring a series of roughly eight to nine articulated bands wrapping vertically around its midsection, each segment detailed with a pattern of small, scale-like plates. To the rear of these flexible bands, the shell forms a solid, rounded dome with a pebbled surface, curving down towards the ground. The armadillo's head is tapered and lowered, nuzzling into a pile of coarse, yellow and orange granular feed, possibly corn, contained within a grey, rigid trough structure. The trough appears to be made of rough material like concrete or weathered wood, with a distinct lip running diagonally from the upper left down to the lower left quadrant. The animal's small, dark eye is visible just above the feed line, and the texture of the skin on its face is rough and bumpy. To the right of the armadillo, the ground is composed of dry, light tan earth, uneven in texture and scattered with small bits of debris, tiny stones, and stray pieces of dried straw. A soft, dark shadow pools directly beneath the armadillo's rounded side on the dirt, indicating diffuse overhead lighting. The colors are natural and muted, primarily consisting of dusty taupes, sandy beiges, and the dull yellow of the grain."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 5.559304714202881,
+      "description": "Dominating the central and right-hand portion of the view is the body of a bird, captured in sharp focus against a blurred background. The bird, facing towards the left, displays a complex plumage pattern; the upper chest area is a solid, smooth slate-gray that transitions downward into a highly textured breast and underbelly. This lower section features a scalloped, scale-like pattern where individual feathers have creamy, pale yellow centers bordered by thick dark brown or black edges, which shift into a deep rusty orange-brown hue near the belly. To the right, the bird's flank and folded wing exhibit a contrasting pattern of dark brownish-gray feathers marked with thin, crisp white streaks running longitudinally. Below the body, two pale, pinkish-beige legs with a rough, scaly texture extend downwards, ending in feet that grip a patch of dry, clumpy earth. The background consists of a soft, out-of-focus field of vertical grass blades in muted tones of olive green and dried straw yellow, creating a shallow depth of field that emphasizes the intricate details of the bird's feathers under soft, diffuse natural lighting."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 5.6529412269592285,
+      "description": "The image focuses on a magnified section of a textured green leaf surface, occupied by a small, pale insect nymph positioned centrally but slightly biased toward the upper half. The leaf background is a muted olive-green, heavily stippled with a dense covering of microscopic, fine white hairs that create a fuzzy, matte texture across the entire visible area. A network of pale, yellowish-green veins traverses the leaf; a primary vein runs diagonally from the lower left to the upper right, passing directly beneath the rear portion of the insect, while fainter secondary veins branch off into the surrounding green space. The insect itself, oriented diagonally with its head pointing toward the two o'clock position and its tapered tail toward the eight o'clock position, is a translucent creamy-beige color. It has a teardrop-shaped body structure, roughly one-fifth the width of the visible frame, with a rounded head and thorax that tapers down into a segmented, pointed abdomen marked by distinct horizontal ridges. Small, nub-like developing wing pads are visible on the thorax. Thin, pale legs extend from the right side of the body, anchoring it to the leaf surface. A soft, directional light source from the upper right casts a diffuse, dark grey shadow immediately to the left of the insect's abdomen and thorax, providing depth and separating the creature from the underlying foliage."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 5.655826091766357,
+      "description": "The image presents a high-magnification view of a calcified, organic structure characterized by a dense network of thin, rigid plates arranged in meandering, parallel ridges. The material possesses a bone-like texture with a color palette dominated by pale cream, off-white, and varying shades of beige, while the deep recesses between the plates plunge into dark grey and greenish-brown shadows, creating high contrast. A primary focal point creates a concave depression just to the right of the vertical center and slightly below the horizontal midline, where the parallel ridges converge and spiral inward into a deep, elongated valley. Radiating outward from this depression, the ridges sweep upward and to the left, forming a convex, rounded hump in the upper left quadrant where the plates fan out in a starburst pattern. In the lower left quadrant, the orderly parallel lines become more intersected and chaotic as different flow directions meet. Each individual plate is extremely thin with a slightly serrated, rough upper edge that catches the light, appearing brighter white than the side faces. The ridges are tightly packed, separated by narrow gaps that are roughly equal in width to the plates themselves, creating a rhythmic, maze-like texture across the entire visible surface. The lighting appears diffuse, soft, and top-down, accentuating the relief of the ridges and the depth of the valleys without casting harsh, directional shadows across the broader form."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 5.798700332641602,
+      "description": "A central, roughly circular organic formation occupies the majority of the view, characterized by a distinct two-toned, concentric arrangement. The outer perimeter and underlying base consist of a dense, fibrous material in shades of creamy off-white and pale beige, exhibiting a soft, cotton-like or felted texture. This pale substrate displays a radial pattern, with subtle ridges and furrows extending outward from the center to the edges, creating a pillowy, uneven topography that catches the light softly on the raised sections. Occupying the central region, covering approximately one-quarter of the formation's diameter, is a concentrated scattering of granular, jet-black and deep charcoal particulates that appear like fine dust or spores. These black specks are most densely clustered at the very core, forming an irregular, dark nucleus, and gradually diffuse outward, becoming sparsely scattered as they mix with the surrounding white fibers. The transition from the dense black center to the white periphery is granular rather than solid, with individual black dots clearly visible against the pale background, resting atop or embedded within the fibrous mat. The lighting is even and diffuse, casting no hard directional shadows but accentuating the depth of the fibrous ridges and the high contrast between the dark granules and the light substrate."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 6.094150543212891,
+      "description": "A rounded, spiny mammal, specifically an echidna, dominates the center of the frame, occupying roughly sixty percent of the visible area with its body oriented diagonally, facing towards the lower-left corner. The creature's back is densely covered in sharp, rigid quills that are dark chocolate brown at the base and taper to creamy, pale yellow tips, creating a high-contrast, speckled texture across the dorsal surface. Coarse, dark brown fur is visible beneath the spines and along the animal's lower flanks, appearing softer and more matted than the protective quills. At the bottom center, a stout, dark brown forelimb extends outward, terminating in long, thick, dark grey claws that grip the loose substrate. The echidna's snout is tucked low, pointing directly into the ground at the bottom left, partially obscured by the angle. The animal rests on a dry, textured ground composed of light tan soil, small grey gravel, and scattered brown leaf litter. To the immediate left of the echidna's flank, a small patch of vegetation with muted olive-green leaves emerges from the soil. Thin, brittle, greyish-white twigs are strewn across the scene, with one prominent, slender branch arching over the animal's back from the middle left to the upper right, resting atop the quills. The lighting appears soft and diffused, casting a gentle, dark shadow directly underneath the animal, grounding it within the scene without creating harsh highlights."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 6.10185432434082,
+      "description": "Centered on a textured, off-white surface that resembles fibrous paper or fabric, a small arachnid, specifically a tick, is positioned with its head oriented toward the upper right corner, roughly at the two o'clock position. The organism's body is teardrop-shaped and flattened, featuring a dark, glossy, brownish-black shield, or scutum, that covers the anterior third of the dorsal surface. The remaining posterior section of the body is a lighter, translucent burnt sienna or rust-orange color, bordered by a distinctively scalloped rim known as festoons; these marginal grooves contain faint, pale cream-colored markings that punctuate the reddish-brown edge. Eight segmented legs, colored a semi-transparent amber, radiate from the underside of the body; the front pair reaches forward and outward, extending past the mouthparts, while the subsequent three pairs on each side angle progressively backward, with the hindmost pair trailing slightly behind the abdomen. The legs exhibit jointed segments that appear delicate and thin relative to the robust body, ending in tiny, darker claws. At the very front, a small, rectangular mouthpart structure projects outward, sharing the same rust-colored tone as the legs. The creature casts soft, diffuse grey shadows directly beneath its legs and body onto the white background, which is characterized by a pitted, uneven topography with subtle grey stippling and variations in focus, indicating a shallow depth of field where the background blurs slightly toward the perimeter."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A high-angle close-up of a wolf spider situated centrally, occupying exactly 25% of the frame against a smooth slate blue stone surface. The spider's legs radiate symmetrically from the central cephalothorax, featuring a high-contrast pattern of dark chocolate brown bands alternating with pale cream stripes. The fine, bristle-like texture of the legs is visible, creating a repetitive, radial geometry that stands out sharply against the cool, uniform background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "wolf spider",
+        "radial legs",
+        "dark brown and cream bands",
+        "slate blue background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "The underside of a portobello mushroom cap, positioned in the center and filling a quarter of the image area. The gills radiate outward from the stalk connection like wheel spokes, displaying deep charcoal brown ridges separated by narrow, lighter beige recesses. The dense, parallel nature of the gills creates a strong textural rhythm, set against a heavily blurred background of muted green moss.",
+      "rationale": "",
+      "emphasis_tags": [
+        "mushroom gills",
+        "radial striations",
+        "charcoal brown and beige",
+        "muted green background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A top-down view of a single, open pinecone, centered and occupying 25% of the visual field. The woody scales spiral outward from the center in a complex geometric pattern, colored in deep reddish-brown with lighter, tan-colored tips that catch the light. The imbricated, repetitive scales create a rough, organic texture against a soft, out-of-focus greyish-brown earth backdrop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pinecone",
+        "spiral scales",
+        "reddish-brown and tan",
+        "greyish-brown background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A focused section of an armadillo's midsection armor, taking up 25% of the frame in the center. The image highlights the parallel, segmented bands of the carapace, which are dark grey-brown and rough, separated by lines of smoother, pinkish-cream skin. The organized, ridge-like flow of the armor contrasts with a hazy, muted green field in the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "armadillo armor",
+        "parallel segmentation",
+        "dark grey-brown and cream",
+        "muted green background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A bleached mushroom coral skeleton sitting centrally, covering 25% of the canvas. It features razor-sharp, calcified ridges radiating from a central hub, colored in stark white-beige with deep brown shadows trapped between the thin plates. The radial symmetry is precise and high-frequency, resting on a dark slate blue underwater rock face.",
+      "rationale": "",
+      "emphasis_tags": [
+        "coral skeleton",
+        "radial ridges",
+        "white-beige and deep brown",
+        "slate blue background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A close-up cluster of hawk breast feathers, occupying 25% of the image in the center-right. The plumage exhibits a repetitive, high-contrast barring pattern with dark coffee-brown transverse stripes against a creamy off-white base. The overlapping feathers create a dense, scaled texture, set against a uniform, out-of-focus greyish-brown branch.",
+      "rationale": "",
+      "emphasis_tags": [
+        "hawk feathers",
+        "barred pattern",
+        "coffee-brown and off-white",
+        "greyish-brown background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A large centipede curving slightly in the center of the frame, occupying roughly 25% of the visual space. Its segmented body armor is a deep, glossy mahogany red-brown, with evenly spaced, pale yellow legs extending rhythmically from each segment. The repetitive, segmented structure is highlighted against a damp, slate blue stone texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "centipede",
+        "segmented body",
+        "mahogany and pale yellow",
+        "slate blue background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A turkey tail fungus bracket fan, taking up 25% of the frame in the center-left. The surface features concentric, velvet-textured zones of dark brown and charcoal alternating with contrasting stripes of cream and pale buff. The parallel, wavy growth rings create a mesmerizing flow against a blurred, brownish-grey tree trunk background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "turkey tail fungus",
+        "concentric rings",
+        "dark brown and cream",
+        "brownish-grey background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The dorsal quills of a porcupine, focused in the central 25% of the image. The spines are oriented in a backward flow, featuring sharp black and dark brown shafts that terminate in bright, cream-colored tips. The dense packing of the quills creates a high-frequency, linear texture against a soft, muted green woodland blur.",
+      "rationale": "",
+      "emphasis_tags": [
+        "porcupine quills",
+        "linear texture",
+        "black and cream",
+        "muted green background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "The abdomen of a paper wasp, positioned centrally and filling exactly a quarter of the frame. The segmented exoskeleton shows distinct, high-contrast black bands alternating with bright, pale yellow rings. The geometric regularity of the segments is sharp against a dull, slate blue painted surface in the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "wasp abdomen",
+        "segmented bands",
+        "black and pale yellow",
+        "slate blue background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A decaying leaf skeleton, occupying 25% of the center frame. The intricate network of veins creates a complex, map-like texture of dark brown ribs against a lighter, disintegrated beige mesh where the leaf tissue has eroded. The fine, branching detail is set against a smooth, greyish-brown pavement background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "leaf skeleton",
+        "branching veins",
+        "dark brown and beige",
+        "greyish-brown background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A textile cone shell, taking up 25% of the image in the center. The shell's surface is adorned with a repetitive, triangular network of dark chocolate brown lines and blotches on a creamy white background. The geometric, scale-like pattern is highly organized, resting on a muted green sandy blur.",
+      "rationale": "",
+      "emphasis_tags": [
+        "cone shell",
+        "triangular pattern",
+        "chocolate brown and cream",
+        "muted green background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A tussock moth caterpillar, centered and covering 25% of the frame. It features dense, toothbrush-like tufts of hair in alternating bands of black and creamy white along its back. The vertical, bristly texture of the tufts repeats rhythmically along the body, contrasting with a blurry, greyish-brown twig background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "caterpillar",
+        "banded tufts",
+        "black and white",
+        "greyish-brown background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "The uncurling fiddlehead of a fern, occupying 25% of the view in the center. The spiral structure is covered in fibrous, dark reddish-brown scales that contrast with the lighter, pale yellow-beige stem underneath. The radial geometry of the spiral is tight and textured, set against a deep, slate blue shadowed recess.",
+      "rationale": "",
+      "emphasis_tags": [
+        "fern fiddlehead",
+        "fibrous scales",
+        "reddish-brown and beige",
+        "slate blue background",
+        "25% image area"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "The closed wing cases of a Goliath beetle, filling 25% of the center. The surface displays a chaotic but high-frequency scribble pattern of dark brownish-black lines on a cream-colored carapace. The intricate, maze-like texture is sharp and glossy, isolated against a soft, muted green leaf texture in the background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "beetle wing cases",
+        "scribble pattern",
+        "brownish-black and cream",
+        "muted green background",
+        "25% image area"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 4.372527599334717,
+      "best_percentile": 99.96799790191123
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 3.841416120529175,
+      "best_percentile": 99.8262520235473
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 3.825870990753174,
+      "best_percentile": 99.81766609479178
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 3.7462804317474365,
+      "best_percentile": 99.76583830666752
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 3.5956928730010986,
+      "best_percentile": 99.62799512319246
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 3.5252151489257812,
+      "best_percentile": 99.54182362004612
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 3.512164354324341,
+      "best_percentile": 99.52324679237508
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 3.415889024734497,
+      "best_percentile": 99.36940255985563
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 3.1268036365509033,
+      "best_percentile": 98.61149921243617
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 3.0253982543945312,
+      "best_percentile": 98.19430112881547
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 2.853262424468994,
+      "best_percentile": 97.24056055187228
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 2.834500551223755,
+      "best_percentile": 97.10669811718388
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 2.3610377311706543,
+      "best_percentile": 91.54871421814191
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 2.2095601558685303,
+      "best_percentile": 88.42757300771329
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 2.1596286296844482,
+      "best_percentile": 87.20220486650442
+    }
+  ]
+}

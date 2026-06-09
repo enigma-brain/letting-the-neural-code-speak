@@ -1,0 +1,269 @@
+{
+  "area": "V4",
+  "neuron_id": 13,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to smooth, convex, or cylindrical forms that exhibit horizontal elongation or gentle arcing contours, such as bottle necks, tire sidewalls, wet animal bodies, or curved metallic instruments. These features are characterized by glossy, metallic, or wet textures that create distinct specular highlights or gradients, emphasizing the object's volumetric curvature. The activating feature is typically colored black, dark grey, metallic silver or brass, or muted organic tones like pink or yellow, and it is set against a textured, often desaturated background of beige, light brown wood, grey, or dull green. The neuron remains invariant to the specific object identity, local patterns (such as text or spots), and precise lighting conditions, provided the horizontal curvilinear form and surface sheen are preserved. The activating feature typically occupies 20\u201360% of the image area, generally positioned as a centered horizontal band or mass within the frame.",
+  "confidence": null,
+  "total_images": 13,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.13092286884784698,
+      "description": "Centered vertically against a blurred, light beige background with faint vertical wood grain striations stands a clear, cylindrical glass tumbler printed with red, black, and white graphics. The most prominent feature is a horizontal, pill-shaped emblem in the middle of the glass, consisting of a solid red oval surrounded by a jagged, white, sawtooth border. Inside this red shape, the words \"PROFESSIONAL\" and \"COCKTAILS\" are printed in two stacked lines of white, all-caps serif font. Surrounding this central logo are blocks of small black text detailing cocktail recipes, arranged in quadrants. Above the logo on the left, the \"MARTINI\" recipe lists ingredients like \"DRY GIN,\" \"DRY VERMOUTH,\" and \"ORANGE BITTERS\" with instructions to \"STIR WITH CRACKED ICE\" and \"SERVE WITH OLIVE.\" To its right, the \"DAIQUIRI\" recipe lists \"RUM,\" \"JUICE 1 LIME,\" and \"POWDER SUGAR,\" ending with \"SHAKE WELL WITH ICE, STRAIN AND SERVE.\" Below the central red oval, partially obscured by the glass's curvature and reflection, are two more recipe blocks; the left one lists ingredients including \"WHISKEY\" and \"VERMOUTH,\" while the right block mentions \"LEMON JUICE\" and \"POWDER SUGAR.\" Decorative, wavy lines in black and red intertwine horizontally across the glass, framing the top and bottom of the recipe sections. Vertical highlights and reflections on the glass surface indicate a glossy texture and cylindrical curvature, slightly distorting the text at the edges."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.15782727301120758,
+      "description": "A close-up, angled shot captures the upper body and neck of a dark amber glass soda bottle, oriented diagonally from the upper left to the lower right at an approximate 45-degree angle. The dominant feature is a metallic, matte silver label wrapping around the cylindrical body. Large, bold, black slab-serif capital letters spelling \"JONES\" arch across the top half of the visible label, following the curve of the glass; the \"J\" is positioned on the far left curvature, while the \"S\" wraps toward the right edge. Directly beneath this brand name, in a much smaller, black sans-serif font, the words \"PURE CANE SODA\" are printed in a single line. Below that, centered and in a medium-sized, black serif font, is the flavor \"ROOT BEER\" in all capital letters. The lighting creates a soft gradient across the silver label, appearing brighter on the left side and slightly shadowed on the right. Above the label, the bottle's shoulder narrows into the neck, composed of dark, glossy glass that catches a strong, bright white specular highlight near the center and a softer, bluish reflection on the right edge. Below the silver label, the glass reveals the dark liquid and a distorted view of the inner bottle, featuring a blurry, mottled patch of vibrant fire-orange and red tones mixed with deep browns. The background, visible primarily in the upper right area behind the bottle, is a soft, out-of-focus field of warm beige and cream colors."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.1579967588186264,
+      "description": "A sleek, jet-black amphibian body dominates the lower half of the view, stretching horizontally from the left edge to the right with a slight upward curve. The creature's skin possesses a wet, glossy texture that reflects light intensely, creating high-contrast specular highlights. Scattered densely across this dark, slimy surface are numerous irregular spots ranging in color from electric cyan to silvery-white and pale blue, appearing most concentrated along the flank and the visible limb. On the lower right side, a leg extends downward and outward, revealing slender, spread digits also speckled with bright blue markings against black skin. The animal rests directly upon a highly textured leaf that fills the entire background. This leaf is a mottled tapestry of autumn hues, primarily coral red, rusty orange, and deep pink. A distinct, pale yellow-green central vein runs vertically through the upper center of the frame, with a network of finer, reticulated veins branching out in a web-like pattern across the reddish tissue. Patches of lime green persist near the upper left edge and along the central vein, blending into the dominant red tones. Small, dark imperfections and spots dot the leaf's surface, particularly in the upper left quadrant. The lighting is direct, emphasizing the wet sheen of the salamander against the matte, papery texture of the colorful leaf beneath it."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.16042876243591309,
+      "description": "A glossy, black salamander body, speckled with irregular white spots, spans horizontally across the central and lower portions of the visible area. The skin appears wet and sleek, reflecting light with bright specular highlights along the dorsal ridge and upper limbs. The creature's torso is cylindrical, densely patterned with white flecks that vary from tiny dots to larger, uneven blotches, particularly concentrated along the lateral sides. To the left, a front limb extends forward and bends at the elbow, its toes gripping the textured surface. On the right, a rear limb splays outward and backward, revealing four distinct, slender toes with pale tips pressing against the ground. The body tapers slightly towards the right edge where it is cut off from view. Above the main body, separated by a band of background surface, a long, tapering tail segment curves horizontally from left to right; this appendage is smoother, darker, and reddish-brown with only a few minute, scattered white specks, contrasting with the heavily spotted torso. The background consists of a rough, granular rock surface in shades of reddish-brown and terracotta, interspersed with patches of faint, olive-green moss or algae that cling to the stone's irregularities. Soft, diffuse shadows are cast directly beneath the salamander's belly and limbs, anchoring the animal to the uneven terrain, while the lighting emphasizes the textural difference between the moist, smooth skin and the dry, coarse rock."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.1626502126455307,
+      "description": "Dominating the upper half of the view is the dark, textured arc of a vehicle tire, characterized by a rugged, all-terrain tread pattern with deep grooves and interlocking blocky shapes that suggest heavy-duty use. The rubber is a matte charcoal black, showing slight signs of wear and dust accumulation within the tread crevices. Below the tread, the tire's sidewall curves convexly, featuring raised, capitalized lettering, with the sequence \"ULL\" partially visible. Nestled inside the tire is a polished, chrome-finished alloy wheel, reflecting ambient light with bright, silvery highlights. The wheel features a directional design with smooth, broad spokes that curve inward toward a central hub. Through the triangular gaps between the spokes, the dark, rusty-brown surface of a brake rotor and caliper assembly is faintly visible in the shadows. At the center of the wheel, a domed chrome center cap is surrounded by hexagonal lug nuts. Engaged with one of the lower-central lug nuts is a black, L-shaped lug wrench; only the socket head and a portion of the shaft are visible, extending diagonally downward toward the bottom left corner. A thin sliver of the vehicle's white or light-grey body panel is barely perceptible immediately above the top curvature of the tire. The lighting is diffuse, creating soft gradients on the chrome surfaces and distinct shadows within the wheel vents and tire treads."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.16694752871990204,
+      "description": "A light brown wooden surface, characterized by diagonal grain lines running from the upper left to the lower right, fills the background with a textured appearance of elongated pores and light honey-colored streaks. Positioned slightly below the vertical center and centered horizontally rests a black plastic lens cap, oval in shape due to the perspective angle. The cap occupies approximately forty percent of the visible width and features a raised inner circular section flanked by two mechanical squeeze tabs on the left and right sides. Across the center of the raised inner circle, the word \"Nikon\" is printed in bold, white, sans-serif capital letters, which are oriented horizontally, contrasting with the diagonal slant of the wood grain beneath. A soft highlight reflects off the upper left rim of the cap's plastic edge, indicating a light source from that direction, which casts a diffuse, dark shadow to the immediate right and bottom right of the object. A small, irregular, reddish-brown speck of debris lies on the wood surface just to the upper right of the lens cap. The texture of the wood grain appears sharpest near the cap and slightly softer towards the upper region of the view."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.16892731189727783,
+      "description": "A large crab, colored in shades of dusty salmon-pink and cream, sits centrally on a patch of grass, occupying the middle horizontal band of the image and spanning approximately two-thirds of the visible width. The crab is viewed from a low, front-facing angle, slightly elevated. Its carapace is broad, oval, and smooth with a matte texture, primarily a muted pinkish-orange that lightens to a pale peach at the crown, with a defined, slightly darker reddish-orange rim arching over the face. The front edge of the shell curves gently downward, meeting a complex arrangement of mouthparts in beige and tan tones, comprised of vertical plates, flanked by small, dark, recessed eyes. Extending to the viewer's left are segmented legs that transition from the shell's pink hue to a stark, creamy white at the pointed tips; the foremost visible appendage on this side is a claw arm, mostly obscured but showing a white joint. On the viewer's right, the legs mirror this arrangement, with a prominent front claw resting on the grass, its pincer thick, curved, and creamy white, contrasting with the pinkish-orange arm segment attached to it. The background and foreground consist entirely of a lawn texture, composed of short, varied blades of grass in shades of dull olive and forest green. Intermixed with the green are scattered dry, brown grass clippings and small, withered brown leaves, creating a textured, organic surface. The lighting is diffuse and even, casting soft, indistinct shadows directly beneath the crab's body and legs, indicating an overcast sky or indirect light source, while the focus remains sharpest on the crab's face and front shell, leaving the peripheral grass slightly softer."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.16893817484378815,
+      "description": "Two Canada geese occupy the center of the frame, standing on a grassy surface, with the primary subject in the foreground positioned centrally and facing toward the left. The head and upper neck of this foreground bird are cut off by the upper left boundary, revealing only the base of a matte black neck that transitions abruptly into a pale, creamy-white chest. This chest area fades downward into a light tan-gray underbelly. The body is dominated by a large folded wing exhibiting a detailed pattern of layered feathers, which are a medium taupe-brown with distinct, light tan edges, creating a scalloped texture that darkens into long, deep brown primary flight feathers extending toward the rear. The tail consists of black feathers pointing downward and to the right, contrasting with bright white undertail coverts. Its legs are dark gray to black, with webbed feet planted on the ground. Directly behind and slightly to the right of the first goose is a second goose, oriented toward the right. Most of its front is obscured by the foreground bird, leaving visible the curve of its back and its own folded wing, which shares the same brownish-gray plumage with light feather margins. The rear of this second bird shows dark tail feathers and white undertail coverts pointing toward the right edge, along with a glimpse of a dark leg beneath. The ground beneath them is a mix of short, muted green grass and dry, straw-colored patches of dead vegetation. The background in the upper third is out of focus, presenting a mottled texture of earthy browns, tans, and dull greens. The lighting is soft and diffuse, creating gentle, indistinct shading on the undersides of the birds without casting harsh shadows."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.16921943426132202,
+      "description": "Occupying the majority of the view is a cylindrical automotive oil filter, positioned at a steep diagonal angle where the circular base faces the bottom right foreground and the body recedes toward the upper left. The exterior of the canister is finished in a high-gloss black paint, exhibiting a bright, vertical specular highlight streak running down the right side and a softer, diffused reflection on the left, indicating a smooth, curved surface. Legible white sans-serif text is printed on the side of the black cylinder, curving with the form; visible fragments of instruction lines read \"TO GASKET,\" \"TIGHTLY BY HAND,\" \"NORMAL LEVEL,\" \"CHECK,\" and \"TIGHTEN IF NECESSARY.\" The bottom face of the filter features a concentric arrangement of materials: an outer crimped rim of bright silver metal, enclosing a thick, matte black rubber gasket ring. Within the gasket lies a recessed, dish-shaped plate of brushed gray steel. At the precise center of this steel plate is a large, dark, threaded hole, surrounded by a radial pattern of eight smaller, evenly spaced circular intake holes. The lighting is directed from the upper right, casting shadows inside the central threaded hole and highlighting the metallic rim. The background is completely out of focus, consisting of blurred patches of pale peach and beige tones that provide a soft contrast to the sharp, industrial details of the filter."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.16987423598766327,
+      "description": "A glossy, dark black, curved object, resembling the temple arm of a pair of eyeglasses, extends horizontally across the central portion of the view, entering from the left edge slightly below the vertical midline and arching gently upward to exit the right edge near the vertical center. The object possesses a smooth, highly reflective surface that catches the light, displaying distinct, sharp white specular highlights along its upper ridge, particularly near the center of the curve. At the extreme left where the object enters, a small, translucent segment of a reddish-brown lens or frame is partially visible. Beneath this dark, rigid structure lies a background of textured, off-white fabric, which appears to be bunched or folded, creating a terrain of soft, undulating mounds and shallow valleys. The fabric exhibits a coarse, cross-hatch weave pattern, with individual threads distinguishable under the illumination, ranging in tone from bright cream in the highlights to pale beige in the recesses. A soft, diffuse shadow, dark grey in color, is cast by the black arm onto the fabric directly below it, mirroring the arm's curvature and establishing a small vertical distance between the object and the textile surface."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.16997531056404114,
+      "description": "Located centrally and occupying the foreground is a highly polished yellow-brass French horn held against the torso of a person. The instrument is a complex maze of coiled tubing that dominates the lower half of the view, catching the light with bright, linear reflections along its curves. On the right side of the instrument, a mechanical assembly of three circular valve caps is arranged in a diagonal line descending towards the left, connected to intricate silver-colored linkages and levers. A hand with fair skin and short, natural nails grasps the instrument's tubing on the right side, just below a section wrapped in a black, textured material acting as a hand guard. The leadpipe of the horn extends diagonally upward toward the top right corner. Behind the instrument, the person wears a matte black blazer with a visible lapel on the left, worn over a black top with a vertical ribbed texture. A thin, silver-tone chain necklace rests against the skin of the neck. At the top center, the lower portion of a face is visible, showing a smiling mouth with white teeth and the tip of a nose, framed by wavy, medium-brown hair that falls over the shoulders. A small segment of a gold hoop earring is visible near the hair on the left side. The background is a soft, out-of-focus blur of dark greens and browns, suggesting outdoor foliage, with natural lighting coming from the front left that creates soft shadows on the neck and sharp highlights on the brass instrument."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.17002467811107635,
+      "description": "A field of opaque, light ochre and tan muddy water dominates the composition, filling the upper and lower thirds of the frame with a fluid, rippled texture. Bisecting the scene horizontally is a dark, elongated, semi-submerged mass that appears to be a wet, organic creature or log, colored in deep charcoal greys and blacks. This object stretches across the entire width of the visible area, occupying the central twenty percent of the vertical space, with a rough, glistening surface that reflects the ambient light in small, sharp white highlights, indicating intense wetness. The object's orientation is nearly horizontal but tilts slightly upwards towards the right. The water surface is agitated with soft, parallel wavelets and ripples that flow diagonally from the upper left toward the lower right, showing lighter tan reflections on the crests and deeper browns in the troughs. The dark mass breaks the surface of the water, creating a distinct boundary where the glossy black texture meets the matte, murky liquid, particularly noticeable along the lower edge of the object where the water seems to lap against it."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.17093311250209808,
+      "description": "Dominating the right side of the view is a black fly fishing reel spool, sharply in focus and angled slightly to display its face against a plain, pale white background. The spool is crafted from a matte black material and features a distinct pattern of circular cutouts: a ring of larger holes encircles the outer face, while a concentric ring of smaller holes sits closer to the center. At the heart of the spool is a raised cylindrical hub capped by a circular, bronze-colored medallion, which is secured by two small, silver slotted screws aligned horizontally. Protruding from the face of the spool, positioned to the left of the center hub near the outer ring of holes, is a small, cylindrical black knob. To the left, partially visible and out of focus, is the dark, curved rim of a second reel, appearing as a blurred arc that hints at a similar structure. Soft, diffuse lighting creates gentle highlights along the inner edges of the perforations and the rim of the main spool, emphasizing its metallic texture and depth."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.17105311155319214,
+      "description": "A large, convex expanse of matte, mustard-yellow organic material dominates the upper-left quadrant, displaying faint, horizontal fibrous striations that follow its gentle curvature. This structure terminates in a sharp, dark rim that arcs diagonally from the upper-right toward the center-left, creating a visible overhang. Beneath this rim lies a deep, wedge-shaped area of pitch-black shadow. Emerging from the shadow and occupying the central and right-middle portions is a clustered, gelatinous mass of translucent globules in shades of rich amber, honey, and pale gold. These bubble-like forms possess a high-gloss, wet texture, evidenced by numerous sharp, brilliant white specular highlights on their curved surfaces. The globules vary in size and density, appearing tightly packed and frothy near the dark recess, and slightly larger and more distinct towards the right. The lower-right area features a smooth, out-of-focus background in soft shades of beige and tan, distinct from the sharp, wet details of the amber cluster and the solid yellow surface above."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.17113111913204193,
+      "description": "The upper portion of the visual field is dominated by the convex, curving exterior of a large ceramic vessel, likely a tureen, rendered in a warm, creamy yellow-beige hue with a soft, satin finish. Across its surface runs a delicate, hand-painted botanical motif featuring a winding brown vine adorned with elongated leaves in varying shades of olive and sage green. Interspersed among the greenery are small clusters of dark maroon or violet stippled dots representing berries or tiny flowers, along with a thin, swirling accent line in burnt orange that parallels the vine's path. Below this large vessel, occupying the lower right quadrant, is a white ceramic bowl filled with a thick, opaque, pale celadon-green liquid, appearing to be a cream-based soup. The surface of the soup is mostly smooth with slight tonal variations suggesting viscosity, and a bright specular highlight sits on the liquid near the upper right edge. The rim of the white bowl is thick and rounded, gleaming under the ambient light. To the far left edge, partially cropped, is a vertical slice of a baked item, resembling crusty bread, with a textured surface of golden-brown and tan hues. Separating the upper yellow vessel and the lower soup bowl is a wedge of deep, solid black shadow, creating a high-contrast negative space that emphasizes the curvature of the objects, while the lighting remains soft and diffuse, highlighting the swell of the ceramics without casting harsh directional shadows on the objects themselves."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A polished, metallic silver chrome pipe extends horizontally across the center of the frame, occupying roughly twenty percent of the image area. The cylindrical form captures a bright, sharp specular highlight running continuously along its length, emphasizing its smooth, convex geometry. The metal reflects the ambient light in a gradient from bright white to deep steel grey, showcasing its round volume. The pipe rests against a background of light brown wood, where the natural grain texture is visible but soft and slightly desaturated, contrasting with the hard, glossy surface of the metal.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "The neck of a dark, glossy black glass bottle lies horizontally, centered in the image and filling approximately one-fifth of the vertical space. A distinct ribbon of white light reflects off the upper curve of the cylinder, clearly defining its smooth, round volume. The black glass transitions into subtle dark grey gradients near the edges where the light falls off. The background is a textured, desaturated beige fabric, resembling coarse linen or burlap, which provides a matte, neutral surface that makes the shiny black form stand out.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A section of an antique brass telescope tube is positioned horizontally in the middle of the view, creating a band that takes up about 20% of the frame. The metal surface is a warm, muted metallic gold-brass color, featuring a soft, longitudinal gradient that reveals its cylindrical shape. A gentle, buttery sheen runs along the apex of the curve. Behind the brass object is a background of dull, desaturated green felt, similar to a billiards table, with a fuzzy, non-reflective texture that complements the smooth metal.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A smooth, dark grey arch of wet seal skin curves gently across the center of the image, occupying the central twenty percent of the composition. The skin is sleek and glossy, with a sheen of moisture that catches the light in a long, horizontal highlight, emphasizing the animal's cylindrical body shape. The texture appears incredibly smooth and rubbery. The background is a blurred, textured surface of light grey rock, neutral and desaturated, placing all visual emphasis on the wet, dark form.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A muted, pale pink ceramic cylinder, resembling the smooth neck of a minimalist vase, is oriented horizontally across the center. It occupies a narrow band, roughly one-fifth of the image's height. The glaze is high-gloss, creating a sharp, linear reflection on the upper curve that demonstrates its convex nature. The color is a soft, organic pink tone. The background is a surface of light brown wood with a fine grain, desaturated enough to remain unobtrusive while providing a warm, natural context.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A thick, glossy black electrical cable runs straight horizontally through the middle of the frame, constituting about 20% of the image. The plastic insulation is smooth and reflective, bearing a long, continuous highlight that indicates its cylindrical structure. The black material looks slightly oily or polished. It is set against a background of flat, desaturated grey concrete, which has a speckled, rough texture that contrasts with the sleekness of the cable.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A section of a muted yellow garden hose, slightly wet, curves gently across the horizontal center line, taking up twenty percent of the visible area. The hose is smooth and cylindrical, with water droplets enhancing the glossy sheen on its upper surface. The yellow color is organic and slightly dusty, not neon. The background is a patch of dull, desaturated green grass and soil, blurred and textured, providing a muted backdrop for the yellow form.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A dark metallic grey gunmetal rod lies horizontally, centered and occupying one-fifth of the image. The metal is smooth with a satin finish, reflecting a diffused band of light that runs along its length, highlighting the cylindrical volume. The dark grey tone is cold and industrial. The background is a textured sheet of beige sandpaper, providing a gritty, desaturated contrast to the smooth, machined perfection of the metal rod.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The curved side of a silver aluminum beverage can is framed horizontally in the center, filling the middle 20% of the view. The surface is metallic and reflective, with a bright vertical gradient that shifts from silver to white at the highlight, showcasing the convex curvature. No text is visible, just the raw silver material. The background is a dark, dull green rubber mat with a diamond-plate texture, muted and out of focus.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "The smooth, wet sidewall of a black tire forms a gentle horizontal arc across the center of the image, occupying roughly twenty percent of the space. The rubber is deep black and slick with water, creating a bright, mirrored highlight along the curve that emphasizes the torus shape. The texture is uniform and featureless. The background is a muddy, light brown earth surface, textured and desaturated, contrasting with the clean, sharp line of the wet rubber.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A polished brass handrail extends horizontally from left to right, centered and taking up about one-fifth of the image height. The brass is highly reflective, glowing with warm, metallic golden-brown tones and a sharp specular highlight along the top edge of the cylinder. The background is a wall of grey stone blocks, textured and cool-toned, providing a neutral, desaturated canvas that allows the warm metal to advance visually.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A smooth, muted pink cylinder of processed meat, like a large sausage, lies horizontally across the center, occupying 20% of the frame. The surface is slightly moist and glossy, catching the light in a soft, diffuse gradient that reveals its roundness. The color is a pale, organic fleshy pink. The background is a sheet of beige butcher paper, crinkled and textured, with a desaturated tone that blends harmoniously with the subject.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A muted yellow plastic railing forms a horizontal bar across the middle of the image, comprising roughly 20% of the visual area. The surface is glossy and smooth, with a linear highlight that defines its cylindrical geometry. The yellow is soft, resembling a faded mustard tone. The background is a flat, desaturated grey sky or wall, completely featureless and dull, isolating the yellow bar.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A dark grey graphite cylinder, perfectly smooth and polished, is centered horizontally, taking up one-fifth of the image. The material has a metallic luster, reflecting a narrow band of light that emphasizes its rod-like shape. The dark grey is deep and charcoal-like. The background is a blotter of dull green felt, textured and fibrous, with a muted, desaturated color that absorbs light.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "The metallic silver cap of a pen is positioned horizontally in the center, occupying about 20% of the image. The silver surface is brushed yet shiny, showing a gradient of light that wraps around the cylindrical form. A pocket clip is visible but the focus is on the convex metal body. The background is a light brown wooden desk surface, with a blurred, desaturated grain pattern that provides a warm, textured setting.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.180424302816391,
+      "best_percentile": 0.0037465870933196792
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.21168561279773712,
+      "best_percentile": 0.060413716879779825
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.2133411169052124,
+      "best_percentile": 0.06962407681752404
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.2511967718601227,
+      "best_percentile": 0.6673608259975679
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.2530157268047333,
+      "best_percentile": 0.7326138845395522
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.26302582025527954,
+      "best_percentile": 1.2078840681067091
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.26741790771484375,
+      "best_percentile": 1.479043308985721
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.27278414368629456,
+      "best_percentile": 1.8576047132065634
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.2757873237133026,
+      "best_percentile": 2.1196316480456083
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.27875444293022156,
+      "best_percentile": 2.4036697820579067
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.2793698310852051,
+      "best_percentile": 2.4596344267643695
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.28828462958335876,
+      "best_percentile": 3.474569259565115
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.28974464535713196,
+      "best_percentile": 3.673138375511058
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.29063305258750916,
+      "best_percentile": 3.7956829950217226
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.29714831709861755,
+      "best_percentile": 4.796255910631409
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "area": "V1",
+  "neuron_id": 18,
+  "percentile": 100,
+  "hypothesis": "The neuron responds selectively to a prominent, continuous vertical dark line, bar, or elongated structure set against a lighter, low-contrast background. The activating feature is consistently a dark charcoal, black, or deep grey linear element\u2014such as a vertical pole, wire, notebook spine, deep shadow cleft, door gap, or expansion joint\u2014that serves as a strong vertical axis within the composition. This element typically spans 50\u2013100% of the image height while remaining relatively slender (roughly 5\u201315% of the image width) and is centered or slightly off-center. The neuron remains invariant to the semantic identity of the vertical form (whether biological, architectural, or mechanical) and its surface texture, as long as the stark dark-on-light contrast and strictly vertical orientation are preserved against a background of pale grey, off-white, or beige.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 7.093648433685303,
+      "description": "A close-up, monochromatic view reveals the smooth, curvilinear surfaces of what appear to be stacked or nested ceramic objects, rendered in varying shades of grey. Dominating the lower right quadrant is a thick, rounded form resembling a handle or rim, characterized by a convex curve that catches soft, diffuse light, creating a gradient from pale, almost white grey at its peak to a mid-tone grey as it recedes. Immediately behind and above this foreground element, another smooth, curved surface echoes its shape, suggesting a second, similar object tucked closely against the first. To the left of this grouping, separated by a sharp, deep black vertical void that acts as a heavy shadow, stands a larger, flatter curved surface. This left-hand element is slightly out of focus and textured with a subtle grain, colored in a darker, mottled grey compared to the brighter, smoother forms on the right. The lighting appears to originate from the upper right, accentuating the volume of the curved shapes with specular highlights while casting the deep, defining shadow into the crevice between the left and right object groups."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 7.121260166168213,
+      "description": "A large, curved mechanical structure dominates the left third of the grayscale scene, rendered in sharp focus with high contrast against a soft, blurred background. The primary component is a metallic housing with a rough, heavy stippled texture, appearing light gray, which curves vertically along the left edge. Attached to this is a smooth, dark, curved metal arm that follows the contour of the housing, connected near the top center by a horizontal pivot mechanism featuring a distinct hexagonal nut and a cylindrical spacer. A bright, reflective highlight runs along the smooth rim of the housing where it meets the dark arm, indicating a light source from above or the left. Below this apparatus, occupying the lower right quadrant, are five distinct, vertical dark bars that stand in a row like a fence or railing, slightly out of focus. The background, filling the remaining right-hand side of the frame, depicts a distant, out-of-focus landscape consisting of a flat, mid-gray expanse\u2014likely water or ground\u2014leading up to a hillside covered in dense, blurry vegetation and clustered buildings with visible rooflines. The scene is bathed in natural daylight, emphasizing the tactile difference between the gritty texture of the foreground metal and the hazy softness of the distant scenery."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 7.142663478851318,
+      "description": "A monochromatic, close-up view displays a textured, segmented biological form curled tightly into a spherical shape, occupying the central majority of the visible space against a black background. The surface is comprehensively covered in a coarse, grid-like pattern of small, raised, pebble-shaped scales arranged in distinct, parallel bands. A prominent, deep vertical cleft of shadow, roughly triangular in shape, cuts into the center of the mass from the top, separating the form into two primary curved sections. The section to the right of the cleft is larger, featuring broad rows of scales that arc gently downwards and to the right, rendered in mid-tone grays. The section to the left of the cleft is narrower, with scale patterns wrapping sharply inward toward the central void. Bridging the bottom of the cleft is a folded ridge of tissue that connects the two sides. Intense, bright white specular highlights are scattered across the surface, indicating a slightly glossy or hard material; specifically, a loose cluster of these highlights appears on the upper left curve, while a more concentrated horizontal band of white glints stretches across the mid-to-lower right quadrant. The lighting appears to originate from the upper right, casting the deep central fissure into near-black shadow while illuminating the tops of the individual scales. The perimeter of the rolled object is slightly out of focus, softening the transition into the surrounding darkness, while the central textured areas remain sharp."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 7.157227993011475,
+      "description": "Presented in a high-contrast grayscale palette, a flat, medium-gray metallic surface fills the view, exhibiting a consistent, grainy texture indicative of powder-coated steel or a low-resolution digital capture. A stark, black vertical line runs from the top to the bottom edge on the left side, positioned approximately one-sixth of the way across the width, delineating a gap between a narrow strip of panel on the far left and the main door panel that occupies the majority of the space. In the horizontal center of the main panel, a metal handle is mounted. The handle features a cylindrical pivot mechanism at its top, distinguished by a dark, almost black circular top face or recess, and a flat, rectangular lever extending vertically downward. This lever arm is the brightest object in the scene, reflecting light to appear nearly white, contrasting sharply with the surrounding gray. To the immediate right of the handle, a soft, diffuse dark shadow is cast against the door surface, suggesting a light source originating from the left. Horizontally overlaid across the vertical center of the image is a line of semi-transparent, white text consisting of Chinese characters. The text, which reads roughly as \"\u6280\u672f\u5f00\u53d1\u533a\u671d\u53cb\u673a\u68b0\" (Technical Development Zone Chaoyou Machinery), passes directly over the handle and the background seam without distortion, appearing as a watermark. The text is sans-serif and uniform in height, spanning almost the entire visible width. The overall lighting is flat and even, aside from the highlight on the handle and its corresponding shadow."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 7.1877760887146,
+      "description": "A vertical close-up view captured in grayscale reveals the central binding mechanism of an open notebook or planner. Running precisely down the vertical center is the binder's spine, composed of a thick, solid black strip flanked closely by two thinner, dark gray vertical rails. Two metallic, silver-toned rings arch horizontally across this dark spine, connecting the left and right pages; the top ring is positioned in the upper third of the visible area, while the bottom ring is located in the lower third. Each ring exhibits bright white specular highlights on its upper curve, indicating a glossy metal texture, and casts a soft, diffuse shadow onto the paper and spine directly beneath it. To the left of the central spine, a sheet of light gray paper is visible, marked with thin, parallel horizontal lines in a darker gray. A vertical margin line runs parallel to the spine on this left page, creating a narrow column near the binding holes. To the right of the spine, the opposing page mirrors this layout with identical light gray paper and horizontal ruling, also featuring a vertical line that boxes in the lined section. The paper appears smooth and matte, contrasting with the reflective surface of the rings and the dark, rigid appearance of the central spine structure. The lighting is even and diffused, minimizing harsh contrast except for the deep blacks of the spine and the bright reflections on the metal rings."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 7.225834846496582,
+      "description": "Centrally positioned against a uniform, grainy medium-grey background is a slender, vertical metallic object rendered in monochrome, resembling a machined tool bit or probe tip. The object dominates the vertical axis, extending from the top edge down to the bottom center, occupying roughly 15% of the width of the visible area. The upper portion of the object consists of a segmented, bulbous structure; a rounded, ring-like protrusion is visible near the top, separated by a slightly narrower, recessed neck from a second, similar spherical ridge immediately below it. Beneath these machined rings, the object transitions into a smooth, elongated shaft that tapers slightly as it descends, curving gently toward the left near the bottom. The material appears highly polished and reflective, likely chrome or stainless steel, characterized by a sharp, intense white specular highlight running continuously along the entire left-hand edge of the shaft and the left curves of the upper rings. This strong illumination indicates a light source from the upper left, casting the right side of the cylinder into a deep charcoal shadow that defines its three-dimensional volume. A faint, soft shadow, slightly darker than the surrounding grey noise, falls to the immediate right of the lower shaft, further anchoring the object in space. The surface texture of the metal is smooth and glass-like, contrasting heavily with the rough, speckled noise pattern of the background."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 7.241054534912109,
+      "description": "A vertical, light-toned rectangular post, likely made of weathered wood or concrete, stands slightly to the left of the central axis, extending from the lower middle section upwards and appearing roughly one-tenth the width of the visible area. Strong lighting from the right casts a sharp, deep black shadow from the post horizontally to the left across a background wall. This background wall occupies the upper two-thirds of the scene and features a coarse, pebbled texture resembling rough stucco or aggregate concrete in a medium gray shade. Protruding from the left face of the vertical post are two dark, metal climbing spikes or brackets, spaced vertically apart; these objects cast distinct, elongated horizontal shadows that merge with the main shadow of the post on the wall, creating a shape resembling a comb with two teeth. Below the textured wall is a distinct horizontal band of smoother, darker gray material, possibly a curb or foundation, which runs across the entire width of the view. In front of this band and the post lies a flat, speckled ground surface, lighter than the curb but darker than the illuminated face of the post. At the extreme bottom edge, partially cut off, is a thin strip containing fragments of white, capitalized text on a dark background, suggesting a street sign or marker. The entire scene is rendered in high-contrast monochrome, emphasizing the geometric interplay between the vertical post, the horizontal ground lines, and the horizontal cast shadows."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 7.3090715408325195,
+      "description": "A vertical close-up reveals the central components of a bolo tie set against a muted, medium-gray fabric background with a grainy texture. At the top, a circular silver-tone slide acts as the focal point, though its upper edge is truncated by the boundary. The slide features a textured, embossed center with an indistinct relief design, encircled by a raised rim with a rope-like, diagonally striated pattern. Two thick, matte black cords emerge from beneath the slide and hang vertically, running parallel with a narrow gap separating them. These cords appear to be made of a braided material and contrast sharply with the lighter background. Terminating each cord is a polished silver-metal aglet, cylindrical in shape and tapering slightly towards the bottom. The left aglet hangs lower, extending further down the frame, while the right aglet is positioned slightly higher. Both metal tips exhibit vertical highlights, indicating a smooth, reflective surface, and connect seamlessly to the black cords. Soft, diffuse shadows fall slightly to the right of the cords and metal pieces, suggesting a light source from the upper left."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 7.321441650390625,
+      "description": "In a grayscale close-up scene, a slender, dark charcoal-colored cylindrical object, appearing like a smooth wire or stem, traverses the vertical length of the visible area. The object originates at the top edge, positioned at approximately 45% of the width from the left, and descends with a gentle curvature. It initially bows slightly to the right, reaching its apex of curvature near the vertical center, before sweeping back inward to the left, exiting the bottom edge at roughly 35% of the width from the left. A faint, diffuse highlight runs along the lower left edge of this vertical element, suggesting a light source from the left, while its right side remains in deep shadow. The background is heavily comprised of a mottled, out-of-focus texture in varying shades of mid-to-dark gray, resembling a blurred surface of ground or stone. To the right of the vertical line, slightly below the horizontal midline, there is an indistinct, brighter patch of light gray, almost white, which stands out against the surrounding darker gray mottling. Above this light patch is a vaguely defined darker gray area. The area to the left of the central line consists of a more uniform, noisy wash of medium-dark gray tones, with no distinct shapes or high-contrast elements visible. The focus is soft throughout, with the foreground line being sharper than the background but still retaining a slight softness to its edges."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 7.381262302398682,
+      "description": "This black and white close-up captures a detail of a fixture and a curved surface against a smooth, light gray background. In the upper left quadrant, a polished, dark metallic horizontal cylinder extends inward from the left, marked by a sharp, bright specular highlight along its upper edge. This rod connects to a vertical mechanical assembly that includes a thin, downward-pointing pin-like structure on the far left. Hanging or emerging from this fixture is a smooth, matte material that curves gently downwards; its surface matches the light gray tone of the background but catches the light on its convex face. A distinct, deep black, elongated teardrop-shaped shadow or void is formed vertically within the folds of this assembly, situated between the hanging material and the wall mount, creating a point of high contrast. From the base of this curved form, a soft, diffuse shadow is cast diagonally downwards across the flat background surface, extending towards the bottom right. The lighting is directional from the upper left, illuminating the curve of the matte material and the top of the metal rod while creating the prominent dark recesses and the diagonal shadow trail."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 7.427178382873535,
+      "description": "A vertical, dark charcoal-grey cylindrical pole serves as the central axis of the scene, extending uninterrupted from the top to the bottom of the visible area and occupying approximately five percent of the image's total width. The pole is set against a uniform, flat, medium-grey background that lacks any texture, gradient, or cloud detail, suggesting an overcast sky. Along the lower third of the pole, faint, illegible white vertical markings or text are barely discernible against the dark material. Radiating from the upper sections of the pole are multiple thin, taut black cables or guy wires that create a geometric web against the grey backdrop. To the left of the pole, three distinct wires slope downward from the upper-left quadrant toward the center; the top-most wire on this side enters near the upper boundary, while the lower two originate from the middle-left edge, all converging toward the pole at steep angles. On the right side, a similar set of four thin wires descends from the upper-right quadrant toward the pole, mirroring the left side's arrangement but with slightly wider spacing between the individual lines. The lighting is soft and diffuse, creating a silhouette effect for the wires while revealing a subtle, lighter sheen along the left vertical edge of the central pole, implying a light source positioned to the upper left."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 7.453088283538818,
+      "description": "A vertical, dark, cylindrical botanical structure, resembling a flower spike, stands prominently in the center of a grayscale composition. This spike is the darkest element, rendered in deep charcoal to black tones, and features a rough, nubby texture along its edges, suggesting tightly packed seeds or florets. It occupies the central vertical axis, extending from the lower middle section almost to the very top edge of the visible area. Below the textured head, a thin, smooth, dark gray stalk supports it. At the base of the image, a dense cluster of grass-like foliage rises, reaching approximately one-third of the way up the composition. These blades are lighter in tone, ranging from pale gray to white, and appear soft and out of focus, curving gently outward to the left and right. The background is completely blurred due to a shallow depth of field, consisting of mid-gray tones that suggest distant vegetation. On the right side of the background, a blurry, vertical, mottled gray form, possibly a tree trunk, parallels the central spike, while the left background shows undefined, hazy layers of lighter gray foliage. The lighting is soft and diffuse, creating a silhouette effect for the central spike against the brighter, hazy background, with the foreground grass blades catching highlights that separate them from the darker stalk."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 7.529669284820557,
+      "description": "A vertical, slender, dark charcoal-grey cylindrical object bisects the visible field from top to bottom, positioned slightly to the left of the center at approximately the 45% mark of the horizontal axis. This rod-like structure occupies roughly 5% of the total width and features a sharply focused, rough texture with granular surface details that catch faint light on its left edge, suggesting a light source from that direction. Behind this foreground element lies a heavily blurred, out-of-focus background consisting of horizontal bands of muted, sandy tones. The upper half of the background is a pale, washed-out beige with soft, indistinct diagonal striations running from upper left to lower right, simulating the grain of wood or ripples in sand. The lower half transitions into a slightly darker, greyer taupe hue. In the lower right quadrant, distinct from the striations, are two small, blurred dark spots positioned diagonally relative to one another, floating in the texture of the background surface roughly one-third up from the bottom edge and halfway between the vertical rod and the right limit of the view. The lighting is diffuse and low-contrast, creating a soft atmosphere where the sharp vertical line stands out starkly against the smooth, indefinite background."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 7.5703630447387695,
+      "description": "Centered on a textured, monochromatic off-white surface is a vertical view of a house centipede, occupying roughly forty percent of the width and seventy percent of the height of the visible area. The arthropod's segmented body is elongated and distinct, featuring a dark charcoal-grey stripe running longitudinally down its center, flanked by lighter grey bands and darker edges. Radiating from this central torso are numerous pairs of long, spindly legs that are jointed and taper to fine points; these appendages are a translucent mid-grey, showing faint banding patterns of alternating light and dark tones. The legs originating from the upper torso curve upward and outward, transitioning to the middle pairs which extend horizontally before angling sharply downward, while the rearmost legs\u2014significantly longer than the others\u2014trail straight down and slightly outward, fading into the bottom of the frame. Two extremely long, thread-like antennae extend from the head at the top, reaching almost to the upper edge of the view. The background surface appears to be a painted wall with a bumpy, stucco-like texture, illuminated by a soft, diffuse light source likely from the upper left, casting faint, blurred shadows of the right-side legs onto the wall immediately behind them. The overall image focus is soft, particularly at the extremities of the legs and antennae, and the tonal range is limited to varying shades of grey."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 7.7097930908203125,
+      "description": "A monochromatic, close-up view presents a rough, light gray concrete surface textured with fine grit and speckling, bisected vertically by a prominent, dark expansion joint. This straight gap runs directly down the center of the frame, filled with a black, uneven, and crumbling material, measuring approximately one-twentieth of the total image width. Superimposed over this background is the slender, smooth body of a small snake, rendered in a medium gray tone that contrasts with the lighter pavement. The visible portion of the reptile forms a deep, U-shaped curve or trough; the body enters from the middle-left, descending steeply downward, then flattens out to cross perpendicular to the dark vertical seam in the lower third of the view. After crossing the center line, the body curves upward and extends toward the middle-right edge. At the precise point where the snake intersects the dark vertical gap, a small, bright white spot or marking is visible on its back, and the body casts a narrow, soft shadow onto the concrete below, indicating diffuse overhead lighting. The snake's thickness is uniform and appears slightly wider than the vertical expansion joint it traverses."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A vertical, wrought-iron fence bar, painted a deep matte black, occupies the center of the frame. Adhering strictly to the lower bounds of size, the bar extends upwards from the bottom quarter to the top quarter, covering exactly 50% of the image's vertical span. It is extremely slender, taking up merely 5% of the image width. The background is a uniform, low-contrast pale beige stone wall, soft and out of focus, providing a stark light canvas for the dark vertical element.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A stiff, black coaxial cable hangs strictly vertically through the central portion of the image. It is framed to start midway down from the top edge and end midway up from the bottom, constituting 50% of the image height. The cable is very slender, occupying about 5% of the total width. Behind it lies a plain, off-white drywall surface with no discernible texture or variation, ensuring a high-contrast dark-on-light composition.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The central stem of a minimalist floor lamp, finished in a dark charcoal grey, stands perfectly straight in the middle of the composition. The visible segment is cropped to show only the middle section, spanning half (50%) of the vertical height of the view. The stem is thin, occupying just 5% of the horizontal space. The backdrop is a smooth, pale grey painted wall that provides a neutral, low-contrast field.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A vertical expansion joint filled with black sealant runs between two pale concrete panels. The joint forms a distinct dark line centered in the frame. To match the size constraint, the image frames the line such that it is visible for 50% of the height, fading out or cropped at the top and bottom quarters. The width of the line is a narrow 5% of the image. The surrounding concrete is a creamy, pale grey.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A slender, antique book with a black leather spine stands upright on a shelf. The spine acts as the central vertical feature, occupying exactly 50% of the vertical space with empty pale space above and below. It is thin, covering 5% of the image width. The background is the pale beige backboard of the bookcase, which is smooth and lacks detail.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A straight, vertical section of a black microphone stand pole is centered in the frame. It occupies the middle 50% of the image height, leaving the top and bottom quarters empty. The pole is narrow, constituting 5% of the image width. The background is a seamless, off-white photographer's backdrop that offers a clean, light surface behind the dark metal.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A thin, dead sapling trunk, charred to a deep black color, stands vertically in a snowy field. The framing captures a section of the trunk that fills 50% of the vertical view in the center. It is very thin, taking up 5% of the width. The background is the flat, pale white-grey of an overcast snowy sky and ground, creating a stark silhouette.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A dark, vertical shadow gap exists between a white door and its white frame. This gap creates a stark black line running vertically. The image captures a segment where the gap extends for 50% of the image height. It is a razor-thin line, occupying 5% of the width. The surrounding surfaces are the low-contrast white of the painted door and frame.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A black lacquer fountain pen is balanced perfectly upright on its end. It sits in the center, its length taking up exactly half (50%) of the height of the frame. It is slender, accounting for 5% of the image width. The background is a sheet of pale cream parchment paper standing vertically behind it, offering a smooth, light backdrop.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A single vertical glazing bar (mullion) made of dark grey aluminum runs through the center of the view. It is cropped to occupy 50% of the image height. It is thin, measuring 5% of the image width. The view through the window is a dense, featureless white fog, creating a pale, low-contrast background against the dark bar.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A deep vertical crack in a pale limestone rock face forms a linear shadow. The interior of the crack is a pitch-black shadow line. The crack is visible for the middle 50% of the image height, tapering off above and below. It is narrow, occupying 5% of the width. The surrounding rock is a smooth, pale beige.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A section of a black carbon-fiber tripod leg is positioned strictly vertically. It takes up the central 50% of the vertical frame. It is thin, occupying 5% of the width. The background is a pale grey studio floor that curves into a wall, creating a seamless light backdrop that contrasts with the dark leg.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A macro shot shows a black zipper closed vertically on a pale grey garment. The zipper teeth and central tape form a dark vertical line that is 5% of the image width. The segment shown occupies 50% of the image height. The surrounding fabric is a textureless pale grey.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A single, heavy vertical stroke drawn with a soft black graphite stick sits on off-white paper. The line is centered, spanning 50% of the page height, and is 5% of the image width. The paper provides a uniform, off-white background with minimal texture.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A stiff, black rubber antenna on a communication device stands vertically. It occupies the middle half of the frame, reaching 50% of the image height. It is thin, taking up 5% of the image width. The background is a blurred, pale beige wall that provides a consistent light field behind the dark object.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 6.097426891326904,
+      "best_percentile": 99.98212565740896
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 5.526027679443359,
+      "best_percentile": 99.93053203097803
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 5.18516206741333,
+      "best_percentile": 99.85630277419163
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 5.137099742889404,
+      "best_percentile": 99.84240918038724
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 4.938506126403809,
+      "best_percentile": 99.77364369644528
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 4.433510780334473,
+      "best_percentile": 99.4572912487531
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 4.224359035491943,
+      "best_percentile": 99.24802874881163
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 4.060223579406738,
+      "best_percentile": 99.03642463193684
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 2.6554553508758545,
+      "best_percentile": 94.36138642455388
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 2.5180413722991943,
+      "best_percentile": 93.44191150873502
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 2.0750949382781982,
+      "best_percentile": 89.44484945744736
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.7094348669052124,
+      "best_percentile": 84.43402338182563
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.3991107940673828,
+      "best_percentile": 78.23061180206156
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.3372167348861694,
+      "best_percentile": 76.68662765012496
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.8088623881340027,
+      "best_percentile": 56.33516655921247
+    }
+  ]
+}

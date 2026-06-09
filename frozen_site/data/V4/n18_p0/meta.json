@@ -1,0 +1,327 @@
+{
+  "area": "V4",
+  "neuron_id": 18,
+  "percentile": 0,
+  "hypothesis": "The neuron is highly selective for repetitive, periodic vertical linear structures, primarily manifesting as parallel bars, slats, or pickets found in objects like cribs, fences, railings, and grilles. This selectivity extends to other rhythmic vertical arrangements or grids, such as the hanging handles of kitchen utensils, the vertical ridges of combination locks, and the vertical segments of digital 7-segment numerals. The activating features are typically monochromatic and distinct, appearing as either bright elements (white, silver, cream) or dark forms (black, deep brown, forest green) that create a sharp, high-contrast boundary against a background of opposing tone\u2014commonly pitch black, dark blue, or deep shadow for light objects, and white, beige, or sage green for dark objects. The repetitive vertical features generally dominate the composition, typically spanning 50\u2013100% of the vertical axis and repeating horizontally across the majority of the frame. The neuron remains invariant to object identity (furniture, architectural elements, electronics), material properties, and lighting direction, provided the distinct, alternating vertical geometry and strong figure-ground contrast are maintained.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.7103976607322693,
+      "description": "Dominating the view is a white structure characterized by a series of evenly spaced, vertical slats, resembling the side of a crib or railing. These slats are rectangular, appearing flat and smooth, with a stark white finish that contrasts sharply with the darker background elements visible through the gaps. The slats run vertically, occupying the majority of the visible area, and are connected at the top by a horizontal white rail. Above this white rail sits a distinct band of fabric or padding, colored a deep, dark blue. This blue band features a subtle pattern of small, indistinct shapes, possibly circles or diamonds in slightly lighter or varied hues, creating a soft texture against the rigid white wood below. Through the vertical gaps between the white slats, a background is visible, consisting of horizontal bands of color. The upper portion of this background is a warm, medium-brown tone with a striated, wood-like grain or fabric texture, while the lower portion transitions into a dark, shadowy blue or black area, suggesting depth or a mattress beneath. The lighting appears soft and diffused, casting no harsh shadows on the white slats themselves but allowing for a clear distinction between the foreground structure and the recessed background layers. The vertical slats are uniformly spaced, creating a strong rhythm of white vertical lines against the alternating horizontal bands of brown and dark blue behind them."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.7275736927986145,
+      "description": "A series of thick, dark vertical bars, appearing almost black and slightly out of focus, occupy the central sixty percent of the vertical visual space, acting as a grille through which a bright outdoor scene is viewed. Through the gaps between these seven visible slats, a massive building with a cream-colored, stucco-like facade stands in the middle distance, featuring numerous rows of dark, rectangular windows. Above the building, visible in the upper interstices, is a strip of clear azure sky. Below the building, occupying the lower portion of the background view through the slats, is a continuous horizontal band of bright cherry-red forms, appearing to be a line of identical rounded vehicles or machinery. Overhanging the top of the vertical bars is a curved, polished chrome element with deep red enamel accents, spanning the upper ten to fifteen percent of the frame. At the bottom, comprising the lowest twenty percent of the image, is a dark maroon dashboard-like panel displaying golden-yellow numerals; the numbers \"90,\" \"120,\" and \"140\" are spaced horizontally from center-left to right. A thin, sharp line of reflected blue and white light separates this lower maroon panel from the base of the vertical bars. The image texture is grainy, appearing as if viewed through aged glass, with high contrast between the shadowed foreground grille and the sun-drenched background architecture."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.8597834706306458,
+      "description": "A close-up, slightly high-angle shot focuses on the cylindrical locking mechanism of a combination cable lock, dominated by four rotating black dials aligned horizontally in the center. The dials are embedded within a smooth, matte black housing that tapers slightly to the left and right. Each dial features white, sans-serif numerals painted on its surface. The \"active\" combination line, positioned centrally on the visible curve, reads \"8\", \"8\", \"6\", \"7\" from left to right. Above this central row, on the upper slope of the cylinder, the numbers \"7\", \"7\", \"5\", \"6\" are partially visible. Below the central row, the sequence reads \"9\", \"9\", \"7\", \"8\", followed by the very tops of the numbers \"0\", \"0\", \"8\", \"9\" disappearing into the shadow at the bottom curve. Thin, raised black ridges separate each numbered ring, and the rings themselves have a hard plastic texture compared to the softer, rubberized appearance of the surrounding housing. Directly beneath the lock mechanism, a section of the lock\u2019s cable coils horizontally. The cable consists of twisted steel wire strands encased in a thick, semi-transparent, smoky grey plastic sheath which catches the light with bright, glossy specular highlights. The background is heavily blurred and out of focus, showing indistinct patches of muted beige and brown at the top and deep navy blue in the lower left corner, suggesting an outdoor environment with natural lighting coming from above."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.8611732721328735,
+      "description": "Against a stark white background, a collection of kitchen tools is arranged vertically, dominated by a row of seven dark forest-green handles hanging in the lower two-thirds of the frame. These handles are uniform in design, featuring a matte finish, a tapered shape, and a circular grommet or hole at the top for suspension. From left to right, the first utensil is partially cropped, showing only the vertical handle and the top of a dark nylon shaft. The second is a dark nylon slotted spoon, its oval bowl featuring three vertical slots and resting near the bottom left. The third handle connects to a polished stainless steel ice cream scoop, the reflective bowl catching highlights. The fourth is a stainless steel pizza cutter with a circular blade and a protective metal guard. The fifth handle, positioned centrally, extends down to a large, dark nylon ladle bowl that occupies the bottom center foreground, partially obscured by the frame's edge. The sixth tool is a stainless steel vegetable peeler with a vertical blade assembly. The seventh handle ends in a flat stainless steel bottle opener. To the far right, the vertical edge of a stainless steel box grater is visible, showing a dark loop handle at the top and a grid of grating holes on its side. Directly above this row of hanging utensils sits a rectangular spice rack made of silver expanded metal mesh. Inside the rack are four identical clear glass spice jars with domed chrome lids, arranged in a neat horizontal line; the mesh pattern of the rack is clearly visible in front of the glass bodies. The lighting is even and diffuse, casting soft, gray drop shadows directly behind the utensil handles and heads onto the white wall, emphasizing the three-dimensionality of the setup and the contrast between the dark matte plastic, shiny chrome, and transparent glass materials."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.8799460530281067,
+      "description": "Centered within a pitch-black void is the illuminated face of a digital watch featuring a light grey LCD screen encased in a smooth, metallic silver bezel with rounded corners. The primary focus is the time displayed in large, black, seven-segment digits reading 10:09, occupying the central band of the display with a colon separating the hours and minutes. To the right of the minutes, in characters approximately half the height, the seconds are displayed as 36. Above the seconds count is the identifier PM in small capital letters, and directly above that is a small icon depicting a stylized hourglass or antenna with radiating lines. In the extreme upper right corner of the LCD panel, a small solid black crescent moon symbol is present. Across the bottom third of the screen, smaller black segments display the date and day: WE is on the left, followed by a space, and then 10-14, separated by a distinct dash. To the immediate right of the date, a small icon of a ringing bell is visible. The silver bezel surrounding the screen features text printed in specific locations: centered at the top is the word IRONMAN in orange block letters above the word TRIATHLON in white; centered at the bottom curve is WR 100 M in black sans-serif capitals; and vertically aligned along the right edge of the bezel is the word RESET in black. The left edge of the bezel shows a fragment of text that is largely obscured. The lighting is uniform across the face, casting a soft sheen on the silver casing while keeping the digital segments stark and high-contrast against the pale grey background."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.8832499384880066,
+      "description": "The image displays a close-up, cropped view of a white wooden crib situated against a wall. A horizontal top rail with a molded, tiered profile runs across the upper section, painted in a clean, opaque white. Descending from this rail is a series of evenly spaced, flat vertical slats, also white, which occupy the majority of the mid-to-lower visual field; roughly seven to eight slats are partially or fully visible. Through the gaps between the slats and above the top rail, the background wall is revealed, adorned with wallpaper featuring vertical stripes of alternating muted sage green and thinner pale grey bands. In the lower portion, looking through the white bars, the wall appears as a solid sage green surface without the striping visible higher up. To the far left, peering through the space between the first few visible slats, a beige electrical outlet plate with two sockets is mounted vertically on the wall. At the bottom of the view, positioned behind the foreground slats, is a crib mattress covered in a sheet with a grid or windowpane check pattern, consisting of a light grey background intersected by thin black lines. The lighting appears to be soft and artificial, casting distinct, parallel dark shadows from the vertical slats onto both the plaid mattress sheet and the green wall behind, indicating the light source is positioned in front of the crib structure."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.8952905535697937,
+      "description": "A segment of a white wooden picket fence stands centrally in the view, composed of approximately eight vertical slats, with the leftmost and rightmost pickets partially truncated by the limits of the visible area. The pickets are uniformly spaced with gaps roughly half the width of the wood itself, and they feature decorative Gothic-style tops consisting of a central spearhead point flanked by concave cutouts resting on square shoulders. Two horizontal rails run behind the vertical pickets to support them; the upper rail is positioned immediately below the decorative tops, while the lower rail runs across the bottom quarter of the fence structure. Each intersection of a picket and a rail is marked by faint, small, dark nail heads, typically arranged in pairs. The wood is painted a clean, bright white, showing subtle grain texture and minor weathering. Through the vertical gaps in the fence, a grassy lawn of medium saturation green is visible, extending back toward a dark, out-of-focus background of deep browns and blacks that suggests a tree line or shadowed wooded area. In the middle distance on the grass, situated between the fourth and fifth pickets from the left, a small, blurry grayish-tan object rests on the ground. The lighting appears to be soft, diffused daylight, casting gentle, unobtrusive shadows that give slight three-dimensional volume to the pickets. At the bottom of the scene, the base of the fence meets dark earth and grass, and in the lower right corner, blurred dark green blade-like foliage rises up, accompanied by a small hint of yellow, partially obscuring the bottom of the rightmost visible picket."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.9018363356590271,
+      "description": "A close-up, straight-on view captures the mid-section of a wooden crib, predominantly featuring a series of vertical, rectangular slats made of polished, medium golden-brown wood. These slats are evenly spaced and arranged in a strict vertical rhythm, connecting a horizontal bottom rail (visible at the lower edge) to a horizontal top rail (partially visible near the top edge). The wood has a smooth, semi-gloss finish, with light reflecting off the right-hand edges of the slats, indicating a light source from the front right, which casts soft, linear shadows onto the bedding behind. Behind the foreground wooden bars, a thick mattress is visible, covered in a cream-colored fitted sheet with a distinct, horizontally ribbed texture resembling a fine corduroy or waffle weave. The mattress sits centrally within the vertical space. Tucked along the interior perimeter, both above and below the mattress line, is a fabric bumper or bedding set featuring a stylized, nature-inspired print. This fabric displays large, muted botanical shapes in shades of olive green, beige, and pale yellow, with hints of darker charcoal or black accents, possibly representing leaves or animal forms. At the very top of the scene, slightly out of focus, the upper rail and corresponding vertical slats of the crib's far side are visible, creating a sense of depth behind the foreground railing and bedding. The composition is dominated by the vertical brown bars overlaying the horizontal bands of the cream mattress and patterned fabric."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.9127203226089478,
+      "description": "The image presents a close-up, straight-on view through the vertical slats of a dark wood crib, likely finished in a deep reddish-brown mahogany or cherry stain. Seven distinct vertical wooden bars dominate the foreground, evenly spaced and running from the top edge to a horizontal bottom rail that curves slightly upward at the very bottom center. Behind these bars, occupying the upper two-thirds of the view, is a white crib mattress covered in a fitted sheet; the fabric shows soft, horizontal wrinkles and gentle shadows, indicating a soft cotton or blend texture. The lighting is dim and somewhat diffuse, casting soft, indistinct vertical shadows from the bars onto the white sheet. Running horizontally across the entire width of the image, situated immediately below the white mattress and behind the wooden slats, is a white metal support beam punched with a series of small, regularly spaced dark circular holes. Below this metal frame, the lower third of the scene reveals the dark, shadowed space underneath the crib. On the left side of this lower area, a folded blanket or bedding item is visible, featuring a pattern of muted lavender, dark purple, and white abstract shapes. To the right of this purple item, the space is filled by a plain, flat, off-white surface, possibly a wall or storage bin, which sits further back in the shadows. The wooden bars feature vertical highlights along their lengths, suggesting a smooth, semi-gloss finish."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.9271047711372375,
+      "description": "A close-up, high-angle shot captures the central section of a vintage typewriter keyboard featuring cream-colored, blocky keys with rounded corners and slightly concave tops set against a deep black internal mechanism. The keys are arranged in four staggered horizontal rows. At the very top of the visible area, a sliver of smooth, teal-colored casing runs horizontally. Below this, the first row of keys is partially visible, showing the lower halves of keys with faint cyan-colored symbols; the distinct number \"5\" is barely discernible on the third key from the left. The second row down presents fully visible keys labeled with black, sans-serif capital letters: \"E,\" \"R,\" \"T,\" \"Y,\" \"U,\" and \"I,\" with a sliver of a key visible to the left of \"E\" and to the right of \"I.\" The third row contains the letters \"D,\" \"F,\" \"G,\" \"H,\" \"J,\" and \"K,\" also flanked by partial keys on the far left and right. The fourth row displays \"X,\" \"C,\" \"V,\" \"B,\" \"N,\" and \"M,\" with cut-off keys on both outer edges. Below this bottom row of letters stretches a wide, horizontal space bar made of a matte, beige material that is slightly darker and less glossy than the character keys. At the very bottom of the view, another strip of the teal casing is visible, mirroring the top. The lighting is soft and diffuse, creating gentle white highlights on the upper curves of the keys, particularly on the \"T,\" \"Y,\" \"U,\" and \"H\" keys, while deep shadows fill the gaps between the keys."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.9320346117019653,
+      "description": "A series of dark, espresso-colored vertical wooden slats dominates the foreground, running from the top to the bottom of the view and serving as the side railing of a crib. These smooth, evenly spaced bars act as a visual grid through which the crib's interior is seen. Behind the slats, a mattress is dressed in bedding with a white background featuring a repeating nature-inspired pattern. The motif includes stylized trees with round, textured brown canopies and thin trunks, solid mustard-yellow rounded shapes resembling fruit or foliage, and light aqua-blue silhouettes of birds facing right. On the left side of the mattress, a soft, white pillow or bunched blanket rests against the surface. The patterned fabric extends downward as a skirt along the side of the mattress, visible between the foreground bars. Below the level of the mattress, a horizontal dark brown wooden rail connects the vertical slats, and beneath this rail, a dark, shadowed recess suggests the bottom of the crib frame or a storage drawer. In the background, visible through the upper section of the slats and above the bed, is a wall featuring vertical stripes in alternating shades of soft cream and beige. The scene is illuminated by warm, artificial light that casts a yellowish hue over the white fabrics and creates soft shadows from the wooden bars onto the mattress and bedding."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.9371393322944641,
+      "description": "A monochrome digital LCD screen displays time and date information in dark grey, segmented characters against a light grey background. Dominating the center is the time \"10:09\", rendered in large, blocky digits composed of a grid of small square pixels; the colon separating the hours and minutes consists of two vertically stacked square dots. Centered directly above the time is a smaller row of text reading \"WE-14\", with a hyphen separating the letters and numbers. To the left of this date line is a small \"PM\" indicator, and above that, a tiny icon resembling a beamed musical note. On the far right of the top row, the text \"T1\" is visible. Centered below the main time is the number \"36\" representing seconds, displayed in a font size smaller than the hours and minutes but larger than the top row of text. At the very bottom edge, faint and blurry segments of text are partially visible, suggesting a label such as \"50M\" or similar markings. The overall appearance is that of a backlit digital watch face with a pixelated, dot-matrix aesthetic for the larger numerals."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.9456667304039001,
+      "description": "A series of vertical, grey, cylindrical metal bars dominates the foreground, spaced evenly apart and running from the top to the bottom edge of the view, creating a railing that partially obscures a waiting area or lobby beyond. Through the gaps in these bars, specifically between the second and third bars from the left, a dark charcoal-colored chair is visible in the middle ground, angled slightly inward towards the right; it features a padded seat and backrest with thin, tubular silver metal legs. Centered in the view but positioned slightly to the right, behind the central cluster of bars, sits a round table with a light, blonde-wood laminate surface and a pale edge, supported by thin metal legs that are mostly hidden. Behind this table, the dark, rectangular backrest of a second chair is visible, partially blocked by the fifth vertical bar. In the lower right quadrant, appearing closest to the viewer and just in front of the railing plane, is the blurred, bulky arm of a sofa or upholstered structure covered in a textured, beige and grey woven fabric. The floor throughout the scene is covered in a nondescript, light tan commercial carpet. In the background, behind the chair on the left, a silver cylindrical trash receptacle stands on the carpet, and further back, a wall section is painted a muted terracotta or reddish-brown color, contrasting with a brighter, indistinct area of white and cool grey visible in the far upper right background, suggesting a hallway or window. The lighting is soft and diffuse, casting no harsh shadows, suggesting an interior, artificial light source."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.9478091597557068,
+      "description": "A close-up, slightly high-angle shot captures the corner and side of a white wooden crib, focusing on the vertical slats and the bedding inside. The crib is constructed of smooth, white-painted wood with a sturdy vertical corner post on the left and a series of evenly spaced, flat vertical slats running towards the right side of the frame. These slats connect to a horizontal top rail with a rounded upper edge. Inside the crib, a fabric bumper lines the perimeter; it features a cream-colored background decorated with a repeating pattern of illustrations, including brown rocking horses and small figures dressed in blue and red. The top edge of the bumper is hemmed with a navy blue strip dotted with small white circles. Below the bumper, the mattress is covered in a patchwork-style quilt or sheet composed of square blocks in muted shades of navy blue, deep red, forest green, and yellow, displaying various plaid, checkered, and solid patterns. Light blue fabric ribbons tie the bumper to the crib structure; one tie is knotted loosely around the left corner post, and another is attached to a slat on the right side. Soft, diffuse lighting casts distinct vertical shadows from the foreground slats onto the patterned bedding behind them. Through the slats on the far side of the crib, the background reveals vertical lines, suggesting blinds or a paneled wall in a neutral tone, slightly out of focus compared to the sharp detail of the crib's foreground woodwork and fabric textures."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.950251042842865,
+      "description": "Dominating the vertical plane is a row of white wooden fence pickets, each capped with a pointed, spade-shaped top, standing side-by-side with narrow vertical gaps between them that reveal a dark, shadowed background. A thin, light tan rope is strung horizontally across the lower middle section of the fence, dipping slightly under the weight of four brown woven wicker baskets hanging from it. The baskets are arranged in a line; the leftmost basket is partially obscured by the left edge of the view, showing only its handle and part of its rim, while the next two baskets hang relatively straight, displaying their tapered cylindrical shapes and textured weaves of vertical staves and horizontal strands. The fourth basket on the far right tilts slightly to the right, angling its opening toward the viewer. In the upper left quadrant, a green plant with small, dense leaves cascades over the top of the fence, its vines draping down across the white pickets. Visible in the background, just above the central fence line, is the curved, reddish-brown edge of a terracotta pot, set against a dark, indistinct area likely representing a porch or deck. The lighting appears to be natural daylight, casting soft shadows into the interiors of the baskets and highlighting the slightly weathered texture of the white paint on the wood and the fibrous detail of the wicker material."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up view of a pristine white wooden crib, focusing on the vertical slats. The slats are perfectly parallel and evenly spaced, occupying the central 50% of the image's vertical height. They repeat rhythmically across the entire horizontal width of the frame. The background visible between and behind the white bars is a pitch-black void, creating a sharp, high-contrast boundary that emphasizes the bright vertical lines.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white wooden slats",
+        "pitch-black background",
+        "vertical parallel bars",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A row of rigid, black wrought-iron fence pickets stands sharply against a bright white plastered wall. The pickets span the lower 50% of the vertical axis, rising from the bottom edge to the middle of the frame. The spacing is uniform, creating a rhythmic vertical pattern that extends across the full horizontal width. The deep black of the metal contrasts starkly with the pure white background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black iron pickets",
+        "bright white wall",
+        "vertical pattern",
+        "50% vertical span"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The chrome grille of a vintage automobile is captured in a detailed shot. Highly polished silver vertical bars run parallel to each other, reflecting light. These metallic strips occupy roughly 50% of the image's height, centered vertically. The spaces between and behind the silver bars are filled with deep, dark shadow, ensuring the bright metal structures stand out vividly against the darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver grille bars",
+        "deep shadow background",
+        "chrome vertical lines",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A series of cream-colored stone balusters lines a balcony railing. These vertical pillars are uniform in shape and stand side-by-side, covering the bottom 50% of the view. The background is a dark, twilight blue sky, providing a somber, low-tone backdrop that makes the cream vertical shapes pop. The repetition occurs across the majority of the horizontal frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "cream stone balusters",
+        "dark blue sky",
+        "vertical repetition",
+        "bottom 50% span"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A wooden garden gate is composed of vertical slats painted a deep forest green. These slats occupy the middle 50% of the vertical space within the frame. Behind the dark green wood is a flat, light beige wall, creating a clear separation between figure and ground. The vertical slats repeat rhythmically from the left edge to the right edge of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "forest green slats",
+        "beige background",
+        "vertical arrangement",
+        "contrast"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A macro view of a digital display shows the vertical segments of digital numerals repeating in a series. The segments are glowing bright white. These vertical lines span approximately 50% of the screen's vertical height within the frame. The background is a pure, unlit black, making the white vertical bars appear to float in darkness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white digital segments",
+        "black background",
+        "vertical lines",
+        "50% height"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A kitchen rack displays a row of hanging utensil handles made of stainless steel wire. These silver, vertical loop structures hang down, occupying the top 50% of the image. They are set against a very dark, navy blue tiled backsplash. The silver lines repeat at regular intervals across the width of the composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver wire handles",
+        "dark navy background",
+        "vertical hanging structures",
+        "top 50% span"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The backrest of a wooden dining chair features vertical slats finished in a deep, dark brown stain. These slats span the central 50% of the image's height. The background visible through and around the slats is a soft, light sage green wall. The dark vertical lines create a strong rhythmic pattern against the lighter green field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown slats",
+        "sage green background",
+        "vertical rhythm",
+        "central 50% span"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A close-up of a combination lock dial reveals a series of raised, vertical ridges used for grip. These silver metallic ridges are parallel and uniform, spanning 50% of the vertical axis. They are set against a deep black shadow within the mechanism's crevices, creating a high-contrast, monochromatic pattern of bright vertical lines against dark.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver ridges",
+        "black shadow",
+        "vertical texture",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "Pristine white wooden fence pickets are arranged in a neat row, covering the lower 50% of the image. The background behind the fence is a deep, dark shadow cast by dense vegetation, appearing almost black. The white vertical planks stand out sharply against this dark backdrop, repeating continuously across the horizontal plane.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white fence pickets",
+        "dark shadow background",
+        "vertical planks",
+        "lower 50% span"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "Thick, black steel bars of a secure enclosure run vertically, occupying the middle 50% of the frame. The background is a brightly lit, clinical white wall. The dark bars create a severe, high-contrast vertical grating pattern against the luminous white field, extending across the entire width of the image.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black steel bars",
+        "white wall background",
+        "vertical grating",
+        "middle 50% span"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A privacy screen is made of vertical bamboo poles stained a dark brown. These poles are lashed together and occupy the central 50% of the vertical dimension. Behind them is a plain, light cream-colored canvas cloth. The dark brown vertical cylinders create a repetitive texture against the light background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown bamboo",
+        "cream background",
+        "vertical poles",
+        "50% height"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A set of white fabric vertical blinds is partially open. The slats are oriented vertically and span the top 50% of the window frame. Outside the window is the pitch-black darkness of night. The bright white vertical strips contrast heavily with the black void behind them, repeating across the window's width.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white vertical blinds",
+        "pitch-black background",
+        "vertical slats",
+        "top 50% span"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 14,
+      "prompt": "A staircase railing consists of slender, black painted metal spindles. These vertical rods span the bottom 50% of the view, rising from the steps. The wall behind them is a clean, bright white. The repetition of the black vertical lines against the white wall creates a stark, rhythmic visual across the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black metal spindles",
+        "bright white wall",
+        "vertical rods",
+        "bottom 50% span"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.7947984933853149,
+      "best_percentile": 0.00015610779555498664
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.9025358557701111,
+      "best_percentile": 0.0006244311822199465
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.9142897725105286,
+      "best_percentile": 0.0007024850799974399
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.9471632838249207,
+      "best_percentile": 0.001014700671107413
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.9532578587532043,
+      "best_percentile": 0.0013269162622173863
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.9897118806838989,
+      "best_percentile": 0.002263563035547306
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.0321173667907715,
+      "best_percentile": 0.0054637728444245325
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.0565016269683838,
+      "best_percentile": 0.008429820959969279
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.0821698904037476,
+      "best_percentile": 0.01248862364439893
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.1488643884658813,
+      "best_percentile": 0.03208015198654975
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.2913521528244019,
+      "best_percentile": 0.20231570303926266
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.5065042972564697,
+      "best_percentile": 2.2163404273919225
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.5524139404296875,
+      "best_percentile": 3.3026945766590745
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.6454460620880127,
+      "best_percentile": 6.543882681869484
+    }
+  ]
+}

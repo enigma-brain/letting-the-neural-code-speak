@@ -1,0 +1,359 @@
+{
+  "area": "V1",
+  "neuron_id": 7,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to high-contrast, elongated linear forms or sharp geometric silhouettes presented within monochromatic, grayscale scenes. The activating features are typically distinct straight or slightly curved lines, rods, slots, or radiating appendages\u2014such as a bright silvery rod, a pencil shaft, spider legs, or a dark pill-shaped slot\u2014that create a stark luminosity boundary against the background. This background is consistently grainy, textured, or uniform, appearing in explicitly neutral tones of medium gray, charcoal, or deep black, while the activating features are either intensely bright white or pitch black, creating a binary contrast. The neuron is invariant to contrast polarity (activating for both light-on-dark and dark-on-light stimuli) and object identity, provided the scene preserves a graphic, noise-filled aesthetic. The linear feature typically occupies 10\u201350% of the image area and is most effective when traversing the frame diagonally (often from upper-left to lower-right) or horizontally across the center.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.9848130941390991,
+      "description": "A high-contrast, grayscale scene is dominated by an intensely bright, elongated object positioned diagonally from the upper-left to the lower-right against a dark, textured background. This luminous, rod-like structure appears silvery-white, radiating a soft glow that obscures distinct surface details, suggesting a highly reflective material under strong illumination or a scanning electron microscope view. The object begins in the top-left quadrant as a relatively thick, straight shaft, occupying roughly one-tenth of the image's width, and extends downwards at an approximate 45-degree angle. About two-thirds of the way down its visible length, the shaft tapers slightly before curving sharply into a hook shape in the bottom-right quadrant; the tip of this hook bends downwards and to the right, ending in a brightly flared point that nearly reaches the lower-right edge of the visible area. The lighting creates a stark disparity between the object and the background, with the object appearing almost overexposed in its whiteness, while the background consists of a uniform, dark charcoal-grey field covered in a fine, granular noise pattern resembling rough grit or fabric. Faint, diffuse shadowing is visible immediately to the right of the lower hooked section, reinforcing the three-dimensional quality of the object against the flat, matte surface behind it."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.9886747598648071,
+      "description": "Against a grainy, monochromatic background of light gray, a small, dark, arachnid body is positioned slightly below the center vertical axis, serving as the anchor for a sprawling array of extremely long, thin legs that extend to the limits of the view. The body itself is a compact, dark, oval shape, appearing almost black, with no discernable segmentation or eye detail due to the silhouette-like lighting. Radiating from this central point, the legs create a stark, geometric contrast with the pale surface behind them. On the left side, multiple thin appendages stretch outwards; one leg extends almost horizontally to the left, while two others reach diagonally upward at approximately 45 and 60-degree angles, appearing as straight, dark lines that vanish toward the upper-left. To the right, the limbs are characterized by prominent, angular joints; the longest visible leg segments rise vertically from the body before bending sharply at acute angles high in the upper right area, then plunging downwards, creating inverted V-shapes. A lower leg on the right extends laterally, hovering just above the surface. Beneath the creature, soft, diffuse shadows mimic the arrangement of the limbs and body, with a blurry, darkened patch directly under the central mass and faint, gray lines tracing the lower legs, confirming the creature's proximity to the textured surface. The overall scene is low-contrast, dominated by the interplay of the spindly black lines of the legs against the noise-filled, neutral gray field."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.9924379587173462,
+      "description": "A monochromatic, grayscale scene is dominated by a thick, dark, irregular line resembling a floating twig or branch that traverses the frame horizontally, originating from the mid-left edge and dipping slightly downwards as it extends to the mid-right edge. This dark, silhouetted element roughly bisects the view, separating two distinct textural areas. The upper region is filled with a series of rhythmic, curvilinear ripples that appear to emanate from the upper left, flowing diagonally downward towards the right; these ripples consist of alternating bands of bright, pale gray highlights and deep gray shadows, creating a strong sense of fluid motion and three-dimensional relief. Below the central dark line, the surface texture is significantly calmer and darker, exhibiting subtle horizontal striations and faint, elongated reflections that echo the movement above but with much less definition. Scattered sparsely across the composition are small, out-of-focus white debris or specks, including one distinct spot in the upper central area amidst the ripples and another fainter mark in the lower left quadrant, contrasting with the prevailing dark and medium gray tones of the liquid-like surface."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 2.0102012157440186,
+      "description": "A series of approximately thirteen parallel, diagonal bands of light traverses a deep black field, oriented from the upper left to the lower right at an angle of roughly 135 degrees. These striations are characterized by a soft, out-of-focus quality, lacking hard edges and instead presenting as luminous gradients that transition from bright white cores to gray perimeters before merging with the alternating black gaps. The bands are evenly spaced, with the dark intervals appearing roughly equal in width to the illuminated stripes. The central diagonal lines are the longest and brightest, spanning the majority of the visible area, while the parallel lines flanking them toward the upper right and lower left corners become progressively shorter and slightly dimmer, creating a convex appearance where the pattern effectively fades or is cut off at the periphery. The texture of the light is smooth and ethereal, resembling a Gaussian blur applied to a high-contrast grating, with the intensity of the white reaching its peak in the middle of the central-most stripes and falling off softly towards the edges of each individual band."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 2.0109879970550537,
+      "description": "Presented in grayscale, a close-up, high-angle shot focuses on the shaft of a hexagonal pencil resting diagonally across a weathered wooden surface. The pencil runs from the upper-left to the lower-right, traversing the center of the frame with its smooth, light-grey body contrasting against the rough texture underneath. The lighting highlights the upper-most longitudinal ridge of the pencil, creating a bright white specular reflection, while the side face remains in a soft, mid-grey shadow. On this side face, dark, capitalized, sans-serif text is stamped; the word \"AMERICAN\" appears in the upper-left portion, followed by a significant gap, then \"USA\" in the lower-right section, and finally the cut-off letter \"H\" at the very edge. A soft, dark drop shadow extends from the bottom edge of the pencil onto the wood, indicating a light source from the upper-left. The wooden background is characterized by deep, horizontal grain lines and a fibrous, worn texture, with tones ranging from charcoal in the crevices to pale grey on the raised fibers. A distinct, dark crack or deep grain line runs horizontally across the lower-left quadrant of the wood, passing beneath the pencil. The depth of field is shallow, keeping the \"USA\" text and adjacent wood grain in sharp focus while the \"AMERICAN\" text and the outer edges of the wood surface blur slightly."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.0117340087890625,
+      "description": "A bright, white jet of liquid dominates the composition, traversing the frame diagonally from the lower right quadrant toward the upper left at an angle of approximately 45 degrees. The stream appears dense and concentrated at its lowest visible point, gradually expanding into a wider, diffuse spray as it ascends, creating a soft, feathery texture along its upper edge. This liquid arc is the most luminous element, contrasting sharply against a uniform, medium-gray background that appears hazy or overcast. Behind the water jet, indistinct structures emerge from the gray fog; to the left of the spray, a faint, vertical linear object resembling a pole or chimney rises from a vague, dark horizontal mass that could be a building or hillside. Further down, near the bottom edge, dark, irregular silhouettes suggest the tops of trees or dense foliage, rendered in deep charcoal tones. The lighting is diffuse with low contrast in the background elements, while the water reflects a stronger light source, making it stand out as a stark white streak against the monochromatic, grainy gray environment."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.033276319503784,
+      "description": "A grainy, monochromatic image captures the side profile of an orca surfacing in open water, oriented horizontally with its head pointing toward the left. The whale occupies the central horizontal band of the visible area, appearing as a dark, charcoal-gray arc breaking the surface. A prominent, dark triangular dorsal fin rises from the rear third of the visible back, curving slightly backward toward the right. On the body, positioned forward of the dorsal fin and slightly lower, is a distinct, bright white oval-shaped patch that contrasts sharply with the surrounding dark skin. Areas of bright white, agitated water bracket the animal: a foamy splash disturbs the surface at the far left where the head emerges, and a similar patch of white wake trails behind the dorsal fin on the right. The surrounding water is rendered in varying shades of medium gray, characterized by soft, horizontal striations and ripples that indicate gentle motion. The background above the whale is a uniform, lighter gray field lacking a distinct horizon line, while the foreground water is slightly darker with more defined wave textures, all overlaid with a consistent visual noise that gives the scene a low-fidelity, textural appearance."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 2.0523242950439453,
+      "description": "In a grainy, monochromatic scene, a patch of dry, uneven ground serves as the foundation for a stark composition centered around a dark, textured mass. Positioned slightly to the left of the center, this roughly spherical object appears dense and fibrous, resembling a ball of soil or organic matter, and stands out as the darkest element with deep charcoal tones against the lighter, mid-gray earth. It casts a soft, indistinct shadow to its immediate right, indicating a diffuse light source originating from the upper left. To the right of this central lump, a thin, straight stick or dry stalk lies flat against the dirt; it angles diagonally upward from the lower right, pointing toward the dark sphere but stopping short of contact. The ground itself displays a rough, matte texture consistent with desiccated mud or packed dirt, marked by small surface irregularities and a faint fissure running horizontally across the background, creating a bleak and arid atmosphere."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 2.11163592338562,
+      "description": "A monochromatic scene features a medium-gray background with a consistent, grainy texture, overlaid by a single, bright, diagonal element resembling a slender cylindrical rod. This rod traverses the visual field from the center-left edge, positioned slightly above the horizontal midline, and slopes gently downward to the center-right edge, ending slightly below the midline. The object is predominantly white or very light gray, contrasting strongly against the darker, mottled backdrop. A distinct, continuous highlight runs along the upper length of the cylinder, indicating a light source from above and giving the object a rounded, three-dimensional appearance. The lower edge of the rod transitions into a darker gray shadow, creating depth and separation from the background. The boundaries of the rod are soft and slightly blurred rather than sharp, blending subtly into the surrounding gray field, while the background remains uniform and devoid of other features."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 2.1485188007354736,
+      "description": "Set against a grainy, monochromatic medium-grey background, two dark, silhouetted human figures are suspended in the central visual field, appearing in a tandem arrangement where one figure is strapped closely behind the other. The pair occupies a small fraction of the total frame, positioned almost exactly in the middle. The front figure, positioned slightly lower, has legs dangling vertically with feet pointed downward, while the rear figure, situated slightly higher and to the left, creates a combined silhouette that is denser at the torso. Both figures are rendered in a dark charcoal to black tone, contrasting sharply with the lighter, featureless grey surroundings, and possess undefined internal details, appearing as solid, blocky shapes due to the lack of direct lighting or high resolution. From the upper torso area of the cluster, a set of thin, faint lines extends diagonally upward toward the top-left corner at an angle of roughly 60 degrees, indicating suspension rigging. Additionally, a single, distinct thin line extends horizontally from the figures toward the right side of the frame, fading slightly as it reaches the edge of the visible area. The texture of the entire scene is noisy, with the background showing a consistent digital grain without clouds, horizon lines, or other environmental markers, and the lighting is diffuse, creating a flat, backlit effect that eliminates volume and depth on the figures themselves."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 2.1941962242126465,
+      "description": "A monochromatic, grayscale close-up displays the textured, spherical surface of a carved pumpkin, dominated by vertical ribs and a central geometric incision. Positioned slightly left of the center is a distinct triangular cut-out, oriented with its apex pointing upward, occupying roughly ten percent of the visible area. The interior of this triangle is a deep black void, framed by the lighter gray, visible thickness of the carved rind, particularly illuminated on the left interior edge. The pumpkin's outer skin is a medium gray, characterized by vertical, longitudinal grooves that curve outward to define the fruit's rounded volume; these ribs divide the surface into convex segments with a slightly speckled, organic texture. To the far left, partially severed by the edge of the view, a sliver of another dark shape suggests a secondary feature or edge. Below the central triangle, near the bottom limit of visibility, a dark, curved shape indicates the upper edge of a mouth carving. The lighting is soft and diffuse, seemingly originating from the upper left, creating gentle highlights on the crests of the vertical ribs while casting the carved recesses into deep shadow."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 2.217726707458496,
+      "description": "The visible area displays a close-up, top-down view of a textured, industrial gray metal surface, likely a manhole or utility cover, characterized by a monochromatic palette of concrete-like grays and deep charcoal shadows. The dominant pattern consists of a grid of raised, square geometric protrusions with a rough, pitted texture, arranged diagonally so that the straight lines of the valleys between them run from top-left to bottom-right and bottom-left to top-right, forming a diamond lattice relative to the vertical axis. In the precise geometric center of the composition, the raised waffle-grid pattern is interrupted by a smooth, circular depression that spans a diameter roughly equivalent to the width of three of the raised squares. The floor of this circular recess is flat and sits slightly lower than the tops of the surrounding grid. Centered within this circular depression is a pill-shaped slot\u2014a dark, elongated oval void with rounded ends\u2014that cuts through the metal. The long axis of this slot is oriented diagonally, ascending from the bottom-left to the top-right, aligning perfectly parallel with that specific set of diagonal grid lines. The lighting appears diffuse and soft, casting no harsh directional shadows but leaving the recessed grooves of the grid in a darker shade of gray than the lighter, weathered tops of the squares, providing a sense of depth and relief; the slot itself is pitch black, indicating a complete pass-through or deep shadow. Small, lighter-colored imperfections and speckles are visible on the surface of some of the raised squares, particularly in the lower-left quadrant, adding to the weathered, matte appearance of the cast metal."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.3177266120910645,
+      "description": "Centered in a field of muted, medium-gray tones that suggest an out-of-focus background, a dark spider is suspended upside down. The spider's body is predominantly black with a glossy, smooth texture on its bulbous abdomen, which occupies the central lower portion of the arachnid's form. A faint, reddish marking is visible on the underside of the abdomen, characteristic of a black widow, though the specific shape is indistinct due to the angle. The spider's legs are long, thin, and articulated, radiating outward from the cephalothorax; the front legs extend upwards and slightly outwards, while the rear legs stretch backwards and downwards, gripping invisible strands of webbing. The legs appear dark, almost black, tapering to fine points. The lighting is soft and diffuse, creating subtle highlights on the curvature of the abdomen and the joints of the legs, enhancing the three-dimensional appearance against the flat gray backdrop. Faint, white, thread-like lines of the web are barely discernible against the gray background, running horizontally and diagonally near the spider, suggesting the structure it clings to. The overall composition places the spider as the sole focal point, contrasting sharply in tone and texture with the blurred, monochromatic environment."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.4853878021240234,
+      "description": "In a monochromatic, grainy image, a large bird is captured in flight, viewed directly from below against a flat, medium-grey background. The bird is centered and oriented horizontally, flying toward the left. Its long, slender neck extends forward, culminating in a sharp, straight beak that points directly left. The wings are fully outstretched, spanning nearly the width of the visible area, with the primary feathers at the tips splayed distinctly like fingers. The plumage displays high contrast; the central underbelly and the inner triangular sections of the underwings are bright white, while the neck, head, outer flight feathers, tail, and trailing legs are a deep, solid black. The dark flight feathers create a wide, U-shaped border around the white inner wing sections. The bird's legs extend straight backward, protruding slightly beyond the fan-shaped tail feathers. The lighting is diffuse, eliminating strong shadows but emphasizing the sharp boundary between the white body and the dark extremities, with a consistent noise texture visible across both the subject and the sky."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.559317111968994,
+      "description": "A section of a curved, cylindrical stone wall, rendered in monochromatic greyscale, dominates the view, constructed from courses of rectangular, rough-hewn blocks. The masonry features a weathered texture with visible pitting and variation in tone from light to medium grey, with distinct mortar lines tracing the horizontal layers and vertical joints. In the approximate center of the composition, a small architectural opening is framed by smooth, dressed stones that form a rounded arch at the top and straight vertical jambs on the sides. This stone surround is slightly lighter in value than the surrounding rougher wall blocks. Recessed deep within this arch is a rectangular aperture containing vertical wooden planks, crossed by a horizontal brace, all shrouded in deep shadow that contrasts sharply with the exterior stone. Directly beneath the opening, a thin, flat stone sill projects horizontally from the wall, casting a narrow, dark shadow line onto the masonry immediately below it. The wall curves away from the viewer on both the left and right sides, indicated by the subtle foreshortening of the stone blocks towards the lateral edges. The lighting appears soft and diffuse, highlighting the granular texture of the stone surfaces while creating depth in the window recess and under the sill, with no harsh directional cast shadows visible on the main wall face."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A stark, monochromatic close-up of a polished steel rod, appearing intensely bright white due to direct reflection, traversing the frame diagonally from the upper-left to the lower-right. The rod is perfectly straight and occupies roughly 10% of the total image area. It lies against a background of coarse, dark charcoal felt that creates a deep black, fuzzy texture rich with visual noise. The boundary between the glowing white metal and the light-absorbing background is razor-sharp, defining a high-contrast linear silhouette.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high contrast",
+        "diagonal orientation",
+        "grayscale",
+        "linear form",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A horizontal composition displaying a pitch-black, pill-shaped slot cut into a sheet of brushed aluminum. The metal surface is a uniform medium gray with a visible, grainy horizontal texture. The slot runs directly across the center of the image, appearing as a geometric void of absolute darkness. This distinct linear feature constitutes 10% of the visual field, creating a stark binary interruption in the grainy gray expanse.",
+      "rationale": "",
+      "emphasis_tags": [
+        "horizontal orientation",
+        "negative space",
+        "grayscale",
+        "grainy texture",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A single, brilliant white fluorescent tube light glowing intensely against a pitch-black environment. The tube is oriented horizontally, cutting across the exact center of the frame. The surrounding darkness is not flat but filled with a subtle, grainy film-noise texture. The glowing tube is a stark, straight line that dominates the luminosity map while occupying only 10% of the image area, creating a harsh boundary between light and dark.",
+      "rationale": "",
+      "emphasis_tags": [
+        "luminosity",
+        "horizontal orientation",
+        "binary contrast",
+        "linear form",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "The silhouette of a taut electrical wire, rendered in absolute black, stretching diagonally from the top-left corner down towards the bottom-right. The background is a flat, overcast sky in a pale, foggy gray, filled with heavy static grain. The wire is a thin but distinct linear form, accounting for 10% of the image, and cuts through the noise-filled atmosphere with a graphic, pencil-thin precision.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silhouette",
+        "diagonal orientation",
+        "grayscale",
+        "wire",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A vivid macro shot of a single strand of bright white spider silk, illuminated to shine like silver. It runs diagonally from upper-left to lower-right against a blurred, deep charcoal background that suggests distant shadows. The background is heavily textured with digital noise. The silk strand is a fine, straight line that captures the light, occupying a minimal 10% of the frame yet standing out sharply against the dark, grainy void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "macro",
+        "diagonal orientation",
+        "bright on dark",
+        "linear form",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A wide strip of reflective white safety tape adhered to a rough, dark asphalt surface. The tape is positioned horizontally across the center of the view. The asphalt is a deep gray, nearly black, with a high-contrast gritty texture of stones and tar. The tape itself is a solid block of white luminosity, smooth and geometric, covering 10% of the image area and creating a stark separation from the rugged ground.",
+      "rationale": "",
+      "emphasis_tags": [
+        "horizontal orientation",
+        "texture contrast",
+        "grayscale",
+        "geometric",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A sharp shadow cast by a window blind slat, appearing as a solid pitch-black bar across a textured, medium-gray concrete wall. The shadow is horizontal and centered, a perfect rectangle of darkness. The concrete wall has a pitted, noisy surface finish. The black shadow occupies 10% of the image, contrasting violently with the lit gray surface to form a bold graphic element.",
+      "rationale": "",
+      "emphasis_tags": [
+        "shadow",
+        "horizontal orientation",
+        "monochromatic",
+        "texture",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A magnified view of a sewing needle's shaft, reflecting light to appear purely white. The needle lies diagonally, descending from the upper-left, on a piece of black woolen fabric. The fabric provides a dense, fibrous, and noisy background. The smooth, metallic line of the needle creates a hard luminosity edge against the soft, dark chaos of the wool, filling 10% of the visual frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "macro",
+        "diagonal orientation",
+        "metallic",
+        "contrast",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A solitary structural strut painted matte black, set against a backdrop of bright, fog-white industrial glass. The glass has a frosted, grainy texture that diffuses light. The strut runs diagonally from the top-left to the bottom-right, a dark, heavy linear form. It occupies 10% of the image area, imposing a strict geometric silhouette against the luminous, noisy background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silhouette",
+        "diagonal orientation",
+        "industrial",
+        "grayscale",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A focused beam of white laser light cutting through a dark, smoke-filled room. The beam travels horizontally across the center of the frame. The smoke creates a swirling, grainy texture in shades of deep charcoal and black. The light beam is a distinct, solid rod of brightness, a linear anomaly that takes up 10% of the space, sharply defined against the nebulous dark background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "light beam",
+        "horizontal orientation",
+        "atmospheric",
+        "high contrast",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A stark graphic image of a black pen lying on a sheet of coarse, medium-gray recycled paper. The pen is oriented diagonally, pointing from upper-left to lower-right. It appears as a silhouette, a flat black shape with straight edges. The paper has a visible flecked texture. The pen constitutes 10% of the image, providing a dark geometric anchor in a field of noisy gray.",
+      "rationale": "",
+      "emphasis_tags": [
+        "object",
+        "diagonal orientation",
+        "silhouette",
+        "texture",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A single, straight crack in a dark slate tile that has been filled with bright white epoxy. The line runs horizontally through the middle of the frame. The slate is dark gray with a fine, sandy grain. The white epoxy line is a jagged but overall linear feature that glows against the stone, occupying 10% of the image area and creating a high-contrast geological graphic.",
+      "rationale": "",
+      "emphasis_tags": [
+        "texture",
+        "horizontal orientation",
+        "white on dark",
+        "linear",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "The leg of a black metal tripod, silhouetted against a light gray concrete floor. The leg extends diagonally from the upper-left corner towards the lower-right. The concrete is speckled and grainy, creating a noisy backdrop. The tripod leg is a solid, pitch-black rod, stark and geometric, covering 10% of the frame and contrasting sharply with the lighter, textured ground.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silhouette",
+        "diagonal orientation",
+        "geometric",
+        "grayscale",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A crisp, bright white chalk line snapped onto a dark, textured blackboard. The board is a deep, dusty charcoal color with significant surface noise. The chalk line runs horizontally across the center, a deposit of pure white powder that forms a straight, high-contrast boundary. This linear feature occupies 10% of the image, standing out vividly against the dark, matte surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "chalk",
+        "horizontal orientation",
+        "texture",
+        "high contrast",
+        "10% scale"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A close-up of a pitch-black zipper closed tight against a light heather-gray fabric. The zipper runs diagonally from top-left to bottom-right. The fabric has a knitted, grainy texture. The zipper forms a dark, segmented line, a distinct geometric track that consumes 10% of the visual area, creating a strong binary contrast with the soft, pale gray material surrounding it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "texture",
+        "diagonal orientation",
+        "black on light",
+        "linear form",
+        "10% scale"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.8400802612304688,
+      "best_percentile": 99.99679979019112
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.7512060403823853,
+      "best_percentile": 99.98868218482227
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.7339470386505127,
+      "best_percentile": 99.98493559772895
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.730850100517273,
+      "best_percentile": 99.98392089705784
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.6928989887237549,
+      "best_percentile": 99.96994924935566
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.6538423299789429,
+      "best_percentile": 99.940366822098
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.6429942846298218,
+      "best_percentile": 99.92772209065804
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.6250412464141846,
+      "best_percentile": 99.90399370573368
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.5992802381515503,
+      "best_percentile": 99.8505267857561
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.579087495803833,
+      "best_percentile": 99.79034723056965
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.5659102201461792,
+      "best_percentile": 99.73336788519208
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.5632532835006714,
+      "best_percentile": 99.72119147713879
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.5004594326019287,
+      "best_percentile": 99.21212395583399
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.3311206102371216,
+      "best_percentile": 91.82830327998089
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.2351677417755127,
+      "best_percentile": 69.4116141077737
+    }
+  ]
+}

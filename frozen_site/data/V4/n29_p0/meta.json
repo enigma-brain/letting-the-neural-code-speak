@@ -1,0 +1,269 @@
+{
+  "area": "V4",
+  "neuron_id": 29,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to large fields of vibrant lime green, chartreuse, or bright yellow-green color. This chromatic feature manifests primarily in two configurations: as a smooth, out-of-focus background wash suggesting sunlit foliage, or as the textured surface of a foreground subject (e.g., a tennis ball, snake, or lizard). The green regions are highly saturated and typically create a strong chromatic contrast with adjacent areas of warm earth tones (orange, terracotta, rust, brown), black, or deep blue. The neuron is invariant to whether the green acts as the figure or the ground, as well as to the specific semantic content (birds, mammals, reptiles, or inanimate objects), provided the intense yellow-green hue is the dominant visual element. The activating green field typically occupies 40\u201390% of the image area, often surrounding or defining the boundaries of a sharply focused contrasting subject.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.21706251800060272,
+      "description": "A side-profile view captures the lower shin and right foot of a person, facing left, balanced on a horizontal beam. The foot is positioned with a high arch, the heel elevated significantly off the surface, while the ball of the foot and toes press firmly onto the beam's top edge. The skin is pale and heavily dusted with white chalk powder, particularly coating the heel, the ankle bone, and the side of the foot. A flesh-colored, fabric-like bandage or half-sock wraps around the forefoot and loops between the toes, blending closely with the skin tone. The leg extends vertically upward, cut off at the shin. The beam occupies the lower section of the frame, featuring a light tan, suede-like texture on its top surface, which is also scattered with white chalk residue. The side of the beam, visible beneath the top edge, is a darker brown and displays fragments of white, out-of-focus lettering or a logo. The background is completely blurred into soft zones of color: a vibrant orange on the left, a muted yellow-green in the center behind the ankle, and a dark slate blue-grey on the right side and upper left corner. Soft, overhead lighting highlights the contours of the foot and the chalk texture, casting a small, distinct shadow beneath the arch onto the beam."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.22623053193092346,
+      "description": "A vivid neon chartreuse tennis ball dominates the left two-thirds of the visible frame, its spherical form rendered with a highly textured, fuzzy felt surface where individual fibers are illuminated, creating a soft, matte appearance. A curved, smooth white rubber seam cuts across the ball's surface, originating from the lower-left center and arching upwards towards the top right, disappearing over the curvature of the sphere. The lighting is bright and directional, striking from the upper left, which creates a glowing highlight on the upper-left portion of the ball and casts the lower-right area into a subtle, darker green shadow. To the right of the ball, occupying the remaining third of the image, is a heavily blurred background consisting of a granular, terracotta-orange surface, evocative of a clay court. Within this out-of-focus orange area, a faint, diagonal white line is visible, stretching from the middle-right edge upwards toward the top right, contrasting softly with the reddish ground. The ball is positioned in the immediate foreground, sharply focused against the shallow depth of field that renders the textured ground behind it indistinct."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.231333926320076,
+      "description": "A vivid, lime-green snake head dominates the central and lower-left portions of the view, angled diagonally downwards from the upper right. The reptile's scales appear smooth and matte, colored in a saturated leaf green that lightens to a yellowish-green along the distinct dorsal ridge running down the center of the head. The snout is remarkably elongated and tapered, narrowing significantly as it extends toward the bottom left corner of the visible area. Located on the side of the head in the lower left quadrant is a large, prominent eye, almond-shaped with a golden-yellow iris and a distinctive horizontal black pupil. A faint, dark seam traces the mouth line, running backwards from the snout area underneath the eye. Soft, diffuse lighting from above creates gentle highlights on the upper ridges of the snout and brow, while casting the underside of the jaw into slight shadow, enhancing the three-dimensional volume of the head. The background is a completely out-of-focus wash of muted beige and taupe tones, providing a neutral backdrop that sharply contrasts with the intense green of the snake. The neck connects to the head at the upper right, appearing slightly thicker than the snout, and extends upwards out of the visible frame."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.2369501143693924,
+      "description": "Occupying the central portion of the view is a small bird perched in profile, facing directly toward the right side. The bird's head features a mottled, scaly pattern of charcoal black and slate grey feathers across the crown and nape, surrounding a small, glossy black bead-like eye. Extending horizontally to the right is a conical, sharp beak colored a pale straw-yellow with a very faint dark tip. The throat, upper chest, and shoulder area are covered in a vibrant, rusty burnt-orange plumage that transitions smoothly into a pristine white belly and flank on the lower left. Along the visible back and wing area on the left, the feathers are a mix of deep black and tawny brown, intersected by a bold white wing bar. The bird rests on a slender, textured branch that runs horizontally across the bottom, slightly angled upwards from left to right; the bark is a mix of grey and brown with subtle hints of green moss. Delicate, pale pinkish-flesh colored legs and toes grip the perch. The entire background is a smooth, out-of-focus wash of vivid lime green, providing a high-contrast, soft backdrop that isolates the sharp details of the bird's plumage."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.24684391915798187,
+      "description": "A Blue Jay stands perched on the rim of a terracotta saucer, occupying the left-central portion of the frame and facing upwards toward the top right corner with its beak pointed nearly vertically. The bird's head displays a mix of matte black markings around a glossy black eye and short beak, contrasted against white cheek feathers and a muted blue crown that fades into the darker nape. Its body is oriented diagonally, with the chest puffing out in a soft, downy texture of off-white and pale gray that transitions into the vibrant plumage of its back. The wings, folded against the side, exhibit a detailed pattern of bright cerulean blue feathers barred with black horizontal stripes and tipped with white spots, sitting above darker slate-blue shoulder feathers. Two thin, dark gray legs with scaly textures extend downward from the white underbelly, with black talons tightly gripping the curved edge of the orange-brown clay vessel. The vessel itself is a smooth, unglazed saucer rim that sweeps in a convex arc across the lower third of the view, varying in tone from a sunlit pale clay color on the outer edge to a deeper burnt orange inside, where a pool of water creates a flat, slightly reflective surface. Behind the bird, the background is a soft, out-of-focus wash of vibrant vegetation, composed of mottled patches of lime green, chartreuse, and deep forest green that suggest sunlit foliage without defining specific leaf shapes. The lighting is bright and natural coming from above, illuminating the bird's white chest and the high points of the blue wings while casting subtle, soft shadows beneath the tail feathers and along the inner curve of the terracotta rim."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.2513104975223541,
+      "description": "The visible scene is dominated by the lower body and legs of a bird standing atop a weathered wooden post, set against a soft, out-of-focus green background. Occupying the upper right area, the bird's plumage features an intricate pattern of mottled dark brown, chestnut, and white feathers, creating a speckled and textured appearance. Descending vertically from the plumage in the center of the composition are two long, slender legs of a vivid, saturated orange-red hue; they are positioned close together but distinct, with the right leg slightly behind the left. These legs terminate in large feet with long, spread toes that firmly grip the rough, uneven top surface of the wooden post located at the bottom center. The post displays a coarse texture with vertical wood grain, peeling bark, and splintered edges in shades of aged grey, beige, and dark brown, with small patches of white weathering. The entire left side of the image, as well as the space between and behind the legs, is filled with a smooth wash of blurred vegetation in varying shades of lush green, ranging from bright lime to deeper forest tones, which contrasts with the sharp focus of the bird and the wood. The lighting is natural and diffuse, illuminating the vibrant color of the legs and the details of the feathers and wood grain without casting harsh shadows, while the bird's orientation suggests it is facing towards the right."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.2523070275783539,
+      "description": "A sharp, close-up profile of a bird's head and upper neck dominates the right side of the view, facing toward the upper left. The bird possesses a robust, charcoal-black beak that curves gently downward at the tip, featuring a faint, pale highlight along its upper ridge that indicates a smooth, hard texture, while short, bristle-like feathers jut out at the base. Situated in the upper right area, the bird's eye is a striking, saturated ruby red with a distinct black pupil, providing a vivid contrast to the surrounding dark feathers. The plumage on the head is a deep, matte black which transitions on the neck and lower right into iridescent, glossy feathers shimmering with distinct tones of midnight blue and violet; these feathers appear layered and slightly coarse, creating a rich textural detail. The background, filling the entire left side and the space above the bird, is a soft, out-of-focus wash of vibrant vegetation. The greens in this backdrop range from luminous lime and yellow-green to darker emerald shades, with a blurred, lighter diagonal streak\u2014likely a blade of grass or leaf stem\u2014visible in the lower left quadrant, emphasizing the shallow depth of field that keeps the bird in razor-sharp focus."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.253391832113266,
+      "description": "A large, brown and beige snail shell dominates the upper-left portion of the visible area, pressed flat against a clear, transparent surface. The shell\u2019s spiral structure is prominent, featuring bands of dark mocha, warm tan, and cream that curve tightly inward toward the top. Fine, ridged growth lines run perpendicularly across the bands, giving the shell a textured, organic appearance. The body whorl is the largest visible section, rounded and bulbous, occupying the central-left region, with a darker, bruised-looking brownish streak running horizontally across its lower curve. At the bottom edge of the shell, a small, translucent rim of the snail's soft, pale flesh is visible where it seals against the glass. To the right of the shell, the glass surface is imperfect, marked by a distinct, pale, irregular smudge or dried residue that looks somewhat like a translucent, branching stain or slime trail. Surrounding this mark are tiny, scattered specks of dust or debris caught in focus on the surface. The background, seen through the glass, is a heavy blur of vibrant organic tones, primarily bright lime greens and deep forest greens, suggesting distant foliage. A patch of softer, yellowish-green light is visible in the lower center, indicating filtered sunlight, while the rest of the background remains an indistinct, mottled wash of color that contrasts sharply with the crisp details of the shell and the surface smudges in the foreground."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.25521260499954224,
+      "description": "Visible in the upper-left quadrant and extending towards the center is a cylindrical object, resembling a hockey puck or round cake, viewed from a high angle. The object features a dark, matte charcoal-grey vertical side with a slightly textured, almost fondant-like surface that shows subtle indentations and smoothing marks. The top surface is composed of concentric layers. The outermost layer of the top is a continuation of the dark grey material. Inside this is a large, circular white field, seemingly made of a smooth, matte icing or fondant. Centered on this white field is a stylized logo composed of raised, molded shapes. The core of the logo is a bright, medium-blue shape resembling a stylized, segmented letter or abstract form, split horizontally by a thin line. Surrounding the top and bottom of this blue shape are curved bands of bright lime green, framing it like parentheses but open on the sides. A small, black \"TM\" symbol is visible on the white surface to the lower right of the logo elements. To the right of the main object, partially obscured by shadow and the edge of the view, is a sliver of another object with green and black details, resting on a white textured surface that appears to be a table or cloth. The lighting is soft and diffuse, creating gentle highlights on the blue and green logo elements and casting soft shadows along the right side of the dark cylinder, suggesting a light source from the upper left."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.25584927201271057,
+      "description": "A small, vibrant bird with iridescent blue plumage perches on a thin, rough-textured branch that ascends diagonally from the lower left toward the center right of the view. The bird is oriented facing the right, with its head slightly upturned and its short, conical beak parted; the upper mandible is dark grey while the lower mandible is a pale horn color. Its head and neck are covered in deep indigo feathers that appear soft and dense, transitioning into a lighter, electric turquoise hue across the breast and shoulder area. The bird's folded wing, positioned along its side, displays dark slate-grey flight feathers edged in lighter blue, creating a series of fine, diagonal parallel lines that point down toward the tail area which fades into shadow on the left. Dark, spindly legs grasp the brownish-grey twig tightly. To the right of the bird, clusters of bright lime-green leaves sprout from the branch; one prominent leaf with visible veins and jagged edges extends horizontally toward the right edge, while another hangs vertically beneath it. The background is a luminous, out-of-focus wash of intense chartreuse and yellow-green light, suggesting sunlit foliage, which provides a high-contrast backdrop to the cooler, darker tones of the bird."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.2569953501224518,
+      "description": "Occupying the left portion of the visual field is the profile of a greylag goose, facing toward the upper right corner against a backdrop of textured green grass. The goose's head is positioned near the top center-left, featuring a smooth, grey-brown plumage that darkens slightly on the crown and lightens around the eye, which is small, dark, and bead-like. Extending from the face is a triangular beak of vivid orange-pink, tipped with a pale, whitish point and marked by a small nostril slit near the base of the upper mandible. The neck exhibits a distinct, vertically furrowed texture where the feathers bunch into thick, longitudinal ridges of grey and beige, curving gracefully downward into the bird's body. The chest area, prominent in the lower central-left, is covered in smoother, pale grey to off-white feathers that appear dense and soft, contrasting with the wing visible on the far left edge. The wing feathers are darker, a muddy brown-grey, and are arranged in a scalloped pattern with defining thin, light edges outlining each feather. The background consists entirely of a grassy lawn, filling the right side and the areas above and below the bird; the grass is a mix of vibrant lime and medium forest greens, appearing slightly soft-focus, with scattered patches of small, clover-like leaves interspersed among the blades. The lighting is diffuse and even, casting no hard shadows but effectively highlighting the ridges on the goose's neck and the subtle sheen of its beak."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.2572169899940491,
+      "description": "Centered in the left-middle portion of the view is the rear perspective of a small bird perched on a horizontal twisted wire. The bird's plumage dominates the composition, transitioning from a pattern of overlapping, scalloped feathers in shades of taupe, warm brown, and charcoal gray on the upper back to a fluffy, ethereal white down on the lower sides. This white down is strongly backlit from the upper right, creating a soft, glowing halo effect along the right edge of the bird's body. Beneath the white belly feathers and directly above the tail, a vivid patch of crimson red feathers is visible. Extending vertically downward from this red vent are long, dark brownish-black tail feathers, which show vertical grain and are cropped at the bottom. The bird grips a thick, multi-stranded metal cable that runs horizontally across the lower third of the scene, slightly angling downward from left to right. The cable is silver-gray with a distinct spiral texture indicating wound strands, illuminated by sunlight on its upper surface. The bird's dark gray, textured claws are visible clutching the wire; the right foot is clearly defined with toes wrapping around the curve of the metal, while the left foot is partially obscured by the overhanging white feathers. The background is a smooth, out-of-focus field of color, characterized by a muted olive green on the right side that gradients softly into a pale, hazy blue-gray in the upper left, contrasting with the sharp focus of the bird's textured feathers and the metal wire."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.25888553261756897,
+      "description": "A vertical tree trunk, heavily textured with deep longitudinal fissures and rough bark in varying shades of taupe, cocoa brown, and dark grey, dominates the left third of the frame, speckled with patches of crusty, chalk-white lichen. Emerging from behind this trunk are two sections of white-faced capuchin monkeys. In the upper right quadrant, the soft, cream-colored fur of a monkey's chest and shoulder is illuminated by bright, diffuse light, with the animal's arm raised toward its mouth where hints of a reddish-brown object are visible near the top edge. Below this upper figure, occupying the lower center, the head of a second monkey peers out from behind the tree; its face is a pale, fleshy pink with wrinkled skin around the bridge of the nose and dark, glossy eyes that gaze forward. The top of this lower monkey\u2019s head shows a transition to dark brown fur, while a small, dark grey hand with distinct fingers curls around the edge of the bark just above its forehead, gripping the tree. The background on the right side is filled by a large, out-of-focus leaf in a vibrant, luminous shade of chartreuse green, providing a high-contrast backdrop that highlights the fine, backlit hairs on the monkeys' white fur."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.25952598452568054,
+      "description": "Occupying the central and right-hand portion of the view is the vivid, electric lime-green midsection and hindquarters of a lizard clinging vertically to a rough, greyish-brown tree trunk. The reptile's skin is highly textured with minute, pebbled scales, appearing brightest along the dorsal ridge where natural light hits from the upper left. A faint, irregular line of small white spots runs longitudinally along the lizard's flank, interspersed with a few tiny, dark speckles near the upper section of the visible torso. Extending from the lower right side of the body is a muscular hind leg, angled downward and outward, ending in a foot with long, slender green toes and small claws that grip the fibrous bark. In the lower left quadrant, beneath the green torso, a portion of a distended throat fan is visible; it is a pale, translucent pinkish-white color marked with thin, radiating reddish-orange stripes. The tree trunk to the right is weathered, featuring deep vertical fissures and varying shades of tan, grey, and dark brown. To the left of the lizard, the background is an out-of-focus, smooth wash of warm terracotta and deep orange hues, providing a strong contrast to the sharp focus and cool green tones of the animal."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.2597125470638275,
+      "description": "Dominating the upper-left portion of the view is the head and chest of a red fox, captured in a close-up, eye-level shot against a soft-focus background of green grass. The fox\u2019s head is angled slightly downward and turned to face forward, establishing direct eye contact. Its fur is a mix of textures and colors; short, coarse guard hairs in a vibrant russet-orange cover the forehead, crown, and cheeks, transitioning abruptly to a creamy white around the muzzle, jaw, and throat. The chest fur, visible in the lower left, appears fluffier and dense, primarily white with hints of gray undercoat. The fox's nose is a wet, matte black at the tip of a tapered snout, with fine, translucent white whiskers extending horizontally from the muzzle. Its eyes are a piercing amber-gold with vertical pupils, reflecting a soft light source, while the skin around the eyes is rimmed in dark brown. The fox\u2019s left ear (on the viewer's right) stands erect and triangular, showcasing a pale, buff-colored interior and a dark, almost black tip, while the other ear is positioned lower on the left, blending into the head's contour. The background occupies the entire right side and bottom of the scene, consisting of a lush, grassy field rendered in a blur of varying greens, from bright lime highlights to deeper forest green shadows. The grass blades are vertically oriented but indistinct due to the shallow depth of field, with a particularly out-of-focus cluster of vegetation in the bottom center foreground creating a soft, hazy layer between the viewer and the subject. The lighting is diffuse and even, suggesting overcast conditions, with no harsh shadows falling on the animal's face."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up, high-angle shot of a smooth, vibrant chartreuse tree frog perched motionless on a thick, rough-barked log. The frog's neon green skin, moist and glowing, is bunched up in the center of the frame, occupying exactly 40% of the image area. The remaining 60% consists of the dark, chocolate-brown bark of the log and deep shadows, creating a high-contrast backdrop that emphasizes the luminosity of the green subject.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A macro photograph of a tennis ball resting on a clay court. The ball's surface is a fuzzy, highly saturated lime green felt, lit by bright sunlight. It is positioned in the lower left, filling 40% of the visual field. The rest of the image is dominated by the granular, textured surface of the court, which is a deep, warm rust-orange, providing a stark chromatic contrast to the electric green of the ball.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A profile portrait of a rust-colored Fox Sparrow in sharp focus. The bird's feathers are a mix of deep reddish-brown and copper tones, occupying the right 60% of the frame. The background, visible on the left and peeking through the foliage, is a smooth, out-of-focus wash of brilliant yellow-green sunlit leaves, constituting 40% of the image area and contrasting sharply with the bird's warm plumage.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A coiled Green Tree Python resting on a dark mahogany branch. The snake's scales are a vivid, electric yellow-green, arranged in a tight loop that takes up 40% of the frame. The background is a deep, almost black brown, devoid of detail, which forces the eye to focus solely on the bright, textured green coils of the reptile.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A flat-lay composition of sliced key limes on a slate board. The cut surfaces of the limes reveal juicy, vibrant lime-green pulp and rinds. These green circles are arranged to cover 40% of the image surface. The background is a dark, matte charcoal grey stone, creating a heavy, neutral contrast that makes the yellow-green hues pop.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "An abstract architectural shot showing the corner of a modern building. A bright, chartreuse metal panel covers the lower left 40% of the frame. The upper right 60% is a clear, deep indigo blue sky. The line between the neon green building and the dark blue sky is sharp and diagonal, emphasizing the chromatic opposition.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A large, dried terracotta pot sitting in a garden. A bright green anole lizard is clinging to the side of the pot. The lizard's smooth, lime-colored body is stretched out, occupying 40% of the image. The rough, orange-red clay of the pot fills the remaining background, providing a textured, warm-toned surface against the slick green subject.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A close-up of a person's shoulder and neck wearing a scarf. The scarf is a vibrant, neon lime green silk, draped loosely and taking up the top 40% of the frame. The person is wearing a coat of deep, midnight blue wool, which fills the bottom 60% of the image, contrasting the smooth, bright green fabric against the dark, textured wool.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A macro shot of a singular, translucent linden leaf backlit by the sun. The leaf is a glowing, high-saturation yellow-green, revealing intricate vein patterns. It is positioned against a background of wet, black soil. The luminous green leaf occupies the central 40% of the composition, framed entirely by the dark, light-absorbing earth.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A detail shot of a luxury sports car. The front fender, painted in a glossy 'acid green', curves through the left side of the image, covering 40% of the frame. The adjacent area shows the matte black rubber of the tire and the dark asphalt of the road, creating a sleek, high-contrast automotive abstract.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A large, leaf-mimicking katydid resting on a piece of dark, rotting driftwood. The insect's body is a vivid, solid chartreuse, shaped exactly like a fresh leaf. It occupies 40% of the visual space. The driftwood provides a textured background of dark browns and blacks, highlighting the insect's camouflage shape but contrasting color.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A glazed ceramic bowl in a striking lime green hue, sitting on a dark walnut table. The bowl is photographed from slightly above, so its bright, reflective green interior and rim fill 40% of the frame. The surrounding table surface is a rich, dark brown wood grain that recedes into shadow.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A vivid green parakeet flying past a dark brick wall. The bird, with its bright yellow-green plumage and blurred wings, occupies 40% of the center frame. The background is a wall of weathered bricks in shades of deep rust and terracotta, which are slightly out of focus, emphasizing the sharpness and color of the bird.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A patch of fluorescent green moss growing on a jagged volcanic rock. The moss is soft and velvet-like, covering 40% of the rock's surface in the image. The rock itself is a stark, porous black basalt, providing a harsh, texture-heavy background that makes the delicate green moss appear luminescent.",
+      "rationale": "",
+      "emphasis_tags": []
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A close-up of a bright yellow-green highlighter pen lying on a dark mahogany desk. The pen's plastic casing is neon chartreuse, and it is positioned diagonally, taking up 40% of the image area. The desk surface is a polished, deep reddish-brown wood, reflecting a faint echo of the green pen but serving primarily as a dark, warm contrast.",
+      "rationale": "",
+      "emphasis_tags": []
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.24035301804542542,
+      "best_percentile": 0.00031221559110997327
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.2573542296886444,
+      "best_percentile": 0.0009366467733299198
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.26508718729019165,
+      "best_percentile": 0.0014049701599948797
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.27647683024406433,
+      "best_percentile": 0.004371018275539626
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.28127357363700867,
+      "best_percentile": 0.006946796902196905
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.2832212448120117,
+      "best_percentile": 0.007415120288861865
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.2966632544994354,
+      "best_percentile": 0.014518024986613757
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.2976073920726776,
+      "best_percentile": 0.015688833453276155
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.29922157526016235,
+      "best_percentile": 0.01740601920438101
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.32228752970695496,
+      "best_percentile": 0.0652530585419844
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.3239850401878357,
+      "best_percentile": 0.07032656189752148
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.3322577178478241,
+      "best_percentile": 0.10256282167962621
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.3756723403930664,
+      "best_percentile": 0.5519971650824327
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.4063381850719452,
+      "best_percentile": 1.5613901711409763
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.7555446028709412,
+      "best_percentile": 76.04564904157618
+    }
+  ]
+}

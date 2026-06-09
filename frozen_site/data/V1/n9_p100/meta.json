@@ -1,0 +1,374 @@
+{
+  "area": "V1",
+  "neuron_id": 9,
+  "percentile": 100,
+  "hypothesis": "The neuron is highly selective for **vertically oriented, high-contrast, symmetrical central figures**, most notably the bodies of **orb-weaver spiders** (such as *Argiope*). The core activating feature is a **distinctive vertical pattern** on the object's surface\u2014typically a **broad, dark central longitudinal stripe containing or flanked by bright white spots and bands**, or frequently a **vertical zigzag web structure (stabilimentum)**. This selectivity generalizes to non-biological objects featuring **prominent deep black vertical slots, keyholes, or seams** set against lighter, textured surfaces, as well as radial patterns with strong vertical components like clock hands. The neuron remains invariant to object category (arachnid vs. mechanical part) and surface texture, provided the **sharp black-and-white luminosity contrast** and **vertical axis symmetry** are preserved. The activating feature typically occupies **30\u201380% of the image height** and is rigorously centered horizontally. Dominant colors are **jet black and bright white** for the feature, set against a **desaturated, often blurred background of neutral grays**.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.715639352798462,
+      "description": "Displayed in a grainy grayscale format, a high-angle close-up reveals fishing equipment resting on a rough, earthen surface. Dominating the left-of-center vertical axis is a dark, thick section of a fishing rod handle, which runs from the bottom edge upward, angling slightly toward the top left. Mounted to this rod, slightly above the image's vertical center, is a baitcasting-style fishing reel; its side plate, facing the viewer, is black with two distinct, light-colored circular screw heads or adjustment knobs arranged vertically. The reel's spool area appears metallic and lighter gray, while a handle arm extends to the left side of the rod, terminating in a dark, flat knob. To the right of this central assembly, resting independently in the lower-right quadrant, lies a second fishing reel appearing significantly lighter in tone, likely silver or polished metal, with its handle crank visible on the left side and its body partially obscuring the ground beneath it. The ground itself is a mottled texture of medium-gray dirt, scattered with small, light-colored pebbles and debris. In the upper central region, adjacent to the top of the primary rod, a dark, textured object resembling a clump of leaves or a patterned tread imprint is visible against the dirt. Additionally, a thin, straight, light-colored object, possibly a stick or another rod section, cuts diagonally across the bottom left corner behind the main rod handle."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.7175769805908203,
+      "description": "In the center of a grayscale scene, a large bird stands in profile facing toward the right, though its head is thrown back to rest against its spine. The bird's most prominent feature is a massively inflated, bulbous neck pouch that is bright white and spherical, dominating the upper anterior portion of the bird and creating a heavy, rounded shape that contrasts with the darker body. From the small, retracted head, long, thin, wire-like whiskers project upwards and backwards, angling away from a sharp, pointed beak. The bird's body is covered in plumage that varies in tone; the folded wing along the flank displays a texture of layered feathers, with lighter gray coverts at the top transitioning to darker, more defined flight feathers near the rear. The tail feathers at the far right appear ruffled and dark. The bird stands on two slender, pale legs that extend down into a grassy surface, which is rendered with a soft blur, indicating shallow depth of field. Behind the main subject, slightly to the left and further in the distance, is the out-of-focus, dark silhouette of another animal, possibly a grazing quadruped or another bird, set against a smooth, light gray background that suggests a distant field or sky. The lighting is diffuse, accentuating the volume of the white neck pouch while leaving the underside of the bird and the tail in comparative shadow."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.7341407537460327,
+      "description": "Against a grainy, textured background resembling rough light-gray stucco or plaster, the central portion of a clock face is visible. Anchored at a central black pivot, three hands extend outward: a thick, black hour hand with a distinctive spade-shaped swelling along its shaft points towards the lower-left at the 7 o'clock position; a longer, tapered minute hand reaches vertically upwards, leaning almost imperceptibly to the right, indicating one or two minutes past the hour; and a needle-thin second hand angles downwards to the right, pointing roughly towards the 27-second mark between the 5 and 6 o'clock positions. Surrounding the center are bold, black Roman numeral hour markers. The numeral \"VI\" is positioned at the bottom center, flanked by \"VII\" on the left and \"V\" on the right. Continuing clockwise, the 4 o'clock marker is depicted as \"IIII\" and the 3 o'clock marker appears as a thick rectangular block, likely a blurred \"III.\" On the left side, the 9 o'clock marker resembles a heavy rectangular dash, while the upper-left reveals the distinct form of the numeral \"XI\" or \"X.\" The lighting is flat and diffuse, casting no hard shadows but giving the black elements a stark contrast against the noisy, light-colored surface."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.736598014831543,
+      "description": "A circular, weathered metal cover, rendered in monochromatic greyscale, fills the frame with a rough, pitted texture indicative of cast iron. In the precise geometric center lies a distinct, black cutout shaped like a traditional keyhole, featuring a vertical rectangular slot that terminates in a circular aperture at the bottom. This central void is surrounded by a flat, textured metal surface that extends to a recessed concentric groove. Beyond this groove is a raised outer rim containing embossed, capital letters that follow the curvature of the circumference. On the left arc, the word \"ACQUEDOTTO\" is inscribed, while the right arc bears the word \"PUGLIESE,\" with the tops of all letters oriented towards the outer edge of the cover. At the bottom center, occupying the space between the ends of the two words, is a small, raised circular dot. The lighting is diffuse, creating soft highlights on the embossed text and the rim that contrast with the subtle shadows in the pitted surface and the deep black of the central keyhole."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.7487767934799194,
+      "description": "Displayed in high-contrast grayscale, the dorsal view of a spider, likely an Argiope, dominates the center of the frame with its legs splayed in an X-shaped formation. The abdomen is the most prominent feature, occupying the upper-middle section, shaped like a rounded shield that tapers slightly toward the bottom. Its surface displays a distinct pattern: a central vertical black stripe runs down the middle, flanked on either side by large, curved, bright white patches with scalloped edges. Inside the central black stripe, roughly one-third of the way down from the top of the abdomen, are two small, bright white dots positioned horizontally next to each other, resembling glowing eyes, followed by two larger, elongated white spots further down the centerline. Below the abdomen, the cephalothorax is visible as a smaller, lighter gray, triangular section covered in fine, silver-toned hairs. Four dark, thick leg segments extend from the body; two reach diagonally upward toward the upper left and right corners, while two extend diagonally downward toward the lower left and right, framing the lower portion of the image. Vertically aligned directly beneath the cephalothorax and between the two lower legs is a thick, blurry, zig-zagging structure of white silk, a stabilimentum, which fades into the bottom of the frame. The background is a uniform, smooth, dark gray, providing strong contrast to the bright white markings on the spider's back and the web structure, while the lighting appears diffuse, eliminating harsh shadows but highlighting the glossiness of the black exoskeleton."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.7512813806533813,
+      "description": "This high-contrast grayscale image captures a dense, chaotic cluster of organic, leaf-like structures that appear to be viewed under strong, direct illumination. Dominating the left-center portion is a large, twisted form resembling a folded leaf or petal; it features a broad, sweeping curve of bright white highlight that runs vertically, suggesting a glossy or wet surface reflecting light. This bright shape occupies roughly a significant portion of the left quadrant, contrasting sharply with the deep blacks of the surrounding shadows. To the right of this central curve, the composition breaks into a complex jumble of smaller, fragmented shapes with jagged edges, where sharp patches of white light define the ridges of crumpled or overlapping material. A discernible, slightly darker cylindrical shape, reminiscent of a stem or stalk, is visible in the right-hand section, oriented vertically and interwoven with the flatter, leafy elements. The lighting creates a stark duality between the blown-out white highlights on the protruding surfaces and the pitch-black recesses in the background, giving the scene a high degree of depth and texture. The bottom third of the visible area is generally darker, composed of mottled mid-tone grays that suggest layers of material receding from the light source, while the upper regions are sharper and brighter. The spatial arrangement is dense and overlapping, with no clear separation between foreground and background objects, creating an abstract tapestry of biological forms."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.7565029859542847,
+      "description": "Centered against a deep black background is a close-up of a symmetrical, matte black mechanical component, roughly heart-shaped or shield-like in its overall contour. A prominent vertical seam splits the object directly down the center into two mirrored halves. On the upper section, flanking this central fissure, are two flat, raised rectangular panels with rounded lower outer corners. These panels bear stark white text oriented vertically, reading from bottom to top. The left panel displays \"ACTIV\" in a bold, sans-serif typeface, with the smaller, italicized word \"flow\" positioned directly beneath it, also oriented vertically. The right panel mirrors this placement with the word \"DRESSER\" in the same bold, vertical, sans-serif font. Above these panels, a dark, recessed cylindrical element is partially visible, extending upward. The lower portion of the object features smooth, convex curves that taper downward, resembling rounded lobes. The material appears to be a hard, non-reflective plastic or coated metal, with subtle grey highlights indicating curvature on the lower sections and along the edges of the raised text panels. A distinct, small triangular highlight of bright white light appears at the very bottom of the central vertical seam, suggesting a metallic clip or internal component catching the light. The lighting is soft and diffuse, originating from above, which casts gentle gradients on the rounded surfaces while leaving the peripheries in shadow. The object dominates the frame, with its edges fading softly into the surrounding darkness."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.7593342065811157,
+      "description": "A monochromatic, close-up view captures the densely furred head of a Chow Chow facing directly forward, appearing as a soft, spherical mass of texture. The dog's coat is thick, plush, and wool-like, radiating outward from the center of the face in gradients of silver, charcoal, and soft white. Dominating the center is a broad, wrinkled muzzle where the fur is shorter and lighter, specifically a pale gray-white on the upper snout. The nose is a central, dark focal point, appearing textured and leathery with two distinct, dark comma-shaped nostrils. Above the nose, heavy folds of skin and thick fur create a deep brow ridge that completely overshadows the eyes, which are visible only as slanted, dark triangular recesses. Below the nose, the mouth is slightly ajar, revealing a section of the tongue and the dark, fleshy line of the lips; the lower lip appears to droop slightly, particularly on the left side. The lighting is soft and diffused from the front-top, casting gentle shadows into the deep wrinkles around the muzzle and eyes while highlighting the fluffy texture of the cheeks and forehead. The fur transitions into darker, undefined shadows at the bottom and sides of the visible area, framing the lighter, centrally illuminated face."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.7680597305297852,
+      "description": "Presented in high-contrast grayscale, a close-up view captures a person holding a computer component next to their face within a cramped technological environment. On the left side, a portion of a young person\u2019s face is visible, cropped closely so that only the left eye, nose, cheek, and part of the mouth are seen; the eye looks directly forward, framed by dark, wavy hair, and the skin is lit by a direct flash that creates a highlight on the tip of the nose. Positioned centrally and slightly overlapping the person's cheek is a rectangular 3.5-inch hard disk drive held upright by a hand appearing from the bottom edge. The fingers curl around the bottom front of the drive, pressing against a large white label that dominates the drive's face; this label features a prominent, thick black circle design on its left side and several lines of small, indistinct text. To the immediate right of the hard drive, the interior of a computer case is visible, characterized by a vertical metal chassis rail with rectangular slot cutouts. A wide, flat, light-gray ribbon cable, typical of IDE connections, curves chaotically from the top right, folding over itself as it descends behind the hard drive and hand. In the lower right corner, a metallic bracket or expansion card faceplate is visible, marked with small symbols and circular ports, set against the darker, shadowed recesses of the computer tower's interior. The lighting is harsh and frontal, casting deep shadows inside the computer case while washing out the textures of the ribbon cable and the person's skin."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.7700748443603516,
+      "description": "A high-contrast black-and-white close-up presents the dorsal view of a large orb-weaver spider suspended in its web. The spider's bulbous abdomen dominates the upper central portion of the frame, featuring a striking symmetrical pattern: a broad, dark longitudinal stripe runs down the center, containing four distinct bright white spots arranged in a rough square near the top, resembling eyes. Flanking this central dark band are scalloped patches of white or very light gray, separated by dark transverse bands that wrap around the sides of the abdomen. Below the abdomen is the smaller, shield-shaped cephalothorax, which appears pale gray and smooth, contrasting with the darker markings of the rear body segment. Long, articulated legs extend from the cephalothorax in pairs, displaying alternating bands of black and gray; the upper legs reach upward and outward, disappearing off the top edge, while the lower legs extend downward and outward in a characteristic X-shape posture. The legs appear slightly fuzzy with minute bristles visible along their edges. Directly beneath the spider\u2019s body, a thick, bright white zigzag structure of silk, known as a stabilimentum, is clearly visible, squiggling vertically downwards through the center. The background is a soft, out-of-focus bokeh of various gray tones, suggesting indistinct foliage and light, which highlights the sharp details and patterns of the spider in the foreground."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.7775846719741821,
+      "description": "A black and white photograph captures the dorsal view of a large garden spider, suspended vertically in its web, occupying the central third of the visible area. The spider's abdomen is the most prominent feature, roughly oval-shaped with a slightly pointed rear, displaying a distinct pattern of alternating light and dark bands. The light bands are white or very pale grey, while the dark markings are deep black, forming a complex, almost skull-like design near the cephalothorax and wavy, horizontal stripes towards the spinnerets. The cephalothorax is smaller, lighter in tone, and covered in fine, fuzzy light grey hairs, appearing softer than the glossy, patterned abdomen. Four visible legs extend outward from the cephalothorax; the upper two legs on the left reach upwards and slightly outwards, showing dark banding at the joints and segments, while the lower two visible legs extend downwards, gripping a thick, vertical band of white silk. This vertical silk structure, likely a stabilimentum, is thick and textured, appearing as a bright, zig-zagging line running directly beneath the spider's body. The background is a smooth, out-of-focus grey gradient, darkest in the upper left and lighter towards the right, with faint, thin white strands of the web radiating diagonally from the center towards the edges, catching the light and creating delicate, ethereal lines against the blurred backdrop. The lighting is soft and diffuse, highlighting the texture of the spider's body and the sheen of the silk without casting harsh shadows."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.7994883060455322,
+      "description": "Dominating the center of the grayscale composition is the ventral view of a large spider, oriented vertically with its abdomen positioned in the upper half and the cephalothorax directly below it. The abdomen features a striking, high-contrast pattern consisting of a central, jagged black stripe that runs vertically down the middle, flanked by symmetrical, bright white patches. These white areas are arranged in pairs: a rounded set near the top edge, followed by a larger, somewhat triangular pair below, and tapering into smaller markings near the waist. The lateral edges of the abdomen are lined with longitudinal white bands, separated from the inner white spots by thin, undulating black lines. Below this section, the cephalothorax is lighter in tone, appearing as a textured, light gray shield shape with a subtle central indentation and two faint, dark spots near the bottom tip where the chelicerae would be. Radiating outward from the junction of the body segments are the spider's long, articulated legs, which exhibit distinct alternating bands of solid black and pale, translucent gray. The upper legs extend diagonally upward and outward, disappearing toward the edges, while the lower legs stretch diagonally downward, anchoring the spider's position. The black segments of the legs are lined with fine, visible bristles that catch the light. The background is a soft, out-of-focus bokeh of swirling light and dark grays, providing no distinct environmental details other than faint, thin lines of silk webbing that cross near the right-side legs, contrasting with the sharp focus of the arachnid's body."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.830542802810669,
+      "description": "A grayscale close-up captures a small passerine bird perched on the side of a bird feeder, situated primarily in the center and lower-left quadrant of the visible area. The bird is oriented in profile facing to the right, displaying a distinctive facial pattern with a dark mask extending from the forehead around the eye and a bright white patch on the cheek and ear coverts. Its beak is conical, pale, and pointed, catching a gleaming highlight on the upper mandible, while the crown of the head is capped in dark plumage. The bird's chest and underparts are rendered in smooth, pale grey tones that transition into darker shading along the flank. Its folded wing features a striking contrast of dark feathers intersected by a wide, light-grey horizontal band and white-tipped flight feathers. The bird's feet grasp a thin, curved perch that loops downward from the feeder's base. To the right, the feeder appears as a vertical column filled with small, grainy seeds that create a stippled texture, encased in a transparent tube with a vertical specular highlight running down its length. The background consists of out-of-focus, dappled greys, suggesting distant foliage, which creates a soft, neutral backdrop that contrasts with the sharp focus of the bird and the feeder structure."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.8999942541122437,
+      "description": "A monochromatic, light grey relief carving, featuring a matte, slightly grainy texture similar to unglazed ceramic or a biscuit, depicts a stylized harbor town scene. In the lower center, a row of three gabled houses stands side-by-side, their triangular roofs pointing upward. The middle house features two square recessed windows, each divided into four panes by raised cross-bars, on the upper floor, and a dark, rectangular doorway next to a matching window on the ground floor. To the left, a similar house is partially visible with two upper and two lower windows, while to the right, a third house mirrors this arrangement with two upper and two lower windows. Rising behind the left and central houses is a larger, taller municipal-style building with a flat, tiled roof, vertical architectural ridges, and a small central spire. Dominating the right third of the composition is a sailing ship, its hull curving inward from the bottom right, topped by a tall mast holding four stacked, rectangular sails that bulge outward to the left. A distinct, vertical, pill-shaped void, appearing as a deep black slot, is punched through the center of the scene, positioned directly above the peak of the middle house's roof. The \"sky\" area above contains stylized, puffy clouds\u2014one large three-lobed formation in the upper left and smaller shapes near the center\u2014along with raised diagonal lines representing sun rays or rain driving from the upper right toward the center. The base of the scene is grounded by a horizontal band of rectangular, brick-like shapes resembling a cobblestone quay or stylized waves. The lighting is soft and diffuse, casting gentle shadows to the bottom right of the raised elements, giving depth to the architectural features and sails."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.9285240173339844,
+      "description": "Occupying the central vertical axis of the monochromatic grayscale field is the dorsal view of a large orb-weaver spider, oriented head-downward so its bulbous abdomen sits above the smaller cephalothorax. The abdomen, shaped like a rounded shield, features a striking high-contrast pattern: a broad, glossy black central band runs vertically, undulating with scalloped edges, flanked on either side by bright white, irregular longitudinal stripes. Within the central black band, two pairs of distinct white spots are visible; the upper pair is larger and somewhat heart-shaped, while the lower pair is smaller and rounder, situated just above the junction with the cephalothorax. Above these spots, near the top curve of the abdomen, appear varying horizontal bands of white and dark gray. Below the abdomen, the cephalothorax is a uniform, textured light gray, appearing covered in dense, short fuzz, and is roughly heart-shaped, tapering to a point at the bottom. Extending from underneath this section are long, segmented legs. Two rear legs project upwards and outwards toward the top corners, exhibiting dark, smooth segments near the body. Two pairs of front legs extend downwards, angling outwards to the bottom corners; these legs appear thicker near the body with a lighter gray tone that transitions into darker, banded segments towards the extremities. The background is a soft, out-of-focus wash of mottled grays, suggesting distant vegetation, overlaid with fine, sharp white lines of silk webbing that crisscross faintly, particularly visible to the right of the spider's abdomen and between the upper legs. The lighting is soft and diffused, creating a subtle sheen on the black areas of the abdomen and highlighting the matte texture of the cephalothorax, with no harsh directional shadows visible."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A rigorously centered, dorsal view of an Argiope spider, occupying exactly 30% of the image height. The spider's abdomen features a striking vertical pattern consisting of a broad, jet-black central longitudinal stripe, flanked symmetrically by bright white horizontal bands that curve slightly around the black center. The high-contrast black and white markings on the body stand out sharply. The background is a heavily blurred, desaturated field of neutral grays, completely devoid of color, ensuring the focus remains entirely on the vertical symmetry and the luminosity contrast of the arachnid's markings.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Argiope spider",
+        "vertical pattern",
+        "jet-black central stripe",
+        "bright white bands",
+        "30% image height",
+        "neutral gray background"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A close-up of a brushed stainless steel surface featuring a prominent, deep black vertical slot, resembling a coin insertion point on a machine. The slot is perfectly centered horizontally and spans 30% of the total vertical frame. The metal surrounding the slot is a light, textured silver-gray that reflects diffuse light, creating a stark contrast with the absolute blackness of the vertical void. The background beyond the immediate metal texture fades into a soft, out-of-focus neutral gray.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical slot",
+        "deep black",
+        "silver-gray metal",
+        "high contrast",
+        "30% image height",
+        "centered"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The ventral underside of a garden orb-weaver spider, strictly centered in the frame. The body length is compact, taking up 30% of the image's height. The focal point is the abdomen's central black rectangular region, which is framed by two distinct, bright white vertical parallel lines that run longitudinally. These white lines are extremely luminous against the jet-black center and the desaturated, dark gray hues of the spider's legs and the blurry gray background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ventral view",
+        "orb-weaver",
+        "vertical white lines",
+        "central black region",
+        "30% image height",
+        "gray background"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "An antique metallic keyhole plate, silver in color with visible scratches and patina, centered in the visual field. The keyhole itself is a sharp, vertical silhouette of jet black, shaped like a classic skeleton key slot with a round top and widening bottom. The height of this black void is exactly 30% of the image height. The metal plate is set against a completely desaturated, blurred gray wooden texture, emphasizing the vertical axis symmetry of the dark opening.",
+      "rationale": "",
+      "emphasis_tags": [
+        "antique keyhole",
+        "jet black void",
+        "vertical silhouette",
+        "silver plate",
+        "30% image height",
+        "neutral gray"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A minimalist clock face, cropped to show only the center, featuring thick jet-black hands aligned perfectly vertically at the 6:00 position. The hands form a single continuous vertical line that occupies 30% of the image height. The face of the clock is a bright, clean white, providing maximum luminosity contrast, while the surrounding bezel and background are indistinct, hazy shades of neutral gray.",
+      "rationale": "",
+      "emphasis_tags": [
+        "clock hands",
+        "vertical alignment",
+        "6:00 position",
+        "jet-black",
+        "bright white face",
+        "30% image height"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A high-contrast macro shot of a 'stabilimentum' web decoration\u2014a vertical zigzag pattern of bright white silk. This structure is rigorously centered and spans 30% of the image height. Resting on the center of the zigzag is a small spider with a dark, jet-black body, creating a focal point of intense black-and-white contrast. The surrounding web and background are washed out into a smooth, featureless neutral gray fog.",
+      "rationale": "",
+      "emphasis_tags": [
+        "stabilimentum",
+        "zigzag web",
+        "vertical pattern",
+        "jet-black spider",
+        "bright white silk",
+        "30% image height"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A vertical seam between two light gray industrial concrete panels. The gap creates a sharp, jet-black vertical line that is rigorously centered and occupies 30% of the image height. The texture of the concrete is visible but low-contrast, while the seam itself is a void of absolute darkness. The lighting is flat, eliminating other shadows, leaving only the vertical black fissure against the lighter gray surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical seam",
+        "jet-black line",
+        "concrete panels",
+        "30% image height",
+        "centered",
+        "gray texture"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A close-up of a toggle switch on an old industrial control panel. The lever is jet black and orientated vertically in the 'off' position. The switch body is bright white, creating a stark outline around the black lever. The vertical extent of the black lever is 30% of the image height. The panel behind it is a dull, scratched magnesium gray, blurred to ensure the focus remains on the central black-and-white vertical element.",
+      "rationale": "",
+      "emphasis_tags": [
+        "toggle switch",
+        "vertical lever",
+        "jet black",
+        "bright white body",
+        "30% image height",
+        "gray panel"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A single, broad vertical stripe painted in jet black on a bright white wooden post. The stripe is centered and has rough edges, visible against the wood grain. The painted section visible in the frame constitutes 30% of the image height. The background is a soft, out-of-focus field of slate gray, ensuring the high-contrast vertical bar is the unambiguous subject.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical stripe",
+        "jet black paint",
+        "white wood",
+        "30% image height",
+        "centered",
+        "gray background"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "The vertical slot of a USB port on a computer chassis, oriented upright. The interior of the port is a deep, shadowless black, contrasting sharply with the bright metallic white-silver of the chassis rim. This vertical rectangular darkness is rigorously centered and takes up 30% of the image height. The surrounding area is a smooth, matte gray plastic, devoid of other details.",
+      "rationale": "",
+      "emphasis_tags": [
+        "USB port",
+        "vertical slot",
+        "deep black",
+        "metallic rim",
+        "30% image height",
+        "matte gray"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A detailed view of a heavy-duty zipper, closed and running vertically down the center of the frame. The zipper tape is jet black, flanked by bright white fabric on either side. The interlocking teeth form a textured vertical spine that is pitch black. The visible segment of this vertical mechanism is 30% of the image height. The rest of the image fades into a blurry, neutral gray garment texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical zipper",
+        "jet black tape",
+        "bright white fabric",
+        "30% image height",
+        "centered",
+        "neutral gray"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A vertical arrow-slit window in a stone wall, viewed from the outside. The opening is a narrow, jet-black rectangle with a rounded top and bottom, strictly centered. The height of the slit is 30% of the image. The surrounding stone is a pale, weathered white-gray, providing high luminosity contrast with the dark interior void. The periphery of the image is a blurred, neutral gray fog.",
+      "rationale": "",
+      "emphasis_tags": [
+        "arrow-slit window",
+        "vertical opening",
+        "jet black void",
+        "white-gray stone",
+        "30% image height",
+        "centered"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "An abstract composition featuring a thick, vertical black ink brushstroke centered on a sheet of bright white paper. The stroke is solid and opaque, with a height exactly 30% of the image frame. The paper texture is subtle, and the background beyond the paper's edge is a uniform, desaturated medium gray.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical brushstroke",
+        "jet black ink",
+        "white paper",
+        "30% image height",
+        "centered",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A dorsal view of a Wasp Spider (*Argiope bruennichi*), strictly centered. The abdomen displays a pattern of transverse jet-black and bright white stripes that stack vertically. The spider's body occupies 30% of the image height. The background is a wash of neutral grays, completely blurring out any foliage, highlighting the sharp boundaries between the black and white bands on the spider's back.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Wasp Spider",
+        "Argiope bruennichi",
+        "black and white stripes",
+        "vertical stacking",
+        "30% image height",
+        "neutral gray background"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A close-up of a pristine white ceramic surface with a distinct, vertical stress crack running through the center. The crack appears as a jagged, jet-black line due to the depth of the shadow within it. The length of the crack is 30% of the image height. The surrounding ceramic is glossy and bright white, while the background is a non-distracting, smooth light gray.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ceramic crack",
+        "vertical line",
+        "jet black fissure",
+        "bright white surface",
+        "30% image height",
+        "light gray"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.5259296894073486,
+      "best_percentile": 99.98696499907116
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.495121717453003,
+      "best_percentile": 99.9819695496134
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.2864923477172852,
+      "best_percentile": 99.8349160062006
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.2726742029190063,
+      "best_percentile": 99.81345118431179
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.2706931829452515,
+      "best_percentile": 99.80908016603625
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.2330397367477417,
+      "best_percentile": 99.73594366381874
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.148897647857666,
+      "best_percentile": 99.47586807642413
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.1435712575912476,
+      "best_percentile": 99.45393493114865
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.1387892961502075,
+      "best_percentile": 99.43387507941983
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.0219550132751465,
+      "best_percentile": 98.66527834800486
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.9476461410522461,
+      "best_percentile": 97.78670367462139
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.9395295977592468,
+      "best_percentile": 97.66205159987074
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.8237178921699524,
+      "best_percentile": 94.94491736433842
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.7639896273612976,
+      "best_percentile": 92.44375826395643
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.7634133100509644,
+      "best_percentile": 92.41378556720987
+    }
+  ]
+}

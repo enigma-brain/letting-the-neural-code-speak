@@ -1,0 +1,329 @@
+{
+  "area": "V4",
+  "neuron_id": 15,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to **ordered, rectilinear geometric structures**, specifically **vertical and horizontal lines** that intersect to form **grids, cages, or frameworks**. The core activating features are **thin, straight, and continuous linear elements**, commonly manifesting as architectural or structural components such as **white window mullions, silver metal railings, wooden shelving units, wire fences, and wicket gates**, or as graphical patterns like **scoreboards and tennis court markings**. The neuron also activates for solitary, prominent linear obstructions like **metallic poles, wires, or vertical specular reflections**, provided they maintain a strict cardinal orientation. These features are consistently **light-colored\u2014typically white, silver, light grey, or luminous cyan**\u2014and often display **metallic textures or sharp specular highlights**, creating a strong **light-on-dark contrast** against darker, saturated backgrounds such as black, deep green, red, or wood tones. The linear structures typically span **50\u2013100% of the image dimensions**, often forming a centralized grid or intersecting pattern that dominates the composition.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.06136057525873184,
+      "description": "A majestic stone church facade dominates the upper central portion of the view, constructed from rough-hewn blocks in varying shades of beige, tan, and gray, illuminated by warm, golden-yellow floodlights that contrast sharply with the deep twilight blue sky visible in the upper corners. The central architectural feature is a portico with three large arched doorways, glowing with intense yellow light from within, positioned atop a short flight of stairs that leads up from a snow-covered ground level. Directly above the central arches is a large, illuminated circular rose window set into the gabled roofline, flanked by taller tower-like structures with narrow, vertical rectangular windows emitting similar warm light. To the right of the church, a red brick building is partially visible, illuminated by a street lamp that casts a bright, starburst-like orange glow. A horizontal band of white snow creates a distinct dividing line across the middle of the scene, separating the solid architecture from the wet, reflective asphalt surface in the foreground. The entire lower half of the image is occupied by a vivid, inverted reflection of the church and the adjacent brick building in a large puddle; this reflection mirrors the golden stonework, the glowing arches, the rose window, and the street lamp with high fidelity, though the image is slightly rippled by the texture of the water and pavement, creating a symmetrical, vertical column of warm light and stone amidst the surrounding darkness."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.06154906749725342,
+      "description": "Centrally positioned and occupying the majority of the middle vertical third of the frame is the torso and upper tail of a brightly colored bird. The bird's visible upper plumage consists of layered, iridescent feathers displaying a gradient of emerald green to teal blue, which overlay a larger, dominant area of vibrant, fluffy tangerine-orange feathers covering the belly and chest. The texture of the orange plumage appears soft and downy, contrasting with the smoother, scale-like appearance of the green feathers above. The bird perches on a roughly textured, horizontal branch that traverses the width of the visible area, positioned slightly below the vertical center. The branch is light brown with patches of greyish-white lichen and peeling bark, illuminated by soft light from above. Two grey, scaled feet with sharp, curved claws grip the branch tightly; the left foot is partially obscured by the orange belly feathers, while the right foot is more clearly defined against the wood, showing individual toes wrapping around the perch. Extending vertically downward from below the branch is the start of the bird's long tail, composed of straight, stiff feathers in shades of golden-brown and dark umber, with a dark vertical line separating the feathers. A thin, blurry vertical twig creates a foreground obstruction in the lower left quadrant, crossing in front of the orange belly and tail feathers. The background is a smooth, out-of-focus wash of mottled colors, primarily sage green, pale yellow, and creamy beige, creating a bokeh effect that suggests distant foliage in dappled sunlight. The lighting is natural and diffuse, creating soft highlights on the green shoulder feathers and the upper surface of the branch, while casting subtle shadows beneath the bird's belly and along the underside of the perch."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.06228358671069145,
+      "description": "A galvanized steel railing system dominates the foreground, set against an industrial backdrop of yellow masonry and grey doors. The railing consists of cylindrical metal pipes with a mottled silver-grey texture and bright white specular highlights along the top surfaces, indicating overhead lighting. A horizontal rail runs across the middle of the view, connecting to vertical support posts. One vertical post stands slightly to the left of the center, anchored to the concrete floor by a square metal base plate with visible bolts, while another similar post stands to the right, and a third is partially visible at the far right edge. The floor beneath the railing is a weathered concrete surface, brownish-grey in tone with dark stains and a rough texture, bordered at the very bottom by a painted bright yellow safety stripe that runs diagonally across the lower edge. Behind the railing, the wall is constructed of rectangular cinder blocks painted a vibrant, saturated yellow, with painted-over mortar lines visible in a running bond pattern. These yellow blocks are prominent on the left side of the image and appear as a sliver on the far right. Centered in the background between the sections of yellow wall is a set of flush, matte grey double doors. A vertical seam separates the two doors, located somewhat behind the central railing post. On the right-hand door, a vertical handle mechanism is visible, and a small, white rectangular paper or sign is affixed to the upper portion of the door. The lighting is diffuse, creating soft shadows on the ground around the base of the railing posts while evenly illuminating the vertical surfaces of the wall and doors."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.06306594610214233,
+      "description": "Centrally positioned against a plain taupe wall is a white, wooden, wall-mounted display cabinet featuring a wide central section flanked by two narrower vertical columns, all divided into shelves filled with miniature objects and art. The central section consists of four levels. The top shelf holds two framed artworks: on the left, a square piece depicting yellow architectural arches with a honeycomb pattern at the base, and on the right, a rectangular painting of five stylized figures with peach complexions against a salmon-pink background. The second central shelf contains a small vertical wood-block print with red and black circular motifs on the left, a small white rectangular card in the middle, and a square painting with swirling forest greens and teals on the right. The third central level displays three vertical rectangular paintings: the left features a pale blue moon-like circle on a textured orange background; the center is an abstract geometric composition in blue, yellow, and red; and the right depicts a bright yellow sun or moon against a dark navy landscape. The bottom central shelf, which has a projecting white ledge, holds two vertical prints\u2014one with a mustard-yellow background and the other with a deep maroon background, both featuring stylized floral or figure drawings\u2014next to a light blue, glossy ceramic bear figurine on the far right. The left column comprises six evenly spaced cubbies. The top cubby holds two small, rounded, metallic gold and brown lumps. The second down contains two standing figurines with blue bodies and red and white details. The third shelf is tightly packed with a row of approximately eight tiny yellow nesting dolls. The fourth holds a red-and-white spotted mushroom object next to a small black bottle. The fifth shelf contains three small green frog-like figurines. The bottom shelf holds three small, rounded objects colored red, green, and yellow respectively. The right column mirrors the left with six shelves. The top shelf holds a small rectangular beige object and a yellow duck figurine. The second shelf contains a small postcard and a slender blue-capped bottle. The third shelf displays two blue heart-shaped ceramic pieces. The fourth shelf holds two silver, metallic standing figures and a wooden sculpture of a couple. The bottom two shelves each contain a pair of small, identical light-wood square picture frames. Soft, diffuse lighting casts gentle shadows beneath each shelf and to the right of the objects, emphasizing the depth of the white cabinetry."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.0650985836982727,
+      "description": "Occupying the lower center of the view is a glossy, bright red spherical croquet ball, which features a prominent, sharp white specular highlight on its upper-left curvature and rests upon a patch of blurred, dark green grass. Immediately framing this ball is a white metal wicket, formed of thin wire bent into a squared-off arch; its two vertical legs flank the red ball, and its horizontal top bar runs parallel to the image's upper edge, slightly out of focus. Directly behind the red ball, positioned centrally within the wicket's arch, is the head of a croquet mallet, appearing as a cylindrical wooden object with a red face, attached to a long, vertical wooden handle that extends upward through the center of the scene; the handle features a turned, ribbed texture and a honey-brown varnished finish. To the right of the wicket, partially obscured by the white wire, stands a vertical wooden stake painted with horizontal colored bands; visible from the bottom up are sections of red, green, yellow, and blue. Flanking this central arrangement of equipment are the legs of a person, visible from the mid-thigh down to just below the knees. The skin is tan, and the person wears loose-fitting, bright cyan-blue fabric shorts covered in a pattern of large, uneven polka dots in lime green, navy blue, and black, some of which contain internal vertical stripe patterns. The background behind the legs and mallet handle is a deep, recessed black, providing high contrast to the brightly lit foreground elements, suggesting a flash-lit environment with a shallow depth of focus centered on the red ball."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.06521528959274292,
+      "description": "Centered vertically against a backdrop of light tan and beige wood paneling with a distinct vertical grain is a clear, transparent drinking glass. The glass occupies the majority of the central visual field, extending from the top to the bottom of the visible area. Prominently displayed on the upper half of the glass is a multi-colored logo consisting of three vertically stacked elements. At the apex is a five-pointed star colored a vibrant red with a thin white outline. Below the star sits a horizontal banner shaped like a stretched hexagon with a black background and silver-grey borders; inside, the word \"Heineken\" is printed in a bold, white serif typeface with the three instances of the letter \"e\" slightly tilted backwards. Beneath the banner is a stylized graphic of green hop leaves and vines that curves gently upward. A strong, intense vertical band of white reflected light runs down the exact center of the glass, creating a glare that partially obscures the center of the red star, washes out the middle section of the black banner, and fades the center of the green leaf design into white. Roughly one-third of the way up from the bottom of the visible glass surface, a horizontal line or ridge spans the width of the vessel, indicating a change in the glass's thickness or shape. The wood background is slightly out of focus, contrasting with the sharp edges of the logo text, and features alternating vertical striations of cream and honey-brown wood grain. The glass appears empty, revealing the wood texture through its transparent body, except where the strong specular highlight reflects the light source."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.06583185493946075,
+      "description": "A silver-framed flat-screen computer monitor stands slightly right of center, displaying a vivid animated scene with yellow-skinned cartoon characters; a character in a green sweater and glasses stands centrally within the screen, flanked by a smaller character in blue to the left and a larger character in white to the right, all behind a red velvet rope barrier. Beneath the monitor, a dark grey vertical stereo system features a small digital display at the top and three horizontal silver disc trays stacked vertically in the center, surrounded by various small buttons and draped with thin white wires. Sitting on the surface directly in front of the stereo's base is a large, crumpled, cream-colored plastic bag filled with a granular substance, bearing a white label with blue text and a barcode. To the left of the bag and in the lower left foreground sits a white ceramic mug decorated with illustrations of figures in blue robes. Rising along the extreme left edge is the dark, blurry profile of a black animal, likely a cat, facing right, its head positioned level with the stereo's display. To the right of the stereo, a light wood-grain desk surface supports a silver-stemmed microphone or webcam stand and a translucent plastic bag filled with small white objects; below this surface is a dark shelf containing a black bag with white piping. The background consists of a wall with two-toned wallpaper: a plain beige upper section separated from a pale blue lower section by a horizontal border strip featuring a stylized blue and white leaf pattern. The scene is illuminated by a harsh, direct light source, likely a camera flash, casting a sharp shadow of the animal onto the blue wall section to the left and creating spectral highlights on the plastic bag and stereo equipment."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.06634984165430069,
+      "description": "A macro photograph captures the precise intersection of a silver-toned metal buckle and a textured, brick-red strap. The strap runs horizontally across the frame, characterized by a glossy, pebbled surface texture resembling reptilian skin with small, irregular raised bumps reflecting the light. Two faint, horizontal indented lines run parallel to the strap's edges, sandwiching a central row of punched circular holes. Dominating the center is a horizontal metal prong, appearing in a matte, brushed silver finish, which extends from the right side toward the left, passing through the leftmost visible hole; the prong's rounded tip rests against the left interior edge of this hole, creating a small crescent of shadow. To the immediate right of the prong's midsection, a second, empty circular hole is visible, showing the white background through the aperture. On the far right, a thick, highly polished silver buckle frame curves vertically, spanning from the top to the bottom edge of the view; this curved metal element features intense white specular highlights along its length, contrasting with the duller finish of the prong. The red strap continues behind this vertical bar. In the lower right corner, a triangular section of bright white background is visible in the gap between the curved metal frame and the bottom edge of the red strap. The lighting is sharp and direct, emphasizing the three-dimensional relief of the strap's texture and the metallic sheen of the hardware."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.06651758402585983,
+      "description": "A horizontal, cylindrical galvanized steel top rail of a chain-link fence traverses the middle of the view, gleaming slightly with a dull metallic sheen under diffuse lighting. Attached below this rail is a mesh of woven steel wires forming a diamond pattern that fills the lower portion of the scene, while above the rail, strands of barbed wire are strung loosely, crossing diagonally and horizontally with sharp, twisted barbs visible against the background. Intertwined with and standing behind the metal fencing are several leafless tree branches and trunks with rough, brown bark; a prominent vertical trunk stands to the left, while smaller branches angle sharply upward and to the right, some passing through the fence gaps. A few withered, brown leaves remain attached to the thin twigs in the upper right area. Deep in the background, behind the layers of fence and vegetation, is a flat, pale blue-grey wall of a structure, potentially siding, which takes up the majority of the negative space. A darker, recessed rectangular area, possibly a window or vent, is partially visible in the upper right corner of this background structure. The overall color palette is desaturated, dominated by the greys of the metal and wall and the browns of the wood, suggesting an overcast day with soft, shadowless illumination."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.06720248609781265,
+      "description": "Dominating the visual field is the close-up head and upper chest of a ram, angled slightly to the viewer's left, positioned behind a blurred, thin, horizontal silver metal wire that transects the image roughly one-third of the way down from the top, passing just below the animal's eyes. The ram features massive, spiraling horns with a heavily ridged, segmented texture in varying shades of matte grey and brown; these horns curve outward and downward from the crown of the head, framing the upper face. The wool on the forehead is a coarse mix of cream and charcoal grey, transitioning into a predominantly black, short-haired face and muzzle. The nose is distinctively long, jet black, moist, and textured, with visible nostrils located centrally in the lower third of the visible area. To the left of the face, tucked beneath the curve of the left horn, a dark ear protrudes, pierced with two bright yellow plastic identification tags marked with indecipherable black text. The ram's right eye is clearly visible on the right side of the face, showcasing a golden-amber iris with a horizontal pupil, while the left eye is partially obscured by shadow and the angle of the head. Below the head, the neck and chest are enveloped in a thick, dense coat of wool in warm shades of beige, tan, and light brown, appearing fibrous and heavy. The lighting is soft and natural, creating highlights on the wet nose and the right side of the face, while casting shadows beneath the heavy horns and along the left cheek. A second, extremely out-of-focus horizontal wire runs across the very bottom edge of the visible space, cutting through the chest wool. The background is entirely obscured by the animal's form, focusing all attention on the textures of the horn, fur, and facial features."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.06725692003965378,
+      "description": "Centrally positioned is a large, vintage-style manual scoreboard, framed by dense, deep green deciduous trees filling the upper quarter and a manicured green grass outfield occupying the bottom third. The scoreboard itself features a black face with white grid lines and lettering, encased in a white structural border. At the very top center-left, a circular analog clock with a white face is mounted on the frame's crest. Below the clock, a horizontal grid displays the line score for innings labeled 1 through 12; the visiting team's row shows zeros for the first three innings, a \"3\" in the fourth, and zeros following, while the home team's row consists entirely of zeros. To the right of the line score, a section titled \"BATTERY\" lists pitcher and catcher numbers: \"P 17\" and \"C 31\" on the top row, and \"P 20\" and \"C 11\" on the bottom row. The lower left quadrant of the board displays game status vertically: \"AT BAT\" indicates player \"14\", followed by \"BALL\" with an illuminated orange digit \"2\", \"STRIKE\" with an orange \"2\", and \"OUT\" with an orange \"1\". Below the status indicators is a small grid containing the numbers 4, 2, and 11. To the right of the game status, two large columns labeled \"AMERICAN\" and \"NATIONAL\" display out-of-town matchups; the American League column lists \"BOST/CHI\", \"WASH/DET\", \"NY/CLE\", and \"PHIL/STL\", while the National League column lists \"STL/NY\", \"CINC/BOST\", \"CHI/BKLN\", and \"PITT/PHIL\". To the immediate right of the scoreboard, a vertical slice of an advertising wall is visible, featuring a cream background with a teal graphic of a statue, teal script text, and a red design at the bottom. A strip of reddish-brown dirt warning track separates the base of the scoreboard from the green grass field in the foreground. The lighting is diffuse and even, suggesting an overcast day, with no harsh shadows cast by the structure."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.06743613630533218,
+      "description": "A luminous, teal-green graphical display is set against a deep black background, featuring a coordinate grid and a stepped waveform trace. The background consists of a graticule formed by intersecting dashed lines that create a grid of squares; the central vertical and horizontal axes are marked with finer, more frequent tick marks, while the surrounding grid lines use longer, widely spaced dashes. The lines of the grid are a dim, dull teal, contrasting with the bright, glowing cyan intensity of the main signal trace. This primary waveform travels from left to right, beginning with a segment that sits approximately one and a half grid divisions below the central horizontal axis, exhibiting a small, recurring sawtooth ripple. The line steps up vertically to a plateau just beneath the center axis, maintaining the ripple texture, before shooting vertically upward to a high, flat peak located roughly two and a half grid squares above the center line. This high segment is smooth and horizontal, spanning a little over one grid width. The trace then plummets vertically, cutting through the center axis to a deep trough situated about two and a half squares below the center; this lower segment features a distinct, tight square-wave oscillation along its bottom edge. The line ascends vertically again to a level roughly one square below the center axis, forming another rippled plateau that extends to the right edge. At the top center of the display, small text reads \"-44.0\" followed by a symbol and \"50.0v/\". Along the bottom edge, the words \"Trigger Source\" are displayed above a row of options including the visible numbers \"1\" and \"4\" and the word \"Line\" on the far right. The entire display has a soft, phosphorescent bloom, with the signal trace appearing significantly brighter and sharper than the background grid."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.06820616871118546,
+      "description": "A storefront display is viewed through a grid of creamy white wooden mullions that divide a large window into rectangular panes, illuminated from within by a warm, yellowish tungsten light. To the right, obstructing the view of the window frame, stands a painted wooden statue of a figure in traditional Scottish highland attire, visible from the shoulders down to the mid-thigh; the figure wears a bright red military-style jacket with gold braid detailing on the cuffs and chest, a dark tartan sash draped diagonally across the left shoulder, and a dark kilt, with a beige and brown sporran hanging at the waist. The figure's hands are raised to chest level, holding a small, indistinct object. Behind the glass, horizontal glass shelves are densely packed with rows of smoking pipes featuring dark brown wooden bowls and black stems, alongside various boxes and tins. On the middle-left shelf, a vertical white box displays a gold circular logo, while adjacent shelves hold rectangular packages in bright yellow and red. A small white rectangular card with black text is affixed directly to the glass in one of the central panes. Below the white window sill, black rectangular signs with white lettering are mounted to the wall; the central sign reads \"CUBAN\" in large serif capitals above smaller, blurrier text, while the sign to its right features cursive script reading \"Exclusive Range of\" above the word \"COVENT\" in block letters. The interior lighting highlights the glossy texture of the pipes and the varnished finish of the wooden statue, contrasting with the darker shadows of the exterior facade."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.06886575371026993,
+      "description": "Dominated by the side profile of a high-speed train, the scene is bisected horizontally by a silver-grey railway carriage that spans the width of the view. The train car features a darker grey band along the roofline and a lighter grey body, distinguished by a thick, vibrant red diagonal stripe on the right side that angles sharply upward toward the rear. Located on the lower right flank of the carriage, beneath the red stripe, the letters \"SNCF\" are printed in a small, dark, sans-serif font. The train's lower mechanical section is visible at the bottom, revealing dark, heavy undercarriage components, wheels, and a horizontal cylindrical tank situated just above the tracks. In the immediate foreground, a sturdy, vertical grey metal I-beam pole rises just to the right of the center, partially obscuring the train body behind it. To the left of this main support, a complex network of thin grey catenary wires and cables crisscrosses the frame diagonally and horizontally. Suspended from the wiring in the middle-left portion of the image is a small, square white sign with a black border, displaying a distinct black capital letter \"H\". The upper quarter of the scene contains a horizontal concrete beam running parallel to the train, with a background of blurred green foliage filling the space behind the overhead infrastructure. The lighting appears to be overcast daylight, creating even illumination with soft shadows accumulating in the mechanical undercarriage of the train."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.06915725767612457,
+      "description": "From a high-angle, overhead perspective, a section of a grass tennis court is visible, defined by a grid of white painted lines on a green, vertically striped surface. The grass features alternating vertical bands of light yellowish-green and darker forest green, oriented parallel to the vertical axis of the image. A thick horizontal white line spans the entire width of the viewing area approximately 30% down from the top edge. Parallel to this, a second thick horizontal white line crosses the lower section, roughly 85% down from the top. A single vertical white line, positioned roughly 65% across the frame from the left, runs perpendicularly to connect the upper and lower horizontal lines, creating a grid layout. Bisecting the space horizontally in the exact middle is a thin, dark, blackish line, significantly thinner than the white markings, appearing like a taut cable or net top. The grass surface exhibits patchy wear, with the green fading to mottled tan and light brown earth tones where the turf has thinned, particularly noticeable in the areas to the right of the vertical line and in the zone between the central dark line and the lower white line. At the extreme top edge, the surface transitions to a blurry, light brown area, suggesting a dirt patch or baseline. The lighting is diffuse and daylight-balanced, softening the texture of the grass blades while maintaining the contrast between the painted lines and the ground."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A pristine white window frame, consisting of thin vertical and horizontal mullions, occupies the central fifty percent of the visual field. The intersecting wooden bars form a perfect cross shape, creating a simple four-pane grid structure. The background visible through and around the frame is a solid, pitch-black darkness, devoid of stars or light, creating an intense contrast where the bright white rectilinear woodwork stands out sharply against the void. The lighting is flat and frontal, eliminating deep shadows on the frame itself.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white window mullions",
+        "rectilinear geometric structures",
+        "light-on-dark contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A section of polished silver metal railing spans the lower half of the image, covering approximately fifty percent of the vertical dimension. The railing features a smooth horizontal handrail supported by evenly spaced, thin vertical balusters that reflect light with sharp, metallic specular highlights. Behind this metallic cage-like structure is a wall painted in a deep, saturated blood red, providing a dark, heavy backdrop that makes the gleaming silver lines appear exceptionally bright and defined.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver metal railings",
+        "vertical and horizontal lines",
+        "metallic textures"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The corner intersection of a tennis court's service box is captured from directly above. The stark white painted lines are straight and continuous, meeting at a precise ninety-degree angle to form a T-shape that dominates the central area of the frame. These bright linear markings span about half the image's width. The court surface underneath is a uniform, deep forest green, creating a high-contrast background that emphasizes the geometric rigor of the white markings.",
+      "rationale": "",
+      "emphasis_tags": [
+        "tennis court markings",
+        "white linear elements",
+        "deep green background"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A close-up view of a silver wire mesh fence, positioned centrally and taking up half of the composition. The interwoven metal wires form a diamond-shaped grid pattern, gleaming with a light grey, metallic luster. The fence is illuminated by a strong light source that creates specular reflections on the thin wire segments. The background is a blurred, dark charcoal grey pavement, providing a neutral but dark canvas that allows the lighter metallic lattice to stand out clearly.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver wire mesh",
+        "wire fences",
+        "specular highlights"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A minimalist shelving unit made of very light, almost white birch wood is mounted against a dark mahogany wall. The shelves form a rectilinear grid of open square compartments, with the thin vertical and horizontal edges of the pale wood creating a sharp framework. This structure occupies the middle fifty percent of the image. The contrast between the pale, light-colored shelving lines and the deep, dark brown of the wall behind it is striking and defines the composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "wooden shelving units",
+        "rectilinear framework",
+        "light wood on dark background"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A small white wicket gate stands closed, centered in the frame and occupying about half the image's total area. The gate is constructed of vertical wooden slats connected by horizontal cross-braces, all painted a clean, bright white. Behind the gate, the background is a mass of dark, shadowy garden foliage, primarily deep greens and blacks, which serves to outline the bright, geometric structure of the gate's pickets and rails.",
+      "rationale": "",
+      "emphasis_tags": [
+        "wicket gates",
+        "white vertical slats",
+        "light-on-dark contrast"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A digital grid pattern displayed on a screen, featuring thin, luminous cyan lines forming a perfect rectilinear net. The grid lines are perfectly straight, crossing horizontally and vertically to create uniform square cells. This glowing geometric structure spans the central fifty percent of the display. The background of the screen is a pure, deep black, maximizing the luminosity of the cyan lines and creating a stark, technological aesthetic.",
+      "rationale": "",
+      "emphasis_tags": [
+        "luminous cyan grid",
+        "rectilinear geometric structures",
+        "black background"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The exterior facade of a modern office building, focusing on the silver aluminum window frames. The frames form a repetitive grid of rectangles, with thin vertical mullions and horizontal transoms reflecting the sunlight. This metallic framework covers the right-hand fifty percent of the image. The glass panes within the frames reflect a dark, stormy blue-black sky, creating a dark, glossy background that contrasts with the bright, matte silver of the structural grid.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver aluminum frames",
+        "rectilinear grid",
+        "metallic textures"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "An aluminum extension ladder leans against the side of a dark wooden shed. The ladder's side rails and rungs are a bright, reflective silver, forming a ladder-grid pattern that ascends vertically through the center of the frame, occupying half the image width. The shed wall behind it is stained a very dark, almost black walnut color, ensuring the metallic structure of the ladder pops out as a distinct, light-colored geometric skeleton.",
+      "rationale": "",
+      "emphasis_tags": [
+        "aluminum ladder",
+        "silver linear elements",
+        "dark wood background"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A decorative white wire birdcage hangs in a dimly lit room. The cage's bars are thin, vertical white wires spaced evenly apart, intersected by a few horizontal support rings. This wireframe structure fills the central fifty percent of the visual space. The background is a deep shadow, rendering the room's details invisible and leaving only the bright white cage structure visible against the encompassing blackness.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white wire birdcage",
+        "thin vertical wires",
+        "light-on-dark contrast"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A macro shot of a silver speaker grille. The metal mesh consists of fine, intersecting lines that form a tight, ordered grid. The silver material catches the light, creating tiny points of specular reflection across the surface. This textured geometric area occupies the bottom fifty percent of the image. Behind the grille, the interior of the speaker component is pitch black, creating a high-contrast backdrop for the intricate silver lattice.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver speaker grille",
+        "intersecting lines",
+        "metallic textures"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A section of a tiled wall where the tiles are a glossy black, but the grout lines are a bright, clean white. The grout forms a strict grid of horizontal and vertical lines that separate the dark tiles. This grid pattern covers the central fifty percent of the image. The white lines are thin, straight, and continuous, creating a stark geometric diagram against the reflective black ceramic surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white grout lines",
+        "grid pattern",
+        "black tiles"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "Looking up at a white wooden pergola against a dark night sky. The beams and rafters of the pergola cross at right angles, forming an open rectilinear roof structure that occupies the upper fifty percent of the view. The wood is painted a bright white, which stands out vividly against the deep, midnight blue of the sky above, emphasizing the architectural geometry of the intersecting lines.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white wooden pergola",
+        "intersecting beams",
+        "dark night sky"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "The side view of a silver metal shopping cart, focusing on the wire basket. The chrome wires form a square grid pattern, with thin vertical and horizontal rods welded together. This metallic mesh covers the left fifty percent of the image. The background is a dark, shadowed asphalt surface, which contrasts with the bright, reflective silver of the cart's wire structure.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver metal shopping cart",
+        "wire grid",
+        "metallic reflections"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A white heating radiator mounted on a dark grey wall. The radiator features vertical fins and horizontal channels, creating a structured, linear pattern. This white metallic object occupies the lower fifty percent of the frame. The paint on the radiator is glossy white, reflecting ambient light, while the wall behind it is a matte, dark charcoal, ensuring the linear features of the heater are the dominant visual element.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white radiator",
+        "vertical linear elements",
+        "dark grey background"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.07662440836429596,
+      "best_percentile": 0.006244311822199465
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.08022069185972214,
+      "best_percentile": 0.012410569746621436
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.08149142563343048,
+      "best_percentile": 0.01623521073771861
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.08675803989171982,
+      "best_percentile": 0.0455054224042786
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.09178885072469711,
+      "best_percentile": 0.10568497759072595
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.10144668072462082,
+      "best_percentile": 0.48276335775379614
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.10313477367162704,
+      "best_percentile": 0.608039863686673
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.10731514543294907,
+      "best_percentile": 1.1072725938715202
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.11242730915546417,
+      "best_percentile": 2.249513333947357
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.11508802324533463,
+      "best_percentile": 3.2093421149171926
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.1165589690208435,
+      "best_percentile": 3.876312671425873
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.1167246475815773,
+      "best_percentile": 3.957488725114466
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.11724906414747238,
+      "best_percentile": 4.217642366406851
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.12026770412921906,
+      "best_percentile": 5.949658358089428
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.13335423171520233,
+      "best_percentile": 17.80862120911732
+    }
+  ]
+}

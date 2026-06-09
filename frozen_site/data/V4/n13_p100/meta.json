@@ -1,0 +1,374 @@
+{
+  "area": "V4",
+  "neuron_id": 13,
+  "percentile": 100,
+  "hypothesis": "The neuron responds primarily to prominent vertical lines, edges, or elongated structures that bisect the visual field or create a sharp boundary between contrasting regions. These features include physical objects like poles, pens, rods, and stems, as well as structural boundaries such as door edges, seams, gaps between objects, or the sides of signs. The neuron is invariant to object identity, material, and background context, provided the vertical orientation and structural linearity are maintained. The activating vertical feature typically spans 80\u2013100% of the image height and is positioned centrally or slightly off-center, often occupying a narrow width (5\u201310% of the frame) or serving as a divider between two larger distinct areas. The visual pattern relies on strong contrast; the vertical element is often dark (black, dark brown, deep grey) or metallic, set against a background or adjacent region of a differing, often lighter, tone such as beige, white, sky blue, or green.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.8636740446090698,
+      "description": "A close-up, slightly angled view reveals a section of a secure cabinet or safe, divided vertically by the thick, black edge of the open door which runs roughly down the center-left of the frame. To the right of this dark vertical divider, the door's exterior surface is a smooth, light beige material with a subtle horizontal wood-like grain. Mounted horizontally on this panel is a rectangular, matte silver metal plate housing the locking mechanisms. On the left side of this plate, a silver circular lock cylinder has a set of metal keys inserted, which dangle downwards on a ring, casting a soft shadow against the beige door below. To the right of the keys, on the same silver plate, is another circular lock fixture framed by a black ring with white markings. Below the keyhole, several lines of small, illegible black text are printed on the silver plate. A red rectangular sticker with white text, partially reading \"Da\", is visible at the top right edge of the door panel. The black vertical edge of the door features two visible circular recesses, likely for locking bolts. To the left of this edge, the interior of the safe is visible, containing two levels of shelving. The upper shelf holds two bright yellow, thick binders or document boxes stacked horizontally, each with a white label on its spine. The shelf below holds three cyan-blue binders standing vertically, also with white spine labels. A faint, translucent watermark of text characters runs horizontally across the middle of the image, partially obscuring the yellow binders and the door edge. The lighting is artificial and uniform, highlighting the metallic textures of the keys and lock plate against the matte finishes of the cabinet and folders."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.881198763847351,
+      "description": "Occupying the right half of the view is the partial cover of a white document binder or notebook, characterized by a dense pattern of thin, horizontal pinstripes alternating between azure blue and salmon orange. Centered horizontally within the visible portion of this cover, slightly above the vertical midpoint, is the text \"QUICFIL\" printed in a bold, dark navy blue, sans-serif typeface. Immediately below this, in a significantly smaller red sans-serif font, is the partial phrase \"TIME MANAGEMENT SYS,\" with the end of the line truncated by the right edge of the frame. The left vertical edge of the white cover is secured by a black plastic comb binding mechanism; three distinct, curved black loops are visible, vertically aligned and protruding from a dark spine to hold the pages together. To the left of this binding is a vertical strip of a smooth, neutral beige-grey surface, possibly a wall or partition, which separates the binder from the leftmost element. The far left section of the image is filled by a surface displaying a digital camouflage or mottled pattern composed of pixelated or irregular shapes in varying shades of slate grey, charcoal, and light silver, which appears slightly softer in focus than the sharp text on the binder. The lighting is flat and diffuse, creating a neutral tone without strong directional shadows."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.881387710571289,
+      "description": "Situated against a backdrop of varnished wood with a horizontal grain pattern in varying shades of warm amber and honey-brown, a hexagonal ballpoint pen stands vertically, angled very slightly toward the upper right. The pen features a matte, powder-blue finish along its barrel. Light originates from the right side, illuminating the rightmost facets of the hexagonal body and the attached silver clip, while casting a hard, dark shadow along the wood directly to the left of the pen. The metallic clip, positioned at the top right of the visible barrel, reflects the light with a bright white highlight and terminates in a rounded tip about a quarter of the way down the image. On the facet immediately to the left of the clip, indistinct dark vertical lettering runs downward from the top edge. Further down, on the adjacent facet to the left\u2014facing the viewer\u2014a small, distinct black dot is visible just below the level where the clip ends. The pen's shape is defined by sharp longitudinal ridges, and at the bottom of the frame, the barrel tapers smoothly into a conical tip of the same blue color. The wood grain runs perpendicular to the pen, with fine dark streaks providing texture beneath the object\u2019s cast shadow."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.8822673559188843,
+      "description": "In the center of the frame, viewed as if through a magnifying lens against a black void, lies a close-up section of a slide rule face. The material is a textured, aged off-white, reminiscent of old paper or plastic, showing subtle speckling and dirt accumulation. A series of horizontal logarithmic scales run parallel to each other, marked by precise vertical tick marks of varying lengths in black ink. The scales are densely packed with numerical values. Near the top, red numbers reading \".997\" and \".996\" sit just below black numbers \"1.003\" and \"1.004\" respectively. Below these, a scale labeled with large black numbers \"2,\" \"3,\" \"4,\" and \"5\" extends across, with finer gradations in between. Further down, a central scale features larger numbers like \"6,\" \"7,\" \"8,\" and \"9,\" intersecting with a vertical hairline cursor. This cursor is a thin, dark, vertical line that casts a faint shadow to its right, indicating a light source from the upper left. To the left of the cursor, a diagonal line cuts across the scales, potentially part of a specific calculation or cursor mechanism. Below the central scale, red numbers \"5\" and \"4\" are visible. At the bottom, another scale shows black numbers \"3,\" \"4,\" \"2,\" and smaller intermediate values, densely packed. The text and lines are slightly blurred at the edges of the circular view due to optical distortion. The lighting is even but slightly dim, giving the off-white surface a matte, slightly yellowed appearance."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.883640170097351,
+      "description": "Visible in a direct, top-down perspective are sections of two closed laptop computers resting side-by-side on a light wooden surface. On the left, occupying roughly the first third of the horizontal space, is a dark slate-grey laptop lid with a smooth, matte finish; its right vertical edge is straight and distinct, while the left portion of the surface shows a subtle gradient fading into darkness. To the immediate right of this device is a narrow vertical strip of pale, blonde wood, likely a desk surface, showing faint vertical grain; this gap constitutes about five percent of the total width. Occupying the remaining majority of the right side is a second laptop, characterized by a textured, metallic silver-grey casing. This right-hand device features a distinct vertical spine or battery housing along its left edge, which is a slightly darker, flatter grey than the main lid and separated by a thin, recessed groove. Positioned vertically in the center of this spine is a small, bright silver latch mechanism. On the main expanse of the silver lid, located midway vertically and positioned towards the right edge, is a small, dark rectangular brand tag, appearing deep navy or black, oriented vertically. The lighting is soft and diffuse, creating a gentle sheen on the metallic texture of the right laptop while the left laptop absorbs more light, appearing flatter in tone; soft, minimal shadows are cast by the edges of the devices onto the wooden strip between them."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.8899496793746948,
+      "description": "Dominating the left half of the visual field is a partial view of a vehicle wheel, comprising a highly polished silver alloy rim and a segment of a black rubber tire, positioned against a background of vibrant green grass. The wheel rim features a distinctive design with a flat, reflective face perforated by a concentric ring of dark, rounded-rectangular ventilation slots located near the outer perimeter, just inside the smooth, rolled lip. The metal surface possesses a mirror-like chrome texture, strongly reflecting the green hues of the grass on the lower, concave sections of the dish and gleaming with bright white specular highlights on the upper curvature. At the center of the wheel, a cylindrical hub cap protrudes slightly, surrounded by three visible hexagonal lug nuts that reflect intense points of white light. The black tire sidewall wraps around the right and top edges of the silver rim, providing a matte contrast to the gleaming metal, and meets the ground at the bottom center where the grass blades are in sharper focus and shaded dark green by the vehicle's bulk. The entire right side of the scene is filled with a lawn of grass that is heavily blurred due to a shallow depth of field, appearing as a soft, mottled wash of lime and medium green tones that highlights the sharpness of the metallic wheel in the foreground. The wheel is oriented vertically and cropped on the left, displaying roughly sixty percent of its width, creating a close-up perspective of the interaction between the mechanical automotive details and the natural organic setting."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.8998908996582031,
+      "description": "A vertical, turned wooden lamp stand, finished in a glossy medium-brown varnish, bisects the center of the view, extending from the bottom edge to the upper quarter of the frame. The wood features a segmented design, showing a cylindrical shaft that transitions into a wider ring, narrows into a concave neck, swells into a spherical node, and narrows again, all aligned along a central vertical axis. A bright, linear specular highlight runs down the left-center of the wood, indicating a smooth, polished texture. Capping the top of the wooden pole and spanning the entire horizontal width of the upper section is the lower rim of a lampshade. This rim is decorated with a twisted rope trim in alternating segments of deep red and cream. Suspended from this rope trim is a fringe of short, distinct tassels, also alternating between deep red and cream, matching the pattern of the braid above. A tiny sliver of vertically pleated cream fabric is visible just above the rope trim. The background is filled entirely by draped curtains consisting of a sheer white lace overlay against a white backing. The sheer fabric features a repeating pattern of opaque white, stylized floral or paisley motifs arranged in vertical columns. The curtain hangs in soft, deep vertical folds, creating alternating bands of illuminated white fabric and light gray shadows, with the wooden lamp stand positioned directly in front of a central, illuminated fold."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.9024553298950195,
+      "description": "A vertical, bright lime-green plant stem runs centrally through the frame, serving as a perch for a slender damselfly viewed from a dorsal perspective. The insect's long, segmented abdomen is dark brown to black, accentuated by thin, vibrant yellow-orange rings at the segment junctions, and it aligns perfectly with the vertical axis of the stem. At the top of the visible area, the insect's head is discernible with small, bright turquoise-blue eyes. Extending from the thorax are four transparent wings with intricate, net-like black venation; the upper two wings are spread outward diagonally toward the upper left and right corners, each tipped with a small, diamond-shaped brownish-orange pterostigma. The lower pair of wings is folded downwards, lying parallel to the abdomen and overlapping slightly with the stem, their transparency revealing the green texture of the plant beneath. The background is a soft, out-of-focus gradient, shifting from a pale, creamy yellow-green on the left to a muted teal-blue on the right, creating a smooth, ethereal backdrop that contrasts with the sharp, geometric details of the insect's wings and body. The lighting is soft and diffuse, illuminating the delicate wing membranes and the glossy surface of the abdomen without casting harsh shadows."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.9059170484542847,
+      "description": "The image is vertically divided into two distinct rectangular fields separated by a blurred, bright white vertical band that spans the entire height. The left section, occupying roughly forty percent of the width, displays a close-up, diagonal perspective of parabolic trough solar collectors. These structures consist of curved, polished mirrors arranged in parallel lines running from the upper left to the lower right. The mirror surfaces are dark and glossy, reflecting deep navy blues and blacks, with sharp, linear white highlights running along their lengths that accentuate their concave shape. Thin, dark absorber tubes run parallel to the mirrors, suspended by small, bright white, L-shaped mechanical arms that protrude from the reflective surface at regular intervals. The texture appears smooth, metallic, and glass-like. The right section, occupying the remaining width, features a tall industrial tower set against a clear, deep azure sky with faint, wispy horizontal clouds. The tower is supported by a reddish-brown, open-lattice steel truss framework that tapers slightly as it rises from the bottom edge. At the top of the truss sits a solid, white, inverted trapezoidal platform. Surmounting this platform is a vertical, cylindrical receiver component that glows with an intense, brilliant white light, topped by a small, rounded, copper-colored cap. In the extreme bottom right corner, a dark, out-of-focus, curved shape\u2014likely another mirror element\u2014cuts into the scene, obscuring a small fraction of the sky and the base of the tower. The lighting in the right panel suggests bright, mid-day sunlight, while the left panel is characterized by high-contrast specular reflections."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.9458128213882446,
+      "description": "Dominated by the right-hand two-thirds of the view, a rectangular regulatory street sign is captured at a steep upward angle, tilted slightly to the left against a background of out-of-focus, moody sky. The sign\u2019s face is a matte, creamy off-white, framed by a distinct black inset border line that runs parallel to the physical edge. The left physical edge of the sign itself is visible as a thick, dark vertical strip separating the sign face from the background. On the sign, bold, black, uppercase, condensed sans-serif text is printed in two visible lines; the upper line reads \"2AM TO\" and the line directly beneath reads \"TUES,THUR\", with the lettering ascending diagonally from left to right due to the camera angle. Above the text, near the top right corner of the visible area, a segment of a thick, bright red arc is visible, part of a circular prohibition symbol. To the left of the sign, filling the remaining vertical strip of the image, is a patch of sky characterized by heavy, blurred clouds in shades of deep slate blue, teal, and dark grey, providing a low-key, high-contrast backdrop to the brighter sign."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.9469387531280518,
+      "description": "Occupying the central vertical axis of the view is a massive stone obelisk, its form defined by a sharp vertical corner that splits the structure into two distinct planes of light and shadow. The left-facing side is obscured in deep, uniform shade, appearing as a dark, slate-gray vertical band, while the right-facing side catches direct sunlight, glowing with a warm, matte sandstone-yellow or pale orange-beige tone. This brightly lit face reveals a subtle, granular texture consistent with masonry. The monument tapers slightly as it rises, extending from the very bottom of the visible area up through the top, effectively bisecting the background. The width of the obelisk occupies roughly fifteen percent of the horizontal space. Behind the stone pillar, the sky is a clear, soft azure, transitioning to a slightly paler blue near the horizon. A distinct white linear cloud formation, resembling a contrail, stretches diagonally across the scene from the middle-left to the lower-right, visually passing behind the obelisk's shadowed side and re-emerging on the sunlit side, creating an intersecting geometry with the vertical structure. Additional faint, wispy white clouds drift in the upper left quadrant. At the lowest visible edge, a jagged, dark silhouette of treetops spans the width of the scene, providing a dark, organic base against the bottom of the geometric stone monument."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.9473775625228882,
+      "description": "A slender, vertical cylindrical rod, rendered in shades of metallic grey, dominates the center of the composition, extending continuously from the bottom edge to the top edge of the visible area. The rod is positioned centrally and occupies approximately five percent of the total horizontal width. Its surface is textured with tightly packed, parallel vertical striations or ridges that run the full length of the object, creating a pattern of alternating thin highlights and shadows. A distinct, continuous highlight runs along the right-hand side of the rod, while the left side is cast in a darker, matte grey shadow, indicating a directional light source originating from the right. Behind this foreground element lies a flat, expansive background surface colored in a uniform, desaturated medium sage green. The background texture appears matte with subtle graininess. To the left of the rod, approximately midway up the vertical axis, a faint, pale, thin scratch or imperfection is visible on the green surface, appearing slightly diagonal. The lighting across the green backdrop is diffuse and relatively even, with no distinct cast shadows falling on the wall itself, though the tone appears marginally darker in the lower-left area compared to the upper-right."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.0215749740600586,
+      "description": "Two distinct vertical rectangular surfaces meet at a shadowed, straight vertical seam running from top to bottom slightly left of the center, separating two different fossilized impressions. The left section features a dark, metallic gunmetal-grey surface with the high-relief partial imprint of a segmented creature, likely a trilobite; only the right-hand side of its thorax is visible, characterized by thick, rib-like pleurae that curve gently downward and outward to the right. These raised ridges catch a cool white specular highlight on their upper crests, contrasting with the deep, shadowed recesses between segments, giving the material a polished, semi-gloss appearance. To the right of the vertical divider, the second surface is a matte, pale beige stone texture containing the partial left side of a corresponding but morphologically distinct fossil. This impression is lighter in tone than its matrix, creamy white, and consists of much finer, delicate, comb-like spines extending horizontally to the left from a central axis, exhibiting a lower relief compared to the robust segments on the left. The lighting appears to originate from the upper left, casting soft, defining shadows beneath the ridges of both fossils, emphasizing the textural difference between the smooth, heavy metallic segments on the left and the brittle, skeletal features on the pale stone to the right."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.027462959289551,
+      "description": "Dominated by a vertical, rough-hewn wooden pole spanning the entire height of the visible area, the scene captures a stark, high-contrast study of texture and light positioned slightly to the left of the center axis. The pole, occupying approximately five percent of the image's width, is illuminated from the left by a warm, low-angle light source, turning the left face of the wood into a vibrant, glowing strip of burnt orange, amber, and copper tones. This illumination reveals a heavily textured surface characterized by uneven bark, small protruding knots, and vertical fissures. The right side of the pole falls into a deep, near-black umber shadow, creating a sharp, jagged terminator line that emphasizes the cylindrical but irregular shape of the timber. Running parallel to the pole on its right side, separated by a gap roughly equivalent to the pole's own thickness, is a solitary, taut vertical wire or thin cable. This line is extremely slender, appearing as a faint, brownish-copper stroke that catches a fraction of the light, visible against the background but lacking the solidity of the timber. The background consists entirely of a featureless sky that transitions in a smooth gradient from a muted, slightly darker cyan-teal at the top to a paler, hazy turquoise-green near the bottom. The sky exhibits a noticeable grainy texture, resembling film noise, which softens the starkness of the silhouetted wood and wire against the atmospheric backdrop."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.079843044281006,
+      "description": "A narrow, vertical strip of dark, perforated metal, resembling a shelving standard or mounting rail, dominates the center-left portion of the view, running from the very top edge to the bottom edge. This metal strip is characterized by a column of small, evenly spaced holes and slots, and near the bottom, two small, U-shaped copper loops protrude outward, catching the light with a bright orange-metallic sheen. To the left of the metal strip, a human hand with pale skin is pressed flat against the background surface, fingers pointing upward and thumb extended to the right. The hand is positioned such that the tip of the thumb is separated from the metal strip by a small gap of white space, roughly equal to the width of the strip itself. The index and middle fingers extend toward the top boundary, while the ring and pinky fingers are slightly shorter, displaying natural skin textures and pinkish hues at the fingertips. The background behind these elements is a sheet of smooth, white material, likely plastic vapor barrier or house wrap, which occupies the majority of the right side and the spaces between the hand and strip. Faint, grey, dot-matrix style text is printed vertically on the white material to the right of the metal strip; the numbers \"2024\" and other indistinct alphanumeric characters are visible running parallel to the rail. A subtle horizontal crease or wrinkle in the white plastic is visible in the lower right quadrant. The scene is illuminated by a direct light source, casting a soft, dark shadow to the immediate right of the hand and a sharper, distinct shadow along the right edge of the metal strip, indicating the light originates from the left side."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A sleek, glossy black fountain pen stands perfectly upright in the center of the frame, resting on a surface not clearly visible. The pen is long and slender, occupying approximately 5% of the image width and extending vertically to cover 80% of the frame's height. The material is a deep, polished resin that catches a thin vertical highlight. The background is a stark, clean white paper texture, providing a high-contrast backdrop that emphasizes the dark vertical silhouette of the writing instrument.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black fountain pen",
+        "upright",
+        "5% width",
+        "80% height",
+        "white background",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A solitary, dark grey metal utility pole rises vertically through the composition, positioned slightly to the left of center. The pole is a smooth, cylindrical structure with a metallic sheen, spanning exactly 80% of the vertical view from the bottom edge upwards. It is narrow, taking up only about 5% of the horizontal space. The background is a uniform, cloudless sky blue, creating a sharp, crisp boundary between the industrial metal and the bright atmospheric expanse.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark grey metal pole",
+        "vertical structure",
+        "80% height",
+        "5% width",
+        "sky blue background",
+        "sharp boundary"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The dark brown wooden edge of an open door frame runs vertically down the middle of the image. This structural line is straight and rigid, constructed of dark stained oak, and covers 80% of the image's vertical dimension. With a width of merely 5% of the frame, it acts as a thin divider. To its right and left, the wall is painted a soft, creamy beige, offering a gentle light tone that contrasts heavily with the deep, dark wood grain of the vertical strip.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown wooden edge",
+        "vertical line",
+        "80% height",
+        "5% width",
+        "beige background",
+        "contrasting regions"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A thin, rusted iron rod, part of an old fence, stands vertically against a backdrop of overgrown pale green grass. The rod is a deep, dark reddish-brown color, textured with age, and occupies a central position in the frame. It stretches upwards, filling 80% of the vertical field, while maintaining a slender profile of about 5% of the image width. The background is a soft, out-of-focus wash of light natural green, highlighting the harsh linearity of the dark metal bar.",
+      "rationale": "",
+      "emphasis_tags": [
+        "rusted iron rod",
+        "vertical bar",
+        "80% height",
+        "5% width",
+        "pale green background",
+        "linear structure"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A heavy-duty black electrical cable hangs tautly from top to bottom, slightly off-center to the right. The cable's rubberized surface is matte black, absorbing light, and it spans 80% of the image's height. Its thickness is minimal relative to the frame, accounting for roughly 5% of the width. Behind this dark vertical line is a smooth, whitewashed concrete wall, creating a stark monochromatic contrast where the black line bisects the bright field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black electrical cable",
+        "vertical line",
+        "80% height",
+        "5% width",
+        "whitewashed wall",
+        "monochromatic contrast"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A dark metallic microphone stand rod extends vertically from the bottom of the frame, reaching up to 80% of the image height. The rod is painted a deep charcoal grey, almost black, and is positioned centrally. It is a narrow cylinder, occupying just 5% of the frame's width. The background is a brightly lit stage curtain in a pale, shimmering beige fabric, which makes the dark, rigid vertical hardware stand out sharply.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark metallic rod",
+        "microphone stand",
+        "80% height",
+        "5% width",
+        "beige background",
+        "vertical orientation"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "The vertical mullion of a window frame, painted a deep, dark forest green that appears nearly black, splits the view. This architectural element is perfectly straight, occupying 5% of the width and extending for 80% of the image's height from the bottom up. Through the glass on either side, the view is a bright, overexposed clear sky blue, providing a luminous backdrop that silhouettes the dark vertical frame member.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark window mullion",
+        "vertical frame",
+        "80% height",
+        "5% width",
+        "sky blue background",
+        "silhouette"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A single stalk of dried bamboo, dark brown and weathered, stands upright in the center of the visual field. The stalk is segmented but forms a continuous vertical line covering 80% of the height. It is slender, with a diameter taking up roughly 5% of the image width. The background is a smooth, light cream-colored wall, ensuring that the dark, organic texture of the bamboo creates a strong, linear visual anchor.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark brown bamboo",
+        "vertical stalk",
+        "80% height",
+        "5% width",
+        "cream background",
+        "linear anchor"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A vertical gap between two white cabinet doors creates a sharp, dark linear feature. The gap itself is a deep shadow, effectively a black line, roughly 5% of the frame's width. It runs straight up, spanning 80% of the vertical space before fading out or meeting a handle. The flanking surfaces are pristine white laminate, making the central dark void a prominent, high-contrast vertical axis in the composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark vertical gap",
+        "shadow line",
+        "80% height",
+        "5% width",
+        "white background",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A matte black metal sign post, square in cross-section, rises from the bottom edge of the frame. It is positioned dead center and extends upwards for 80% of the image height. The post is narrow, occupying only 5% of the horizontal space. Behind it, a defocused background of bright, sunny green lawn creates a vibrant field of color that contrasts with the severe, dark, industrial geometry of the post.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black metal post",
+        "vertical geometry",
+        "80% height",
+        "5% width",
+        "green background",
+        "industrial contrast"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A close-up view of a dark grey iron railing spindle, part of a staircase, standing vertically against a light wall. The spindle is simple and straight, a dark vertical bar spanning 80% of the frame's height and 5% of its width. The wall behind is a flat, neutral beige paint, providing no texture to distract from the sharp, dark edges of the metal bar that bisects the scene.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark grey spindle",
+        "iron railing",
+        "80% height",
+        "5% width",
+        "beige wall",
+        "sharp edges"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A slender, dark ebony walking cane stands vertically, resting against an unseen surface. The wood is polished to a deep black with faint brown undertones, occupying 5% of the image width. It reaches up to 80% of the vertical frame. The background is a textured, light sand-colored stone wall, creating a bright, grainy surface against which the smooth, dark vertical form of the cane is sharply defined.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark ebony cane",
+        "vertical form",
+        "80% height",
+        "5% width",
+        "sand colored background",
+        "defined silhouette"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A vertical length of industrial piping, painted a dark, greasy black, runs up a factory wall. The pipe is cylindrical and straight, covering 80% of the height of the image and taking up a narrow 5% slice of the width. The wall behind it is painted a peeling, off-white color, offering a gritty, light backdrop that emphasizes the solid, dark continuity of the vertical pipe structure.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black industrial pipe",
+        "vertical structure",
+        "80% height",
+        "5% width",
+        "off-white background",
+        "solid continuity"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "The spine of a hardcover book, bound in dark charcoal grey cloth, is viewed edge-on standing vertically. The spine is thin, representing 5% of the frame's width, and tall, filling 80% of the vertical space. It stands centrally against a background of pale, white wooden shelving. The contrast is stark, with the dark, fabric-textured vertical strip cutting through the light, smooth surroundings.",
+      "rationale": "",
+      "emphasis_tags": [
+        "charcoal grey book spine",
+        "vertical strip",
+        "80% height",
+        "5% width",
+        "white wood background",
+        "stark contrast"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A single wrought iron bar from a gate, painted a deep, gloss black, stands vertically in the frame. The bar features a twisted texture but maintains a straight overall profile, occupying 5% of the width and 80% of the height. The background is a bright, cloud-filled sky, appearing mostly white with hints of pale blue, which backlights the iron bar and renders it as a sharp, dark vertical feature.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black wrought iron",
+        "vertical bar",
+        "80% height",
+        "5% width",
+        "white sky background",
+        "sharp feature"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.630466103553772,
+      "best_percentile": 99.97541302220009
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.6281651258468628,
+      "best_percentile": 99.97471053712009
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.6152197122573853,
+      "best_percentile": 99.97127616561788
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.579330325126648,
+      "best_percentile": 99.95917781146237
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.530644416809082,
+      "best_percentile": 99.93388834858246
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.5133659839630127,
+      "best_percentile": 99.92272664120028
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.5112453699111938,
+      "best_percentile": 99.92132167104029
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.5053128004074097,
+      "best_percentile": 99.91749703004919
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.505466341972351,
+      "best_percentile": 99.91749703004919
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.5031501054763794,
+      "best_percentile": 99.91617011378698
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.5019357204437256,
+      "best_percentile": 99.91515541311587
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.435043215751648,
+      "best_percentile": 99.85638082808941
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.4243749380111694,
+      "best_percentile": 99.84303361156947
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.4231079816818237,
+      "best_percentile": 99.84162864140947
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.4171727895736694,
+      "best_percentile": 99.83546238348504
+    }
+  ]
+}

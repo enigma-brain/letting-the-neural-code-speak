@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 23,
+  "percentile": 100,
+  "hypothesis": "1. Selectivity:\nThe neuron consistently selects for **distinct, convex, volumetric forms** characterized by **smooth, rounded, or tapered silhouettes**. The primary activating concepts are **animal heads viewed in profile** (e.g., birds, dogs, turtles, ostriches) and **curved, manufactured objects** (e.g., helmets, golf drivers, pens, cylindrical tools). Visually, these features are defined by continuous curved edges and surface gradients or specular highlights that emphasize their three-dimensional geometry (domes, cylinders, or aerodynamic shapes).\n\n2. Invariances:\nThe neuron is highly invariant to **object identity** (responding to both biological entities like birds/dogs and inanimate objects like helmets/pens) and **surface texture** (feathers, fur, glossy plastic, metal, or cloud vapor). It also tolerates a wide range of **lighting conditions** (from diffuse daylight to sharp specular reflections) and **hue**, provided the object maintains a clear, bounded, volumetric shape.\n\n3. Spatial and dimensional requirements:\nThe activating features are typically **centered** or span the **horizontal midline** of the image. They are generally oriented in **profile** (facing left or right) or positioned **diagonally** (e.g., pens, branches). The objects are prominent, usually bounded within the frame rather than cropping off significantly, emphasizing the completeness of the curved form.\n\n4. Color and contrast:\n*   **Dominant colors:** The activating features appear in a wide variety of explicit colors, including **vibrant red, electric blue, deep black, metallic silver, white, and golden-tan**.\n*   **Background colors:** The backgrounds are typically uniform, desaturated, or out-of-focus, consisting of **sky blue, pale beige, soft grey, or muted green**.\n*   **Contrast:** There is a consistent, strong **figure-ground contrast** (e.g., a dark bird on light grey, a red helmet on dark shadow, or a white cloud on blue sky) that isolates the convex form from its surroundings.\n\n5. Quantitative spatial detail:\nThe activating feature typically occupies approximately **30\u201360% of the total image area** and is usually positioned centrally or slightly offset to the mid-lower region.\n\n6. Synthesis and conciseness:\nThe neuron responds strongly to **convex, volumetric objects** with **rounded or tapered profiles**, such as **animal heads** (birds, turtles, dogs) and **curved artifacts** (helmets, golf drivers, pens). These subjects are consistently defined by **smooth, continuous boundaries** and **surface gradients or highlights** that convey 3D curvature, oriented horizontally or diagonally in profile view. The neuron remains invariant to specific colors, textures, and semantic categories, relying instead on distinct **figure-ground separation** against uniform or blurred backgrounds of **blue, beige, or grey** to isolate the central geometric form.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 4.878114223480225,
+      "description": "A tri-colored Corgi stands in profile facing right, occupying the central lower portion of the view, captured mid-stride on a grassy field. The dog's coat is characterized by a deep black saddle covering its back and sides, transitioning to a vibrant tan on its hindquarters, shoulders, head, and large, erect ears. White fur accents the chest area and paws. The dog\u2019s short legs are positioned in a walking stance, with the rear legs trailing slightly. Directly behind the dog, running horizontally across the middle ground, is a white agility pole featuring a distinct, diagonal purple spiral stripe; the pole appears to be resting low to the ground or slightly elevated, visible clearly to the left and right of the dog's body. The ground consists of short, textured green grass with patches of dry, brownish thatch visible between the blades. In the background, occupying the upper third of the scene, is a weathered wooden fence constructed of dark brown timber, featuring a vertical post positioned slightly to the left of center and horizontal rails extending across the frame. The lighting is diffuse and even, suggesting overcast daylight, which casts soft, unobtrusive shadows and highlights the texture of the dog's fur and the grain of the wooden fence."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 4.902690410614014,
+      "description": "A small, vibrantly colored bird, specifically an indigo bunting, stands perched on a rough, woody branch that traverses the lower half of the view diagonally from the bottom left to the center right. The bird faces directly toward the right, its body angled slightly away from the viewer, displaying a brilliant electric blue plumage on its head, neck, and breast that transitions into a mix of blue and mottled brownish-grey on its back. The wings are folded against the body, showing dark charcoal-brown flight feathers with thin blue edging. Its beak is small, conical, and pale grey, while the eye is a dark, glossy bead. The bird's thin, dark grey legs grip the main branch, which is medium-brown and textured with bark. Behind and around the bird, a network of thin, spiky, leafless twigs extends vertically and horizontally; one prominent thin twig rises vertically from behind the bird's back, forking near the top, while another juts out to the left behind the tail feathers. At the very bottom of the scene, beneath the perch, a cluster of broad, lime-green leaves is visible, some appearing slightly curled or withered with touches of yellow. The background is a soft, completely out-of-focus wash of colors, consisting of pale beige and tan in the upper region blending into muted, diffuse greens in the lower section, providing a neutral backdrop that contrasts with the sharp detail of the bird and branches."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 4.910487651824951,
+      "description": "Occupying the central and upper majority of the visible area is a close-up, side-profile view of a rounded motorcycle helmet, characterized by a distinct two-tone color scheme split vertically. The left section of the helmet shell is a smooth, opaque white, while the right section is a highly glossy, vibrant crimson red, separated by a thin, curving metallic gold pinstripe. The red surface is extremely reflective, bearing distorted mirror-like reflections of white cumulus clouds and a bright blue sky, indicating a well-lit outdoor environment with natural sunlight striking from above. Attached to the helmet's front lower edge on the left is a white plastic visor peak that curves downward, secured by a round, domed silver metallic rivet. On the white lateral surface of the helmet, situated above the visor line, is a decal of the number \"1\" leaning slightly to the right; the number is filled with vertical stripes of green, white, and red, mimicking the Italian flag, and is outlined in black, resting atop a small horizontal rectangular base featuring a black-and-white checkerboard pattern. The bottom edge of the helmet features a matte black rubberized trim. The helmet rests nestled into the bunched, irregular folds of a light grey-beige fabric, likely a jacket or cover, which fills the bottom third and wraps up the right side of the composition, displaying soft textures and shadowed creases. A small, out-of-focus patch of light teal-blue is visible in the upper right background behind the red curve of the helmet."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 4.9880876541137695,
+      "description": "Centered on a surface of light reddish-brown wood-laminate flooring is a detached cleaning tool head, oriented horizontally with its wide base on the left and tapering to a narrow connection point on the right. The device features a distinct tri-color construction: a matte silver-grey plastic body forming the conical neck, a glossy black band encircling the widest section, and a flat, copper-brown soleplate at the far left which is angled slightly toward the viewer. This brown face is textured with a series of raised, chevron-shaped ventilation ridges pointing towards the device's narrow end. At the far right tip, the silver casing is open, exposing a white interior mechanism housing a small grey roller wheel and a light blue-grey cylindrical connector. A light grey power cord meanders across the floor, with one section entering from the upper left and curving behind the wide end of the tool, and another segment looping diagonally through the bottom right quadrant. Occupying the upper region of the view is the curved, terracotta-colored rim of a large planter pot, inside of which dark brown, granular potting soil and a few thin, vertical green shoots are visible. A stark, dark shadow is cast by the pot onto the floor immediately below it. In the extreme bottom left corner, a small section of a smooth, glossy green leaf protrudes into the frame. The scene is illuminated by a direct light source that creates specular highlights on the black plastic band and the green leaf, while casting soft, diffuse shadows underneath the cord and the cleaning attachment."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 5.0044169425964355,
+      "description": "A close-up, slightly high-angle view reveals the glossy, vibrant red hard-shell surface of an American football helmet, dominated by a large decal logo on the lower left and a black marker autograph on the upper right. The logo depicts a stylized bison in profile charging toward the right, colored in a solid royal blue with a crisp white outline; a tapering red stripe extends horizontally from the horn area back through the center of the blue body, while white negative space defines the horn and eye area. To the right and slightly above the logo, a hand-written signature in black permanent marker features prominent, loopy cursive lettering, appearing to read \"Jim Kelly,\" with the inscription \"HOF\" and \"02\" stacked vertically beneath the surname, partially framed by a swooping underline extending from the signature. A intense, circular specular highlight reflects bright white off the polished polycarbonate surface, located centrally between the top curve of the bison's head and the start of the signature, accentuating the spherical geometry of the object. In the bottom right corner, blurred white cylindrical bars of a facemask angle diagonally downward, partially obscuring a glimpse of the helmet's white rim and interior padding. The red color of the shell gradients into a darker crimson shadow towards the periphery, and a tiny, partial fragment of indistinguishable black writing is barely visible on the far left edge."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 5.014054298400879,
+      "description": "A close-up, slightly high-angle shot captures a section of a newspaper page featuring a crossword puzzle, overlaid by a pen resting diagonally across the text. The scene is illuminated by soft, diffuse light that casts a dark, blurred shadow directly beneath the pen, suggesting an overhead light source. The paper is a matte off-white newsprint covered in black serif text. Dominating the lower-left to center field is a pen, oriented from the bottom-left pointing towards the upper-right; the visible lower portion of the pen features a glossy, bright red barrel which transitions into a matte black grip section and nib area, the tip of which ends just below the submission email address. The text is organized centrally: at the top, the word \"EYE\" sits above \"CROSSWORD\" in a bold, sans-serif font, followed by the number \"371\" and \"by Cyclops\". Below this title block, smaller centered text announces a \"\u00a3100 prize to first correct solution opened on 15 August 2005\". Further down, the address for \"Private Eye\" at \"6 Carlisle Street, London W1D 3BN\" is listed, along with the email \"crossword@private-eye.co.uk\". To the right of this central column, the edge of a crossword grid is visible, consisting of black and white squares. Below the contact information and partially obscured by the pen's shadow are columns of numbered clues; legible fragments include clue 32 \"Married lives...\", clue 26 \"Sound of an...\", and clue 30 \"Some article on...\". To the far left, separated by a vertical rule, is a partial view of another text column with a fragment of a red box border visible near the top left edge. The focus is sharpest on the central header text, with the clues at the bottom becoming slightly softer."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 5.126046657562256,
+      "description": "Inside the circular view, a small, round-bodied bird, likely a Dark-eyed Junco, is perched in profile facing to the right on a thin, dark metal shepherd's hook. The bird dominates the central foreground, with its plumage divided sharply between a dark, charcoal-grey hood covering its head, neck, and upper breast, and a bright white underbelly. The bird's back and wings are a slightly lighter, slate-grey, showing smooth feather texture, while its tail extends horizontally to the left, tapering to a point. Its small, conical beak is a pale, fleshy pink, contrasting against the dark head. A tiny black eye is visible within the dark grey feathers of the face. The bird's legs are thin and dark, gripping the apex of the curved metal hook. The hook itself is a black silhouette against the background, rising from the bottom center, arching steeply upward and to the left before curving down under the bird's feet, creating an inverted \"U\" shape that occupies the lower third of the visible area. The background is a soft, out-of-focus wash of greys and whites, suggesting a snowy or overcast landscape with horizontal striations that imply distant ground or structures, perhaps window blinds or siding, blurring into a uniform, light grey field behind the bird. The lighting is diffuse and cool, casting no harsh shadows on the bird itself but silhouetting the metal perch, creating a high-contrast, monochromatic palette dominated by greys, blacks, and whites."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 5.13375997543335,
+      "description": "Against a stark, seamless off-white background that occupies the majority of the upper and right visual field, a painted turtle is positioned in the lower left quadrant, facing towards the right. The turtle's skin is a deep, matte charcoal black, vividly contrasted by bright lemon-yellow longitudinal stripes running along the stretched neck and curving around the face and jawline. The head is elevated, angled upward at approximately forty-five degrees, with a small, dark eye visible on the side, framed by the yellow patterns. To the far left, the edge of the turtle's shell is visible, dark and smooth, featuring distinct reddish-orange crescent-shaped markings along the marginal scutes where the shell meets the body. The front left leg extends forward and downward, supporting the animal's weight, with dark skin speckled with minute yellow dots near the shoulder joint. The foot terminates in sharp, curved black claws that rest clearly against the pale ground. A soft, diffuse gray shadow is cast directly beneath the turtle's plastron and front leg, anchoring the subject to the floor, while the lighting appears even and soft, highlighting the sheen on the yellow stripes and the texture of the skin."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 5.199288845062256,
+      "description": "A textured, light grey surface resembling weathered concrete or porous stone fills the view, characterized by a rough topography of small, irregular pits, shallow depressions, and a grainy, matte finish. Resting diagonally across the left-central region of this surface is the partial body of a dual-tone writing instrument, oriented with its length running from the bottom left toward the upper center. The visible portion of the object is cylindrical, featuring a glossy black lower barrel that extends from the bottom-left edge of the frame and transitions into a matte silver metallic upper section near the center. A polished silver pocket clip is attached to the top of the silver segment, running parallel to the barrel and reflecting a bright, linear highlight along its spine. To the immediate right of the instrument, a sharp, opaque black shadow is cast onto the stone, precisely mirroring the silhouette of the barrel and the clip, indicating a strong, direct light source originating from the upper left. The shadow is roughly equal in width to the pen itself, creating a high-contrast separation between the smooth, manufactured object and the uneven, organic ground. The silver barrel extends a short distance past the top of the clip before being cropped from view at the upper edge."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 5.2096452713012695,
+      "description": "Set against a uniform, deep azure blue background, a dense, billowing cloud formation extends horizontally from the left edge of the visible field toward the center. The object is shaped like a blunt wedge or horizontal cone, widest at the far left where it enters the view and tapering slightly to a rounded, bulbous tip on the right side. Illuminating the formation from above, a bright, stark white highlight defines the entire upper ridge, creating a sharp contrast with the blue sky. Below this brilliant crest, the body of the cloud transitions into a volumetric gradient of warm hues, shifting from pale cream to a dominant salmon-pink and finally to a deep apricot-orange along the bottom edge. The texture appears soft, fibrous, and pillowy, resembling a contrail or exhaust plume with diffuse, fuzzy boundaries. Spatially, the formation occupies the vertical middle-left region, spanning approximately half the width of the visible area and roughly one-quarter of its vertical height, while the blue background remains completely featureless and uninterrupted in the space to the right, above, and below the cloud. The bottom edge of the mass slopes gently upward from left to right, emphasizing the dynamic, forward-moving directionality of the plume."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 5.226734638214111,
+      "description": "A textured, matte surface in a warm, muted shade of peach-orange fills the background, displaying a fibrous or granular consistency similar to insulation or rough particleboard. Dominating the lower center is a straight, polished metal cylinder, angled slightly to the right at approximately a 20-degree tilt from the vertical axis. This cylinder has a highly reflective, chrome-like finish, transitioning sharply from a bright, whitish-blue highlight on its left side to a deep cerulean and black on its right, with the flat, circular top appearing as a dark, foreshortened oval near the image's vertical center. The metal surface is marred by tiny, scattered dark specks. To the left of this cylinder, a thicker, tarnished metal pipe curves down along the far left edge. This pipe exhibits a mottled coloration of olive green, dull brass, and dark brown, suggesting oxidation or age. It curves inward from the top left corner before straightening out as it descends, separated from the central chrome cylinder by a gap of visible background roughly equal to the cylinder's width. Near the top left, partially obscured behind the curved pipe, a small, oxidized turquoise-green bracket or flange attaches to the orange wall. A vertical, diffuse shadow or discoloration, slightly darker and redder than the surrounding background, runs down the right side of the orange surface, while soft, indistinct shadows fall to the right of the metallic objects, creating depth between them and the textured backdrop."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 5.353992938995361,
+      "description": "Occupying the majority of the view is the right-side profile of a fluffy animal with dense, cream-colored white fur, oriented facing toward the left. The coat appears plush and soft, with hair strands sweeping backward from the snout area towards the right side of the frame. Positioned in the upper-left quadrant is a dark, almond-shaped eye, almost black in color, featuring a small, distinct white specular highlight near the center-top of the iris and surrounded by a thin margin of dark skin. Below the eye level, the snout extends horizontally to the left edge, where the nose tip is excluded from view. The mouth is open in a panting gesture, revealing a prominent, serrated black lip line that curves upward from the lower-left section towards the mid-right. Inside the lower jaw, a row of blunt, yellowish-white teeth is visible against the dark contrast of the inner lip. A large, smooth, mauve-pink tongue extends from the mouth, occupying a significant portion of the lower-left quadrant and disappearing off the bottom edge; the tongue appears slightly soft-focused compared to the sharper fur around the eye. The lighting is diffuse and even, casting gentle shadows under the jawline and within the mouth cavity, highlighting the convex curve of the cheek and the texture of the coat."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 5.439037799835205,
+      "description": "A golden-brown, flaky pastry crust dominates the central and upper portion of the view, showcasing a textured, uneven surface characteristic of baked puff pastry with colors ranging from deep toasted amber on the right side to a pale, buttery cream color on the left. Positioned in the lower-left quadrant and extending toward the center is a matte black serving utensil, likely a spatula or spoon, which is inserted beneath the crust, lifting a section of the pastry. The black utensil is speckled with tiny, light-colored crumbs from the flaky dough. Where the crust is broken by the utensil and a natural fissure to its right, the internal filling is revealed, consisting of a thick, creamy beige sauce coating distinct cubes of bright orange carrots and chunks of pale white meat or vegetables. The crust appears puffed and layered, with subtle ridges and valleys created by the baking process. At the bottom of the view, the curved rim of a clear glass pie dish is visible, containing the pie. Through the glass edge, deep brown and amber tones of the cooked filling or sauce are discernible. The lighting appears to be artificial and overhead, creating highlights on the raised portions of the golden crust and casting soft shadows into the crevices and the opening made by the utensil. Below the glass dish, faint, out-of-focus dark lines suggest a metal grate or stovetop surface upon which the dish rests."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 6.127813816070557,
+      "description": "Situated primarily in the bottom-left quadrant against a vast, pale cyan-blue sky is the profile view of an ostrich's head and upper neck, gazing upward toward the top right. The bird's head is angled diagonally, with the beak pointing at an elevation of roughly 30 degrees relative to the horizontal plane. The plumage covering the head and neck consists of short, fuzzy down feathers in shades of tawny brown, caramel, and light beige, creating a soft, bristly texture that catches the sunlight on the crown. The neck area, visible at the bottom edge, appears slightly darker with denser shadowing in the throat region. A large, prominent eye acts as a focal point on the left side of the head, featuring a deep, glossy black-brown pupil with a sharp white catchlight near the top, surrounded by wrinkled, pinkish-grey skin and fine, slightly blurry eyelashes. Extending to the right, the broad, flat beak is colored in hues of fleshy pink and pale peach, transitioning to a dull yellow along the edges. The tip of the upper mandible is marked by a distinct dark grey or black coloration, and a clear, dark seam separates the upper and lower parts of the beak. The lighting is soft and natural, seemingly coming from above, illuminating the top of the head and beak while casting a gentle shadow beneath the lower mandible and down the front of the neck, contrasting the organic textures of the bird against the smooth, uniform gradient of the sky background."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 7.225162506103516,
+      "description": "A low-angle, close-up shot captures a golf scene featuring a driver head addressing a ball on a tee against a blurred background. To the left, the head of a golf driver, rendered in a deep, glossy black, rests just above the grass; its surface is highly reflective, showing a broad, soft white highlight along the upper curvature and distorted dark reflections on its side, emphasizing its bulbous, aerodynamic shape. To the right, separated by a gap of approximately one golf ball's width from the club face, a white golf ball with a distinct dimpled texture sits elevated on a bright red tee. The red tee is staked into the ground, holding the ball well above the grass line. The lighting appears soft and diffused, likely from the sky above and behind, creating a highlight on the top right of the ball and casting subtle, indistinct shadows beneath both the club and the tee. The ground is covered in manicured green grass; the blades immediately surrounding the club and tee are sharply focused and vibrant green, while the grass in the immediate foreground blurs into an indistinct green wash. The background is heavily out of focus, depicting a horizon line where the green turf meets a darker band of blurred trees or foliage in shades of forest green and brown, topped by a bright, overexposed area of white and light gray sky at the very top of the visible field. The composition aligns the bottom of the driver head roughly with the base of the exposed red tee, placing the center of mass for both objects in the lower middle section of the view."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A vibrant red Northern Cardinal's head portrayed in a sharp right-facing profile, occupying approximately 30% of the central frame. The bird's plumage is a rich, saturated scarlet, with smooth, sleek feathers creating a rounded crest and a tapered beak. The lighting highlights the convex curve of the head, creating a subtle gradient from bright red on the crown to a slightly deeper shade near the neck. The background is a uniform, out-of-focus soft grey, providing high contrast that isolates the bird's silhouette.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vibrant red",
+        "profile view",
+        "soft grey background",
+        "convex form"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A metallic silver golf driver head, positioned diagonally from bottom-left to top-right, taking up about 30% of the image area. The club head features a smooth, bulbous geometry with a highly reflective surface that catches a specular highlight on its upper curve. The object is aerodynamic and convex, distinct against a clean, desaturated sky blue background that emphasizes the industrial curvature.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metallic silver",
+        "golf driver",
+        "sky blue background",
+        "diagonal orientation"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The head of a golden-tan Greyhound, viewed in a strict left-facing profile, centering the frame but occupying only 30% of the total area to leave ample negative space. The dog's fur is short and smooth, revealing the streamlined, tapered shape of the snout and the rounded dome of the skull. The background is a solid, muted green, contrasting softly with the warm tones of the animal's coat.",
+      "rationale": "",
+      "emphasis_tags": [
+        "golden-tan",
+        "dog head",
+        "muted green background",
+        "profile view"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "An electric blue cycling helmet, glossy and aerodynamic, placed in the center-right of the composition. The helmet's form is convex and teardrop-shaped, oriented in profile to show its smooth, wind-resistant contours. It occupies the lower end of the spatial range at 30%, floating clearly against a pale beige background that enhances the vibrancy of the blue plastic.",
+      "rationale": "",
+      "emphasis_tags": [
+        "electric blue",
+        "helmet",
+        "pale beige background",
+        "glossy texture"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A deep black luxury fountain pen, capped, floating diagonally across the horizontal midline. The pen's body is a perfect cylinder with a glossy resin finish that reflects a sharp line of white light, emphasizing its volumetric roundness. It takes up about 30% of the visual field, set against a uniform soft grey background that creates a striking figure-ground separation.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep black",
+        "fountain pen",
+        "soft grey background",
+        "diagonal orientation"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A golden-tan tortoise head, featuring a wrinkled but overall rounded and convex silhouette, facing to the right. The head is positioned centrally, filling 30% of the frame, with natural lighting casting a gradient across its curved beak and dome-like skull. The background is a blurred, pale beige, mirroring the earthy tones of the subject but keeping the focus strictly on the head's geometry.",
+      "rationale": "",
+      "emphasis_tags": [
+        "golden-tan",
+        "tortoise head",
+        "pale beige background",
+        "convex form"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A stark white ostrich head and upper neck, captured in profile facing left. The bird's head forms a small, rounded oval with a tapered beak, covered in fine, downy textures that appear smooth from a distance. The subject occupies approximately 30% of the image, surrounded by a vast, solid sky blue background that makes the white form pop.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white",
+        "ostrich head",
+        "sky blue background",
+        "profile view"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A vibrant red ergonomic screwdriver handle, oriented diagonally in the center of the frame. The handle is bulbous and cylindrical with smooth, molded curves designed for grip. It occupies 30% of the image area, with specular highlights revealing its hard plastic material. The background is a flat, muted green, providing a complementary color contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vibrant red",
+        "tool handle",
+        "muted green background",
+        "diagonal orientation"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A single, dense white cumulus cloud puff, isolated in the center of the frame. The cloud has a distinct, convex dome shape with a rounded top and a flat base, looking almost like a solid object. It occupies 30% of the canvas, sharply defined against a deep, clear sky blue background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white",
+        "convex cloud",
+        "sky blue background",
+        "volumetric form"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A deep black motorcycle helmet with a matte finish, viewed from the side profile facing right. The helmet presents a smooth, continuous spherical curve, occupying 30% of the image area. A subtle sheen defines the curvature of the top and back. The background is a uniform pale beige, creating a strong silhouette effect.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep black",
+        "motorcycle helmet",
+        "pale beige background",
+        "profile view"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "An electric blue Hyacinth Macaw head, oriented in profile facing left. The bird's feathers are smooth and vibrant, creating a rounded, volumetric shape around the skull and curved beak. The subject is compact, taking up 30% of the view, centered against a neutral soft grey background that ensures the blue color is the focal point.",
+      "rationale": "",
+      "emphasis_tags": [
+        "electric blue",
+        "macaw head",
+        "soft grey background",
+        "convex form"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A metallic silver computer mouse with a high arch, viewed from the side to emphasize its smooth, convex profile. The object sits on the horizontal midline, occupying 30% of the frame. Its surface is brushed aluminum, reflecting diffuse light. The background is a solid muted green, contrasting with the cool metal tones.",
+      "rationale": "",
+      "emphasis_tags": [
+        "metallic silver",
+        "computer mouse",
+        "muted green background",
+        "profile view"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A sleek, deep black sea lion head, wet and glossy, facing right in profile. The head forms a smooth, tapered bullet shape, devoid of sharp angles. It occupies 30% of the image, positioned slightly below the center line. The background is a uniform sky blue, simulating a clean aquatic environment without distracting details.",
+      "rationale": "",
+      "emphasis_tags": [
+        "deep black",
+        "sea lion head",
+        "sky blue background",
+        "glossy texture"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A white, aerodynamic drone fuselage, sleek and curved, oriented diagonally pointing upwards to the left. The object is smooth and plastic, with no visible propellers in the frame, focusing solely on the central convex body. It takes up 30% of the space against a soft grey background, highlighting its futuristic, rounded design.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white",
+        "aerodynamic shape",
+        "soft grey background",
+        "diagonal orientation"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A golden-tan horse head, groomed and smooth, facing left in profile. The muscular curvature of the jaw and neck creates a strong volumetric form. The subject occupies 30% of the image area, centered vertically. The background is a plain, out-of-focus muted green, isolating the warm tones of the horse's coat.",
+      "rationale": "",
+      "emphasis_tags": [
+        "golden-tan",
+        "horse head",
+        "muted green background",
+        "profile view"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 4.157124996185303,
+      "best_percentile": 99.99328736479113
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 3.3337113857269287,
+      "best_percentile": 99.9663587700579
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 3.2605271339416504,
+      "best_percentile": 99.96120721280458
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.778085470199585,
+      "best_percentile": 99.90352538234701
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 2.7499005794525146,
+      "best_percentile": 99.89798355560481
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 2.585622549057007,
+      "best_percentile": 99.86348373278716
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 2.5565271377563477,
+      "best_percentile": 99.8574735826583
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 2.432243824005127,
+      "best_percentile": 99.82359819102287
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 2.1054799556732178,
+      "best_percentile": 99.68216452825004
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.9081255197525024,
+      "best_percentile": 99.55478056707717
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.7736940383911133,
+      "best_percentile": 99.44331960105092
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.4737111330032349,
+      "best_percentile": 99.10433152300327
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.8948855400085449,
+      "best_percentile": 97.68281393667955
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.6462626457214355,
+      "best_percentile": 96.06600549811655
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.38771066069602966,
+      "best_percentile": 90.70549796045165
+    }
+  ]
+}

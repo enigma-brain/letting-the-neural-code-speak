@@ -1,0 +1,374 @@
+{
+  "area": "V1",
+  "neuron_id": 9,
+  "percentile": 0,
+  "hypothesis": "The neuron responds strongly to **horizontally oriented, high-contrast linear structures**, typically manifesting as **deep, dark crevices, shadows, recessed grooves, or solid black strips** that divide or overlay lighter, broader surfaces. Examples include the shadowed crease between folds of skin or tissue, the dark gap between layers of a burger, a black display screen on a light panel, or dark trim on a vehicle. The activating feature is consistently **black, dark charcoal, or deep gray**, set against a contrasting background of **white, light gray, or pale beige**. Geometrically, the feature appears as an elongated band or line, usually positioned horizontally (or occasionally diagonally) across the center of the frame, typically occupying **10\u201330% of the image height and spanning the majority of its width**. The neuron is invariant to the specific object identity\u2014responding to biological, mechanical, and architectural subjects alike\u2014provided the sharp luminance contrast and linear stratification are present.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 0.16551192104816437,
+      "description": "A single, slender metallic needle lies diagonally across a monochromatic, medium-gray surface that exhibits a consistent, fine-grained texture. The needle is oriented from the middle-left area, ascending toward the top-right, with its lower-left portion extending beyond the visible field. The object is cylindrical, defined by a sharp, bright white highlight running longitudinally along its upper ridge, indicating a polished steel material, while the body of the shaft is a darker gunmetal gray. The needle tapers gradually to a sharp point in the upper-right quadrant. Immediately beneath and slightly to the right of the needle, a soft, dark charcoal shadow stretches parallel to the object, mimicking its tapered shape and confirming the needle rests directly upon the background. The background itself is featureless aside from the grainy noise texture, providing a neutral gray field that allows the metallic sheen of the needle and its accompanying shadow to be the primary focus."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 0.18840084969997406,
+      "description": "A grayscale close-up image captures the side profile of a white vehicle, specifically framing the front passenger door and a segment of the front fender. The vehicle is oriented towards the left. Dominating the central area of the door panel is a dark graphic logo composed of text and a symbol. The text is arranged in two lines of a sans-serif font, reading \"Hannover\" on the top line and \"Airport\" on the bottom line, both left-aligned. To the immediate left of the text is a large, stylized letter \"H\" formed by dark, rectangular dashes arranged in two slanted vertical columns connected by a horizontal row, mimicking the appearance of runway markings. Above this graphic, the vehicle's side window is visible, bordered by a thick black frame; the glass is dark and reflective, obscuring the interior except for the silhouette of a rounded seat headrest. A black side mirror housing projects from the front corner of the window area. Running horizontally across the lower portion of the door is a thick black protective trim strip. On the far right edge of the visible door panel, a black horizontal door handle is mounted. On the front fender to the left of the vertical door gap, a small, metallic-looking badge with indistinct characters is positioned slightly below the level of the side mirror. The lighting is soft and diffuse, creating a flat contrast between the bright white body panels and the dark trim elements."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 0.18904171884059906,
+      "description": "A grainy, monochromatic view reveals a section of a vertical storage display featuring a white perforated panel with a grid of small, regularly spaced dark circular holes. Dominating the composition are two dark, elongated forms oriented horizontally across the frame, resembling the stocks of rifles secured on a rack. The upper object appears as a thick, dark gray silhouette spanning the upper portion of the visible area, casting a narrow shadow downwards. Below this, separated by a strip of the white pegboard approximately four holes high, a second dark object mirrors the horizontal orientation, its upper edge clearly defined against the light background while its lower portion fades into shadow. Hanging from one of the pegboard holes near the left side of the central white strip is a small, circular tag or distinct round shape, contrasting with the grid pattern. Towards the right edge of this same central strip, a faint rectangular outline, likely a label or placard, adheres to the surface. The perspective is slightly angled, causing the horizontal lines of the objects and hole rows to slope gently downwards from left to right, and the entire scene is rendered in high-contrast grayscale with a noticeable visual noise texture."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 0.19102726876735687,
+      "description": "A monochromatic, grayscale composition features a close-up view of organic, textured structures dominated by a smooth, light gray convex form spanning the central horizontal axis. This pale, rounded mass, resembling soft tissue or a muscle belly, occupies the middle third of the visible area and is defined by a soft, diffuse sheen that suggests a curved surface. Immediately above this central mound lies a sharp, dark, arching crevice that runs horizontally, creating a deep black separation between the lower mass and the upper region. The area above this dark arc consists of a lighter, mottled gray texture with faint vertical striations, filling the top portion of the view. To the left, the smooth central texture gives way to a denser, darker formation of convoluted, charcoal-colored shapes that look like folded or knotted matter, providing a high-contrast boundary. The lower section of the image, beneath the main pale prominence, transitions into a shadowed, grainier area with vertical, fibrous blurring that fades into deep black at the bottom edge. Lighting appears internal and diffuse, highlighting the volume of the central structure while casting the deep crevice and peripheral areas into heavy shadow, with no hard specular reflections visible."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 0.1914563626050949,
+      "description": "A monochromatic close-up view presents the stacked layers of a burger, rendered in high-contrast grayscale. Occupying the top third of the visible area is the underside of a top bun, characterized by a spongy, porous texture in light grey tones with subtle horizontal creases and a slightly uneven, soft surface. Beneath the bun lies a deep, dark shadow that separates it from the layer below. The central band of the image is dominated by a slice of melted cheese, which acts as the brightest element in the composition; it features a smooth, glossy surface with a prominent, near-white specular highlight on the left side, indicating a liquid, viscous quality. The cheese drapes over the layer beneath it, forming a heavy, rounded drip just to the right of the center. Directly under the cheese is a thick patty, appearing as a dark, coarse band of textured material with a granular, rough surface ranging from dark charcoal to black, contrasting sharply with the smoothness of the cheese. The meat layer occupies approximately one-fifth of the vertical space. At the very bottom, partially obscured and slightly out of focus, lies the suggestion of a bottom bun and potential condiments, presenting mixed light and mid-grey tones with small, scattered highlights that suggest moisture or grease. The lighting is directional from the upper left, creating deep shadows in the recesses between layers and emphasizing the wet sheen of the melted cheese against the matte texture of the bread and meat."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 0.19219128787517548,
+      "description": "A monochromatic close-up view captures the detailed textures of layered bird plumage resting on water. Dominating the upper section is a swatch of dark, sleek feathers that curve gently from the upper left toward the right, rendered in deep black and charcoal tones with glossy, high-contrast highlights that suggest a smooth, wet surface dotted with tiny white specks. Just above this dark mass, a soft, out-of-focus background of pale grey suggests calm water, intersected by a few sharp, thin filaments hanging down from the top edge. Below the dark upper feathers, a distinct, bright white wedge-shaped strip cuts horizontally across the middle, acting as a divider. Beneath this white line, the plumage transforms into a lighter grey flank featuring a highly intricate, vermiculated pattern; this area is composed of thousands of minute, wavy zig-zag lines that create a textured, mesh-like appearance similar to a fine tweed fabric. To the right of this patterned flank, the feathers become darker and more chaotic, curling into a shadowed bundle of deep greys and blacks where the wing folds. At the very bottom, the textured flank feathers meet a dark, rippled water surface, creating a distorted reflection where the fine wavy patterns of the plumage are mirrored and blurred by the movement of the liquid, merging the subject with its environment in a gradient of dark greys."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 0.192827969789505,
+      "description": "A high-contrast, grayscale close-up reveals two large, smooth, organic masses converging horizontally across the center, separated by a distinct, bright white, spindle-shaped aperture. The upper mass, rendered in a gradient of medium-to-dark slate gray, occupies the superior portion of the frame, presenting a convex surface that curves downward towards the center. Its texture appears soft and uniform, interrupted only by a few faint, minute dark specks near the central midline and a subtle curved shadow suggestion depth. The lower mass mirrors the upper one in shape and texture but occupies the inferior section, displaying a slightly lighter, ash-gray tone on its upper ridge which transitions into a deep charcoal shadow towards the bottom. The central aperture is an intense, pure white luminosity shaped like a horizontal oval with tapered ends, resembling a slit or a narrowed eye, occupying approximately the middle twenty percent of the vertical height. The boundary between the gray organic tissue and the white light is clearly defined yet slightly soft, indicating a pliable material. The light source appears to be transmitted from behind the aperture, creating a high-contrast silhouette effect where the inner edges of the two masses nearly touch. Small, scattered dark artifacts or pores are visible, particularly on the surface of the lower mass near the light boundary, and a faint horizontal reflection or lighter band runs along the lower edge of the top mass, defining the curvature of the opening."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 0.19314517080783844,
+      "description": "A close-up, grayscale view presents a section of an electronic interface panel made of smooth, matte, light-gray plastic. The upper portion of the visible area features a wide, horizontal rectangular display window with a glossy black surface. Within this dark screen, faint, dormant segments of digital numerals are discernible, arranged in a pattern of six figure-eights (\"888888\"). Below the display, the lower two-thirds of the panel contains a keypad consisting of twelve distinct buttons arranged in a grid of three horizontal rows and four vertical columns. The buttons are identical in shape, appearing as rounded rectangles or lozenges with slightly convex surfaces, set into recessed housings that share the light-gray tone of the faceplate. The top row of buttons displays the numerals \"1\", \"2\", \"3\", and \"4\" printed in bold black ink. Directly beneath them, aligned vertically, the second row contains the numerals \"5\", \"6\", \"7\", and \"8\". The third and bottom row features, from left to right, an asterisk symbol \"*\", the numeral \"9\", the numeral \"0\", and a hash symbol \"#\". The spacing between the buttons is uniform both horizontally and vertically. The lighting is soft and diffused, casting gentle, minimal shadows primarily along the bottom and right edges of the raised buttons, suggesting an upper-left light source."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 0.19356682896614075,
+      "description": "A blurry, grayscale close-up reveals a sculpted object resembling a stylized helmet or face, carved from a pale, fibrous material with a matte texture similar to raw potato or soap. The object dominates the center of the view, set against a stark black background. The most prominent feature is a deep, irregular black horizontal chasm spanning the upper-middle section, acting as a visor or eye slit; this void is roughly rectangular but features a downward angular notch near its center-right. Below this dark band, the central structure protrudes forward, featuring three distinct, horizontally stacked ridges that resemble a vent or grille, tapering slightly as they descend. To the left of this central grille is a deep, diagonal groove carved into the material, slanting downwards and outwards to the left, separating the mouth area from a flat, blocky cheek section. Above the dark eye slit, the forehead area is composed of a central vertical ridge flanked by slightly recessed, planar surfaces. Vertical striations and faint, hairline cracks run through the pale material, emphasizing its organic, hand-carved nature. The lighting is diffuse, creating soft shadows within the shallow grooves while the deep recesses of the eye slit and side channels remain pitch black, providing high contrast against the light gray surface of the sculpture."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 0.19391991198062897,
+      "description": "In a grainy, monochromatic image, a bright, white, cubic structure serves as the central focal point, positioned in the lower half of the frame and set against a backdrop of deep, pitch-black shadow. The object displays a three-dimensional perspective, revealing a flat, diamond-shaped top surface and two vertical walls that meet at a distinct corner facing slightly left of center. The texture of the cube appears smooth and matte, possibly fabric or plaster, glowing intensely due to strong, localized lighting. Directly above this cube, occupying the upper region of the view, is a broad, light-grey expanse resembling a large canopy, umbrella, or ceiling, which curves gently and spans the entire width of the visible area. A thin, barely visible vertical line connects the center of the cube's top surface to the darker void beneath the overhead canopy. At the bottom right base of the glowing cube, small, dark, indistinct shapes\u2014resembling huddled or crouching human figures in dark robes\u2014are visible, providing a sense of scale; these figures reach only about one-fifth of the height of the vertical wall they sit against. The lighting creates a high-contrast scene, with the brilliant white of the cube and the lighter grey of the canopy standing out starkly against the surrounding void-like darkness that fills the middle ground and background."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 0.1949903517961502,
+      "description": "In this high-contrast grayscale close-up, a broad, light gray, curved surface dominates the lower central portion of the view, appearing smooth with a subtle matte texture. Near the bottom edge of this light surface, two dark, circular depressions or holes are visible, spaced horizontally apart. Above this curved section, a dark, angled structure cuts diagonally from the mid-left edge upwards toward the center, creating a sharp boundary and casting a deep shadow beneath it where a patch of dense, mesh-like or knurled texture is discernible. To the upper right, a series of overlapping, flat, dark gray planes recede into the background, suggesting complex mechanical layering or rigid housing components. A lighter, distinct strip or edge is visible amidst these darker upper-right geometries. The lighting appears to originate from the upper left, highlighting the convexity of the bottom surface and the edges of the upper planes while leaving the crevices and deep recesses between the overlapping parts in heavy shadow."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 0.19521866738796234,
+      "description": "Presented in monochrome grayscale, the image captures a close-up, high-angle view of the rear section of a race car in the foreground, juxtaposed against the side profile of a white utility truck in the background. The race car dominates the lower two-thirds of the frame, characterized by a dark, glossy body panel featuring portions of large, bold, white capital letters\u2014specifically an \"L,\" an \"O,\" and the leading edge of a \"W\" or \"U\"\u2014angled diagonally upward from the bottom left. Running horizontally across the car's rear deck is a dark, vertical spoiler blade, its flat surface contrasting with the highly reflective trunk lid immediately in front of it, which catches specular highlights. To the right of the spoiler, on the car's rear quarter panel, a stylized \"Q\" logo is visible, positioned above the website address \"www.marrow.org\" printed in small, white, sans-serif font. The texture of the car appears smooth and metallic, with visible fasteners or pins on the deck lid. Immediately behind the race car, occupying the upper third of the visible area, is the mid-section of a white truck, oriented horizontally. A vertical panel gap separates the truck's bed from the cab, and a dark, horizontal door handle is situated on the right side of the truck's body. On the lower part of the truck door, three lines of small, dark text are printed, with the second line containing \"US DOT\" followed by a numeric sequence. The top arc of a dark tire inside a wheel well is visible on the far left of the truck, partially obscured by the race car's spoiler. The lighting is sharp, creating distinct reflections on the race car's curves while the truck remains matte and evenly lit."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 0.195552259683609,
+      "description": "This black-and-white close-up photograph captures the intricate texture of folded human skin, likely a macro shot of a joint or sole, divided into two primary convex fleshy mounds by a deep, shadowed crease. The upper section occupies the top left portion of the view, displaying a mid-gray tone with a dense network of fine, intersecting wrinkles and skin ridges that curve gently across the surface; this area darkens significantly into shadow along the left edge. A sharp, dark diagonal fold runs from the center-left edge downwards toward the bottom-center, creating a black void that separates the upper mound from the lower one. The lower section, occupying the bottom right and center, is more brightly lit with high-key white and light gray tones, highlighting the subtle texture of pores and faint lines on the skin's surface. Superimposed over this lower mound is the semi-transparent white text \"iStockphoto\" in a sans-serif font, stretching horizontally across the width of the form. Additionally, faint, thin white diagonal lines traverse the image, one distinct line cutting from the upper left across the dark crease and through the \"S\" and \"t\" of the text, indicating a watermark pattern overlaying the organic subject matter. The lighting is soft and diffuse, creating a strong volumetric effect through the contrast between the bright lower prominence and the deep recess of the fold."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 0.19561965763568878,
+      "description": "A monochromatic, grayscale close-up captures the detailed graphic design of a curved label, likely on a bottle or can. Dominating the upper portion is an intricate, woodcut-style illustration of a mythical Kirin beast, characterized by a dark, textured body covered in small, dense scales. Flowing, flame-like appendages with smooth, light-outlined contours and dark interiors encircle the creature's torso, creating a sense of dynamic movement. A slender, dark leg with a hoof extends downwards from the central mass, resting just above a structured horizontal band. This band, delimited by thin parallel lines above and below, contains the capitalized serif text \"KIRIN ICHIBA\" in a medium grey tone with lighter outlining, set against a darker, stippled background. Below this English text, the label's background becomes a smooth, lighter grey with a vertical sheen suggesting a metallic or glossy cylindrical surface. Centered in this lower section, a row of dark Japanese characters is visible, slightly blurred by the curvature and focus. The lighting is positioned to create a vertical highlight down the center of the composition, causing the elements on the far left and right to recede slightly into darker grey tones, reinforcing the three-dimensional curvature of the object."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 0.19592826068401337,
+      "description": "A grayscale view looking upward at the upper section of a monumental stone triumphal arch reveals intricate architectural details and textures. The dominant feature is the semi-circular archway itself, framed by archivolts consisting of concentric bands of molding; the outermost band is adorned with a repeating pattern of rectangular reliefs or rosettes that traces the curve from the left vertical pier, over the apex, to the right pier. Above the arch, a horizontal entablature spans the visible width, featuring a dense frieze of complex, indistinguishable relief carvings, likely figures or floral motifs, capped by a row of dentils along the upper edge. Centered vertically above the arch's apex is a circular sculpted medallion or emblem embedded in the masonry. The underside of the arch, or intrados, displays deep coffering with rows of recessed rectangular panels that create a grid-like texture on the curved ceiling. Through the central opening, the background shows a sky filled with soft, horizontal cloud striations that are lighter near the bottom and darken slightly towards the top of the curve. The lighting is diffuse, creating soft shadows that accentuate the weathered, rough texture of the stone blocks constituting the piers and the smooth curve of the arch."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A macro close-up of a Shar Pei dog's skin, focusing on a single deep horizontal fold. The surrounding fur is a pale beige, smooth and uniform in texture. Running directly across the center of the frame is a recessed crease, creating a deep, dark charcoal shadow that appears as a solid band. This shadowed groove occupies approximately 10% of the image's vertical height and spans the entire width, contrasting sharply with the light, fleshy tones of the surrounding skin folds.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Shar Pei skin",
+        "pale beige fur",
+        "deep horizontal fold",
+        "dark charcoal shadow",
+        "recessed crease",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A straight-on view of a modern minimalist chest of drawers finished in a matte white lacquer. The drawers are closed, creating a seamless white surface above and below the central feature. The feature is a sharp, horizontal gap between the top and middle drawer, appearing as a pitch-black linear void. This dark interstice is narrow, taking up roughly 10% of the image height, and stretches from the left edge to the right edge, cutting through the bright white cabinetry.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte white lacquer",
+        "chest of drawers",
+        "pitch-black linear void",
+        "horizontal gap",
+        "dark interstice",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The side profile of a white luxury sedan's door panel. The car's paint is a pristine, glossy white that reflects the ambient light. Running horizontally across the middle of the frame is a protective impact strip made of matte black rubber. This dark strip is perfectly straight and uniform, accounting for just 10% of the vertical space, providing a stark graphical contrast against the expansive white metal of the door.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white luxury sedan",
+        "glossy white paint",
+        "protective impact strip",
+        "matte black rubber",
+        "stark contrast",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A close-up architectural shot of a light gray concrete wall. The concrete has a smooth, industrial finish. Bisecting the wall horizontally is a deliberately designed expansion joint, which manifests as a deep, dark gray, almost black, recessed channel. The shadow cast within this groove makes it appear solid and heavy. The groove is relatively thin, roughly 10% of the frame's height, and extends unbroken across the full width of the view.",
+      "rationale": "",
+      "emphasis_tags": [
+        "light gray concrete",
+        "expansion joint",
+        "deep dark gray channel",
+        "recessed groove",
+        "architectural detail",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A view of a white martial arts gi, worn and tied. The fabric is a textured, heavy white cotton canvas. Tightly cinched around the waist, visible horizontally across the center, is a black belt. The belt appears as a solid, dark charcoal band against the bright white fabric. It is positioned flatly, occupying about 10% of the image's vertical dimension, creating a decisive horizontal division between the upper and lower sections of the white garment.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white martial arts gi",
+        "heavy white cotton",
+        "black belt",
+        "solid dark charcoal band",
+        "horizontal division",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A close-up of the trunk of a paper birch tree. The bark is a peeling, chalky white with subtle papery textures. Cutting horizontally across the center is a prominent, dark black lenticel scar, appearing as a rough, elongated gash. The scar is deep and dark, contrasting vividly with the surrounding white bark. It is narrow, constituting approximately 10% of the image height, and wraps around the curvature of the tree trunk across the width of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "paper birch tree",
+        "chalky white bark",
+        "dark black lenticel scar",
+        "elongated gash",
+        "high contrast",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A sleek, white home automation hub viewed from the front. The device is a smooth, pale plastic rectangle. Centered horizontally is a long, glossy black display strip that is currently turned off, appearing as a deep, reflective black bar. This strip is slim, taking up about 10% of the device's face within the frame, and creates a sharp, geometric line against the otherwise featureless white casing.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white home automation hub",
+        "pale plastic",
+        "glossy black display strip",
+        "reflective black bar",
+        "geometric line",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A close-up of a white subway tile wall in a kitchen. The ceramic tiles are a glossy, bright white. Running horizontally between two rows of tiles is a grout line that has been filled with a deep charcoal, almost black, sealant. This dark linear strip is uniform and straight, occupying roughly 10% of the image height, and separates the upper and lower rows of bright white tiles with high contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white subway tile",
+        "glossy bright white",
+        "deep charcoal grout",
+        "black sealant",
+        "dark linear strip",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "The side view of a closed laptop resting on a white desk. The laptop's casing is a matte light gray aluminum. The focus is on the hinge area and the gap between the screen and the keyboard deck, which forms a continuous, deep black shadow line running horizontally across the image. This dark void is approximately 10% of the image height, sandwiched between the light gray metal of the lid above and the base below.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte light gray aluminum",
+        "closed laptop",
+        "deep black shadow line",
+        "hinge gap",
+        "dark void",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A stack of pristine white printer paper viewed from the side. The sheets form a solid block of bright white. Dividing the stack into two sections is a black plastic ruler that has been inserted horizontally. The edge of the ruler appears as a solid black stripe, about 10% of the total stack height visible in the frame, creating a sharp dark demarcation within the mass of white paper.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white printer paper",
+        "solid block of white",
+        "black plastic ruler",
+        "solid black stripe",
+        "sharp demarcation",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A close-up of a white chest freezer's seal. The body and lid of the appliance are a textured off-white metal. Separating the lid from the body is a horizontal black rubber gasket. This gasket forms a compressed, dark gray band running across the center. It is narrow, occupying 10% of the vertical space, and provides a strong linear contrast to the pale surfaces above and below it.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white chest freezer",
+        "off-white metal",
+        "black rubber gasket",
+        "dark gray band",
+        "linear contrast",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A minimal view of a white roller blind fully lowered. The fabric is a light, pale beige that filters the light softly. At the very bottom, there is a weighted hem bar encased in a black fabric sleeve. This black horizontal strip sits across the width of the frame, roughly 10% of the image height, grounding the light beige expanse above it with a solid, dark line.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white roller blind",
+        "pale beige fabric",
+        "black weighted hem",
+        "black fabric sleeve",
+        "solid dark line",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A close-up of the hull of a fiberglass boat. The hull is a clean, polished white. Running horizontally along the side is a rub rail with a black rubber insert. This insert creates a continuous, deep dark gray line against the white fiberglass. The rail is sleek, occupying only about 10% of the frame's height, and stretches across the entire horizontal field of view.",
+      "rationale": "",
+      "emphasis_tags": [
+        "fiberglass boat hull",
+        "polished white",
+        "black rub rail",
+        "deep dark gray line",
+        "continuous strip",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A macro shot of a fluffy white duvet cover. The fabric is gathered, creating a horizontal fold across the center. Within the deepest part of this fold, the lighting creates a pitch-black shadow that looks like a solid dark chasm. This shadowed crevice is roughly 10% of the image height, cutting through the soft, illuminated white mounds of the bedding.",
+      "rationale": "",
+      "emphasis_tags": [
+        "fluffy white duvet",
+        "horizontal fold",
+        "pitch-black shadow",
+        "solid dark chasm",
+        "shadowed crevice",
+        "10% height"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A detailed view of a white video game console positioned vertically. The casing is a matte white plastic. In the center, there is a horizontal disc drive slot that appears as a deep black, rectangular void. This dark slot is slim, accounting for 10% of the height of the frame, and contrasts sharply with the surrounding white plastic faceplate.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white video game console",
+        "matte white plastic",
+        "horizontal disc drive slot",
+        "deep black rectangular void",
+        "dark slot",
+        "10% height"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 0.2109278291463852,
+      "best_percentile": 0.006556527413309438
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 0.21266932785511017,
+      "best_percentile": 0.007883443675526824
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 0.2210654318332672,
+      "best_percentile": 0.015376617862166183
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 0.2402913123369217,
+      "best_percentile": 0.06330171109754708
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 0.24214310944080353,
+      "best_percentile": 0.07040461579529897
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 0.24259734153747559,
+      "best_percentile": 0.07235596323973631
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 0.24545840919017792,
+      "best_percentile": 0.08515680247524521
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 0.24925103783607483,
+      "best_percentile": 0.1062313548751684
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.25580576062202454,
+      "best_percentile": 0.14752186679946236
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.25824955105781555,
+      "best_percentile": 0.16648896395939325
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.26284414529800415,
+      "best_percentile": 0.20270597252815015
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.2677173316478729,
+      "best_percentile": 0.2499285806835336
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.27456992864608765,
+      "best_percentile": 0.3232992445943773
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.3154216706752777,
+      "best_percentile": 1.103447952880423
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.3570762574672699,
+      "best_percentile": 2.738833219114463
+    }
+  ]
+}

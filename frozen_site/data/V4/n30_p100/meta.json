@@ -1,0 +1,344 @@
+{
+  "area": "V4",
+  "neuron_id": 30,
+  "percentile": 100,
+  "hypothesis": "The neuron responds selectively to **repetitive, high-contrast linear or periodic patterns**, manifesting as stripes, ridges, stacked rings, or woven grids. The core activating features include the black-and-white stripes of zebras or clothing, the corrugated horizontal ridges of an elephant\u2019s trunk or golden architectural spires, the radial spokes of a spiral staircase, and the regular scale-like textures of clouds or woven fabric. These patterns are defined by alternating bands of high luminance\u2014typically white, gold, silver, or light grey\u2014and deep, dark tones such as black, dark brown, or shadow. The background is variable, ranging from clear azure skies and blurred green vegetation to neutral beige or dark voids, but usually maintains a separation from the patterned subject. The neuron is invariant to object identity, material properties, and specific orientation (vertical, horizontal, or radial), provided the sharp, periodic contrast is preserved. The textured feature typically dominates the composition, occupying 30\u201380% of the image area and is generally centered along the vertical axis.",
+  "confidence": null,
+  "total_images": 13,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.7634708881378174,
+      "description": "At the top center of the view, a small section of lime-green, felt-like skin is visible beneath the rounded, lower curve of a smooth, bright yellow bulbous shape. Immediately surrounding this area is a thick, shaggy collar or beard of vibrant tangerine-orange synthetic fur. Below the fur, the central torso is clad in a garment featuring high-contrast horizontal black and white stripes, overlaid by a broad, white V-shaped lapel or fabric panel that points downward toward the center of the chest. Situated directly on top of the stripes, just below the point of the white V, is a rectangular patch of shimmering silver metallic fringe. Flanking the striped torso on both the left and right sides are voluminous, fluffy feather boas; the boa on the left is predominantly bright orange with hints of hot pink emerging from the outer edges, while the boa on the right mixes the same orange with substantial clusters of magenta and deep violet feathers. Occupying the bottom quarter of the composition is a section of lustrous, pale lavender satin fabric, likely a lower garment, which is gathered in soft, luminous folds. This satin material reflects the light strongly and displays a subtle, swirling tone-on-tone pattern in a slightly darker shade of purple. The lighting is frontal and somewhat harsh, creating distinct highlights on the yellow nose and the sheen of the lavender fabric, while casting shadows into the depth of the feathers and metallic fringe."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.7706454992294312,
+      "description": "A medium-sized bird perches prominently in the center of the frame, angled with its chest facing the right while its head turns slightly back toward the upper left. The bird\u2019s head is adorned with dark charcoal plumage and features a distinct, vibrant crimson-red comb of textured skin arching over the eye area. Below the dark throat, the breast plumage presents a striking, high-contrast pattern of horizontal barring, where overlapping rounded feathers display alternating bands of deep black and crisp white, creating a scalloped effect that dominates the bird's front profile. The wings and back, visible along the left side of the body, exhibit a softer, mottled camouflage pattern of tawny browns, slate greys, and subtle tans, contrasting with the geometric precision of the chest. The bird stands upon a thick, weathered tree branch that ascends diagonally from the lower center toward the right edge; the bark is rough and textured with patches of light grey and charcoal, appearing slightly out of focus where it extends into the foreground. The background consists of a soft, undefined bokeh of muted tones, primarily hazy sage greens and pale bluish-whites, indicating distant foliage and sky, while natural diffuse lighting highlights the white tips of the chest feathers and the red comb without casting harsh shadows."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.7707895040512085,
+      "description": "A high-angle, close-up view captures two zebras grazing on a patch of vibrant green grass. The dominant subject is a large zebra positioned in the foreground, occupying the right and lower center of the visual field. Its body is oriented diagonally, with the neck extending from the upper right down toward the bottom center where the head is lowered, presumably to eat. This zebra displays a high-contrast coat of deep black and bright white stripes; on the thick, muscular neck, the stripes are vertical and broad, tapering into a complex, diamond-like pattern on the forehead. A stiff, erect mane runs along the crest of the neck, consisting of short, bristly hairs that alternate between black and white segments. The animal's left ear is prominent near the lower left-center, swiveled slightly forward to reveal a fuzzy, cream-colored interior and a dark rim, while the right ear is mostly obscured by the angle. Below the head, the top of the front legs are visible, featuring horizontal striping that wraps around the limbs. In the upper left quadrant, positioned several feet behind the first animal, is a second, smaller zebra. This individual is angled away from the viewer, showing its left flank and hindquarters. Its stripes differ significantly in hue, appearing as a warm, reddish-brown or sepia tone against a pale cream background, rather than stark black and white. The stripes on its side are vertical, curving horizontally over the rounded rump. The background consists of short, sunlit grass that is slightly out of focus, creating a soft, textured green field. Natural daylight illuminates the scene from above, casting highlights on the bristled tips of the foreground zebra's mane and the curve of the background zebra's back, while soft shadows define the musculature of the animals' necks and flanks."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.8053998947143555,
+      "description": "A dramatic, high-contrast view down a spiral staircase creates a striking radial pattern resembling a mechanical iris or a sunburst. Approximately twenty illuminated, spoke-like structures radiate outward from a central, dark void located slightly left of the geometrical center. These radial elements, likely the undersides or edges of stair treads, are a warm, glowing cream to bone color, appearing smooth and cylindrical or slightly tapered, with intense specular highlights running along their lengths suggesting a polished material like lacquered wood or painted metal. They are separated by deep, triangular wedges of shadow that transition from pitch black at the periphery to a murky, dark olive-brown near the center. Intersecting these radiating spokes is a continuous, spiraling rail or stringer that curves tightly in a counter-clockwise progression. This structural spiral is a metallic bronze or burnished gold color, detailed with small, dark connection points or rivets where it meets each cream-colored spoke. The spiral acts as a visual anchor, starting tightly around the central abyss and expanding outward toward the right and top edges. The central void itself is a circular area of deep shadow, contrasting sharply with the brightness of the surrounding stair structure. The lighting is directional and harsh, creating a chiaroscuro effect where the brightly lit structural elements stand out vividly against the enveloping darkness, and the perspective causes the spokes to appear longer on the right side where the spiral expands, while they are shorter and more tightly packed on the left."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.8340415954589844,
+      "description": "A vertically oriented, polished wooden spindle or vase-like object stands centrally against a mottled, medium-gray background. The object is crafted from a rich, reddish-brown hardwood, likely mahogany, with a high-gloss finish that reflects light intensely. Its form is defined by a \"beehive\" structure, consisting of a stacked series of horizontal, convex rings or ridges that taper gradually in diameter from the top to the bottom. Approximately thirteen distinct rounded ridges are visible; the uppermost section is partially cropped at the top edge, appearing as a wider, flatter disk before the rhythmic pattern begins. Each successive ring below it is slightly narrower than the one above, creating a gentle conical taper. Deep, shadowed horizontal grooves separate each ring, emphasizing the segmented, sculptural nature of the woodturning. Lighting coming from the upper left creates a vertical alignment of bright white specular highlights along the left-center curvature of each ring, while the right side of the object recedes into darker, chocolate-colored shadows. At the bottom, the lowest and smallest ring transitions into a wider, flared base with a smooth, rounded profile that resembles a bun foot, wider than the bottommost rings but narrower than the top. The object rests on a reflective black surface, casting a faint, blurry, reddish-brown reflection directly beneath the base. The background is a uniform, non-descript gray with a slight graininess, providing a neutral backdrop that contrasts with the warm, saturated tones of the wood."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.837479829788208,
+      "description": "Occupying the central vertical axis of the view is a tapered, spindle-like accumulation of glossy, bright white fibers wrapped in a dense, crisscrossing pattern. This fibrous mass dominates the upper two-thirds of the composition, appearing widest near the top edge where it spans approximately one-third of the total image width, and gradually narrowing as it descends. The texture of the white material is distinct, composed of multiple thin strands bundled together that reflect light with a pearlescent sheen, creating a series of bright highlights along the raised ridges of the windings and softer gray shadows in the crevices between them. The wrapping is somewhat irregular, with visible loops and diagonal overlaps that give the surface a rugged, woven appearance, and the edges are slightly fuzzy, blurring the boundary with the background. Protruding directly from the bottom of this white bundle is a smooth, cylindrical rod in a muted, medium forest green. The rod extends vertically downward to the bottom edge, maintaining a constant diameter that is roughly half the width of the narrowest part of the white wrapping above it. The background is a uniform, out-of-focus field of neutral grayish-beige, providing a soft, low-contrast backdrop that allows the sharp textures of the white fibers and the solid color of the green rod to stand out clearly under the diffuse, frontal lighting conditions."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.8536335229873657,
+      "description": "centered within the visible area, a dog with a wet, piebald coat of deep chestnut brown and white swims directly toward the viewer through dark, rippled water. The dog's head is the primary focal point, featuring a broad white blaze running vertically from the snout up the center of the forehead, flanked by dark reddish-brown fur covering the eyes and cheeks. The ears are wet and slicked back against the head, blending into the water. A black, textured nose sits prominently at the center of the face, just above a dark brown, rough-hewn wooden stick held firmly in the dog's mouth; the stick extends horizontally, slightly wider than the width of the dog's head, with its ends submerged or skimming the surface. Behind the head, the dog's back is submerged, indicated by a vague dark shape, while a small, blurred, reddish-brown distinct bump, likely the tail or rear, breaks the water's surface in the background directly behind the head. The water itself is a glossy, undulating surface of dark slate blues and forest greens, covering the majority of the scene. In the foreground, beneath the dog's chin, the water reflects fragmented, shimmering patches of white from the dog's chest, distorted by the fluid movement. Small, bright white specular highlights from sunlight glint off the crests of the ripples and the wet surface of the stick, contrasting with the deep shadows in the troughs of the waves. The background water transitions into a softer focus, creating a textured field of bokeh-like ripples that recede to the top edge of the view."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.856371283531189,
+      "description": "Centered in the view is the frontal head and upper trunk of a large grey elephant, occupying almost the entire visible area. The animal's skin is a matte slate-grey, deeply textured with a complex network of cracks and wrinkles, particularly dense on the forehead and trunk. The trunk runs vertically down the center, taking up approximately the middle third of the width, and is characterized by deep, repetitive horizontal ridges that give it a corrugated appearance. Emerging from beneath the heavy folds of the upper lip on either side of the trunk are two thick, creamy-white tusks that curve downwards and slightly outwards. The tusk on the left features some brownish discoloration near its tip, while the right tusk appears slightly cleaner and brighter. Small, dark, almond-shaped eyes are set deeply into the sides of the head, positioned above the tusk line and framed by heavy eyelids and surrounding wrinkles. Large ears fan out to the extreme left and right edges, their surfaces showing a rough, varying texture with shadowed recesses where they meet the head. To the left of the elephant's head, out-of-focus vertical streaks of bright green grass provide a contrasting background, while the background to the right is a darker, indistinct blur of deep greens and greys. The lighting is soft and diffuse, accentuating the three-dimensional volume of the trunk and the rough texture of the skin without creating harsh highlights, though deep shadows collect under the ears and around the base of the tusks. The bottom of the view reveals the upper chest area as a dark, out-of-focus grey mass interspersed with faint hints of green vegetation at the lowest visible edge."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.8582504987716675,
+      "description": "A golden, conical spire dominates the central vertical axis, tapering upwards against a clear, bright azure sky. The main body of the structure consists of stacked, horizontal golden rings that create a ribbed, metallic texture, gleaming with strong white specular highlights on the left side, indicating a light source from the upper left. At the bottom of the visible area, a curved white architectural element supports a decorative band adorned with oval-shaped gems in alternating colors of deep red, dark blue, and soft pink, set within gold casing. Above the ribbed cone, near the top, is a cylindrical section painted a vibrant red, from which an elaborate array of golden ornaments radiates. Thin wires or spokes extend outward and downward from this red hub in a canopy-like formation, suspending multiple concentric tiers of golden, leaf-shaped pendants that dangle freely. These suspended metallic elements overlap the blue sky and the upper portions of the golden rings, creating a complex, chandelier-like silhouette. The perspective is a steep low-angle shot looking upward, with shadows cast on the right side of the ribbed rings, emphasizing the cylindrical volume of the spire."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.8730589151382446,
+      "description": "A high-magnification close-up reveals a textured field of coarse, woven fabric in a light beige or off-white tone, characterized by a prominent basket-weave pattern where interlocking threads form a regular grid of raised, rectangular nubs and recessed gaps. Positioned centrally on this fabric landscape is a small beetle, specifically a weevil, oriented in profile facing toward the left side. The insect features a distinctive, elongated black snout or rostrum that curves slightly downward from its small, dark head. Behind the head, the thorax is dark, appearing charcoal or black, contrasting with the abdomen which is covered by wing cases in a muted, rusty-orange or brick-red hue that darkens to black at the posterior tip. Thin, dark, articulated legs extend from the body, with the front leg reaching forward beneath the snout and the other legs planted firmly on the fabric's surface, gripping the texture. The insect is small relative to the weave, its body length spanning approximately four to five distinct bumps of the fabric pattern. The lighting is soft and diffuse, casting a faint, amorphous shadow directly beneath the insect that anchors it to the cloth, highlighting the three-dimensional quality of both the creature and the rough textile weave."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.8940256834030151,
+      "description": "Centered vertically in the frame is the upper portion of a golden stupa spire, appearing as a tapered cone made of approximately thirteen stacked, horizontal rings that diminish in diameter as they ascend. The metallic surface of these rings is highly reflective, gleaming with bright yellow-gold highlights on the left side and deepening into bronze-toned shadows on the right, indicating a strong light source from the upper left. Surmounting the ringed section is an ornate, filigreed metal crown structure, partially visible at the very top, featuring intricate openwork and copper-toned accents. At the base of the golden rings lies a decorative collar adorned with a repeating pattern of vertical ovals, alternating between deep red and turquoise teal insets. This golden assembly rests upon a stark white architectural pedestal composed of stepped, geometric blocks; the visible portion includes a main rectangular tier sitting above a slightly recessed neck and a wider lower base, with the right-hand vertical faces cast in cool gray shadow. Flanking the left side of the image is a tall, dense mass of dark green foliage, appearing as a tree or large bush, which extends from the bottom edge up to the level of the spire's upper rings. On the right side, a smaller cluster of green leafy branches protrudes from the lower edge, obscuring the bottom right corner of the white pedestal. Behind the structure and foliage lies a calm, vast body of water in a uniform medium blue, meeting a pale, cloudless blue sky at a distinct, straight horizon line that cuts horizontally across the middle of the scene."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.9136279821395874,
+      "description": "A textured expanse of sky fills the upper and left portions of the view, characterized by a diagonal arrangement of altocumulus clouds that create a rippled, scale-like pattern transitioning from azure blue in the upper left to a bright, diffuse white towards the center and horizon. Dominate in the center of the composition is a tall, conical evergreen tree, its dark green, almost black silhouette contrasting sharply against the bright sky, with its apex reaching into the upper third of the vertical space. To the right, occupying the lateral quarter of the scene, is a red brick building with classical white architectural details, including a distinct cornice line and a section of a tower or cupola visible at the very top right featuring a window; a lower section of the building projects leftward with a dark gray shingled roof sloping down. In the lower left quadrant, adjacent to the dark evergreen, a cluster of deciduous foliage is brightly backlit, glowing with warm hues of amber, gold, and brown, indicating a low sun angle positioned behind the trees. Optical artifacts are prominent, with a bright hazy glare obscuring the lower left details and a series of geometric lens flares\u2014small orange and green hexagons and circles\u2014superimposed over the lower center of the evergreen and the brick wall of the building. The lighting is directional and intense from the lower left, casting the front face of the brick building into partial shadow while highlighting the edges of the clouds and the translucent autumn leaves."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.933273196220398,
+      "description": "Dominated by the high-contrast plumage of a bird in mid-flight, the central focus of the view is the dorsal surface of a partially extended wing angling diagonally from the upper right toward the lower left. The wing features a striking pattern: the leading edge and shoulder area are covered in deep, matte black feathers that transition sharply into a broad, brilliant white band of secondary coverts running horizontally across the mid-wing. Below this white stripe, the long primary flight feathers return to a charcoal-black hue, extending downward and leftward with distinct, separated tips that reveal the rigid, overlapping structure of the quill and vane. To the right of the wing, the bird's body is visible in profile, with a jet-black back merging seamlessly with the upper wing and a smooth, pure white underbelly that curves gently along the lower right quadrant. Protruding from beneath the white plumage at the far right edge is a segment of a reddish-pink leg, extended horizontally backward in line with the flight path. The entire scene is set against a completely out-of-focus background of mottled, earthy beige and muted olive-tan tones, creating a smooth, neutral wash that emphasizes the sharpness and stark monochromatic coloring of the bird's feathers. The lighting appears natural and diffuse, casting subtle shadows between the layered feathers and illuminating the white sections with a soft, even glow."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.9833391904830933,
+      "description": "The visible portion of the image is dominated by the midsection and lower body of a bird, oriented in profile facing toward the left. The head is cropped out at the neck, and the tail is cropped at the rear. The bird's plumage on the upper chest and neck area is a soft, mottled grey-brown, consisting of fine, downy feathers. Moving vertically down the flank, below the folded wing, there is a distinctive pattern of elongated feathers that are a rich, deep rufous-brown color, each bisected horizontally by a sharp, tear-drop shaped white streak. The folded wing itself, resting above this rufous patch, is composed of layered feathers in variegated shades of light brown, tan, and grey, creating a scaled appearance. The underbelly is a pale, creamy off-white that transitions into the grey of the chest. The bird stands on a rough, woody branch that extends diagonally from the lower left to the lower right of the frame. The branch has a weathered texture with patches of light tan inner wood exposed amidst darker grey and brown bark. Two pale, pinkish-grey legs are visible; the leg closer to the viewer extends straight down, with the foot grasping the branch firmly, showing articulated toes and dark, curved talons. The background is a smooth, out-of-focus field of muted olive green and indistinct brown tones, indicating a shallow depth of field that keeps the sharp focus entirely on the bird's plumage and the perch. The lighting is soft and diffuse, illuminating the textures of the feathers without casting harsh shadows."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.998687744140625,
+      "description": "A central view of a person's torso showcases a layered outfit dominated by a dark charcoal grey suit jacket that fills the majority of the frame's lateral space. The jacket is constructed from a smooth, matte woven fabric and is worn open, revealing a horizontally striped knit top underneath. This middle layer features alternating bands of white and heather grey of equal thickness, with the fabric bunching slightly at the waist and stretching across the chest. Beneath the striped shirt's low scoop neckline, a small triangular portion of a third layer is visible at the top center: a dark navy or black collared shirt with fine vertical white pinstripes. On the viewer's right, the jacket's lapel is adorned with a cluster of three small, round button pins in varying shades of dark blue and purple. At the bottom of the frame, the figure wears dark grey trousers matching the jacket, secured by a medium-brown leather belt. The belt is threaded through loops and fastened with a rectangular brass buckle; distinctively, the belt strap features a row of large brass grommets running along its visible length. Soft, diffuse lighting creates gentle highlights on the folds of the striped shirt and the curve of the belt, while casting deeper shadows inside the open jacket and under the arm on the viewer's left, where the sleeve shows heavy horizontal creasing at the elbow."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A focused vertical view of a zebra's neck mane, occupying exactly 30% of the central image area. The stiff, upright hair forms a rigorous periodic pattern of stark, bright white stripes alternating with deep, jet-black stripes. The pattern is high-contrast and linear. The background is a heavily blurred wash of vibrant emerald green vegetation, separating clearly from the sharp subject.",
+      "rationale": "",
+      "emphasis_tags": [
+        "zebra",
+        "stripes",
+        "black and white",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A section of a gilded architectural spire, centered and filling the central 30% of the frame. The structure features corrugated horizontal ridges of metallic gold that catch the sunlight, creating bright luminous bands separated by deep, dark brown shadowed recesses. The backdrop is a crisp, clear azure blue sky without clouds.",
+      "rationale": "",
+      "emphasis_tags": [
+        "gold",
+        "ridges",
+        "architectural",
+        "corrugated"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A close-up segment of an elephant's trunk, draped vertically and occupying 30% of the visual field in the center. The texture is defined by rough, horizontal ridges of light grey skin contrasting with deep, almost black crevices between the folds, creating a stacked ring effect. The background is a smooth, neutral beige.",
+      "rationale": "",
+      "emphasis_tags": [
+        "elephant trunk",
+        "ridges",
+        "light grey",
+        "texture"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A piece of woven textile hanging vertically, occupying the central 30% of the image. The fabric displays a precise, repetitive pattern of horizontal stripes, alternating between shimmering silver thread and matte black yarn. Behind the fabric lies a deep, dark void with no discernible details.",
+      "rationale": "",
+      "emphasis_tags": [
+        "woven fabric",
+        "silver",
+        "black",
+        "stripes"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "The trunk of a birch tree standing vertically, centered and covering 30% of the canvas width. The bark is brilliant white, peeling slightly, and marked by distinctive, rough black horizontal lenticels that create a ladder-like periodic pattern. The background is a bright, out-of-focus azure sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "birch tree",
+        "bark",
+        "white",
+        "black markings"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "The long, ringed tail of a lemur hanging straight down the center, constituting 30% of the image area. The fur pattern consists of thick, fluffy bands of bright white alternating with equal-width bands of dense black, creating a high-contrast periodic texture. The background is a soft blur of forest greens.",
+      "rationale": "",
+      "emphasis_tags": [
+        "lemur tail",
+        "ringed",
+        "fur",
+        "black and white"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A section of corrugated steel roofing positioned vertically, taking up 30% of the frame. The sinusoidal wave pattern creates strong vertical highlights of silver-grey metal and deep, linear shadows of dark grey, forming a repetitive grid-like structure. The background is a flat, neutral beige wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "corrugated metal",
+        "silver",
+        "shadows",
+        "vertical lines"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A macro shot of a piano keyboard, angled slightly to show the keys, occupying 30% of the space in the center. The image focuses on the repetitive pattern of polished white keys separated by the deep black shadows of the gaps and the adjacent black sharp keys. The surrounding area is a pitch-black void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "piano keys",
+        "keyboard",
+        "white",
+        "black"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A section of a California Kingsnake's body coiled in the center, filling 30% of the view. The smooth scales form distinct, high-contrast bands of creamy white and glossy black, creating a perfect periodic stripe pattern. The snake rests against a plain, neutral beige sandy surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "snake",
+        "banded",
+        "scales",
+        "black and white"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A segment of a household heating radiator standing vertically, occupying 30% of the image. The design features repeated vertical fins painted a glossy white, with deep, dark shadow lines running between each fin to create a high-contrast linear grating. The background is a dark, shadowed wall.",
+      "rationale": "",
+      "emphasis_tags": [
+        "radiator",
+        "fins",
+        "white",
+        "linear pattern"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A close-up of a stretched metal spring, oriented vertically in the center and covering 30% of the area. The coils catch the light, appearing as bright silver loops against the deep black gaps between them, forming a stacked ring pattern. The background is a solid dark void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "spring",
+        "metal",
+        "silver",
+        "coils"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A portion of a large scallop shell, centered and taking up 30% of the frame. The surface is characterized by radiating ridges that are pale, chalky white, casting deep, dark shadows in the grooves between them to form a fan-like periodic texture. The background is a soft, out-of-focus beige.",
+      "rationale": "",
+      "emphasis_tags": [
+        "scallop shell",
+        "ridges",
+        "white",
+        "shadows"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A detail of closed venetian blinds, occupying the central 30% vertical strip of the image. The horizontal slats are a bright, clean white, stacked tightly with distinct black shadow lines separating each slat, creating a uniform linear grid. The background is a blurry, dark void.",
+      "rationale": "",
+      "emphasis_tags": [
+        "venetian blinds",
+        "slats",
+        "white",
+        "horizontal lines"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A close-up section of a woven wicker basket, filling 30% of the center. The weave creates a checkerboard texture of light, golden-straw colored reeds alternating with deep dark brown recesses where the material overlaps. The background is a simple, neutral beige.",
+      "rationale": "",
+      "emphasis_tags": [
+        "wicker",
+        "woven",
+        "gold",
+        "texture"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A set of vertical suspension bridge cables against the sky, occupying 30% of the image width. The thick steel cables are silver and reflect the sun, appearing as bright periodic lines against the dark, shadowed sides of the cables. The background is a vibrant azure blue sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "cables",
+        "steel",
+        "silver",
+        "linear"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.624009370803833,
+      "best_percentile": 99.99672173629334
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.4478024244308472,
+      "best_percentile": 99.98423311264895
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.2312756776809692,
+      "best_percentile": 99.91359433516031
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.076259970664978,
+      "best_percentile": 99.67513967745008
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.074467658996582,
+      "best_percentile": 99.66951979681009
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.027831792831421,
+      "best_percentile": 99.51036789924179
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.0250333547592163,
+      "best_percentile": 99.4992061918596
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.0014680624008179,
+      "best_percentile": 99.38946241158445
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 0.9363240599632263,
+      "best_percentile": 98.92129513271504
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 0.8229965567588806,
+      "best_percentile": 97.04230365151744
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 0.8140501976013184,
+      "best_percentile": 96.7886284837406
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 0.7908832430839539,
+      "best_percentile": 96.02986654344558
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 0.777117908000946,
+      "best_percentile": 95.48926524743867
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 0.7377399206161499,
+      "best_percentile": 93.47851878679266
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 0.5155213475227356,
+      "best_percentile": 55.36979595150043
+    }
+  ]
+}

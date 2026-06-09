@@ -1,0 +1,359 @@
+{
+  "area": "V1",
+  "neuron_id": 10,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to high-contrast, grayscale visual patterns characterized by deep black or charcoal-gray masses juxtaposed against bright white or light gray regions. The core driver is the sharp luminance boundary or polarity between a substantial dark area\u2014such as black fur, plumage, deep shadows, or painted metal\u2014and a lighter adjacent area or background, often manifesting as organic curves, silhouettes, or glossy surfaces with specular highlights. The neuron is invariant to object identity (activating for birds, mammals, snakes, and man-made objects), texture, and lighting direction, provided the intense dark\u2013light tonal contrast is preserved. The activating features typically occupy 30\u201370% of the image area, often oriented diagonally or vertically and positioned centrally or slightly off-center. The visual palette is consistently achromatic, featuring jet black and dark gray elements set against or interspersed with bright white, off-white, or medium gray tones.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.812302589416504,
+      "description": "Set against a uniform, medium-gray background that fills the majority of the visual field, a blurry, monochromatic, organic structure occupies the central region, slightly offset to the left. This central form is composed of contrasting shades of gray and black, appearing roughly oval or ear-shaped, spanning approximately one-third of the image's width and height. The most defining feature is a dark, charcoal-black, curved segment on the left side of the object, resembling a thick, vertical hook or a reversed 'C' shape that curves inward toward the right. Nestled within the concave interior of this dark curve is a lighter, pale-gray region that appears denser and brighter than the surrounding background, forming a vague, downward-pointing wedge or ridge. To the immediate right of this pale wedge, the form transitions into a muddier, dark-gray shadow that lacks defined edges, blending softly into the background. Extending horizontally from the top of the main dark mass is a very faint, thin, dark line that reaches slightly to the right. The entire image possesses a heavy, granular texture with soft, indistinct boundaries, creating a diffuse appearance where no sharp lines exist, and lighting appears as varying densities of grayscale rather than directional illumination, with the brightest highlights concentrated in the pale-gray interior of the central shape."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.812355875968933,
+      "description": "Occupying the majority of the visual field is a close-up view of dense, fibrous animal fur, characterized by high contrast between areas of creamy off-white and deep charcoal black. The primary background consists of soft, short strands of fur in shades ranging from bright white to light grey, appearing to radiate gently from the left side outward. Dominating the right-center portion of the image is a large, roughly kidney-shaped patch of jet-black fur, angled slightly diagonally from the top right down towards the bottom left. Within the upper-left quadrant of this dark patch sits a glossy, dark eye, which is difficult to distinguish from the surrounding black fur except for a distinct, sharp white specular highlight reflecting a light source from the upper front. The eye appears moist and almond-shaped. To the left of the black eye patch, the white fur creates a subtle, soft ridge or fold, suggesting facial curvature, with the individual hairs clearly defined and flowing downwards and backwards. The lighting is soft and diffused, creating gentle gradients in the white fur while the black area absorbs most of the light, flattening the texture within the dark patch except for the immediate area around the eye. The depth of field is shallow, causing the fur at the extreme top and bottom peripheries to blur slightly, focusing attention on the sharp texture of the eye and the boundary between the black and white fur."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.8129602670669556,
+      "description": "Presented in grayscale, the image features a close-up, side-view cropping of a bird\u2019s torso, specifically the chest and folded wing, facing toward the left. The subject is dominated by a high-contrast division of plumage: the left and upper sections display bright white feathers covering the bird's chest and neck area, appearing smooth with subtle grey shading that suggests a rounded, convex form. Sharply contrasting this is a large, deep black region representing the folded wing, which occupies the center-right and sweeps diagonally downward from the upper back. The texture within the black wing is visible as faint, layered outlines of feathers, particularly near the lower edge where the black transitions to a slightly lighter dark grey. The boundary between the white body and the black wing is a distinct, curved line arching from the upper middle area down toward the lower right. In the background, slightly out of focus, is a textured surface of vertical, parallel lines resembling corrugated metal siding, rendered in mid-grey tones. A faint horizontal wire or seam crosses this background surface behind the bird's upper neck area. The lighting is diffuse, eliminating harsh highlights while casting soft shadows on the white plumage to emphasize volume, and the cropping frames the bird such that the head is cut off at the top and the legs are excluded at the bottom."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.816217064857483,
+      "description": "A segment of a snake's body, rendered in high-contrast monochrome, cuts diagonally across the frame from the upper center towards the bottom right, occupying roughly a central vertical strip of the visual field. The snake's skin is textured with a dense array of small, overlapping scales that appear dark, likely black or deep charcoal, with bright white highlights reflecting off their raised ridges, creating a speckled, shimmering pattern that emphasizes cylindrical curvature. The scales are arranged in tight, geometric rows that follow the contours of the body. Surrounding the serpent is a chaotic arrangement of dry, thin vegetation, resembling straw or parched grass blades, which vary in tone from light grey to white. These blades are scattered across a granular, sandy ground, crisscrossing in random directions\u2014some standing vertically, others lying flat or angled diagonally. The lighting is sharp and direct, casting deep shadows within the gaps of the grass and enhancing the three-dimensional relief of the snake's scales, while the background elements appear slightly softer in focus compared to the crisp detail of the reptile's body."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.8174198865890503,
+      "description": "This black-and-white image features a bird, resembling a hornbill, perched atop the end of a thick, weathered branch that extends diagonally upwards from the lower center towards the right. The bird faces away from the viewer, angling its head in profile to the right. Its body is predominantly dark, with feathers that appear black, contrasting against a lighter neck and head. The wings are folded against its back, showing a distinct white stripe along the trailing edge of the visible wing. The tail feathers extend straight down below the perch, dark and uniform in tone. The bird possesses a large, curved beak topped with a prominent casque, characteristic of hornbills, which curves gently upward before descending to a point. A dark patch surrounds the eye area, extending to the base of the beak. The bird's feet grip the rough texture of the wooden perch, which appears dry and stripped of bark, featuring deep longitudinal cracks and a jagged, broken end where it terminates on the right. The background is a featureless, light gray expanse, providing a neutral backdrop that highlights the silhouette and tonal contrast of the bird and branch. The lighting is soft and diffuse, casting subtle shadows on the underside of the branch and the bird's lower body, suggesting an overhead or ambient light source without harsh directionality."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.8174734115600586,
+      "description": "Presented in monochrome, a close-up view captures a textured, organic surface dominated by high-contrast zones of deep charcoal and bright white. On the left side, a large, rounded mass of dark gray, almost black material fills the frame, possessing a soft, matte appearance consistent with dense fur or down. This dark area terminates at a sharp, irregular vertical boundary where it meets a swath of brilliant white, fibrous material that runs from the bottom center toward the upper middle. The edge between the dark and white zones is jagged and feathery, with individual strands of the white texture encroaching onto the dark, creating a serrated line. To the right of this white band, the form curves away, transitioning into a shadowed, dark gray vertical strip that suggests the edge of a rounded body. The background, occupying the upper right quadrant, is heavily out of focus, displaying a chaotic arrangement of linear, gray shapes that resemble tangled twigs or dry vegetation. Scattered amongst these blurry forms are several bright, circular bokeh highlights, creating luminous white orbs that indicate a light source filtering through the complex background structure. The lighting is soft yet directional, emphasizing the tactile quality of the white fibers while leaving the leftmost mass in deep shadow, emphasizing a shallow depth of field that isolates the central textures against the busy, indistinct backdrop."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.8183269500732422,
+      "description": "A monochromatic, close-up profile captures the head and upper torso of a water bird facing toward the left. The bird's plumage on the head and neck is a deep, textured charcoal black, appearing wet with individual feather clumps visible. Scattered across the crown and the back of the neck are several small, distinct bright white highlights, indicating water droplets resting on the feathers. The bird features a prominent, high-contrast beak that is bright white, thick at the base, and tapers to a point on the left side of the frame. This white structure extends upward onto the forehead, forming a rounded frontal shield. Near the very tip of the beak, there is a small, dark vertical band. The bird's eye is small, dark, and positioned slightly behind the beak's base, barely distinguishable from the surrounding dark feathers except for a tiny glint of light. As the neck descends, the plumage transitions from the deep black of the head to a lighter, soft medium-gray on the curved back visible on the right side. The background consists of a smooth, out-of-focus surface of medium-gray tones, resembling water, with subtle, lighter undulating streaks suggesting ripples to the left of the bird. At the very bottom center, a dark, blurry mass suggests the beginning of the bird's reflection on the water's surface."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.8205978870391846,
+      "description": "Dominating the center of the view is a portable work light resting on a floor covered in small, hexagonal mosaic tiles, presented in a grayscale format. The light fixture features a rectangular face that is angled diagonally upward and to the right, emitting an intense, blown-out white glow that washes out most internal detail, although faint vertical striations suggest a grid of LED elements. This bright panel is encased in a thick, dark grey housing with rounded corners. Extending upward and slightly to the left from the top-left edge of the housing is a cylindrical handle, which appears dark and matte. The entire unit is supported by a dark, tubular metal stand that brackets the sides of the housing and loops underneath to form a U-shaped base resting on the tiles; the base extends backward to counterbalance the tilted light. To the right of the stand, a thick, dark power cord snakes across the floor in a loose curve. The floor itself is comprised of tightly packed hexagonal tiles in varying shades of light, medium, and dark grey, creating a speckled, honeycomb texture with distinct dark grout lines. Shadows are cast primarily to the left and underneath the stand, anchoring the object to the patterned surface, while the lighting on the tiles transitions from bright near the lamp face to slightly dimmer in the surrounding areas."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.8244078159332275,
+      "description": "A dark, monochromatic silhouette of a spider is suspended against a cloudy, light-grey background, rendered with a heavy, out-of-focus blur that obscures fine textures. The arachnid is oriented diagonally, with its anterior region pointing toward the upper-left and its large, bulbous abdomen positioned slightly below and to the right of the center. The abdomen is the most substantial element, a dense black oval shape that anchors the composition. From the smaller, indistinct cephalothorax attached to the upper-left of the abdomen, long, segmented legs radiate outward. Three distinct legs stretch towards the upper-left corner; the highest one is thick and blurry, extending near the top limit of the view, while the leg immediately below it is slightly thinner and parallel. On the right side of the body, the legs curve sharply downwards, with one long, spindly leg sweeping vertically towards the bottom right, ending in a faint point. On the lower left, another leg dangles vertically, appearing thinner and more faded than the upper limbs. The background is a textured, grainy grey that is brightest in the upper-right quadrant and slightly shadowed in the lower-left, providing high contrast for the deep black subject. There are no sharp lines; every boundary between the black spider and the grey background is diffused and hazy, giving the entire scene a soft, dreamlike or shadowy quality."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.8248398303985596,
+      "description": "A dark, glossy, segmented cylinder dominates the central vertical axis, extending from the top edge down to the bottom center with a slight rightward tilt of approximately five to ten degrees. The object consists of roughly twenty visible, evenly spaced horizontal ridges or rings stacked upon one another, resembling a flexible gooseneck arm or ribbed tubing, with a diameter occupying about one-tenth of the image's width. The material appears highly reflective and black, evidenced by a vertical series of sharp, white specular highlights on the left side of each individual ridge, forming a dashed line of light that runs the length of the object. Fainter, more diffuse grey reflections mark the right side of the ridges, emphasizing the cylindrical volume. At the bottom, the ribbed structure connects to a dark, rounded base that is mostly obscured by shadow. The background consists of a plain, matte, mid-grey vertical surface that fills the majority of the space, transitioning near the bottom quarter into a lighter, horizontal grey plane, suggesting a wall meeting a floor or table surface. The lighting appears to be artificial and directional from the upper left, creating the high-contrast reflections on the object and casting subtle, soft shadows to the right against the grey background."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.8270241022109985,
+      "description": "A vertical column of dense, dark plumage dominates the central composition, rising from the bottom edge and occupying roughly the central fifth of the visual width. This structure, the neck of a waterfowl, is rendered in deep blacks and charcoal grays, with a coarse texture indicating matted or wet feathers. Near the top of the column, the dark plumage gives way to a distinct, curved patch of bright white on the right side, contrasting sharply with the surrounding darkness. Just above this white area, the bird's bill is open, and a light gray, triangular tongue protrudes horizontally to the right, extending slightly beyond the line of the neck. The background consists of a medium-gray surface with soft, horizontal striations and ripples, suggesting a body of water. To the left of the central neck, several thin, faint vertical lines, resembling reeds or stalks, rise from the water in the lower-left quadrant, appearing slightly out of focus against the sharper details of the bird. The entire scene is monochromatic, relying on the high contrast between the bird's dark features and the mid-tone gray of the aquatic background."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.8321202993392944,
+      "description": "The upper two-thirds of the visible area is dominated by the highly polished, convex nose of a vehicle, painted in a deep, glossy black. A wide, bright white racing stripe runs vertically through the left-center portion of the hood, curving smoothly downward over the rounded front end. To the right of this primary stripe, separated by a vertical band of the black body color that is approximately one-third the width of the wide stripe, a second parallel white stripe is visible, though it is partially truncated by the right edge of the view. The paint finish is mirror-like, reflecting several bright, circular points of artificial light: one prominent highlight sits on the black paint to the far left, another rests on the black gap between the stripes, and two smaller reflections appear on the upper right black section, emphasizing the curvature of the metal. Below the smooth, rounded lip of the hood, the bottom third of the image is occupied by a large, elliptical air intake or grille. This opening is filled with a dense, uniform pattern of thin horizontal slats in a matte metallic grey, which run parallel to each other and extend across the entire width of the visible grille area, creating a textured contrast with the sleek smoothness of the bodywork above."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.855171799659729,
+      "description": "Occupying the left and central portions of the view is a primate shown in profile, seated and facing toward the left. The image is monochrome, characterized by high contrast between deep, shadowed blacks and bright whites. The dominant visual feature is a luxuriant, sweeping cape of long, white fur that originates from the animal's shoulder region and cascades down its flank in a crescent shape, ending near the lower center. The texture of this white hair is distinct, showing individual strands flowing vertically and curving slightly inward. The rest of the animal's body, including the hunched back, the tucked limbs on the left, and the tail region at the bottom, is covered in dense, matte black fur that absorbs the light. The head, positioned in the upper-left quadrant, features a dark face that is partially obscured by shadow, though the outline of the snout and brow is visible in profile. Short, gray-toned fur surrounds the face, creating a soft transition to the darker neck and body. The background is divided into two textures: the upper right area displays out-of-focus, vertical vegetation resembling grass in mid-gray tones, while the area to the right of the primate\u2019s back shows a flatter, textured surface like stone or concrete, dappled with irregular light and dark gray patches. A small, bright, curved object, possibly a leaf or debris, lies on this surface in the mid-right section. The lighting appears to come from above, illuminating the white mantle and the background ground, casting the animal's front and face into deeper shade."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.8743585348129272,
+      "description": "Viewing the scene from a steep, low angle looking upward, a massive masonry structure dominates the frame, rendered in grainy black and white tones. On the left side, occupying roughly one-third of the visual field, a sturdy vertical pier is constructed from large, rough-hewn rectangular stone blocks stacked in regular horizontal courses. The surface of these stones is weathered and pitted, with dark patches of discoloration and deep grooves marking the joints between blocks. Extending from the center of the image and curving sharply upward is a tall, narrow archway, its peak reaching near the top edge of the view. The interior of this arch is cast in profound shadow, creating a void of solid black at the apex that fades slightly to a dark charcoal gray near the bottom, contrasting starkly with the lighter gray of the exterior stone face. The inner thickness of the arch is visible on the right side, emphasizing the heavy construction. To the right of the main arch, the structure recedes sharply away from the viewer, revealing the partial curve of a second, sequential archway, also filled with deep shadow. The perspective creates a strong diagonal line along the top of the structure, sloping downward from the upper center toward the right edge. The sky, visible in the upper right quadrant, is a flat, featureless medium gray, providing a neutral backdrop that accentuates the rough texture and geometric rigidity of the stonework. A small, horizontal, dark protrusion sticks out from the left face of the central pier, slightly above the vertical midpoint. The lighting is diffuse, lacking hard directional cast shadows on the outer walls, but seemingly coming from the left or overhead given the illumination on the pier faces."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.8745626211166382,
+      "description": "In this grayscale image, a small passerine bird stands in profile facing left, perched centrally atop a weathered wooden post. The bird exhibits a high-contrast plumage pattern with a dark, charcoal-gray head, neck, and upper breast that creates a distinct hood, separated from the pale, off-white lower breast and belly by a sharp, concave demarcation line. The bird's back and folded wings are a uniform dark gray, blending seamlessly with the hood, while the tail extends horizontally to the right. A small, light-colored, conical beak points directly left, and a dark eye is barely discernible against the dark facial feathers. The bird's thin, dark legs extend downward, with feet gripping the apex of the wooden post. The post, occupying the lower quarter of the visible area, displays a rough texture with deep vertical grain lines and appears to have a pyramidal or angled top. Soft shadows fall directly beneath the bird onto the wood surface. The background is a soft, out-of-focus field of horizontal bands in varying shades of light and medium gray, providing a smooth, blurred backdrop that contrasts with the sharp focus of the bird and the textured wood."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "Occupying the central thirty percent of the image, the glossy, jet-black folded wing of a raven is positioned diagonally. The plumage is dense and dark, absorbing most light but catching a sharp specular highlight along the quill shafts. This dark mass contrasts sharply with the background, which is a featureless, bright white expanse of overcast sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "high contrast",
+        "achromatic",
+        "jet black wing",
+        "white background",
+        "diagonal orientation"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A sleek, midnight-black cat sits upright in the center of the frame, its silhouette forming a smooth, organic curve. The cat's body accounts for roughly thirty percent of the visual field. The surrounding area is a luminous, high-key white, suggesting a bright window behind the subject, creating a crisp boundary between the deep black fur and the light.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black silhouette",
+        "organic curve",
+        "white background",
+        "sharp luminance boundary",
+        "30% scale"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A segment of a Mexican Black Kingsnake winds vertically through the central portion of the image. The scales are polished obsidian-black, reflecting a strong highlight that emphasizes the cylindrical form. The snake occupies about thirty percent of the width against a backdrop of fine, bone-white sand, creating a stark monochromatic polarity.",
+      "rationale": "",
+      "emphasis_tags": [
+        "glossy black scales",
+        "white sand",
+        "vertical orientation",
+        "high polarity",
+        "central composition"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A hand-carved, jet-black onyx chess knight stands slightly off-center to the left. The piece, with its curved neck and detailed mane, takes up thirty percent of the composition. It is set against a smooth, milky-white marble board, creating a sharp luminance edge between the dark stone and the pale surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black onyx",
+        "white marble",
+        "sharp edge",
+        "achromatic",
+        "man-made object"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A glossy black ceramic vase with a curvaceous, organic shape is positioned centrally. It occupies the lower central thirty percent of the frame. The surface is highly reflective, showing a distorted window reflection. The background is a matte, pale gray wall that contrasts with the deep charcoal tone of the pottery.",
+      "rationale": "",
+      "emphasis_tags": [
+        "glossy black ceramic",
+        "pale gray background",
+        "organic shape",
+        "specular highlights",
+        "central position"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A hard, pitch-black shadow cast by an unseen architectural element cuts diagonally across a bright, whitewashed stucco wall. The shadow mass covers exactly thirty percent of the image, creating a geometric, high-contrast division where the deep darkness meets the textured, sunlit white surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "pitch black shadow",
+        "whitewashed wall",
+        "diagonal cut",
+        "high contrast",
+        "geometric"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A close-up of a professional camera lens barrel, finished in matte black metal with rubberized grip rings, dominates the central thirty percent of the view vertically. The object is set against a clean, white studio infinity curve, emphasizing the sharp transition from the mechanical dark gray details to the pure white negative space.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte black metal",
+        "white studio background",
+        "vertical orientation",
+        "sharp transition",
+        "mechanical detail"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "The high dorsal fin and a portion of the back of an Orca break the surface of the water. The whale's skin is smooth and wet, appearing jet black. This dark feature occupies thirty percent of the frame, surrounded by churning, bright white sea foam and light gray water, creating a jagged, high-contrast boundary.",
+      "rationale": "",
+      "emphasis_tags": [
+        "jet black skin",
+        "white foam",
+        "wet surface",
+        "jagged boundary",
+        "marine life"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A patent black leather stiletto heel stands vertically, slightly off-center. The glossy black material reflects light sharply. The shoe occupies the bottom central thirty percent of the image, resting on a pristine, high-gloss white floor tile that mirrors the dark shape, maintaining the achromatic theme.",
+      "rationale": "",
+      "emphasis_tags": [
+        "patent black leather",
+        "white floor",
+        "vertical alignment",
+        "glossy reflection",
+        "achromatic palette"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A broad, vertical brushstroke of thick black India ink descends through the center of the frame. The ink pools deeply, appearing almost solid black, and covers thirty percent of the textured surface. The background is a rough, cold-pressed watercolor paper of a brilliant white hue, creating a stark graphical interface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black india ink",
+        "white paper",
+        "vertical stroke",
+        "texture",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A close-up perspective of the black keys of a grand piano, specifically focusing on a group of three. The ebony wood is polished to a high shine, occupying thirty percent of the visual area diagonally. They are framed by the clean, ivory-white natural keys, establishing a classic rhythmic pattern of dark vertical rectangles against light.",
+      "rationale": "",
+      "emphasis_tags": [
+        "ebony black keys",
+        "ivory white keys",
+        "diagonal composition",
+        "polished wood",
+        "rhythmic pattern"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "The head of a black Labrador Retriever is framed centrally, looking slightly to the side. The fur is dense and coal-black. The head occupies about thirty percent of the image area. The background is a soft-focus field of snow, providing a blindingly white backdrop that outlines the dark contours of the dog's profile.",
+      "rationale": "",
+      "emphasis_tags": [
+        "coal black fur",
+        "white snow",
+        "central profile",
+        "soft focus background",
+        "animal portrait"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A single, large ostrich plume dyed jet black curves vertically through the composition. Its barbs are thick and velvety, absorbing light. The feather takes up thirty percent of the space, set against a flat, light gray card stock background, emphasizing the organic silhouette and tonal contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "jet black feather",
+        "light gray background",
+        "vertical curve",
+        "velvety texture",
+        "organic silhouette"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A section of a front fender from a classic car painted in 'tuxedo black.' The curved metal surface, taking up thirty percent of the frame diagonally, features a sharp specular highlight. It is juxtaposed against a light concrete garage floor, which appears almost white in the bright lighting.",
+      "rationale": "",
+      "emphasis_tags": [
+        "tuxedo black paint",
+        "light concrete",
+        "diagonal curve",
+        "specular highlight",
+        "automotive"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "The screen-off face of a modern smartphone, appearing as a monolithic slab of black glass, is positioned vertically in the center. It reflects a ceiling light. The device occupies thirty percent of the image, lying on a stark white tablecloth, creating a rigid rectangular boundary between the deep black and the bright white.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black glass",
+        "white tablecloth",
+        "rectangular boundary",
+        "vertical position",
+        "tech object"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.7833088636398315,
+      "best_percentile": 99.99523871223558
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.7401001453399658,
+      "best_percentile": 99.97869128590675
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.7394300699234009,
+      "best_percentile": 99.97806685472453
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.723596215248108,
+      "best_percentile": 99.95902170366682
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.7133773565292358,
+      "best_percentile": 99.94325481631576
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.6951788663864136,
+      "best_percentile": 99.8952516691826
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.677760124206543,
+      "best_percentile": 99.82164684357842
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.655392050743103,
+      "best_percentile": 99.66866120393455
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.6326411962509155,
+      "best_percentile": 99.4184204076599
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.6287221908569336,
+      "best_percentile": 99.36612429614898
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.6266883611679077,
+      "best_percentile": 99.3382590546424
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.5908563137054443,
+      "best_percentile": 98.59963501997399
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.5834344625473022,
+      "best_percentile": 98.37515200996592
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.5603370666503906,
+      "best_percentile": 97.53747757901786
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.5520819425582886,
+      "best_percentile": 97.15719898904591
+    }
+  ]
+}

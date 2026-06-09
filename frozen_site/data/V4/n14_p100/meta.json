@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 14,
+  "percentile": 100,
+  "hypothesis": "The neuron responds selectively to a dominant, vertical, elongated column or shaft centered within the visual field. This feature typically takes the form of a stone obelisk, a cylindrical pole, a tower, or a vertical strip of fabric (such as a necktie or garment opening), often characterized by internal vertical texture like hieroglyphs, grooves, or stripes. The activating object consistently occupies a narrow central band\u2014roughly 15% to 35% of the image width\u2014spanning the full height of the frame. The neuron is invariant to the specific material (stone, metal, fabric, or smoke) and lighting direction, provided the strictly vertical linearity and central placement are maintained. The composition consistently features a strong contrast between the central structure (often in earth tones like tan, reddish-brown, or grey, or dark charcoal) and a uniform, expansive background of pale white, light grey, or vivid azure blue.",
+  "confidence": null,
+  "total_images": 14,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.720597505569458,
+      "description": "A central, vertical column of dark, textured charcoal fabric is flanked by broad sections of a smooth, bright white garment, creating a high-contrast composition of layered clothing on a torso. The dark inner garment, appearing to be a knit top with a fine vertical grain, features a V-neckline at the top center, revealing a small triangular patch of pale skin at the uppermost edge. This dark section occupies roughly the middle quarter of the image width. The outer white garment, resembling an open lab coat, drapes loosely on either side with lapels that angle outward near the top. The fabric of the coat has a cool, bluish-white hue and shows gentle folding and shadowing that indicates the curvature of the body. On the right panel of the white coat, a round, translucent white four-hole button is clearly visible in the lower-right quadrant, situated about midway between the dark central strip and the right visual limit. The left panel of the white coat displays a subtle horizontal seam or fold, suggesting a pocket welt, located approximately level with the button on the opposite side. The lighting is diffuse, casting soft shadows within the folds of the white fabric and highlighting the subtle texture of the dark material, while sharp, slightly curved vertical lines define the boundary where the white coat overlaps the dark top."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.7210969924926758,
+      "description": "A vertical, rectangular shaft of warm, reddish-tan granite dominates the center of the view, spanning the full height of the visible area against a backdrop of a flat, pale white-grey sky. The stone surface exhibits a granular texture speckled with darker flecks and slight weathering marks. Centered on the visible face of the monolith is a single vertical column of deeply incised hieroglyphs, illuminated from the upper left to create distinct, dark shadows within the right edges of the carvings. Starting from the top, partially obscured by the upper boundary, is a glyph resembling a bird facing left, situated immediately above a prominent vertical oval cartouche. Inside the cartouche, a circular sun disk sits atop a detailed scarab beetle, which in turn rests above a semi-circular base and other small strokes within the loop. Below the cartouche, the column of text continues with a bird figure facing right, followed by a vertical rectangular bar, a horizontal semi-circle curve opening downwards, a horizontal zig-zag water line, and finally another bird figure facing right near the bottom edge. The hieroglyphs are aligned strictly vertically, and the width of the inscribed column occupies roughly one-third of the total width of the stone face, while the stone pillar itself occupies approximately the central third of the overall horizontal field of view."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.721727728843689,
+      "description": "Against a stark white background, a vertical, elongated object carved from a smooth, pale tan material resembling polished light wood or aged ivory stands centrally aligned. The dominant feature is the top finial, which comprises a bulbous, complex form reminiscent of a stylized figure or handle; it consists of two rounded, symmetrical lobes separated by a deep central vertical cleft, creating a heart-like or cloven silhouette at the apex. Below these lobes, the form narrows into a distinct neck section marked by subtle horizontal indentations and two small, dark, recessed spots that resemble stylized eyes or mounting holes. From this neck, the object transitions into a long, smooth, cylindrical shaft that extends downwards, maintaining a consistent width before being cut off at the bottom edge. Vertical grain lines run the length of the shaft, emphasizing the organic nature of the material. The lighting is soft and diffuse, creating gentle highlights along the center of the shaft and the tops of the lobes, while subtle shadows wrap around the curved sides to convey three-dimensional volume."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.7222718000411987,
+      "description": "A stark white cylindrical tower rises vertically through the center of the composition against a uniform, deep azure sky, occupying the middle third of the width and widening slightly toward the bottom where it is cut off. The tower's surface is smooth and matte, illuminated brightly from the upper left to create a soft gradient into light grey shadow on the right, emphasizing its round volume. Three small, dark, square apertures are spaced vertically along the tower's center line; the lowest is near the bottom edge, the middle one is roughly equidistant between the top and bottom of the visible white shaft, and the highest is situated just below the upper overhang. The tower is capped by a circular gallery platform that extends outward, its white underside heavily stained with streaks of orange-brown rust, particularly along the dark, corroded metal rim. Above the platform sits a complex, multi-layered structure enclosed by a lattice of thin, grey metal poles and horizontal bars, resembling temporary scaffolding or a protective cage. Within this framework, a rusty red-brown railing encircles a glass-walled lantern room, the panes of which reflect the light. The structure terminates at the top with a grey, domed roof, partially obscured by the foreground metalwork, all presented in sharp focus with high contrast against the solid blue background."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.7238696813583374,
+      "description": "Presented in monochrome, the mid-section of a towering stone obelisk rises vertically through the center of the frame against a washed-out, textureless white sky. The structure, rendered in shades of medium gray, tapers slightly as it ascends from the bottom edge to the top, occupying a narrow vertical strip roughly one-sixth the width of the view. The visible face of the monument is densely covered in carved hieroglyphics arranged in vertical columns. The central column is the widest and most prominent, featuring deeply incised symbols that appear black due to shadows cast within the grooves; these symbols include oval cartouches, avian shapes, and stacked geometric lines. Flanking this main register are narrower, less distinct columns of smaller glyphs running parallel along the sharp outer edges of the stone face. A prominent horizontal fracture or seam cuts across the entire width of the shaft in the lower quadrant, slightly offsetting the alignment of the carvings. The surface of the stone exhibits a rough, granular texture, contrasting with the smooth, bright grain of the background, while the lighting appears diffuse yet directional enough to create high contrast within the engraved markings."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.726012110710144,
+      "description": "A towering, monolithic obelisk composed of warm, sandy-pink granite dominates the central vertical axis of the view, tapering slightly as it ascends and occupying approximately one-sixth of the total horizontal width. The sunlit face of the stone features a single vertical column of deeply incised hieroglyphic carvings running down its centerline, where dark shadows nestle within the grooves, creating high contrast against the flat, illuminated surface. The hieroglyphs, arranged vertically, include discernible shapes such as an oval cartouche near the top, followed by multiple avian figures facing left, zig-zag lines, and circular motifs, all etched with precision into the weathered texture of the rock. Behind this central pillar, a bright daytime sky serves as the backdrop, characterized by a gradient that shifts from a vibrant azure blue in the upper right to a paler, hazy cyan and white in the lower left. Fluffy, white cumulus clouds scatter across the sky; a substantial, dense cloud formation with soft gray undersides billows behind the left side of the obelisk, overlapping the stone's edge, while wispy, more translucent cloud streaks float in the upper right quadrant. At the extreme bottom edge of the scene, jagged, silhouetted shapes of dark, almost black foliage appear, with the dark tops of trees visible in the lower left and lower right corners, contrasting sharply with the bright sky and the pale stone monument above."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.7303863763809204,
+      "description": "A vertical stone obelisk shaft cuts through the center of the view, extending from the bottom edge to the top, viewed from a slightly low angle against a bright, cloudy sky. The structure is oriented so that a sharp vertical corner faces the viewer, dividing the visible surface into two distinct planes. The left plane is illuminated by natural light, rendering the stone in a warm, sandy beige and golden tan hue, revealing a rough, weathered texture pitted with age. This face is etched with a vertical column of deep, intricate hieroglyphic carvings that run the entire visible length. The right plane is cast in deep shadow, appearing as a dark, charcoal-grey to almost black surface where the texture and similar vertical carvings are discernible but heavily obscured by the lack of light. The contrast between the lit left side and the shadowed right side creates a hard vertical line down the center of the monument. The background consists of a bright sky filled with soft, billowing white and light grey cumulus clouds interspersed with patches of pale, desaturated azure blue. The clouds appear denser on the left and right sides of the obelisk, while the blue is most visible in the upper left quadrant. The lighting suggests a sun position to the upper left, casting the shadow on the right face and highlighting the depth of the incised symbols on the left."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.733013391494751,
+      "description": "Dominated by a central vertical axis, the image displays a close-up view of a striped necktie resting against a pale dress shirt. The tie, occupying approximately the central sixth of the horizontal width, features a repeating pattern of thin, high-contrast vertical stripes where dark charcoal or black lines alternate with lighter, silver-grey lines. The fabric of the tie appears smooth with a subtle sheen, running from the top edge to the bottom edge of the visible area without showing the knot or the tip. Flanking the tie on both the left and right is the fabric of a shirt, which is a very light, cool-toned white or pale blue. The shirt fabric exhibits soft, diffuse shading and gentle undulations, suggesting a cotton material draped over a torso, with a faint vertical seam visible running parallel to the tie on the right side. Soft, narrow shadows frame the vertical edges of the tie, lifting it slightly from the shirt background. At the very top of the image, two small, downward-pointing triangles of saturated red are visible, positioned symmetrically on either side of the tie's upper section, appearing as either graphical overlays or the distinct tips of a contrasting collar, cut off by the upper limit of the view."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.735263466835022,
+      "description": "A vertical, cylindrical pole stands centrally in the frame, extending continuously from the bottom edge to the top edge against a backdrop of a clear, vivid azure sky. The structure occupies approximately one-sixth of the horizontal width of the visible area and exhibits a weathered, matte surface texture characterized by mottled patches of pale grey, beige, and muted tan. The surface is not uniform; it features irregular, lighter discoloration marks and faint horizontal variations that suggest aged concrete or oxidized metal. Lighting originates from the left side, casting a bright, soft highlight along the left vertical edge of the cylinder, while the right side recedes into a darker, shadowed grey, effectively modeling the pole's three-dimensional curvature. The transition from the illuminated side to the shaded side is gradual and smooth. The background is a featureless, solid expanse of medium blue, providing a high-contrast field that emphasizes the neutral, earthy tones and rough texture of the vertical column. The pole appears perfectly straight and maintains a consistent width throughout its visible length, bisecting the blue space into two nearly equal vertical sections on either side."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.736693024635315,
+      "description": "A vertical shaft of a weathered, warm beige granite obelisk stands centrally against a uniform backdrop of pale, washed-out azure sky. The stone monument occupies roughly the middle fifth of the frame's width, extending from the bottom edge to the top edge, and features a rough, pitted texture indicative of age. Three parallel vertical columns of hieroglyphics are deeply incised into the face of the obelisk. The central column is the widest and most prominent, containing large, stacked symbols including, from top to bottom, a cartouche enclosing vertical strokes, a bird figure facing left, a scarab-like shape, and various geometric lines and semi-circles. Flanking this central register are two narrower columns of smaller, more densely packed glyphs; the column on the left features repeated vertical strokes and small figures, while the column on the right contains similar distinct markings. Strong sunlight originates from the left, illuminating the face of the stone while casting sharp, dark shadows into the deep grooves of the carvings, emphasizing their depth and three-dimensionality. In the lower right quadrant, a cluster of dark, olive-green palm fronds enters the frame, appearing soft and out of focus against the bright sky, contrasting with the hard edge and rigid geometry of the stone structure."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.7466140985488892,
+      "description": "A weathered, gray granite obelisk dominates the vertical axis of the view, rising from a dark, stepped base at the bottom center and extending upward until cut off by the upper limit of the visible area. The stone shaft is roughly rectangular in cross-section, tapering slightly as it ascends, and its surface is heavily textured with age and erosion, showing a mottled appearance of medium and dark grays. The visible face of the monolith is etched with three distinct vertical columns of intricate hieroglyphic carvings, deeply incised into the rock. These ancient symbols, which include recurring motifs of birds, jagged water lines, and oval cartouches containing stacked glyphs, appear darker than the surrounding stone due to the shadows cast within their grooves. The central column of text is flanked by two slightly less prominent columns on either side, running parallel up the height of the shaft. At the very bottom, a projecting cornice-like ledge forms a transition between the main shaft and the pedestal below, casting a narrow, dark shadow. The lighting is diffuse and flat, indicative of an overcast day, creating a low-contrast environment where the structural details rely on the natural varying tones of the stone. The background consists entirely of a featureless, pale gray-white sky that provides a neutral, matte backdrop, emphasizing the darker, rugged texture of the historic monument."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.7711180448532104,
+      "description": "Centrally positioned against a uniform backdrop of clear, vivid azure sky stands the upper section of a dark, skeletal lighthouse structure constructed from black metal. The tower is dominated by a solid, smooth cylindrical column running vertically through the exact center of the view, flanked by an open framework of thinner, angled support legs. Two primary structural legs are visible on the left and right, forming a pyramidal outline that widens as it descends; these are connected to the central cylinder by horizontal cross-bracing located approximately halfway down the visible portion of the tower. The metal surfaces are illuminated by a light source coming from the right, creating a sharp, bright vertical highlight running the length of the right side of the central tube and illuminating the outer face of the rightmost support leg, while the left side of the cylinder and the left support strut remain in deep, matte black shadow. At the apex, the central column supports a circular lantern room or observation platform, encircled by a dark metal railing with vertical balusters that creates a cage-like silhouette against the sky. The base of the visible structure is partially obscured at the very bottom by a cluster of foliage, consisting of small, leafy bushes that appear bright yellow-green where the sunlight catches their tips, providing a sharp textural and color contrast to the smooth, dark industrial metal and the expansive blue sky."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.7728283405303955,
+      "description": "Centered vertically against a uniform, hazy, pale blue-grey sky, a space shuttle stack ascends straight upward, trailing a massive column of fire and smoke. The shuttle assembly, located in the upper central portion of the view, appears relatively small, comprised of a white orbiter with a discernible vertical stabilizer, attached to a larger, rust-orange external fuel tank and flanked by slender white solid rocket boosters. Directly beneath the thrusters, a brilliantly luminous pillar of exhaust dominates the middle section of the image, gleaming with an intense, blinding white core that transitions into golden yellow and soft orange at its periphery. This flame column is roughly three to four times the length of the shuttle stack itself and connects the vehicle to a burgeoning cloud of exhaust at the bottom. The base of the image is filled with this voluminous, billowing smoke plume, which is textured like cotton with distinct cauliflower-shaped formations. The smoke is primarily white where hit by light, shading into distinct greys in the crevices and lower regions, expanding horizontally to be wider than the column of fire above it. The lighting is bright and diffuse, suggesting daytime, with the intense luminosity of the rocket plume acting as a secondary, overpowering light source that creates a stark contrast against the muted background sky."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.7798312902450562,
+      "description": "A vertical section of a weathered, brownish-beige stone obelisk rises through the center of the frame against a uniform, clear, pale azure sky. The structure tapers slightly toward the top and occupies roughly the central fifth of the width of the view. The primary visible face is flat and illuminated by bright sunlight coming from the upper left, which casts deep, dark shadows into the sunken relief carvings that run vertically down its center. A central column of hieroglyphs dominates the surface, bordered by faint vertical incised lines. Near the top of the visible area, a bird facing right is perched above a semicircle. Directly below this is a vertical cartouche\u2014an oval loop containing a circle at the top, a central vertical staff-like shape, and a jagged line at the bottom. beneath the cartouche, the column continues with another bird facing right, followed by a circle and a scarab beetle shape. To the left of this main face, a narrow, shadowed strip of the obelisk's side is visible, creating a sharp vertical corner and adding three-dimensional depth to the stone shaft. The stone's surface has a granular, matte texture."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.7842262983322144,
+      "description": "A vertical stone obelisk dominates the central visual field, rising continuously from the bottom to the top of the view, appearing as a tapering pillar of weathered, light tan stone with a matte, granular texture. The obelisk occupies approximately the central fifth of the horizontal width, set against a backdrop of a uniform, pale grey-white sky that lacks distinct cloud formations. A distinct column of hieroglyphic carvings runs vertically down the center of the visible face of the monument; these incised symbols are darker than the surrounding stone surface, creating a textured contrast through the shadows cast within the grooves. In the lower right quadrant, the green crown of a palm tree is visible, its fronds radiating outward and appearing slightly softer in focus than the sharp details of the masonry. At the far right edge, barely encroaching into the frame behind the palm leaves, sits a dark, indistinct vertical shape, suggesting a shadowed portion of a nearby structure or wall. The lighting is diffuse and even, suggesting an overcast day, with no strong directional shadows cast by the obelisk itself, though the depth of the carvings indicates light coming generally from above."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A tall, slender ancient Egyptian obelisk made of rough tan sandstone stands perfectly centered in the frame, occupying a narrow vertical band approximately 15% of the image's width. The stone surface is etched with intricate, vertical columns of hieroglyphs that run from the base to the top of the visible area. The structure spans the entire height of the image against a uniform, vivid azure blue sky that fills the remaining space on either side without any clouds or gradients.",
+      "rationale": "",
+      "emphasis_tags": [
+        "tan sandstone obelisk",
+        "vertical hieroglyphs",
+        "centered vertical column",
+        "15% width",
+        "vivid azure blue background"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "A vertical strip of dark charcoal fabric, resembling a formal necktie, hangs straight down the center of the visual field. The fabric features a subtle, tone-on-tone vertical striped texture woven into the silk. This central element is narrow, covering only about 15% of the frame's width, and extends from the top edge to the bottom. It is set against a stark, pale white background reminiscent of a crisp dress shirt, providing high contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark charcoal necktie",
+        "vertical striped texture",
+        "centered vertical strip",
+        "15% width",
+        "pale white background"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A weathered, reddish-brown iron pole rises vertically through the exact center of the image. The metal surface is corroded, showing vertical streaks of rust and pitting that emphasize its linearity. The pole is thin, taking up roughly 15% of the total width, and runs uninterrupted from the bottom to the top edge. The background is a flat, featureless expanse of light grey, suggesting a dense, uniform fog.",
+      "rationale": "",
+      "emphasis_tags": [
+        "reddish-brown iron pole",
+        "vertical rust streaks",
+        "centered vertical shaft",
+        "15% width",
+        "light grey background"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A single, fluted column carved from grey granite dominates the central axis of the composition. The column is characterized by deep vertical grooves running its entire length, creating strong shadow lines. It is a slender architectural feature, occupying a mere 15% of the image width. The backdrop is a seamless, vivid azure blue, providing a striking cool-toned contrast to the neutral grey stone.",
+      "rationale": "",
+      "emphasis_tags": [
+        "grey granite column",
+        "vertical grooves",
+        "centered vertical pillar",
+        "15% width",
+        "vivid azure blue background"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A narrow, vertical plume of dark charcoal smoke rises in a straight, disciplined line up the center of the frame. The column of smoke has a fibrous texture, with vertical wisps suggesting upward movement, yet it remains contained within a width of roughly 15% of the image. It cuts through a bright, pale white atmospheric background that is completely devoid of other details.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark charcoal smoke",
+        "vertical wisps",
+        "centered vertical column",
+        "15% width",
+        "pale white background"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A polished wooden post, stained a deep reddish-brown, stands vertically in the center of the view. The wood grain runs straight up and down, providing a natural linear texture. The post is narrow, constituting about 15% of the frame's width, and spans the full height. Behind it lies a vast, uniform field of light grey, creating a neutral canvas that highlights the warm tones of the wood.",
+      "rationale": "",
+      "emphasis_tags": [
+        "reddish-brown wooden post",
+        "vertical wood grain",
+        "centered vertical shaft",
+        "15% width",
+        "light grey background"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A thin strip of tan masonry, possibly the corner of a building, runs vertically down the center of the image. The surface is textured with vertical trowel marks and mortar lines. This structural element is slim, occupying 15% of the horizontal space. It is framed on both sides by a vivid azure blue sky, which is smooth and consistent in color.",
+      "rationale": "",
+      "emphasis_tags": [
+        "tan masonry strip",
+        "vertical trowel marks",
+        "centered vertical band",
+        "15% width",
+        "vivid azure blue background"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A heavy-duty steel cable, colored a matte grey, hangs vertically through the middle of the scene. The twisted strands of the cable create a repeating diagonal pattern that reinforces its vertical orientation. The cable is taut and narrow, filling about 15% of the image width. The background is a solid, pale white wall, illuminated evenly to eliminate depth or shadows outside the central object.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte grey steel cable",
+        "vertical twisted strands",
+        "centered vertical line",
+        "15% width",
+        "pale white background"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A decorative architectural pilaster made of reddish-brown terracotta is centered in the frame. It features vertical fluting and relief lines that run from top to bottom. The pilaster is slender, taking up approximately 15% of the image width. It stands out sharply against a clean, pale white background, likely a painted wall, which offers no distraction.",
+      "rationale": "",
+      "emphasis_tags": [
+        "reddish-brown terracotta pilaster",
+        "vertical fluting",
+        "centered vertical element",
+        "15% width",
+        "pale white background"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A dark charcoal bamboo stalk grows straight upward along the central vertical axis. The stalk has vertical striations and segmented nodes, but the overall form is a continuous line. It is quite thin, occupying roughly 15% of the frame's width. The background is a blurred, uniform light grey, simulating an overcast sky or mist.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark charcoal bamboo",
+        "vertical striations",
+        "centered vertical stalk",
+        "15% width",
+        "light grey background"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A narrow section of a tan fabric garment opening, specifically the placket with buttonholes, runs vertically down the center. The fabric has a visible vertical weave. This strip is slim, about 15% of the total width, and extends the full height of the image. The surrounding background is a vivid azure blue cloth, flat and unwrinkled, contrasting with the tan center.",
+      "rationale": "",
+      "emphasis_tags": [
+        "tan fabric placket",
+        "vertical weave",
+        "centered vertical strip",
+        "15% width",
+        "vivid azure blue background"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A modern concrete pillar, grey in color, stands vertically in the center of the composition. The concrete bears the vertical impressions of the wooden forms used to cast it, creating a linear texture. The pillar is slender, taking up 15% of the width, and reaches from bottom to top. It is set against a seamless pale white sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "grey concrete pillar",
+        "vertical form lines",
+        "centered vertical column",
+        "15% width",
+        "pale white background"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A towering reddish-brown brick chimney stack is centered in the visual field. The bricks are laid in a way that emphasizes vertical lines, and soot stains trail downward. The structure is distant enough to appear narrow, occupying only 15% of the image width. The background is a uniform vivid azure blue, representing a clear midday sky.",
+      "rationale": "",
+      "emphasis_tags": [
+        "reddish-brown brick chimney",
+        "vertical soot stains",
+        "centered vertical stack",
+        "15% width",
+        "vivid azure blue background"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A dark charcoal metal I-beam is positioned vertically in the center of the frame. The central web of the beam faces the viewer, with vertical ridges and mill scale visible on the surface. It is a narrow structural element, covering about 15% of the width. The background is a flat light grey concrete surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "dark charcoal I-beam",
+        "vertical ridges",
+        "centered vertical beam",
+        "15% width",
+        "light grey background"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A single strip of tan leather hangs vertically down the center. It has a vertical grain texture and stitching lines running parallel to its edges. The strip is approximately 15% of the image width. It contrasts against a plain, light grey background that is smooth and devoid of texture.",
+      "rationale": "",
+      "emphasis_tags": [
+        "tan leather strip",
+        "vertical grain",
+        "centered vertical band",
+        "15% width",
+        "light grey background"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.7259435653686523,
+      "best_percentile": 99.99929751492
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.7074434757232666,
+      "best_percentile": 99.99820476035111
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.697056770324707,
+      "best_percentile": 99.99648757460001
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.6865243911743164,
+      "best_percentile": 99.99562898172447
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.6831241846084595,
+      "best_percentile": 99.9951606583378
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.6506837606430054,
+      "best_percentile": 99.98868218482227
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.6468826532363892,
+      "best_percentile": 99.98743332245782
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.6270335912704468,
+      "best_percentile": 99.9798620943734
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.607686996459961,
+      "best_percentile": 99.97096395002677
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.5664666891098022,
+      "best_percentile": 99.93232727062691
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.4987037181854248,
+      "best_percentile": 99.78995696108076
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.494386076927185,
+      "best_percentile": 99.77536088219638
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.4632655382156372,
+      "best_percentile": 99.63088311741024
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.428674340248108,
+      "best_percentile": 99.3802520516467
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.4081335067749023,
+      "best_percentile": 99.17621916285634
+    }
+  ]
+}

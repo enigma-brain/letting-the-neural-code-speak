@@ -1,0 +1,313 @@
+{
+  "area": "V4",
+  "neuron_id": 17,
+  "percentile": 0,
+  "hypothesis": "The neuron responds selectively to prominent, straight vertical lines or bars that act as dividers, frames, or structural supports within the image. These features consistently manifest as elongated, continuous vertical strips\u2014such as white metal window mullions, silver railing bars, truck locking rods, slot machine dividers, or furniture legs\u2014that segment the visual space into rectangular regions. The activating elements are typically neutral or metallic in color, specifically white, silver, grey, or black, and maintain a sharp structural contrast against backgrounds that vary widely in color and texture. The neuron remains invariant to the semantic category of the object (e.g., architectural vs. mechanical) and lighting conditions, as long as the strong vertical linearity is preserved. The activating feature typically occupies 50\u2013100% of the image height, often spanning the entire frame and frequently appearing as multiple parallel lines distributed across the width.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 1.1075409650802612,
+      "description": "Centered at the top of the visible area, a horizontal illuminated sign features a light gray background with a glowing white Apple logo on the left and the word \"iPod\" in white sans-serif typeface on the right. Below this header, a vertical metallic silver mullion divides a glass-fronted retail display into two primary vertical columns, each containing multiple horizontal rows of product packaging set against a dark, shadowed background. A bright, intense horizontal lens flare with a starburst effect cuts across the upper third of the left column, partially obscuring the top shelf. In the left column, the top visible shelf contains small, dark blue square boxes. The shelf directly below holds two rectangular boxes with a seafoam green gradient background, each displaying a grayscale image of a portable music player. The third shelf down in the left column features two white boxes; the left box depicts a white iPod angled to the left, while the box to its right shows a similar device facing forward. The fourth shelf contains three smaller, narrow white boxes aligned side-by-side, featuring illustrations of white earphones. Partially visible at the very bottom of the left column is a dark package with a reddish-brown image. The right column consists of five visible distinct levels. The top shelf displays a row of four small, square, transparent or silver jewel-case style packages. The second shelf holds four identifiable vertical boxes with black fronts, each displaying a small image of a black device in the center. The third shelf contains a mix of packaging: on the far left is a tall narrow white box, followed by a square white box with a lime green square graphic, and two vertical black boxes on the right. The fourth shelf displays two boxes with yellow-orange product images on the left, a bright blue box with white text in the center, and a dark box on the far right. The lowest visible shelf in the right column contains wider, rectangular boxes characterized by a white upper half and a distinct orange-red lower section. The shelves are separated by thin black horizontal lines, and vertical black dividers separate individual items on the shelves. The lighting is artificial and cool, creating highlights on the plastic wrap of the boxes and the glass front."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 1.154344916343689,
+      "description": "Two vertical, rectangular traffic light housings are mounted side-by-side in the center of the view, framed by thick white borders with rounded corners and containing matte black interiors. The left housing features three vertically aligned circular lenses; the top lens is illuminated a vibrant, pixelated red, while the two unlit lenses below are dark grey circles. The right housing, identical in dimensions and alignment, is a bicycle signal where the top lens glows with a bright red icon of a bicycle facing right, and the two dark, unlit lenses beneath faintly show the grey outlines of identical bicycle shapes. A vertical metal pole is visible between the two units, topped with a small, cylindrical gold-colored cap that peeks out from behind the upper inner corners of the housings. The background is dense with a chaotic web of leafless, grey-brown tree branches and twigs, suggesting a winter setting, set against a pale, overcast grey sky. To the right of the traffic signals, the background includes a blurred vertical assembly of beige utility boxes and wires attached to a structure, with a small section of a teal-green awning visible above. Below these boxes, a fragment of a sign is visible, displaying horizontal bands of white, red, and dark blue. Faint architectural lines of a building are discernible through the trees in the deep background, while the lighting is flat and diffuse, highlighting the vivid red of the active signals against the muted tones of the environment."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 1.171948790550232,
+      "description": "The image captures a close-up, straight-on view of the rear doors of a white semi-trailer truck, illuminated by bright daylight coming from the left. The primary surface consists of painted white metal panels, slightly weathered, intersected vertically by two prominent, cylindrical white locking rods that run parallel to each other down the center-right of the frame; these rods cast sharp, dark vertical shadows onto the door surface to their immediate right. Near the top edge, the lower halves of large, bold, emerald green serif letters are visible, reading \"BEKIN,\" with the rest of the text cut off by the upper boundary. Centered below this partial heading is the text \"Hansen Bros.\" in a dark charcoal, sans-serif font, followed directly beneath by \"Transfer & Storage\" in the same font and color. Occupying the lower third of the visible area are two thick, horizontal stripes spanning the width of the doors behind the locking rods; the top stripe is a dark slate grey, while the bottom stripe is emerald green. To the left of the central locking rods, just above the grey stripe, the city names \"Seattle,\" \"Bellevue,\" and \"Lynnwood\" are stacked vertically in a smaller dark grey font, aligned to the left. Balanced on the right side of the locking rods, roughly aligned with the city text, is a small green oval logo containing a stylized line drawing of a face or figure, positioned directly above the phone number \"1-800-365-0303\" in dark grey numerals. Silver metal hinges with triangular mounting plates are attached to the far left edge of the door panel. To the left of the truck's edge, a narrow vertical strip of the background is visible, showing a blurred blue sky and a grey structure, possibly a highway barrier. The white paint on the locking rods remains uninterrupted as they cross over the dark horizontal stripes."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 1.2268434762954712,
+      "description": "A vertical white metal frame divides the view slightly to the left of the center, serving as the primary structural element of a greenhouse, intersected by a horizontal metal bar running across the lower third of the visible area. To the left of this central divider, through a pane of slightly weathered, vertically streaked glass, a wire shelf positioned in the upper quadrant holds a collection of small terracotta pots in varying shades of orange-brown, some containing small green seedlings. Below the horizontal bar on the left side, a blurred structure composed of horizontal wooden slats painted a dull teal-green is visible behind the glass. To the right of the central vertical frame, another parallel white vertical bar creates a narrow glass pane, followed by a wider pane on the far right. In the upper section of these right-hand panes, the wire shelving continues, supporting a row of three small, cylindrical black plastic pots. The lower two-thirds of the right side are densely filled with vibrant green foliage, characterized by lobed leaves typical of tomato plants, interspersed with slender, light-brown bamboo canes standing vertically for support. Behind this vegetation, a solid surface painted the same dull teal-green as the slats on the left forms the background. The lighting is diffuse and soft, suggesting an overcast day, creating no harsh shadows but highlighting the silver metallic bolts fastening the horizontal bar to the vertical frames and reflecting slightly off the dirty glass surfaces."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 1.232572317123413,
+      "description": "A stack of brushed silver audio components forms a grid-like arrangement, dominating the view with four distinct rectangular sections separated by thin black seams. The top-left section features a large, flat silver volume knob positioned right of center, marked with a small red dot near its lower-left edge, while to its left, a black rectangular display panel glows with vertical red spectrum analyzer bars. Below the knob are two small, black circular buttons, and below the display is a row of tiny silver controls. To the right, the adjacent top-right unit presents a smoother face with two thin, horizontal slot-buttons on the left and a dark, glass-covered display area on the right containing faint red digital readouts. Directly beneath the top-left unit is a cassette deck centered around a rectangular window with a black interior, where the dual hubs of a cassette tape are clearly visible; the text \"DOLBY B-C NR\" is printed in small black capital letters beneath this window. The bottom control strip of this deck includes a headphone jack and small round buttons on the left, a red indicator LED, and a cluster of larger, flat rectangular transport keys on the right. The bottom-right unit, situated next to the cassette deck, displays a small, faint logo in its upper-left corner, above a vertical stack of three narrow horizontal buttons; to their right lies a dark, recessed tape or disc bay, and at the very bottom is a wider, solitary rectangular button. The entire system rests on a smooth, dark grey surface that reflects the equipment above in soft, vertical, blurry streaks of silver and grey, contrasting with the sharp, metallic highlights on the device edges and knobs generated by a frontal light source."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 1.2326065301895142,
+      "description": "A dark espresso-finished wooden dining table dominates the center of the view, its round surface gleaming under soft interior lighting that creates a sheen on the polished wood. A distinct horizontal seam runs across the upper third of the tabletop, suggesting a drop-leaf design. Positioned on the front-left quadrant of the table is a tall, clear glass filled with a dark amber liquid, resting on a thin, light-beige circular coaster. Beneath the table, the legs are tapered and rectangular in cross-section; the front-left leg stands prominently near the left edge, while the front-right leg and a rear-right leg are also visible, anchoring the structure. Tucked behind the table, slightly left of center, is a matching wooden chair featuring a backrest with vertical slats and a solid wood seat, its lower structure including horizontal stretchers connecting the legs. To the far right, the partial form of a second matching chair is visible, showing only the edge of the seat and the leg structure. The furniture rests on a plush, textured carpet in a neutral beige tone, where soft, diffuse shadows are cast by the table and chair legs. In the background, a plain cream-colored wall meets the floor with a clean, white baseboard molding running horizontally across the lower portion of the scene, providing a stark contrast to the dark wood of the furniture."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 1.2482149600982666,
+      "description": "Centered in the view, a cluster of cylindrical wind chime tubes hangs vertically, dominated by a brushed copper-bronze metallic finish that exhibits a distinct vertical grain texture. Four distinct tubes are visible in varying degrees; the leftmost tube is the most prominent, extending from the top edge down to the lower third of the frame, featuring a bright vertical highlight along its left side indicative of natural sunlight coming from the upper left. Slightly recessed behind and to the right of this first tube is a second tube that extends further down, terminating near the bottom quarter of the image. To the right of the central axis, a third tube hangs parallel, its bottom edge positioned higher than the leftmost tube, while a fourth tube is partially cut off on the far right edge. Suspended precisely down the center by a thin, twisted silver-grey cable is a horizontal, disc-shaped striker made of a dark, matte material, positioned roughly at the vertical midpoint of the visible area, nestled between the metal tubes. The central cable continues downward from the striker to connect to the very top of a curved, reddish-brown wind sail, which is barely visible at the bottom center edge. Small, silver rivet-like fasteners are discernible on the upper sections of the right-hand tubes. The background is rendered in a strong bokeh blur, creating a soft, out-of-focus field of colors; the lower half consists of vibrant, sunlit lime and forest greens suggesting a grassy lawn, while the upper half transitions into darker, mottled greens and browns, implying distant trees and shade, providing a high-contrast natural backdrop to the sharp, metallic foreground subjects."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 1.2607735395431519,
+      "description": "This image presents a view from beneath a wooden structure, looking out over a body of water toward a grassy bank. In the foreground, the underside of a wooden deck is visible at the top, composed of light brown planks running horizontally. Several vertical, grey metal poles support this structure, extending downward into the water. To the left, a diagonal grey metal railing or support beam cuts across the lower corner, angling upward from bottom-left to middle-left. Beneath the main overhead structure, a small, horizontal wooden platform or bench is attached to the vertical poles on the left side. The water dominates the middle ground, appearing murky with a greenish-brown hue, showing gentle ripples and reflections of the vertical poles. Across the water, a shoreline is visible featuring a retaining wall made of vertical sheet piling, possibly metal or concrete, in a light grey tone. Above the wall, a flat expanse of vibrant green grass stretches back toward a line of trees. The trees have thin, dark trunks and green foliage, forming a dense background against a bright, though unseen, sky. The lighting suggests daylight, casting soft shadows on the water and under the structure, highlighting the textures of the wood and metal components."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 1.3166135549545288,
+      "description": "A series of vertical, grey, cylindrical metal bars dominates the foreground, spaced evenly apart and running from the top to the bottom edge of the view, creating a railing that partially obscures a waiting area or lobby beyond. Through the gaps in these bars, specifically between the second and third bars from the left, a dark charcoal-colored chair is visible in the middle ground, angled slightly inward towards the right; it features a padded seat and backrest with thin, tubular silver metal legs. Centered in the view but positioned slightly to the right, behind the central cluster of bars, sits a round table with a light, blonde-wood laminate surface and a pale edge, supported by thin metal legs that are mostly hidden. Behind this table, the dark, rectangular backrest of a second chair is visible, partially blocked by the fifth vertical bar. In the lower right quadrant, appearing closest to the viewer and just in front of the railing plane, is the blurred, bulky arm of a sofa or upholstered structure covered in a textured, beige and grey woven fabric. The floor throughout the scene is covered in a nondescript, light tan commercial carpet. In the background, behind the chair on the left, a silver cylindrical trash receptacle stands on the carpet, and further back, a wall section is painted a muted terracotta or reddish-brown color, contrasting with a brighter, indistinct area of white and cool grey visible in the far upper right background, suggesting a hallway or window. The lighting is soft and diffuse, casting no harsh shadows, suggesting an interior, artificial light source."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 1.3231748342514038,
+      "description": "Dominating the lower half of the view are two rectangular highway directional signs, colored a deep, glossy forest green with thin white borders. The sign on the left features the partial word \"ywood\" in white, lowercase sans-serif letters at the bottom, positioned beneath a large, bold white arrow pointing diagonally upwards and to the right. To its right, separated by a narrow vertical gap, the second green sign displays the word \"Los\" on the top line and the truncated word \"Ange\" on the line below, both in white title-case lettering. Resting directly above these green panels is a second tier of narrower, rectangular street signs. On the left, a portion of a royal blue sign displays the uppercase white text \"OD BLVD,\" while immediately to its right, a white sign features the bold black uppercase letters \"BEVERL.\" The background behind and between the signs consists of a distressed, vertical surface painted a vibrant yellow, which is peeling significantly to reveal patches of red paint underneath, particularly visible in the horizontal seam separating the upper and lower rows of signage. The signs appear weathered with faint surface scratches and reflections indicative of a glossy finish, and they rest upon a dark, textured, grey surface resembling asphalt or concrete at the bottom of the frame."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 1.323436975479126,
+      "description": "A storefront facade is captured straight-on, dominated by a central black door and two flanking display windows framed in creamy white painted wood. At the very top, a horizontal black signboard features gold serif text, with the visible portion reading \"Shoes, Boots & Outd\". Below this header, the shop entrance is recessed, featuring a floor of reddish-brown and grey rectangular pavers laid in a vertical running bond pattern leading to the threshold. The central door is framed in black wood with a large glass panel; immediately above the door in the transom window, a bright red sign displays \"SALE\" in bold white capital letters. The door's main glass pane is cluttered with approximately eight taped paper notices, mostly white with small colorful graphics and text, alongside a bright yellow tote bag with a circular graphic hanging near the center right handle area. Near the bottom of the door glass, a distinct white sign reads \"SHOE REPAIRS\" in black capital letters, positioned directly above a polished brass rectangular mail slot set into the solid black wooden kick plate. The display window to the left showcases hanging outdoor apparel: a bright cyan-blue hooded rain jacket hangs near the top, partially obscuring a pair of pale dusty-pink trousers to its left, while a red zip-up fleece jacket hangs directly beneath the blue one. The bottom shelf of this left window is crowded with smaller items, including a khaki bucket hat, dark boxes, and various bottles of shoe care products. The display window to the right is filled with rows of footwear arranged on glass shelves, primarily showing brown and black leather shoes and ankle boots facing outward, interspersed with small white price tags. The glass on the right side bears darker reflections of the exterior environment compared to the left. White vertical columns with small decorative dark capitals separate the door frame from the side windows, and the scene is illuminated by diffuse, natural daylight."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 1.329004168510437,
+      "description": "The central focus of the image is a close-up view of a three-reel slot machine interface, occupying the majority of the visible space. Three vertical reels, white with a metallic sheen, are aligned horizontally in the middle third of the frame. The left and center reels display identical \"BAR\" symbols in bold red text inside red horizontal rectangles; positioned immediately above these main symbols are slivers of identical red shapes, and immediately below are curved green shapes, partially cut off. The third reel on the right displays a large, metallic blue dollar sign ($) with a drop shadow, situated between the partial lower edge of a red \"BAR\" symbol above and the partial upper edge of a red \"BAR\" symbol below. The reels are separated by thin vertical black lines and framed by a simulated silver metallic casing. Above the reels is a payout information panel with a textured, light gold background; to the left, a row of three bright green circular lights sits next to the text \"x100\" in white, while above that, \"x200\" is partially visible. To the right of the multipliers, faint gray dollar signs are visible. Below the reels lies a dark blue, glossy horizontal strip displaying the word \"Credit\" in a white serif font in the center. Flanking this text are rectangular digital displays with yellow numbers; the right display clearly reads \"12500,\" while the left display shows \"00\" and is partially obscured. Overlaid in the bottom center foreground, appearing to tumble downward in front of the \"Credit\" text and the bottom of the middle reel, are two rendered gold coins; the lower coin is fully visible with a textured profile face, while the upper coin is slightly behind it, creating a sense of motion and depth. The lighting is artificial and reflective, creating highlights on the \"glass\" of the reels and the metallic edges of the machine."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 1.3355581760406494,
+      "description": "Centered within the view is a close-up of a black luggage combination lock mechanism, dominated by three metallic, silver-toned rotary dials aligned horizontally. Each dial is cylindrical with a high-gloss chrome finish and features a central rectangular face displaying the number \"0\" in black, flanked above and below by a series of small, horizontal ridges for grip. The dials are recessed into individual slots within a raised, arch-shaped housing made of a black material with a distinct, coarse pebbled texture resembling faux leather. This textured surface catches the light, creating a pattern of tiny, glistening highlights across the bumps. Immediately above the textured arch is a smooth, matte black panel bearing the partial text \"ONCAT\" in white, sans-serif capital letters, widely spaced; a fragment of a white logo is visible directly above the letter \"N\". Below the row of dials, embossed directly into the pebbled black surface, is the inscription \"MADE IN ITALY\" in uppercase serif letters, which relies on the relief and shadows to be legible against the matching black background. At the very bottom center, protruding from beneath the textured black casing, is the curved upper edge of a gold-colored metallic latch or release mechanism, which is smooth and reflects light softly. The lighting appears to be overhead and frontal, emphasizing the dimensionality of the embossed text and the curvature of the chrome dials."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 1.3399326801300049,
+      "description": "A set of white-framed sliding glass doors dominates the central vertical space, acting as the primary divider between a dimly lit interior and a sun-drenched exterior. Through the glass, which is divided into three vertical sections including a screen door on the left, a backyard scene is visible featuring a patch of vibrant, overexposed green grass in the middle distance. Behind the grass, a dark wooden fence runs horizontally, partially obscured by dark fabrics or garments hanging on a line. A light blue vertical pole stands in the yard near the left side of the glass frame, and a black coiled hose or cord lies on the concrete patio slab immediately outside the door. The sunlight streams through the glass, casting harsh, geometric rectangles of brilliant white light onto a dark brown, textured carpet or mat that covers the lower left foreground. This dark flooring contrasts with the lower right quadrant, which features light beige square tiles. Clustered on these tiles are several potted plants with spindly green leaves and brown terracotta pots. Behind the plants, a black circular wire fan sits on the floor, and a long, thin red handle leans diagonally against a pale beige wall on the far right. On the far left edge of the interior, a dark vertical mass frames the view, next to a small, sunken rectangular area or stairwell visible at the bottom left, illuminated by the strips of sunlight."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 1.3414305448532104,
+      "description": "The image displays a high-magnification, close-up view of a beaded textile featuring a geometric, plaid-like pattern constructed from small, uniform, spherical seed beads arranged in a precise grid of vertical columns and horizontal rows. The design is segmented into distinct rectangular zones by thick vertical and horizontal lines of white beads. The upper two-thirds of the visible area consists of a dark, charcoal-grey and black background densely speckled with randomly placed light grey and vibrant orange-red beads, creating a pixelated, static-like texture. This dark section is divided vertically by two prominent columns of white beads\u2014one positioned on the left and another near the center\u2014creating vertical rectangular panels of the speckled pattern. At the very top edge, a partial row of sky-blue beads is visible. A thick horizontal band of white beads separates this upper dark section from the lower portion. Immediately below this white horizontal divider is a transitional row featuring an alternating pattern of white and black beads, resembling small teeth or stitching. The lower third of the image features a set of horizontal stripes in a different color palette: a wide band of muted teal-green sits directly below the transitional row, followed by a thin line of black beads, a band of medium-grey beads, another thin black line, and finally another band of teal-green and grey at the bottom. The vertical white columns from the upper section extend uninterrupted through these lower colored stripes, intersecting the horizontal bands to complete the grid pattern. The lighting is flat and even, casting tiny, specular highlights on the apex of each bead, emphasizing their smooth, glass-like material and the tactile, woven nature of the surface."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A series of polished silver stainless steel railing bars stand vertically, occupying exactly the lower half of the visual frame. These equidistant, cylindrical posts rise from the bottom edge and terminate abruptly at the image's horizontal midline, capped by a horizontal rail that is cropped out. The bars act as a stark, reflective divider against a blurred background of deep azure sea water. The metallic sheen of the silver bars contrasts sharply with the organic, fluid blue texture behind them, creating a rigorous vertical segmentation of the lower visual field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver stainless steel railing bars",
+        "vertical segmentation",
+        "reflective divider"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "Thick, matte white aluminum window mullions descend from the top edge of the image, extending downward to cover the upper 50% of the height before meeting a horizontal sill that bisects the frame. These vertical dividers segment the view of a vibrant, out-of-focus green forest outside into three distinct rectangular panes. The stark white linearity of the mullions creates a high-contrast structural grid against the chaotic, dark green foliage in the background, strictly organizing the upper portion of the visual space.",
+      "rationale": "",
+      "emphasis_tags": [
+        "matte white aluminum window mullions",
+        "vertical dividers",
+        "high-contrast structural grid"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "The rear view of a commercial delivery truck is framed such that the vertical locking mechanisms occupy the central 50% of the image height. Two heavy-duty, galvanized silver steel rods run vertically parallel to each other against the flat, painted white surface of the truck doors. The rods are clearly defined, with visible metallic texture, acting as strong vertical backbones that segment the white space. The top and bottom quarters of the image are cropped, leaving only the middle sections of these industrial silver bars dominating the composition.",
+      "rationale": "",
+      "emphasis_tags": [
+        "galvanized silver steel rods",
+        "vertical locking mechanisms",
+        "industrial silver bars"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "Sleek, satin black metal legs of a modernist dining table extend from the bottom of the frame upwards, stopping at the center where the tabletop obscures them. These vertical supports occupy the lower 50% of the image height. They are straight, unornamented bars that divide the negative space beneath the table into vertical columns. The background is a pale, polished concrete floor, providing a high-key contrast that emphasizes the dark, rigid verticality of the black metal legs.",
+      "rationale": "",
+      "emphasis_tags": [
+        "satin black metal legs",
+        "vertical supports",
+        "dark, rigid verticality"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A close-up view of a white central heating radiator features a series of vertical convex ribs. These white painted metal ridges rise from the bottom edge of the frame and span upward, occupying precisely the lower half of the image. The grooves between the ribs create deep vertical shadow lines that alternate with the bright white highlights of the metal. The background above the radiator is a smooth, warm beige wall, contrasting with the repetitive, structural verticality of the white heating element below.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical convex ribs",
+        "white painted metal ridges",
+        "structural verticality"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "Vertical chrome dividers on a gaming machine are captured in a shot that focuses on the middle 50% of the machine's height. The reflective silver strips stand out sharply against the colorful, blurred lights of the slot reels behind them. These thin, straight bars partition the display into distinct vertical columns. The framing excludes the top and bottom of the cabinet, isolating the parallel chrome lines as the primary structural elements dividing the visual field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical chrome dividers",
+        "reflective silver strips",
+        "parallel chrome lines"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 7,
+      "prompt": "A set of heavy grey steel scaffolding pipes rises vertically from the bottom of the image, reaching only to the halfway point. These tarnished metal poles form a structural cage against a backdrop of red brickwork. The pipes act as vertical frames, segmenting the lower half of the image into rectangular sections. The lighting highlights the cylindrical nature of the grey bars, contrasting their industrial neutrality with the warm, textured brick behind them.",
+      "rationale": "",
+      "emphasis_tags": [
+        "grey steel scaffolding pipes",
+        "vertical frames",
+        "industrial neutrality"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 8,
+      "prompt": "The interior of a modern elevator is viewed such that the brushed steel wall panels occupy the lower 50% of the frame. Distinct vertical seams separate the silver metal sheets, creating faint but precise vertical lines that guide the eye upward. The metal surface reflects a distorted, grey ambient light. Above the midpoint, the view transitions to a mirrored surface, but the focus remains on the strong, straight verticality of the steel panels and seams in the bottom half.",
+      "rationale": "",
+      "emphasis_tags": [
+        "brushed steel wall panels",
+        "vertical seams",
+        "straight verticality"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 9,
+      "prompt": "A macro shot of a computer heat sink shows thin, silver aluminum fins rising vertically from the bottom edge to the image center. These parallel metal plates occupy the lower 50% of the visual space, arranged with precise, narrow spacing. The background above is a dark, out-of-focus void inside the computer case. The silver fins catch the light, creating a rhythmic pattern of bright vertical highlights and dark shadow gaps, rigidly structuring the bottom half of the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "silver aluminum fins",
+        "parallel metal plates",
+        "rhythmic pattern"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 10,
+      "prompt": "White wooden bars of a baby crib stand vertically, occupying the lower 50% of the image. The bars are evenly spaced, smooth, and painted a glossy white, rising from the bottom rail to the middle of the composition. Through the gaps in the white bars, a soft, pastel yellow wall is visible. The bars act as a high-contrast foreground frame, effectively slicing the lower portion of the scene into narrow vertical strips.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white wooden bars",
+        "glossy white",
+        "high-contrast foreground frame"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 11,
+      "prompt": "Chrome guide rods of a gym weight machine extend vertically through the central 50% of the image height. These highly polished silver steel cylinders are perfectly straight and parallel, set against a matte black equipment frame. The top and bottom of the machine are cropped out, emphasizing the vertical linearity of the silver rods as they divide the dark background. Reflections on the chrome emphasize their cylindrical form and metallic nature.",
+      "rationale": "",
+      "emphasis_tags": [
+        "chrome guide rods",
+        "polished silver steel cylinders",
+        "vertical linearity"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 12,
+      "prompt": "A white vinyl picket fence occupies the bottom half of the frame. The vertical slats are flat, wide, and pristine white, standing in a uniform row from the bottom edge up to the horizon line at the center. Between the white posts, glimpses of a manicured green lawn are visible. The fence creates a solid, rhythmic barrier of vertical white lines that dominate the lower 50% of the image, contrasting sharply with the organic green texture behind.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white vinyl picket fence",
+        "vertical slats",
+        "rhythmic barrier"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 13,
+      "prompt": "The black metal frame of a shower enclosure stands vertically, occupying the left 50% of the image height in a close-up crop (extending from bottom to middle). The matte black strip is perfectly straight, acting as a structural divider against the backdrop of white subway tiles. The stark black line separates the glass door from the tiled wall, providing a sharp, geometric vertical element that anchors the composition in the lower quadrant.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black metal frame",
+        "structural divider",
+        "geometric vertical element"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 14,
+      "prompt": "Vertical grey concrete louvers on the facade of a brutalist building occupy the top 50% of the image. These thick, stone-colored fins hang from the top edge down to the center, separating dark shadowed windows. The lighting casts deep shadows on one side of each louver, enhancing the sense of depth and verticality. The neutral grey of the concrete contrasts with the deep black shadows, creating a repetitive, heavy vertical pattern in the upper visual field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "vertical grey concrete louvers",
+        "stone-colored fins",
+        "heavy vertical pattern"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 1.5869382619857788,
+      "best_percentile": 0.01724991140882602
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 1.6938987970352173,
+      "best_percentile": 0.052452219306475506
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 1.713131308555603,
+      "best_percentile": 0.06283338771088212
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 1.7605514526367188,
+      "best_percentile": 0.09210359937744211
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 1.763879418373108,
+      "best_percentile": 0.09506964749298685
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 1.8781585693359375,
+      "best_percentile": 0.22604408796362063
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.9081230163574219,
+      "best_percentile": 0.28208678656786085
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 2.0219335556030273,
+      "best_percentile": 0.6106156423133302
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 2.111729860305786,
+      "best_percentile": 1.0480296854584028
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 2.119225025177002,
+      "best_percentile": 1.097593910547111
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 2.145542621612549,
+      "best_percentile": 1.2770398215375682
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 2.2438809871673584,
+      "best_percentile": 2.2351514167562985
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 2.368483304977417,
+      "best_percentile": 4.4102793861217044
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 2.492600917816162,
+      "best_percentile": 8.509045666213433
+    }
+  ]
+}

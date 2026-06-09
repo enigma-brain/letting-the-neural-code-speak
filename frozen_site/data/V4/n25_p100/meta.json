@@ -1,0 +1,359 @@
+{
+  "area": "V4",
+  "neuron_id": 25,
+  "percentile": 100,
+  "hypothesis": "The neuron responds strongly to discrete, high-contrast dark features\u2014typically black, dark brown, or navy blue\u2014set against a lighter, often neutral background such as white, beige, silver, or light natural tones. The activating visual elements are varied but consistently involve bold, defined shapes, including geometric patterns (dots, circular spots, stripes), alphanumeric characters, or specific anatomical regions (animal facial masks, noses, eyes, wing tips, and spines). The neuron remains invariant to object identity (activating for insects, mammals, ceramics, and cardboard text alike), surface texture, and scene context, as long as the sharp dark-on-light luminance contrast is preserved. The activating feature typically occupies 10\u201340% of the image area and is predominantly positioned in the center or upper-middle portion of the frame.",
+  "confidence": null,
+  "total_images": 15,
+  "natural": [
+    {
+      "file": "natural/0.jpg",
+      "activation": 2.610478162765503,
+      "description": "Centered in the upper middle portion of the view is a medium-sized dog with a short, tawny-brown coat that darkens to black along the spine and tail, standing in shallow, murky water. The dog\u2019s body is angled toward the left, while its head is turned to face forward and slightly to the right, engaging the viewer. The face features a prominent black mask covering the muzzle and eyes, topped with two erect, triangular ears. A dark collar encircles the neck, from which a bright purple tag or object hangs loosely against the upper chest. The dog is captured mid-stride; the front right leg is lifted with the paw curled inward above the water, while the front left leg is planted. The rear legs are partially submerged, kicking up a splash of muddy, light brown water that fans out behind the animal. The water itself is a turbid grey-brown, covering the lower half of the scene and rippled by the dog's movement. Sparse tufts of green grass poke vertically through the water's surface in the foreground, becoming a denser, continuous patch of green grass in the background behind the dog. In the bottom right corner, the partial hindquarters of a second dog are visible, characterized by dark brown fur with a patch of white on the lower leg, moving out of the frame. The lighting appears to be diffuse daylight, creating soft reflections on the wet fur and the uneven surface of the water."
+    },
+    {
+      "file": "natural/1.jpg",
+      "activation": 2.6189088821411133,
+      "description": "A small, tan lizard stands diagonally across a coarse, sandy surface, facing toward the upper left with its body angling down toward the right. The creature\u2019s skin is a mottled blend of light beige and soft brown, featuring a distinct, pale cream-colored stripe running horizontally along its flank, bordered below by faint vertical grey barring near the ribcage. Its rear right leg is clearly visible, bent acutely at the knee with long, slender toes gripping the grainy rock. The lizard\u2019s most striking feature is its tail, which curls upward and forward over its lower back in a distinct arc; the underside of the tail is exposed, revealing vivid, alternating horizontal bands of black and white, ending in a tapered white tip. The head is slightly out of focus, pointing away from the viewer. The ground beneath is a texture of rough, reddish-brown and tan granules, appearing like weathered sandstone or packed dirt. Directly beneath the lizard\u2019s belly and legs, a sharp, dark black shadow is cast on the sand, indicating strong, direct overhead sunlight. A small, intense point of specular reflection gleams white on a sand grain just below the curve of the tail. In the background, soft, out-of-focus vertical stalks of dry, yellowish grass rise from the blurred earth, while a small, tangled clump of dried vegetation sits in the lower right foreground, slightly blurry against the sharper texture of the sand in the center."
+    },
+    {
+      "file": "natural/2.jpg",
+      "activation": 2.647622585296631,
+      "description": "A close-up view captures the upper portion of a glossy white ceramic cup filled with dark, opaque coffee, viewed from a slightly elevated angle. The cup dominates the frame, distinguished by a decorative pattern of black circular dots arranged in horizontal rows around its circumference. The dots exhibit a size gradient; the uppermost row features large, prominent black circles, while the subsequent rows below contain progressively smaller dots, creating a tapering visual effect as the pattern descends toward the cup's base. The white ceramic surface reflects a cool, bluish light, contrasting with the warm, creamy beige tones of the out-of-focus background visible on the right. A small, curved white handle protrudes from the right side of the cup, catching highlights on its upper surface. Inside the cup, the dark liquid has a smooth surface with faint swirls, sitting just below the rim. At the bottom of the visible area, the curved edge of a matching white saucer supports the cup, while a dark, blurred shape, possibly a utensil or shadow, appears to the left against the soft background. The lighting is soft and diffuse, creating gentle gradients on the curved surface of the cup and emphasizing the glossy texture of the porcelain."
+    },
+    {
+      "file": "natural/3.jpg",
+      "activation": 2.6571831703186035,
+      "description": "Centrally positioned against a backdrop of a stippled, off-white wall is a vertical, rectangular light switch plate in a solid almond or beige color. The wall texture is uneven, resembling an orange-peel finish, with subtle highlights and lowlights indicating a matte paint sheen. The switch plate itself is made of smooth plastic with slightly beveled edges and is secured by two metallic flathead screws\u2014one located on the central vertical axis above the toggle and one below it. Both screw slots are oriented vertically. In the center of the plate, a matching almond-colored toggle switch protrudes outward and is flipped to the upward position. The toggle sits within a small, rectangular recess in the plate. Lighting coming from the upper left creates specific shadows: the toggle casts a sharp, dark shadow to its immediate right onto the face of the plate, and the entire switch plate casts a softer, vertical shadow along its right edge onto the wall, giving the object depth. There is a very faint, small smudge or discoloration on the flat surface of the plate to the right of the toggle switch. The switch assembly occupies the upper-middle portion of the visible area, surrounded by significant expanses of the textured wall on the left, right, and bottom."
+    },
+    {
+      "file": "natural/4.jpg",
+      "activation": 2.6825368404388428,
+      "description": "Occupying the upper-left quadrant of the scene, the head and partial shoulder of a small, light-brown puppy are nestled deeply within a field of textured grass. The puppy's fur is primarily a golden-tan hue, transitioning to darker chocolate brown shading on the muzzle and the visible left ear, which flops downward against the side of the head. Its head is oriented diagonally towards the lower right, with a small, shiny black nose positioned near the vertical center line and a dark eye visible in profile, looking downward. The texture of the fur appears soft and short, contrasting with the surrounding vegetation. Filling the remaining two-thirds of the space and extending to the bottom and right edges is a dense patch of grass, characterized by chaotic, intersecting blades. The grass exhibits a wide range of greens, from deep forest green in the recessed, shadowed areas to bright, yellowish-lime green where the sunlight strikes the tips. The lighting is strong and direct, seemingly originating from the upper left, creating high-contrast specular highlights on the grass blades and casting the lower portions of the vegetation into deep shadow. The puppy's body is partially obscured by the rising grass blades in the immediate foreground, creating a sense of depth where the animal is sunk into the lawn."
+    },
+    {
+      "file": "natural/5.jpg",
+      "activation": 2.6839213371276855,
+      "description": "Centered against a soft, out-of-focus background of uniform beige and tan hues, a spiny orb-weaver spider hangs suspended in the middle of the frame, viewed from its dorsal side. The arachnid is dominated by a broad, hard, white abdomen that resembles a crab shell, roughly hexagonal in shape and curving convexly toward the viewer. This white carapace is edged with six prominent, sharp black spines: two extending horizontally from the left margin, two mirroring them on the right, and two larger spines projecting from the rear posterior edge. The surface of the white abdomen is punctuated by a symmetrical pattern of glossy black, pit-like depressions, known as sigilla, arranged in transverse rows across the center and near the bases of the spines. Beneath this protective shield, the cephalothorax and legs form a compact, dark black mass, with the segmented limbs drawn in close to the body, grappling the center of the web. The web itself is composed of extremely fine, translucent, silvery-white silk threads that radiate outward from beneath the spider like the spokes of a wheel, intersected by fainter, irregular spiral threads that shimmer slightly against the neutral backdrop. The lighting is diffuse and even, creating a subtle sheen on the smooth white surface of the spider's back and casting no harsh shadows, while the background remains entirely blurred, providing a clean, high-contrast field that isolates the sharp details of the spider and its immediate webbing."
+    },
+    {
+      "file": "natural/6.jpg",
+      "activation": 2.692654848098755,
+      "description": "Occupying the central and left portions of the view, a macro shot captures a ladybug perched on the vertical curve of a human fingertip against a completely out-of-focus background. The fingertip, rendering in shades of warm salmon-pink and fleshy tan, enters from the left edge and spans roughly the leftmost quarter of the visible area; its surface is detailed with fine, vertical friction ridges that curve with the finger's contour, creating a matte, textured surface. Clinging to the rightmost edge of this finger, the ladybug is oriented diagonally downwards, facing toward the bottom right. Its domed elytra are a glossy, saturated vermilion red, reflecting a broad, soft white highlight across the upper dorsal curve, indicating diffuse overhead lighting. Three visible black spots mark the shell: a large, nearly circular one on the lateral side, a partial one near the top dorsal midline, and a sliver of another near the posterior. The insect's pronotum is shiny black, contrasting sharply with two distinct, creamy-white trapezoidal patches on either side. Its small black head extends forward, sporting two short, clubbed antennae. Visible beneath the body are segments of its glossy black legs, specifically the front and middle legs, which grip the ridges of the fingertip. The background is a smooth, bokeh blur of vegetation, transitioning from a darker olive and moss green in the lower and left regions to a brighter, yellowish-lime green in the upper right, providing a soft, neutral canvas that emphasizes the sharp focus on the insect and skin texture."
+    },
+    {
+      "file": "natural/7.jpg",
+      "activation": 2.7057762145996094,
+      "description": "Against a field of grainy, muted cyan-blue sky, a white stork flies in profile from right to left, positioned centrally within the view. The bird's plumage is predominantly white, covering the streamlined body, elongated neck, and upper wing coverts, while the flight feathers on the wings are a deep, solid black. The bird is captured in mid-flight with its wings engaged in an upstroke; the wing on the far side of the body is raised vertically, displaying distinct, finger-like black primary feathers splayed fan-like against the sky, while the near wing appears angled slightly lower and backward, showing black feathers beneath the white shoulder area. The stork's neck is fully extended forward, terminating in a long, straight, tapering beak of vibrant orange-red. A tiny dark speck indicates the eye on the white head. Extending straight backward from the white tail feathers are the bird's long, slender legs and feet, which are a reddish-pink hue, maintaining a horizontal line parallel to the neck and beak. The lighting is diffuse, creating subtle shadows on the underside of the bird's belly and wings, while the surrounding blue space is featureless and textured with uniform noise."
+    },
+    {
+      "file": "natural/8.jpg",
+      "activation": 2.7215681076049805,
+      "description": "Centered on a backdrop of white fabric characterized by gentle horizontal wrinkles and soft, diffuse shadowing, a printed graphic features two stylized cartoon figures and text. The dominant figure, positioned slightly to the right of the center, is a girl with a pale, peach-toned, oval-shaped face and solid black hair styled into two large, spherical buns on either side of her head. Resting high on her forehead are thick white circular frames resembling glasses. Her face displays minimalist features: two angled black lines for closed, smiling eyes, a tiny curved smile, and two distinct circular red blush marks on her cheeks. She wears a red long-sleeved top with a black V-neck collar and black pants, appearing to sit with legs tucked or dangling on a white rectangular block. This block, outlined in black, sits directly beneath her torso and contains the text \"ACUPC\" in a bold, black, pixelated font. To the left of the girl and the block, standing on the same visual plane, is a small, solid black cat. The cat is roughly half the height of the girl and features pointed triangular ears and large, oval yellow eyes with vertical black slit pupils. Like the girl, the cat has white circular frames resting on its forehead. Three thin black whiskers extend horizontally from the left side of the cat's face, and a small white \"x\" marks its mouth area. The entire graphic is centrally placed, with the white textile extending to the edges of visibility, showing slight gray shading in the folds of the material."
+    },
+    {
+      "file": "natural/9.jpg",
+      "activation": 2.7378766536712646,
+      "description": "Centered within a field of verdant grass stands a solitary warthog, captured in profile and facing toward the left side of the frame. The animal's body is a mottled mix of charcoal grey and earthy brown, occupying roughly the central third of the visible width and height. Its skin appears tough and leathery, accented by a sparse ridge of dark, bristly hair forming a mane that runs from the top of its head down the spine to the middle of its back. The head is blocky and substantial, featuring a flat snout with two distinctive white tusks curving upwards near the mouth, and small, perked ears situated high on the skull. The warthog stands on four relatively slender legs that darken to nearly black near the hooves; the front left leg is positioned slightly forward, suggesting a slow walking gait or a pause in movement. A thin, straight tail with a small tuft at the end hangs vertically at the rear. Beneath the animal, a soft, diffuse shadow anchors it to the ground, indicating overhead, diffused lighting. The surrounding terrain is a continuous expanse of grass that varies in focus; the foreground consists of blurred, out-of-focus blades in shades of bright lime and olive green, while the grass immediately surrounding the warthog is sharper, revealing individual vertical stalks and a mix of fresh green and dried brownish vegetation. The background behind the animal returns to a soft, blurry wash of textured green that extends to the upper limit of the view, creating a shallow depth of field that isolates the subject."
+    },
+    {
+      "file": "natural/10.jpg",
+      "activation": 2.744115114212036,
+      "description": "Centered in the upper middle portion of the visible scene, a grey elephant stands in profile facing toward the right, positioned on a grassy embankment that slopes down toward a body of water. The elephant, appearing to be an Asian elephant due to its arched back and smaller ears, occupies approximately one-third of the width of the viewable area. Its skin is a textured, matte slate-grey, displaying muscular definition in the shoulders and hindquarters. The animal's head is lowered, with its trunk reaching down into the tall grass near its front feet. A prominent, curved white tusk projects downward and slightly forward from the upper jaw. The legs are stout and pillar-like, with the front left leg appearing slightly bent as if in motion, while a dark, distinct shadow is cast directly beneath the belly and legs onto the ground, indicating an overhead light source. The terrain surrounding the elephant is covered in dense, vibrant green vegetation, consisting of long, vertical blades of grass and stalky plants that vary in shade from bright lime to deep forest green. This grassy bank fills the upper two-thirds of the image. The lower third depicts a calm body of water, brownish-green and murky in tone. The surface of the water features soft, vertical reflections of the overhanging grass, blurring the boundary between the land and the liquid. The transition from bank to water is lined with partially submerged reeds and grasses, creating a textured, uneven shoreline."
+    },
+    {
+      "file": "natural/11.jpg",
+      "activation": 2.765285015106201,
+      "description": "Occupying the upper central portion of the visible area is a bird with stark black and white plumage, viewed from behind and positioned as if walking away toward the upper left. The bird's back is primarily jet black, interrupted by a distinct horizontal white stripe across the folded wings and a patch of white feathers at the nape of the neck. The tail feathers extend downward and slightly to the right, tapering to a rounded end tipped with white. A glimpse of the white underbelly is visible along the bird's left flank, and thin, dark gray legs extend downward, partially obscured by the terrain. The bird stands upon a dense, textured surface of grass that fills the entire remainder of the scene. The grass blades vary in width and orientation, creating a chaotic, organic mat of greenery ranging from deep forest green to vibrant lime. Several blades, particularly in the lower left and center foreground, feature yellowing or brown tips, indicating slight dryness. Soft, diffuse lighting illuminates the scene from above, casting a subtle, amorphous dark shadow directly beneath the bird's body and tail, anchoring it to the grassy surface without creating harsh directional lines."
+    },
+    {
+      "file": "natural/12.jpg",
+      "activation": 2.8141591548919678,
+      "description": "A close-up, eye-level shot captures the textured, light brown surface of a corrugated cardboard shipping box, printed with various black and golden-yellow textual information. Domineering the upper center is the word \"AGILE\" in large, bold, black, uppercase sans-serif letters, cut off on the left side where the word \"FRAGILE\" would seemingly begin. Directly underneath this, in a much smaller black sans-serif font, is the phrase \"HANDLE W/ CARE,\" spanning the width of the word above it. Above the main \"AGILE\" text, positioned slightly to the left of center, is the text \"PAR 38\" printed in a muted golden-yellow hue, accompanied to its right by a graphic of vertical parallel lines of varying thickness in the same color. Superimposed horizontally across the center of the image, partially obscuring the \"HANDLE W/ CARE\" text, is a faint, semi-transparent white watermark consisting of Chinese characters that read \"\u5fb7\u7eb8\u4e1a\u5305\u88c5\u6709\u9650\". In the lower third of the visible area, a column of technical specifications is printed in small black text, aligned to the left. The first line reads \"R. VOLTAGE : 230v\", the second line reads \"BASE : E27\", and the third line reads \"PACKING : 12 PCS/CT\", with the final characters slightly obscured by the right edge. Below these lines, \"CTN.#\" is followed by a long horizontal underline, and to its right, the text \"SIZE 47x3\" is visible before being cut off. The lighting is soft and diffuse, casting no harsh shadows and evenly illuminating the matte texture of the cardboard."
+    },
+    {
+      "file": "natural/13.jpg",
+      "activation": 2.82743239402771,
+      "description": "A close-up view reveals the textured surface of a metallic radiator or heat exchanger core, dominated by a dense series of horizontal rows formed by silver-grey aluminum fins and tubes. The structure consists of alternating flat horizontal channels and corrugated fin material packed tightly between them, creating a rhythmic, striated pattern of light metal edges and darker recessed shadows. Stenciled across the center-left portion of this metallic grid is the word \"ALBA\" in bold, uppercase, sans-serif characters painted in a deep navy blue. The application of the paint is discontinuous, adhering only to the raised surfaces of the fins and broken by the horizontal gaps between rows, giving the text a segmented, scan-line appearance. The letters span approximately six of the horizontal rows. To the far right, the horizontal pattern terminates at a vertical metallic seam featuring a distinct, bead-like weld texture, characteristic of a TIG weld connecting the core to a side tank or frame. The lighting is soft and diffuse, catching the edges of the aluminum fins to produce a dull metallic sheen, while shadows in the crevices emphasize the depth of the cooling matrix. The entire assembly is viewed from a slight angle, with the horizontal lines sloping gently downwards from left to right."
+    },
+    {
+      "file": "natural/14.jpg",
+      "activation": 2.8385629653930664,
+      "description": "A motion-blurred image captures the dynamic action of a reddish-brown dog running rapidly from left to right across a grassy surface. The dog, appearing to be a medium-sized breed with a smooth copper-colored coat, dominates the upper left and central portions of the visible area. Its head is turned in profile towards the right, jaws clamped firmly around a bright, chartreuse-green toy that appears to have a textured, ridged surface. A solid black collar encircles the dog's neck. The animal's front left leg extends diagonally downward and forward, reaching towards the lower center, while the movement causes significant blurring of the limbs and body. Directly beneath the brown dog's neck and jaw area, visually tucked between the brown dog's head and foreleg, are fragments of a second dog with black and white fur; specifically, a white foreleg and paw are visible in mid-step, along with a patch of black fur near the brown dog's chin, indicating the second animal is running closely alongside. The background is comprised entirely of green grass, ranging from olive to emerald hues, which is heavily streaked horizontally due to the camera's panning motion, creating a soft, indistinct texture that emphasizes the speed of the subjects. The lighting is even and diffuse, suggesting daylight, with no sharp shadows cast, allowing the vibrant green of the toy to stand out against the earth tones of the dog and the muted green of the grass."
+    }
+  ],
+  "generated": [
+    {
+      "file": "generated/0.jpg",
+      "prompt_id": 0,
+      "prompt": "A close-up view of a smooth, high-gloss white ceramic tile that fills the entire visual field. Positioned precisely in the geometric center of the tile is a single, perfectly circular spot of deep navy blue glaze. The blue circle is relatively small, occupying only about 10% of the total white surface area, creating a stark, minimalist contrast. The lighting is soft and diffuse, highlighting the pristine, reflective quality of the white ceramic while casting no harsh shadows around the distinct dark blue dot.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white ceramic",
+        "navy blue circle",
+        "minimalist contrast",
+        "geometric center",
+        "10% area"
+      ]
+    },
+    {
+      "file": "generated/1.jpg",
+      "prompt_id": 1,
+      "prompt": "The camera focuses tightly on the muzzle of a fawn-colored Pug, where the surrounding fur is a soft, warm beige. Centered in the frame is the dog's nose, which is a wet, textured patch of jet-black skin. The nose is small relative to the visible fur, taking up roughly 10% of the image, and is positioned in the upper-middle section. The distinct, dark anatomical feature stands out sharply against the pale, creamy background of the dog's face.",
+      "rationale": "",
+      "emphasis_tags": [
+        "fawn pug",
+        "jet-black nose",
+        "beige fur",
+        "upper-middle",
+        "sharp contrast"
+      ]
+    },
+    {
+      "file": "generated/2.jpg",
+      "prompt_id": 2,
+      "prompt": "A sheet of plain, light brown corrugated cardboard serves as the neutral background. Stenciled boldly in the center of the frame is a capital letter 'A' in thick black ink. The letter is crisp and defined, occupying a modest portion of the space\u2014approximately 10% of the view\u2014leaving the surrounding textured beige cardboard largely empty. The black ink appears matte, absorbing light, while the cardboard reflects a soft, ambient glow.",
+      "rationale": "",
+      "emphasis_tags": [
+        "corrugated cardboard",
+        "black stenciled letter",
+        "beige background",
+        "center frame",
+        "alphanumeric"
+      ]
+    },
+    {
+      "file": "generated/3.jpg",
+      "prompt_id": 3,
+      "prompt": "A pristine white six-sided die rests on a light silver table surface. The camera is angled directly down at the top face, which displays the number one. A single, large black pip is indented in the exact center of the white plastic face. The black dot is sharp and circular, constituting about 10% of the visible image area, contrasting vividly with the clean white surroundings of the die's surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white die",
+        "black pip",
+        "silver surface",
+        "center",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/4.jpg",
+      "prompt_id": 4,
+      "prompt": "A macro photograph captures the wing of a Cabbage White butterfly. The wing scales are a creamy, off-white color, providing a textured but light background. In the upper-middle portion of the frame, a single, distinct charcoal-black spot marks the wing. The spot is round and fuzzy at the edges, covering just 10% of the image, isolated against the vast expanse of pale white wing scales.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Cabbage White butterfly",
+        "creamy wing",
+        "charcoal-black spot",
+        "upper-middle",
+        "macro"
+      ]
+    },
+    {
+      "file": "generated/5.jpg",
+      "prompt_id": 5,
+      "prompt": "A close-up of a Himalayan cat's face, focusing on the muzzle area. The fur is a fluffy, pale cream color, illuminated by bright, natural light. Positioned in the center of the frame is the cat's nose leather, which is a deep, dark seal brown. The dark nose creates a small, discrete focal point, occupying roughly 10% of the image area against the overwhelming lightness of the surrounding fur.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Himalayan cat",
+        "pale cream fur",
+        "seal brown nose",
+        "center",
+        "discrete feature"
+      ]
+    },
+    {
+      "file": "generated/6.jpg",
+      "prompt_id": 6,
+      "prompt": "A swatch of crisp white linen fabric is stretched flat. In the upper-middle section of the cloth, a single navy blue geometric triangle is printed. The triangle is equilateral and solid, standing out boldly against the woven texture of the white fabric. The shape is small, covering approximately 10% of the visible area, ensuring the surrounding white space remains dominant.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white linen",
+        "navy blue triangle",
+        "upper-middle",
+        "geometric shape",
+        "textural contrast"
+      ]
+    },
+    {
+      "file": "generated/7.jpg",
+      "prompt_id": 7,
+      "prompt": "A brushed silver metallic control panel fills the background with a light, lustrous grey tone. In the center, a round, black plastic button is mounted. The button is unlit and matte, providing a strong visual anchor against the reflective silver metal. The black circle of the button is compact, taking up about 10% of the panel shown in the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "brushed silver",
+        "black button",
+        "metallic panel",
+        "center",
+        "matte vs shiny"
+      ]
+    },
+    {
+      "file": "generated/8.jpg",
+      "prompt_id": 8,
+      "prompt": "A sheet of heavy, textured white watercolor paper is viewed from directly above. A single drop of black India ink has splattered in the center, forming a jagged, organic spot. The ink is pitch black and opaque, contrasting sharply with the bright white paper. The splatter is contained, covering only 10% of the paper's surface area within the frame.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white watercolor paper",
+        "black ink splatter",
+        "organic shape",
+        "center",
+        "high contrast"
+      ]
+    },
+    {
+      "file": "generated/9.jpg",
+      "prompt_id": 9,
+      "prompt": "A close-up of a smooth, tumbled white river stone. The stone's surface is a pale, chalky white. Running horizontally across the upper-middle section is a single, thick band of dark basalt black mineral intrusion. This black stripe is discrete and clearly defined, occupying about 10% of the stone's visible surface, creating a stark geological contrast.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white river stone",
+        "black mineral band",
+        "geological contrast",
+        "upper-middle",
+        "natural texture"
+      ]
+    },
+    {
+      "file": "generated/10.jpg",
+      "prompt_id": 10,
+      "prompt": "A white wooden child's alphabet block is positioned centrally. The face of the block is painted a clean, bright white. In the center, a bold, serif-style letter 'K' is painted in black. The letter is sharp and legible, taking up approximately 10% of the image area, set against the grain-free white paint of the block's surface.",
+      "rationale": "",
+      "emphasis_tags": [
+        "white wooden block",
+        "black letter K",
+        "center",
+        "alphanumeric",
+        "bright white"
+      ]
+    },
+    {
+      "file": "generated/11.jpg",
+      "prompt_id": 11,
+      "prompt": "A macro shot of a Dalmatian's coat. The background consists of short, sleek white fur. In the center of the frame, a single, isolated black spot is visible. The spot is roughly circular with organic edges, contrasting heavily with the surrounding white hairs. The black area is limited to about 10% of the frame, emphasizing the isolation of the dark feature on the light field.",
+      "rationale": "",
+      "emphasis_tags": [
+        "Dalmatian coat",
+        "white fur",
+        "black spot",
+        "center",
+        "organic pattern"
+      ]
+    },
+    {
+      "file": "generated/12.jpg",
+      "prompt_id": 12,
+      "prompt": "A minimalist art composition featuring a canvas painted in a flat, warm beige. In the upper-middle portion of the canvas, a solid black square is painted. The square is small and precise, occupying 10% of the total canvas area shown. The sharp straight edges of the black square juxtapose the neutral, expansive beige background.",
+      "rationale": "",
+      "emphasis_tags": [
+        "warm beige canvas",
+        "black square",
+        "minimalist art",
+        "upper-middle",
+        "geometric"
+      ]
+    },
+    {
+      "file": "generated/13.jpg",
+      "prompt_id": 13,
+      "prompt": "A small, armored black beetle rests on the petal of a large white magnolia flower. The flower petal provides a creamy, smooth, and light background that fills the frame. The beetle, positioned in the center, is a glossy, high-contrast dark oval shape. It is small relative to the petal, covering about 10% of the image, creating a focal point of life against the pale flora.",
+      "rationale": "",
+      "emphasis_tags": [
+        "black beetle",
+        "white magnolia petal",
+        "glossy texture",
+        "center",
+        "nature contrast"
+      ]
+    },
+    {
+      "file": "generated/14.jpg",
+      "prompt_id": 14,
+      "prompt": "A close-up of a traditional paper shooting target. The paper is an off-white, slightly fibrous material. In the exact center is the 'bullseye', a solid black circle. The framing is such that the black circle occupies only 10% of the image, leaving the rest as the surrounding white rings and paper texture. The black ink is dense and uniform, standing out against the light paper.",
+      "rationale": "",
+      "emphasis_tags": [
+        "paper target",
+        "black bullseye",
+        "off-white background",
+        "center",
+        "circular shape"
+      ]
+    }
+  ],
+  "augmented": [
+    {
+      "file": "augmented/0.jpg",
+      "best_activation": 2.4897243976593018,
+      "best_percentile": 99.99367763428002
+    },
+    {
+      "file": "augmented/1.jpg",
+      "best_activation": 2.348578929901123,
+      "best_percentile": 99.96518796159124
+    },
+    {
+      "file": "augmented/2.jpg",
+      "best_activation": 2.24687123298645,
+      "best_percentile": 99.88807071058707
+    },
+    {
+      "file": "augmented/3.jpg",
+      "best_activation": 2.2328498363494873,
+      "best_percentile": 99.86847918224493
+    },
+    {
+      "file": "augmented/4.jpg",
+      "best_activation": 2.066673994064331,
+      "best_percentile": 99.14008020818535
+    },
+    {
+      "file": "augmented/5.jpg",
+      "best_activation": 2.064234972000122,
+      "best_percentile": 99.11853733239877
+    },
+    {
+      "file": "augmented/6.jpg",
+      "best_activation": 1.97133469581604,
+      "best_percentile": 97.76601939171036
+    },
+    {
+      "file": "augmented/7.jpg",
+      "best_activation": 1.9207338094711304,
+      "best_percentile": 96.4435522016663
+    },
+    {
+      "file": "augmented/8.jpg",
+      "best_activation": 1.9024711847305298,
+      "best_percentile": 95.83254628986408
+    },
+    {
+      "file": "augmented/9.jpg",
+      "best_activation": 1.88827645778656,
+      "best_percentile": 95.30794604290155
+    },
+    {
+      "file": "augmented/10.jpg",
+      "best_activation": 1.8557929992675781,
+      "best_percentile": 93.87534480309343
+    },
+    {
+      "file": "augmented/11.jpg",
+      "best_activation": 1.8079464435577393,
+      "best_percentile": 91.18716856363656
+    },
+    {
+      "file": "augmented/12.jpg",
+      "best_activation": 1.8061809539794922,
+      "best_percentile": 91.07133657933477
+    },
+    {
+      "file": "augmented/13.jpg",
+      "best_activation": 1.771743655204773,
+      "best_percentile": 88.6494802390947
+    },
+    {
+      "file": "augmented/14.jpg",
+      "best_activation": 1.6699317693710327,
+      "best_percentile": 78.85215499006374
+    }
+  ]
+}
