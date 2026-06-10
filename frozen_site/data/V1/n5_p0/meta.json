@@ -95,7 +95,8 @@
         "pitch black",
         "bright white",
         "convex curvature"
-      ]
+      ],
+      "activation": 1.4508775472640991
     },
     {
       "file": "generated/1.jpg",
@@ -108,7 +109,8 @@
         "deep charcoal",
         "domed arc",
         "sharp separation"
-      ]
+      ],
+      "activation": 1.4434458017349243
     },
     {
       "file": "generated/2.jpg",
@@ -121,7 +123,8 @@
         "pitch black",
         "curved horizon",
         "convex silhouette"
-      ]
+      ],
+      "activation": 1.4070202112197876
     },
     {
       "file": "generated/3.jpg",
@@ -134,7 +137,8 @@
         "bright white",
         "hemisphere",
         "convex curve"
-      ]
+      ],
+      "activation": 1.5683739185333252
     },
     {
       "file": "generated/4.jpg",
@@ -147,7 +151,8 @@
         "pitch black",
         "bright light",
         "rounded arch"
-      ]
+      ],
+      "activation": 1.4708999395370483
     },
     {
       "file": "generated/5.jpg",
@@ -160,7 +165,8 @@
         "black velvet",
         "curved edge",
         "volumetric mass"
-      ]
+      ],
+      "activation": 1.3647319078445435
     },
     {
       "file": "generated/6.jpg",
@@ -173,7 +179,8 @@
         "bright white",
         "semi-circular",
         "high-contrast"
-      ]
+      ],
+      "activation": 1.4645723104476929
     },
     {
       "file": "generated/7.jpg",
@@ -186,7 +193,8 @@
         "white sand",
         "bulbous",
         "convex curve"
-      ]
+      ],
+      "activation": 1.5126838684082031
     },
     {
       "file": "generated/8.jpg",
@@ -199,7 +207,8 @@
         "white bedsheet",
         "domed curve",
         "high-contrast"
-      ]
+      ],
+      "activation": 1.4929280281066895
     },
     {
       "file": "generated/9.jpg",
@@ -212,7 +221,8 @@
         "deep charcoal",
         "white ceiling",
         "convex curvature"
-      ]
+      ],
+      "activation": 1.5611281394958496
     },
     {
       "file": "generated/10.jpg",
@@ -225,7 +235,8 @@
         "pitch-black",
         "volumetric",
         "circular boundary"
-      ]
+      ],
+      "activation": 1.4026288986206055
     },
     {
       "file": "generated/11.jpg",
@@ -238,7 +249,8 @@
         "bright white",
         "convex arc",
         "stark tonal difference"
-      ]
+      ],
+      "activation": 1.4445960521697998
     },
     {
       "file": "generated/12.jpg",
@@ -251,7 +263,8 @@
         "white concrete",
         "bulbous curve",
         "volumetric form"
-      ]
+      ],
+      "activation": 1.4339492321014404
     },
     {
       "file": "generated/13.jpg",
@@ -264,7 +277,8 @@
         "bright oval",
         "convex",
         "crisp separation"
-      ]
+      ],
+      "activation": 1.5109354257583618
     },
     {
       "file": "generated/14.jpg",
@@ -277,7 +291,8 @@
         "light gray",
         "dome shape",
         "strong silhouette"
-      ]
+      ],
+      "activation": 1.4115269184112549
     }
   ],
   "augmented": [

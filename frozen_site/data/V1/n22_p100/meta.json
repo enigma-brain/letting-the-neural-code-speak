@@ -95,7 +95,8 @@
         "spider leg",
         "deep black",
         "medium-gray background"
-      ]
+      ],
+      "activation": 2.4975013732910156
     },
     {
       "file": "generated/1.jpg",
@@ -109,7 +110,8 @@
         "clock hand",
         "bright white",
         "medium-gray background"
-      ]
+      ],
+      "activation": 0.35394224524497986
     },
     {
       "file": "generated/2.jpg",
@@ -123,7 +125,8 @@
         "hanging cord",
         "deep black",
         "medium-gray background"
-      ]
+      ],
+      "activation": 0.8852093815803528
     },
     {
       "file": "generated/3.jpg",
@@ -137,7 +140,8 @@
         "plant stem",
         "bright white",
         "medium-gray background"
-      ]
+      ],
+      "activation": 0.17752884328365326
     },
     {
       "file": "generated/4.jpg",
@@ -151,7 +155,8 @@
         "crack",
         "deep black",
         "medium-gray background"
-      ]
+      ],
+      "activation": 1.439484715461731
     },
     {
       "file": "generated/5.jpg",
@@ -165,7 +170,8 @@
         "needle",
         "bright white",
         "medium-gray background"
-      ]
+      ],
+      "activation": 0.7325173616409302
     },
     {
       "file": "generated/6.jpg",
@@ -179,7 +185,8 @@
         "antenna",
         "deep black",
         "medium-gray background"
-      ]
+      ],
+      "activation": 0.9316419959068298
     },
     {
       "file": "generated/7.jpg",
@@ -193,7 +200,8 @@
         "spider silk",
         "bright white",
         "medium-gray background"
-      ]
+      ],
+      "activation": 0.2200191766023636
     },
     {
       "file": "generated/8.jpg",
@@ -207,7 +215,8 @@
         "rope",
         "deep black",
         "medium-gray background"
-      ]
+      ],
+      "activation": 1.1856735944747925
     },
     {
       "file": "generated/9.jpg",
@@ -221,7 +230,8 @@
         "zip tie",
         "bright white",
         "medium-gray background"
-      ]
+      ],
+      "activation": 1.2421172857284546
     },
     {
       "file": "generated/10.jpg",
@@ -235,7 +245,8 @@
         "ink stroke",
         "deep black",
         "medium-gray background"
-      ]
+      ],
+      "activation": 1.9105358123779297
     },
     {
       "file": "generated/11.jpg",
@@ -249,7 +260,8 @@
         "twig",
         "bright white",
         "medium-gray background"
-      ]
+      ],
+      "activation": 0.5653316378593445
     },
     {
       "file": "generated/12.jpg",
@@ -263,7 +275,8 @@
         "iron rod",
         "deep black",
         "medium-gray background"
-      ]
+      ],
+      "activation": 2.1129283905029297
     },
     {
       "file": "generated/13.jpg",
@@ -277,7 +290,8 @@
         "tube light",
         "bright white",
         "medium-gray background"
-      ]
+      ],
+      "activation": 0.846881091594696
     },
     {
       "file": "generated/14.jpg",
@@ -291,7 +305,8 @@
         "string",
         "deep black",
         "medium-gray background"
-      ]
+      ],
+      "activation": 0.17470024526119232
     }
   ],
   "augmented": [

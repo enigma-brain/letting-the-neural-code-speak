@@ -93,7 +93,8 @@
         "high contrast",
         "5% width",
         "60% height"
-      ]
+      ],
+      "activation": 2.216111898422241
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "vertical cylinder",
         "monochromatic",
         "centered"
-      ]
+      ],
+      "activation": 2.953415870666504
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "vertical strip",
         "black and white",
         "60% height"
-      ]
+      ],
+      "activation": 1.651200294494629
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "vertical column",
         "high contrast",
         "night scene"
-      ]
+      ],
+      "activation": 1.6303989887237549
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "vertical white line",
         "dark background",
         "centered"
-      ]
+      ],
+      "activation": 2.307913303375244
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "vertical reflection",
         "metallic highlight",
         "sharp contrast"
-      ]
+      ],
+      "activation": 2.5276706218719482
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "vertical ornament",
         "white on black",
         "elongated shape"
-      ]
+      ],
+      "activation": 2.3169219493865967
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "vertical slit",
         "industrial contrast",
         "centered"
-      ]
+      ],
+      "activation": 1.6373589038848877
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "vertical highlight",
         "cave darkness",
         "bright white"
-      ]
+      ],
+      "activation": 2.248878240585327
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "macro vertical",
         "glowing white",
         "dark blur"
-      ]
+      ],
+      "activation": 2.165985107421875
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "vertical rectangle",
         "light slit",
         "high contrast"
-      ]
+      ],
+      "activation": 3.0787837505340576
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "piano detail",
         "vertical highlight",
         "black lacquer"
-      ]
+      ],
+      "activation": 2.508653402328491
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "light beam",
         "vertical gap",
         "matte texture"
-      ]
+      ],
+      "activation": 1.9818190336227417
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "vertical vibration",
         "white line",
         "black background"
-      ]
+      ],
+      "activation": 2.5828981399536133
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "vertical light",
         "minimalist",
         "high contrast"
-      ]
+      ],
+      "activation": 2.3669211864471436
     }
   ],
   "augmented": [

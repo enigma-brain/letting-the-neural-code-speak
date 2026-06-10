@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A vertical, wrought-iron fence bar, painted a deep matte black, occupies the center of the frame. Adhering strictly to the lower bounds of size, the bar extends upwards from the bottom quarter to the top quarter, covering exactly 50% of the image's vertical span. It is extremely slender, taking up merely 5% of the image width. The background is a uniform, low-contrast pale beige stone wall, soft and out of focus, providing a stark light canvas for the dark vertical element.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 3.7880795001983643
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "A stiff, black coaxial cable hangs strictly vertically through the central portion of the image. It is framed to start midway down from the top edge and end midway up from the bottom, constituting 50% of the image height. The cable is very slender, occupying about 5% of the total width. Behind it lies a plain, off-white drywall surface with no discernible texture or variation, ensuring a high-contrast dark-on-light composition.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.117380976676941
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "The central stem of a minimalist floor lamp, finished in a dark charcoal grey, stands perfectly straight in the middle of the composition. The visible segment is cropped to show only the middle section, spanning half (50%) of the vertical height of the view. The stem is thin, occupying just 5% of the horizontal space. The backdrop is a smooth, pale grey painted wall that provides a neutral, low-contrast field.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.1806905269622803
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A vertical expansion joint filled with black sealant runs between two pale concrete panels. The joint forms a distinct dark line centered in the frame. To match the size constraint, the image frames the line such that it is visible for 50% of the height, fading out or cropped at the top and bottom quarters. The width of the line is a narrow 5% of the image. The surrounding concrete is a creamy, pale grey.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 4.958327293395996
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "A slender, antique book with a black leather spine stands upright on a shelf. The spine acts as the central vertical feature, occupying exactly 50% of the vertical space with empty pale space above and below. It is thin, covering 5% of the image width. The background is the pale beige backboard of the bookcase, which is smooth and lacks detail.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 5.468597888946533
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "A straight, vertical section of a black microphone stand pole is centered in the frame. It occupies the middle 50% of the image height, leaving the top and bottom quarters empty. The pole is narrow, constituting 5% of the image width. The background is a seamless, off-white photographer's backdrop that offers a clean, light surface behind the dark metal.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.681570291519165
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A thin, dead sapling trunk, charred to a deep black color, stands vertically in a snowy field. The framing captures a section of the trunk that fills 50% of the vertical view in the center. It is very thin, taking up 5% of the width. The background is the flat, pale white-grey of an overcast snowy sky and ground, creating a stark silhouette.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.9664385914802551
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A dark, vertical shadow gap exists between a white door and its white frame. This gap creates a stark black line running vertically. The image captures a segment where the gap extends for 50% of the image height. It is a razor-thin line, occupying 5% of the width. The surrounding surfaces are the low-contrast white of the painted door and frame.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 4.734288692474365
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A black lacquer fountain pen is balanced perfectly upright on its end. It sits in the center, its length taking up exactly half (50%) of the height of the frame. It is slender, accounting for 5% of the image width. The background is a sheet of pale cream parchment paper standing vertically behind it, offering a smooth, light backdrop.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.334066390991211
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A single vertical glazing bar (mullion) made of dark grey aluminum runs through the center of the view. It is cropped to occupy 50% of the image height. It is thin, measuring 5% of the image width. The view through the window is a dense, featureless white fog, creating a pale, low-contrast background against the dark bar.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.9613983035087585
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A deep vertical crack in a pale limestone rock face forms a linear shadow. The interior of the crack is a pitch-black shadow line. The crack is visible for the middle 50% of the image height, tapering off above and below. It is narrow, occupying 5% of the width. The surrounding rock is a smooth, pale beige.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 5.59283447265625
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "A section of a black carbon-fiber tripod leg is positioned strictly vertically. It takes up the central 50% of the vertical frame. It is thin, occupying 5% of the width. The background is a pale grey studio floor that curves into a wall, creating a seamless light backdrop that contrasts with the dark leg.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 3.4778988361358643
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A macro shot shows a black zipper closed vertically on a pale grey garment. The zipper teeth and central tape form a dark vertical line that is 5% of the image width. The segment shown occupies 50% of the image height. The surrounding fabric is a textureless pale grey.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 5.183145046234131
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A single, heavy vertical stroke drawn with a soft black graphite stick sits on off-white paper. The line is centered, spanning 50% of the page height, and is 5% of the image width. The paper provides a uniform, off-white background with minimal texture.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.7928301095962524
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "A stiff, black rubber antenna on a communication device stands vertically. It occupies the middle half of the frame, reaching 50% of the image height. It is thin, taking up 5% of the image width. The background is a blurred, pale beige wall that provides a consistent light field behind the dark object.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 3.4225475788116455
     }
   ],
   "augmented": [

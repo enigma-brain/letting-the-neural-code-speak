@@ -95,7 +95,8 @@
         "white bark",
         "dark background",
         "60% height"
-      ]
+      ],
+      "activation": 0.5371556282043457
     },
     {
       "file": "generated/1.jpg",
@@ -109,7 +110,8 @@
         "light gray",
         "black background",
         "60% height"
-      ]
+      ],
+      "activation": 1.2791811227798462
     },
     {
       "file": "generated/2.jpg",
@@ -123,7 +125,8 @@
         "white",
         "black fur",
         "60% height"
-      ]
+      ],
+      "activation": 0.3813287913799286
     },
     {
       "file": "generated/3.jpg",
@@ -137,7 +140,8 @@
         "white",
         "dark rock",
         "60% height"
-      ]
+      ],
+      "activation": 1.2747782468795776
     },
     {
       "file": "generated/4.jpg",
@@ -151,7 +155,8 @@
         "white",
         "dark foam",
         "60% height"
-      ]
+      ],
+      "activation": 0.8333500027656555
     },
     {
       "file": "generated/5.jpg",
@@ -165,7 +170,8 @@
         "white",
         "black stones",
         "60% height"
-      ]
+      ],
+      "activation": 0.9098671078681946
     },
     {
       "file": "generated/6.jpg",
@@ -179,7 +185,8 @@
         "white",
         "black facade",
         "60% height"
-      ]
+      ],
+      "activation": 0.6786152720451355
     },
     {
       "file": "generated/7.jpg",
@@ -193,7 +200,8 @@
         "white",
         "black fur",
         "60% height"
-      ]
+      ],
+      "activation": 0.34014588594436646
     },
     {
       "file": "generated/8.jpg",
@@ -207,7 +215,8 @@
         "white",
         "dark slate",
         "60% height"
-      ]
+      ],
+      "activation": 0.7899408340454102
     },
     {
       "file": "generated/9.jpg",
@@ -221,7 +230,8 @@
         "white",
         "black rock",
         "60% height"
-      ]
+      ],
+      "activation": 0.627656877040863
     },
     {
       "file": "generated/10.jpg",
@@ -235,7 +245,8 @@
         "white",
         "black hull",
         "60% height"
-      ]
+      ],
+      "activation": 0.8913804888725281
     },
     {
       "file": "generated/11.jpg",
@@ -249,7 +260,8 @@
         "white",
         "dark void",
         "60% height"
-      ]
+      ],
+      "activation": 0.7550486326217651
     },
     {
       "file": "generated/12.jpg",
@@ -263,7 +275,8 @@
         "white",
         "dark asphalt",
         "60% height"
-      ]
+      ],
+      "activation": 1.0870329141616821
     },
     {
       "file": "generated/13.jpg",
@@ -277,7 +290,8 @@
         "white",
         "black velvet",
         "60% height"
-      ]
+      ],
+      "activation": 1.1675552129745483
     },
     {
       "file": "generated/14.jpg",
@@ -291,7 +305,8 @@
         "white",
         "dark texture",
         "60% height"
-      ]
+      ],
+      "activation": 0.9545037150382996
     }
   ],
   "augmented": [

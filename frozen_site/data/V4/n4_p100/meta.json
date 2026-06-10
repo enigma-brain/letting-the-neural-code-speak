@@ -93,7 +93,8 @@
         "dark brown eye",
         "glossy sphere",
         "specular highlight"
-      ]
+      ],
+      "activation": 1.4143047332763672
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "deep brown eye",
         "reflective",
         "white catchlight"
-      ]
+      ],
+      "activation": 1.3335963487625122
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "amber-brown eye",
         "white reflection",
         "polished surface"
-      ]
+      ],
+      "activation": 1.1469135284423828
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "pitch-black eye",
         "glossy",
         "white specular glint"
-      ]
+      ],
+      "activation": 1.1322706937789917
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "black plastic eye",
         "bright white reflection",
         "matte beige fur"
-      ]
+      ],
+      "activation": 1.483929991722107
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "wrinkled skin",
         "dark brown eye",
         "glossy texture"
-      ]
+      ],
+      "activation": 2.1009747982025146
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "dark brown eye",
         "glossy surface",
         "white highlight"
-      ]
+      ],
+      "activation": 1.2597007751464844
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "glass eye",
         "highly polished",
         "white reflection"
-      ]
+      ],
+      "activation": 1.0801907777786255
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "dark amber eye",
         "glossy bead",
         "white specular highlight"
-      ]
+      ],
+      "activation": 1.0497463941574097
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "charcoal drawing",
         "black eye",
         "white opaque ink"
-      ]
+      ],
+      "activation": 1.072003722190857
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "liquid black eye",
         "bright white gleam",
         "warm-toned coat"
-      ]
+      ],
+      "activation": 1.1011207103729248
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "amber-gold eye",
         "shiny",
         "white highlight"
-      ]
+      ],
+      "activation": 1.3148168325424194
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "black eye",
         "glossy",
         "white reflection"
-      ]
+      ],
+      "activation": 1.7217000722885132
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "painted eye",
         "glossy black enamel",
         "white point of light"
-      ]
+      ],
+      "activation": 0.9147548675537109
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "reddish-brown eye",
         "wet sheen",
         "white catchlight"
-      ]
+      ],
+      "activation": 1.3195030689239502
     }
   ],
   "augmented": [

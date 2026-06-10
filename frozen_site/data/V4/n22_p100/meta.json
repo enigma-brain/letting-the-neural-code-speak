@@ -94,7 +94,8 @@
         "convex arc",
         "beige background",
         "specular highlights"
-      ]
+      ],
+      "activation": 0.5565866827964783
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "woven mesh",
         "deep shadow",
         "high contrast"
-      ]
+      ],
+      "activation": 0.6447583436965942
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "radial pattern",
         "rust color",
         "muted natural background"
-      ]
+      ],
+      "activation": 1.7550537586212158
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "woven texture",
         "light grey background",
         "circular geometry"
-      ]
+      ],
+      "activation": 0.44269147515296936
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "convex curvature",
         "deep shadow",
         "metallic reflection"
-      ]
+      ],
+      "activation": 2.0203425884246826
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "convex curve",
         "beige background",
         "matte texture"
-      ]
+      ],
+      "activation": 0.48136016726493835
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "black and silver",
         "light grey background",
         "circular form"
-      ]
+      ],
+      "activation": 0.5749861598014832
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "glossy plastic",
         "beige background",
         "specular reflections"
-      ]
+      ],
+      "activation": 0.4685211181640625
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "circular geometry",
         "light grey pavement",
         "cast iron"
-      ]
+      ],
+      "activation": 1.75765061378479
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "convex surfaces",
         "muted wood background",
         "black rubber"
-      ]
+      ],
+      "activation": 0.4741433560848236
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "silver metallic",
         "deep black background",
         "reflective surface"
-      ]
+      ],
+      "activation": 0.6794424653053284
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "curved arc",
         "light grey background",
         "radial highlights"
-      ]
+      ],
+      "activation": 0.4520309567451477
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "circular structure",
         "dark shadow",
         "gold and rust patina"
-      ]
+      ],
+      "activation": 1.7768793106079102
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "radial grid",
         "beige background",
         "dark metal"
-      ]
+      ],
+      "activation": 0.9705426096916199
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "woven texture",
         "deep shadow",
         "specular highlights"
-      ]
+      ],
+      "activation": 0.9029964804649353
     }
   ],
   "augmented": [

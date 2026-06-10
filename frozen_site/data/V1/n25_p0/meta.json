@@ -92,7 +92,8 @@
         "diagonal",
         "metallic",
         "contrast"
-      ]
+      ],
+      "activation": 0.1662846803665161
     },
     {
       "file": "generated/1.jpg",
@@ -103,7 +104,8 @@
         "cylindrical",
         "reflection",
         "chrome"
-      ]
+      ],
+      "activation": 0.5898014903068542
     },
     {
       "file": "generated/2.jpg",
@@ -114,7 +116,8 @@
         "sharp",
         "steel",
         "diagonal"
-      ]
+      ],
+      "activation": 0.19353435933589935
     },
     {
       "file": "generated/3.jpg",
@@ -125,7 +128,8 @@
         "brushed metal",
         "linear",
         "shadow"
-      ]
+      ],
+      "activation": 0.21691866219043732
     },
     {
       "file": "generated/4.jpg",
@@ -136,7 +140,8 @@
         "instrument",
         "silver",
         "highlights"
-      ]
+      ],
+      "activation": 0.24155083298683167
     },
     {
       "file": "generated/5.jpg",
@@ -147,7 +152,8 @@
         "industrial",
         "beam",
         "structural"
-      ]
+      ],
+      "activation": 0.4945929944515228
     },
     {
       "file": "generated/6.jpg",
@@ -158,7 +164,8 @@
         "jewelry",
         "segmented",
         "polished"
-      ]
+      ],
+      "activation": 0.18323373794555664
     },
     {
       "file": "generated/7.jpg",
@@ -169,7 +176,8 @@
         "shaft",
         "cylindrical",
         "smooth"
-      ]
+      ],
+      "activation": 0.17136399447917938
     },
     {
       "file": "generated/8.jpg",
@@ -180,7 +188,8 @@
         "glass",
         "tube",
         "white"
-      ]
+      ],
+      "activation": 0.1374911367893219
     },
     {
       "file": "generated/9.jpg",
@@ -191,7 +200,8 @@
         "aluminum",
         "tubing",
         "texture"
-      ]
+      ],
+      "activation": 0.2336501181125641
     },
     {
       "file": "generated/10.jpg",
@@ -202,7 +212,8 @@
         "linear",
         "precision",
         "etched"
-      ]
+      ],
+      "activation": 0.15263454616069794
     },
     {
       "file": "generated/11.jpg",
@@ -213,7 +224,8 @@
         "tech",
         "sleek",
         "gradient"
-      ]
+      ],
+      "activation": 0.193451389670372
     },
     {
       "file": "generated/12.jpg",
@@ -224,7 +236,8 @@
         "spiral",
         "textured",
         "flexible"
-      ]
+      ],
+      "activation": 0.1808670610189438
     },
     {
       "file": "generated/13.jpg",
@@ -235,7 +248,8 @@
         "thin",
         "telescopic",
         "chrome"
-      ]
+      ],
+      "activation": 0.17230859398841858
     },
     {
       "file": "generated/14.jpg",
@@ -246,7 +260,8 @@
         "macro",
         "wire",
         "minimalist"
-      ]
+      ],
+      "activation": 0.24787907302379608
     }
   ],
   "augmented": [

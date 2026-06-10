@@ -92,7 +92,8 @@
         "white window mullions",
         "rectilinear geometric structures",
         "light-on-dark contrast"
-      ]
+      ],
+      "activation": 0.08776962757110596
     },
     {
       "file": "generated/1.jpg",
@@ -103,7 +104,8 @@
         "silver metal railings",
         "vertical and horizontal lines",
         "metallic textures"
-      ]
+      ],
+      "activation": 0.1079566478729248
     },
     {
       "file": "generated/2.jpg",
@@ -114,7 +116,8 @@
         "tennis court markings",
         "white linear elements",
         "deep green background"
-      ]
+      ],
+      "activation": 0.08398907631635666
     },
     {
       "file": "generated/3.jpg",
@@ -125,7 +128,8 @@
         "silver wire mesh",
         "wire fences",
         "specular highlights"
-      ]
+      ],
+      "activation": 0.14651764929294586
     },
     {
       "file": "generated/4.jpg",
@@ -136,7 +140,8 @@
         "wooden shelving units",
         "rectilinear framework",
         "light wood on dark background"
-      ]
+      ],
+      "activation": 0.09189353138208389
     },
     {
       "file": "generated/5.jpg",
@@ -147,7 +152,8 @@
         "wicket gates",
         "white vertical slats",
         "light-on-dark contrast"
-      ]
+      ],
+      "activation": 0.13134510815143585
     },
     {
       "file": "generated/6.jpg",
@@ -158,7 +164,8 @@
         "luminous cyan grid",
         "rectilinear geometric structures",
         "black background"
-      ]
+      ],
+      "activation": 0.14380663633346558
     },
     {
       "file": "generated/7.jpg",
@@ -169,7 +176,8 @@
         "silver aluminum frames",
         "rectilinear grid",
         "metallic textures"
-      ]
+      ],
+      "activation": 0.12947317957878113
     },
     {
       "file": "generated/8.jpg",
@@ -180,7 +188,8 @@
         "aluminum ladder",
         "silver linear elements",
         "dark wood background"
-      ]
+      ],
+      "activation": 0.16863058507442474
     },
     {
       "file": "generated/9.jpg",
@@ -191,7 +200,8 @@
         "white wire birdcage",
         "thin vertical wires",
         "light-on-dark contrast"
-      ]
+      ],
+      "activation": 0.13609319925308228
     },
     {
       "file": "generated/10.jpg",
@@ -202,7 +212,8 @@
         "silver speaker grille",
         "intersecting lines",
         "metallic textures"
-      ]
+      ],
+      "activation": 0.12112102657556534
     },
     {
       "file": "generated/11.jpg",
@@ -213,7 +224,8 @@
         "white grout lines",
         "grid pattern",
         "black tiles"
-      ]
+      ],
+      "activation": 0.10772692412137985
     },
     {
       "file": "generated/12.jpg",
@@ -224,7 +236,8 @@
         "white wooden pergola",
         "intersecting beams",
         "dark night sky"
-      ]
+      ],
+      "activation": 0.16502374410629272
     },
     {
       "file": "generated/13.jpg",
@@ -235,7 +248,8 @@
         "silver metal shopping cart",
         "wire grid",
         "metallic reflections"
-      ]
+      ],
+      "activation": 0.16005085408687592
     },
     {
       "file": "generated/14.jpg",
@@ -246,7 +260,8 @@
         "white radiator",
         "vertical linear elements",
         "dark grey background"
-      ]
+      ],
+      "activation": 0.13447511196136475
     }
   ],
   "augmented": [

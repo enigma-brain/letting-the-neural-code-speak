@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A stark, high-contrast medical X-ray displaying the diaphyseal shaft of a human femur. The bone appears as a luminous, dense white structure traversing the frame diagonally from the bottom-left corner toward the top-right. The background is a void of pure radiolucent black. The bone shaft occupies approximately 25% of the image area, presenting a sharp, linear edge where the calcified tissue meets the surrounding darkness.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.5781461000442505
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "A close-up, grayscale photograph of a polished chrome exhaust pipe. The pipe forms a sleek, diagonal cylinder extending from the upper-left to the lower-right against a matte charcoal-black background. A focused ridge of brilliant white specular reflection runs along the length of the metal, emphasizing its curvature and creating a harsh boundary between the silver steel and the dark void. The pipe's visible width creates a band that fills roughly one-quarter of the visual field.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.0158114433288574
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A macro photograph of a single, thick strand of dragline spider silk, illuminated brightly against a deep black void. The silk appears as a taut, pearlescent silver line cutting diagonally across the frame from lower-left to upper-right. The thread is sharply focused, contrasting violently with the darkness, and the diffraction of light creates a glowing white edge. The thickness of the silk strand relative to the frame constitutes about 25% of the image area.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.6173038482666016
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A detailed study of a Japanese katana sword blade in black and white. The spine of the blade is lost in shadow, but the honed cutting edge catches a strong light, forming a brilliant silver diagonal streak from top-left to bottom-right. The steel glows white-hot in the reflection against a pitch-black background. The illuminated section of the blade occupies a distinct diagonal swath, covering about 25% of the image.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.623189926147461
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "A winter night scene illuminated by a single spotlight, featuring a solitary branch of a paper birch tree. The bark is a stark, chalky white, peeling slightly to reveal silver undertones. The branch traverses the frame diagonally from bottom-left to top-right, set against a background of unlit, infinite black forest depth. The branch is relatively slender, occupying the lower end of the size range at 25% coverage.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.6155019998550415
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "An unlit glass fluorescent tube captured in a dark studio setting with strong side lighting. The glass tube appears as a distinct, pale grey-white cylinder running from upper-left to lower-right. A sharp, bright white highlight runs along its upper edge, defining the cylindrical volume against a background of deep, velvety black. The tube structure accounts for exactly a quarter of the total image area.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.636827826499939
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A scanning electron microscope image of a glass optical fiber. The fiber presents as a smooth, perfect cylinder of bright white silica, stretching diagonally across a vacuum-black background. The edges are razor-sharp, creating a high-contrast boundary between the material and the void. The diameter of the fiber is consistent, filling the requisite 25% spatial footprint within the frame.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.8230266571044922
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A nighttime shot of a freshly painted white road line. The asphalt is rendered as a dark, textured charcoal, while the thermoplastic stripe is a brilliant, reflective white. The line enters from the bottom-left and exits at the top-right, forming a sharp diagonal vector. The contrast is extreme, with the white band standing out boldly against the dark road surface, occupying a narrow 25% slice of the image.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.5567408800125122
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A macro shot of a disposable scalpel blade. The stainless steel is highly reflective, appearing as a bright silver wedge against a black surgical drape. The spine of the blade runs diagonally from top-left, tapering down towards the right. The light catches the beveled cutting edge, creating a searing white line that defines the geometry, filling roughly 25% of the frame with high-contrast metal.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.5846916437149048
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A single, straightened segment of a lightning leader stroke captured against a night sky. The channel of superheated plasma is a blinding white jagged line that follows a general diagonal path from upper-left to lower-right. The surrounding clouds are too dark to see, leaving a stark black background. The thickness of the bolt and its immediate glow occupy about 25% of the frame.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.7382659912109375
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A sheet of stiff white cardstock viewed edge-on in a low-key lighting setup. The light grazes the edge, illuminating a sharp, diagonal white line that separates the upper black shadow from the lower black shadow. The illuminated strip and the immediate gradient fill a narrow diagonal band roughly 25% of the total image, oriented from lower-left to upper-right.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.6989831924438477
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "A negative-style artistic photograph of a celery stalk. The fibrous ridges are highlighted in bright white, running longitudinally from top-left to bottom-right. The vegetable matter glows with an ethereal silver light against a stark black background. The stalk's width is moderate, fitting the 25% size constraint while emphasizing the diagonal linearity of the fibers.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.8550379276275635
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "The polished edge of a tempered glass panel, lit from within or by a focused beam. It glows with a frosty white luminescence, cutting a diagonal path across a dark architectural interior. The rest of the scene is plunged into shadow, leaving only the glowing diagonal band, which takes up about 25% of the view from lower-left to upper-right.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.8986419439315796
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A long-exposure photograph of a bright bolide meteor. The trail is a solid, bright white streak slicing through a starless, jet-black patch of sky. The trajectory is diagonal, originating in the top-left and terminating in the bottom-right. The trail widens slightly as it burns up, creating a linear feature of high contrast that occupies roughly 25% of the frame.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.7228912115097046
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "A length of satin ribbon pulled taut, appearing pure white and reflecting light with a high sheen. It contrasts sharply against a backdrop of deep black velvet. The ribbon runs from bottom-left to top-right. The weave is visible, but the primary impression is of a solid, bright white diagonal band that fills 25% of the image area.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.708412528038025
     }
   ],
   "augmented": [

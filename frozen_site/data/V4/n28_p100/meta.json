@@ -94,7 +94,8 @@
         "stippled texture",
         "white text",
         "wood background"
-      ]
+      ],
+      "activation": 0.9306833148002625
     },
     {
       "file": "generated/1.jpg",
@@ -106,7 +107,8 @@
         "silver text",
         "black plastic",
         "denim background"
-      ]
+      ],
+      "activation": 0.8289065361022949
     },
     {
       "file": "generated/2.jpg",
@@ -118,7 +120,8 @@
         "white text",
         "bokeh",
         "mechanical details"
-      ]
+      ],
+      "activation": 0.450762003660202
     },
     {
       "file": "generated/3.jpg",
@@ -130,7 +133,8 @@
         "silver text",
         "pebbled texture",
         "grey fabric"
-      ]
+      ],
+      "activation": 0.7009324431419373
     },
     {
       "file": "generated/4.jpg",
@@ -142,7 +146,8 @@
         "white font",
         "black plastic",
         "green grass background"
-      ]
+      ],
+      "activation": 0.948769211769104
     },
     {
       "file": "generated/5.jpg",
@@ -154,7 +159,8 @@
         "metallic silver",
         "charcoal plastic",
         "leather background"
-      ]
+      ],
+      "activation": 0.7847466468811035
     },
     {
       "file": "generated/6.jpg",
@@ -166,7 +172,8 @@
         "white letters",
         "matte black",
         "concrete background"
-      ]
+      ],
+      "activation": 0.2966623604297638
     },
     {
       "file": "generated/7.jpg",
@@ -178,7 +185,8 @@
         "white text",
         "rough grain",
         "sand background"
-      ]
+      ],
+      "activation": 0.6270996928215027
     },
     {
       "file": "generated/8.jpg",
@@ -190,7 +198,8 @@
         "silver font",
         "black textured",
         "red velvet"
-      ]
+      ],
+      "activation": 0.3352271020412445
     },
     {
       "file": "generated/9.jpg",
@@ -202,7 +211,8 @@
         "white logo",
         "satin black",
         "pitch black background"
-      ]
+      ],
+      "activation": 0.4226294457912445
     },
     {
       "file": "generated/10.jpg",
@@ -214,7 +224,8 @@
         "white block letters",
         "textured plastic",
         "cream background"
-      ]
+      ],
+      "activation": 0.7158674597740173
     },
     {
       "file": "generated/11.jpg",
@@ -226,7 +237,8 @@
         "silver text",
         "matte black",
         "metal background"
-      ]
+      ],
+      "activation": 0.22224357724189758
     },
     {
       "file": "generated/12.jpg",
@@ -238,7 +250,8 @@
         "granular finish",
         "silver text",
         "abstract background"
-      ]
+      ],
+      "activation": 0.6899315118789673
     },
     {
       "file": "generated/13.jpg",
@@ -250,7 +263,8 @@
         "crisp white",
         "micro-stippled",
         "white paper background"
-      ]
+      ],
+      "activation": 0.2301771193742752
     },
     {
       "file": "generated/14.jpg",
@@ -262,7 +276,8 @@
         "directional arrows",
         "coarse texture",
         "dark green background"
-      ]
+      ],
+      "activation": 0.5261292457580566
     }
   ],
   "augmented": [

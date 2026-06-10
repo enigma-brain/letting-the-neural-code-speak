@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A close-up, high-angle shot of a smooth, vibrant chartreuse tree frog perched motionless on a thick, rough-barked log. The frog's neon green skin, moist and glowing, is bunched up in the center of the frame, occupying exactly 40% of the image area. The remaining 60% consists of the dark, chocolate-brown bark of the log and deep shadows, creating a high-contrast backdrop that emphasizes the luminosity of the green subject.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3990374505519867
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "A macro photograph of a tennis ball resting on a clay court. The ball's surface is a fuzzy, highly saturated lime green felt, lit by bright sunlight. It is positioned in the lower left, filling 40% of the visual field. The rest of the image is dominated by the granular, textured surface of the court, which is a deep, warm rust-orange, providing a stark chromatic contrast to the electric green of the ball.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3233870565891266
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A profile portrait of a rust-colored Fox Sparrow in sharp focus. The bird's feathers are a mix of deep reddish-brown and copper tones, occupying the right 60% of the frame. The background, visible on the left and peeking through the foliage, is a smooth, out-of-focus wash of brilliant yellow-green sunlit leaves, constituting 40% of the image area and contrasting sharply with the bird's warm plumage.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.40278005599975586
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A coiled Green Tree Python resting on a dark mahogany branch. The snake's scales are a vivid, electric yellow-green, arranged in a tight loop that takes up 40% of the frame. The background is a deep, almost black brown, devoid of detail, which forces the eye to focus solely on the bright, textured green coils of the reptile.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.6846095323562622
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "A flat-lay composition of sliced key limes on a slate board. The cut surfaces of the limes reveal juicy, vibrant lime-green pulp and rinds. These green circles are arranged to cover 40% of the image surface. The background is a dark, matte charcoal grey stone, creating a heavy, neutral contrast that makes the yellow-green hues pop.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.3594704866409302
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "An abstract architectural shot showing the corner of a modern building. A bright, chartreuse metal panel covers the lower left 40% of the frame. The upper right 60% is a clear, deep indigo blue sky. The line between the neon green building and the dark blue sky is sharp and diagonal, emphasizing the chromatic opposition.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.33981165289878845
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A large, dried terracotta pot sitting in a garden. A bright green anole lizard is clinging to the side of the pot. The lizard's smooth, lime-colored body is stretched out, occupying 40% of the image. The rough, orange-red clay of the pot fills the remaining background, providing a textured, warm-toned surface against the slick green subject.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.5430977940559387
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A close-up of a person's shoulder and neck wearing a scarf. The scarf is a vibrant, neon lime green silk, draped loosely and taking up the top 40% of the frame. The person is wearing a coat of deep, midnight blue wool, which fills the bottom 60% of the image, contrasting the smooth, bright green fabric against the dark, textured wool.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.45726093649864197
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A macro shot of a singular, translucent linden leaf backlit by the sun. The leaf is a glowing, high-saturation yellow-green, revealing intricate vein patterns. It is positioned against a background of wet, black soil. The luminous green leaf occupies the central 40% of the composition, framed entirely by the dark, light-absorbing earth.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.6752320528030396
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A detail shot of a luxury sports car. The front fender, painted in a glossy 'acid green', curves through the left side of the image, covering 40% of the frame. The adjacent area shows the matte black rubber of the tire and the dark asphalt of the road, creating a sleek, high-contrast automotive abstract.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.5138629674911499
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A large, leaf-mimicking katydid resting on a piece of dark, rotting driftwood. The insect's body is a vivid, solid chartreuse, shaped exactly like a fresh leaf. It occupies 40% of the visual space. The driftwood provides a textured background of dark browns and blacks, highlighting the insect's camouflage shape but contrasting color.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.5590985417366028
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "A glazed ceramic bowl in a striking lime green hue, sitting on a dark walnut table. The bowl is photographed from slightly above, so its bright, reflective green interior and rim fill 40% of the frame. The surrounding table surface is a rich, dark brown wood grain that recedes into shadow.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.4455661475658417
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A vivid green parakeet flying past a dark brick wall. The bird, with its bright yellow-green plumage and blurred wings, occupies 40% of the center frame. The background is a wall of weathered bricks in shades of deep rust and terracotta, which are slightly out of focus, emphasizing the sharpness and color of the bird.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.5389086008071899
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A patch of fluorescent green moss growing on a jagged volcanic rock. The moss is soft and velvet-like, covering 40% of the rock's surface in the image. The rock itself is a stark, porous black basalt, providing a harsh, texture-heavy background that makes the delicate green moss appear luminescent.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.38643547892570496
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "A close-up of a bright yellow-green highlighter pen lying on a dark mahogany desk. The pen's plastic casing is neon chartreuse, and it is positioned diagonally, taking up 40% of the image area. The desk surface is a polished, deep reddish-brown wood, reflecting a faint echo of the green pen but serving primarily as a dark, warm contrast.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3701966106891632
     }
   ],
   "augmented": [

@@ -93,7 +93,8 @@
         "pale brilliant white background",
         "thirty degrees angle",
         "half the width of the visual field"
-      ]
+      ],
+      "activation": 0.1768662929534912
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "pale grey concrete",
         "twenty-five-degree angle",
         "fifty percent of the image's width"
-      ]
+      ],
+      "activation": 0.31976598501205444
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "soft white paper",
         "thirty-degree angle",
         "fifty percent of the frame's diagonal"
-      ]
+      ],
+      "activation": 0.28687891364097595
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "bleached-white desk",
         "twenty-five-degree slant",
         "half the frame's width"
-      ]
+      ],
+      "activation": 0.27623477578163147
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "milky-white marble",
         "twenty-eight degrees",
         "fifty percent of the surface"
-      ]
+      ],
+      "activation": 0.20698599517345428
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "white plaster wall",
         "twenty-five-degree slope",
         "fifty percent of the composition's width"
-      ]
+      ],
+      "activation": 0.33129197359085083
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "low-saturation white sky",
         "thirty-degree angle",
         "fifty percent of the view"
-      ]
+      ],
+      "activation": 0.19732283055782318
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "pale grey studio wall",
         "twenty-five degrees",
         "half of the horizontal space"
-      ]
+      ],
+      "activation": 0.14163392782211304
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "bright white tablecloth",
         "thirty degrees",
         "fifty percent of the image area"
-      ]
+      ],
+      "activation": 0.20899458229541779
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "pale monochromatic tiled floor",
         "twenty-five-degree inclination",
         "fifty percent of the width"
-      ]
+      ],
+      "activation": 0.19344952702522278
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "foggy white background",
         "thirty degrees",
         "fifty percent of the frame"
-      ]
+      ],
+      "activation": 0.3098672926425934
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "textured white paper",
         "twenty-five-degree angle",
         "half the width of the canvas"
-      ]
+      ],
+      "activation": 0.29336437582969666
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "pale fogged-up glass",
         "thirty degrees",
         "fifty percent of the visible glass"
-      ]
+      ],
+      "activation": 0.5560262799263
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "pale grey ceramic tiles",
         "angle of twenty-eight degrees",
         "fifty percent of the frame's height"
-      ]
+      ],
+      "activation": 0.2529281675815582
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "white upholstery cushion",
         "twenty-five degrees",
         "fifty percent of the image width"
-      ]
+      ],
+      "activation": 1.1045373678207397
     }
   ],
   "augmented": [

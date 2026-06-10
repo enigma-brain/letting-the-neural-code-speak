@@ -94,7 +94,8 @@
         "grayscale",
         "linear form",
         "10% scale"
-      ]
+      ],
+      "activation": 1.3903824090957642
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "grayscale",
         "grainy texture",
         "10% scale"
-      ]
+      ],
+      "activation": 1.586269736289978
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "binary contrast",
         "linear form",
         "10% scale"
-      ]
+      ],
+      "activation": 1.3019638061523438
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "grayscale",
         "wire",
         "10% scale"
-      ]
+      ],
+      "activation": 1.2224406003952026
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "bright on dark",
         "linear form",
         "10% scale"
-      ]
+      ],
+      "activation": 1.2485132217407227
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "grayscale",
         "geometric",
         "10% scale"
-      ]
+      ],
+      "activation": 1.1817352771759033
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "monochromatic",
         "texture",
         "10% scale"
-      ]
+      ],
+      "activation": 1.3653877973556519
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "metallic",
         "contrast",
         "10% scale"
-      ]
+      ],
+      "activation": 1.4566353559494019
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "industrial",
         "grayscale",
         "10% scale"
-      ]
+      ],
+      "activation": 1.480068564414978
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "atmospheric",
         "high contrast",
         "10% scale"
-      ]
+      ],
+      "activation": 1.1949350833892822
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "silhouette",
         "texture",
         "10% scale"
-      ]
+      ],
+      "activation": 1.576511025428772
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "white on dark",
         "linear",
         "10% scale"
-      ]
+      ],
+      "activation": 1.4315913915634155
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "geometric",
         "grayscale",
         "10% scale"
-      ]
+      ],
+      "activation": 1.652042031288147
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "texture",
         "high contrast",
         "10% scale"
-      ]
+      ],
+      "activation": 1.327593445777893
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "black on light",
         "linear form",
         "10% scale"
-      ]
+      ],
+      "activation": 1.2093442678451538
     }
   ],
   "augmented": [

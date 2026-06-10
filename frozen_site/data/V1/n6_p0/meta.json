@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "An extreme close-up macro shot captures a perfectly round, deep black pupil of a human eye, occupying approximately 15% of the visual field. The pupil is positioned slightly to the left of the center. It is bounded by a sharply defined edge against a very pale, silvery-gray iris that reflects a bright, harsh light source, creating a high-contrast boundary. The surrounding area is dominated by the bright whites of the eye's sclera and the pale iris, emphasizing the cavernous darkness of the central aperture.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.851499319076538
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "A small, dense silhouette of a Scottish Terrier stands in profile, facing left, amidst a vast expanse of blindingly white, fresh snow. The dog's fur is a matted charcoal black, absorbing the light and creating a stark, high-contrast shape that covers roughly 15% of the image area. The form is positioned in the center-left of the frame, appearing as a compact, organic blob of darkness against the flat, featureless bright white background of the winter landscape.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.788098096847534
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A single, polished basalt river stone, deep black and smooth in texture, rests upon a bed of fine, brilliant white sand. The stone is oval-shaped and centered within the frame, taking up only the bottom 15% of the composition's total area to adhere to the lower end of the size scale. The lighting is diffuse but bright, causing the white sand to glow while the stone remains a solid, dark gray void with minimal surface reflection, creating a sharp tonal polarity.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.8016185760498047
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A macro photograph of a single blackberry fruit, appearing as a cluster of dark, rounded globules in deep charcoal and black tones. The fruit sits on a pristine, high-gloss white ceramic plate. The berry occupies about 15% of the image, positioned slightly to the left of the center. The background is a uniform, milky white, providing extreme contrast to the organic, bumpy texture of the dark fruit, which absorbs almost all the light falling upon it.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.9607901573181152
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "The gaping, cavernous nostril of a white horse is captured in an extreme close-up. The nasal cavity forms a teardrop-shaped void of absolute blackness, accounting for 15% of the frame's area and positioned just left of the center. The surrounding muzzle is covered in short, bright white hair that catches the sunlight, creating a stark, hard edge between the organic dark opening and the illuminated, pale animal skin.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.920578718185425
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "A round, black vinyl record sits on a sleek, white minimalist table. The camera angle is directly overhead, capturing the dark central label and the inner grooves as a solid charcoal circle that fills 15% of the image area, centered perfectly. The rest of the image is a wash of bright, cool white from the table surface, devoid of shadows, ensuring the dark disc stands out as a singular, bounded geometric form of high intensity contrast.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.961785078048706
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A solitary black crow is captured in flight, appearing as a dense, dark silhouette against a uniform, overcast sky of bright silver-white. The bird's wings are tucked slightly, creating a rounded, organic shape that occupies roughly 15% of the canvas. It is positioned slightly to the left. The lighting is backlit, rendering the bird as a featureless shape of deep dark gray against the luminous, high-key background.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 3.070936679840088
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A dollop of thick, black ink falls into a glass of pure white milk, captured at the moment it remains a cohesive, rounded blob before dispersing. The ink shape is a deep, impenetrable black, swirling slightly but maintaining a bounded form that takes up 15% of the image. Positioned slightly to the left of center, it floats suspended in the creamy, bright white liquid, creating a stark, graphic interaction between the two extremes of value.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.893054723739624
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A smooth, black hockey puck slides across a surface of scratched, bright white ice. The puck is viewed from a high angle, presenting a perfect dark gray circle that occupies exactly 15% of the frame. It is located in the center-left portion of the image. The ice surrounding it is brilliantly lit, appearing almost silver-white, which highlights the sharp boundary of the dark, rubber object.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.8004672527313232
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A close-up of a Dalmatian's coat focuses on a single, large black spot. The spot is organic and roughly circular, a patch of deep charcoal fur set against a field of short, bright white hair. The dark spot covers 15% of the image area and is centered. The contrast is extreme, with the edges of the spot clearly defined against the snowy white background of the dog's coat.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.9323654174804688
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A round, matte black button is stitched onto a crisp, white dress shirt. The camera focuses tightly on the button, which sits slightly to the left of the center and takes up about 15% of the view. The fabric of the shirt is bright white and tightly woven, reflecting ambient light, while the button remains a dark, light-absorbing void, creating a simple yet powerful visual of dark-on-light contrast.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.8503665924072266
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "The dark, open mouth of a classical marble statue is viewed close up. The face of the statue is carved from bright white Carrara marble, gleaming under studio lighting. The open mouth forms a deep, shadowed cavity of pitch black, shaped organically and occupying 15% of the image area, located center-left. The sharp transition from the illuminated white lips to the dark interior defines the high-contrast feature.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.7368297576904297
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A single, dark roasted coffee bean lies on a surface of white powdered sugar. The bean is a rich, dark brown-black, oval in shape with a central fissure, occupying 15% of the image area. It is positioned slightly to the left. The background is a textured, bright white expanse that sparkles under the light, contrasting heavily with the matte, dark, organic form of the bean.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 3.043649673461914
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A sleeping black cat is curled into a tight ball on fresh white bed linens. The cat appears as a fuzzy, dark charcoal mound, occupying 15% of the visual space in the center-left of the frame. The surroundings are a soft, bright white, with the folds of the sheets catching the light, making the dark silhouette of the cat appear as a deep hole in the fabric.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.894436836242676
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "A dark, iron cannonball sits on a paved courtyard of light gray, almost white, limestone stones. The cannonball is a perfect sphere of dark gray metal, taking up 15% of the image and centered in the frame. The sunlight is harsh, washing out the stone background to a near-white brightness, while the heavy iron sphere remains a dense, dark anchor in the composition.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.919106960296631
     }
   ],
   "augmented": [

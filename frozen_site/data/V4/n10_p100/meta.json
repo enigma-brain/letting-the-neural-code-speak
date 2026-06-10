@@ -94,7 +94,8 @@
         "circular",
         "forest green background",
         "15% scale"
-      ]
+      ],
+      "activation": 2.725496292114258
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "convex",
         "matte beige background",
         "small scale"
-      ]
+      ],
+      "activation": 2.5167295932769775
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "black background",
         "metallic",
         "15% scale"
-      ]
+      ],
+      "activation": 0.8772713541984558
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "white highlights",
         "dark grey background",
         "concentric"
-      ]
+      ],
+      "activation": 4.203132152557373
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "black detail",
         "forest green background",
         "15% scale"
-      ]
+      ],
+      "activation": 2.328734874725342
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "gold rim",
         "matte beige background",
         "circular"
-      ]
+      ],
+      "activation": 1.5662058591842651
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "concentric",
         "dark grey background",
         "15% scale"
-      ]
+      ],
+      "activation": 2.7189676761627197
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "glossy",
         "black background",
         "high contrast"
-      ]
+      ],
+      "activation": 0.49266573786735535
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "wheel hub",
         "forest green background",
         "15% scale"
-      ]
+      ],
+      "activation": 2.1459920406341553
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "hemispherical",
         "dark grey background",
         "15% scale"
-      ]
+      ],
+      "activation": 2.3449323177337646
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "convex button",
         "matte beige background",
         "15% scale"
-      ]
+      ],
+      "activation": 1.8920749425888062
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "owl eye",
         "forest green background",
         "circular"
-      ]
+      ],
+      "activation": 0.5905650854110718
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "concentric",
         "dark grey background",
         "15% scale"
-      ]
+      ],
+      "activation": 1.9422165155410767
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "glossy",
         "matte beige background",
         "15% scale"
-      ]
+      ],
+      "activation": 3.6720809936523438
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "circular",
         "black background",
         "15% scale"
-      ]
+      ],
+      "activation": 5.302166938781738
     }
   ],
   "augmented": [

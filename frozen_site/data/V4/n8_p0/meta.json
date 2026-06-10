@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A close-up view of a Great Horned Owl's face, occupying approximately 60% of the frame against a blurred forest background. The focal point is a large, piercing yellow eye with a sharp black pupil and a distinct white specular highlight reflecting the sky. The eye is framed by concentric rings of feathers in varying shades of golden-tan, dark brown, and creamy white, which radiate outward like a sunburst. The texture of the feathers is high-frequency and fibrous, creating a dense organic pattern around the glossy, wet surface of the eye.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.7291929721832275
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "The face of a Golden Retriever fills roughly 60% of the image, centered on the left eye. The eye itself is a deep, warm brown almond shape with a solid black pupil and a bright white reflection of light in the upper corner. Surrounding the eye is a lush landscape of golden-tan and russet fur, flowing in soft, wavy strands that catch the light. The skin around the eye rim is dark, providing high contrast against the amber iris. The remaining 40% of the frame fades into a soft, out-of-focus background of muted beige and grey tones.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.5520642995834351
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A macro-style capture of a bearded dragon's head, covering about 60% of the visible area. The eye is a striking focal point, featuring a golden-bronze iris with a dark pupil and a crisp white glint. The surrounding texture consists of rough, pebbled scales in earthy shades of sandy beige, grey, and subtle orange-brown. The scales form a rugged, armored pattern that curves around the eye socket. The background is a nondescript, blurry field of warm earth tones, keeping the sharp focus strictly on the eye and the immediate scaly texture.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.6700828671455383
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A detailed study of a ginger tabby cat's face, occupying 60% of the frame. The right eye is positioned slightly off-center, glowing with a vibrant amber-yellow hue, punctuated by a vertical black pupil and a sharp white highlight. Short, dense fur in alternating stripes of russet, cream, and light orange radiates from the eye area, creating a soft but high-frequency texture. Long, pale whiskers emerge near the edge of the frame. The background is a smooth, defocused wash of warm grey and brown.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.7871869206428528
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "A close-up of a hawk's head, filling 60% of the image area. The eye is intense and circular, with a dark brown, almost black iris that appears glossy and wet, reflecting a bright white point of light. The surrounding plumage is a complex tapestry of feathers in russet, dark grey, and creamy white, overlapping in tight, scale-like patterns that smooth out towards the neck. The beak is partially visible but the focus remains on the eye and the feathery texture. The background is a soft, blurred blend of natural browns and greens.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.8474628329277039
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "The weathered face of an elderly human, occupying 60% of the frame, with a focus on one eye. The iris is a rich, warm hazel-brown, contrasting with the deep black pupil and a piercing white catchlight. The skin surrounding the eye is deeply textured with lines and wrinkles, tanned to a golden-beige hue, resembling a topographical map. Wisps of grey and white hair frame the brow. The lighting emphasizes the organic texture of the skin pores and creases. The background is a shadowed, neutral dark grey.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.549829363822937
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A close-up of a toad's head, taking up roughly 60% of the composition. The prominent eye is a bulbous, golden-copper orb with a horizontal black pupil and a gleaming white highlight. The skin surrounding the eye is warty and bumpy, mottled with shades of muddy brown, olive-grey, and tan, providing a rugged, high-frequency texture. The texture appears moist and glistens slightly. The remaining part of the image is a blurred backdrop of damp earth and leaf litter tones.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.0343717336654663
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A partial view of a lioness's face, filling 60% of the frame. The eye is a pale amber-gold color, almond-shaped with a distinct black pupil and a bright reflection. Short, coarse fur in shades of tawny beige, golden-tan, and creamy white surrounds the eye, flowing in a uniform direction. A patch of darker fur highlights the brow ridge. The textures are sharp and fibrous. The background is a creamy, out-of-focus void that blends seamlessly with the lighter tones of the fur.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.6716901659965515
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A close view of a wolf's facial features, occupying 60% of the image. The eye is a piercing light yellow-amber, contrasting sharply with the black pupil and a white specular glint. The fur surrounding the eye is a mix of grey, white, and russet guard hairs, creating a thick, layered texture that looks bristly and dense. The direction of the fur flows away from the eye, framing it perfectly. The background is a muted, blurry forest floor palette of browns and dark greens.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.8092718124389648
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A close-up of a large grouper fish, filling 60% of the frame. The eye is large, circular, and dark, with a thin golden rim and a glossy, wet surface reflecting a white light source. The surrounding skin is covered in scales with a mottled pattern of earth tones\u2014brown, beige, and olive-grey\u2014creating a complex, organic mosaic. The texture is smooth yet detailed with visible scale outlines. The water around it fades into a murky, warm grey-green background.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.0963033437728882
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "The side profile of a horse's head, occupying 60% of the visual field. The eye is a large, dark brown sphere, highly reflective with a sharp white highlight, set against a coat of short, glossy russet hair. The hair texture is fine and uniform, showing the underlying muscle structure. A few longer, dark eyelashes extend over the eye. The surrounding colors are warm reddish-browns and deep tans. The background is a soft, undefined blur of paddock browns and hay yellows.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.9505329132080078
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "A close-up of an iguana, filling 60% of the frame. The eye is a vivid orange-brown with a black pupil and a strong white specular reflection. It is set deeply within a socket surrounded by large, plate-like scales in shades of dusty grey, tan, and muted green. The scales provide a rugged, geometric texture that contrasts with the smooth wetness of the eye. The background is a creamy, out-of-focus beige.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.7562741637229919
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A close-up view of a rabbit, occupying 60% of the image. The large, dark brown eye is the central focal point, reflecting a clear white highlight. The fur surrounding the eye is soft and dense, a mixture of agouti hairs in grey, brown, and tan, creating a peppered, organic texture. The fur lays flat against the face, creating a smooth flow around the eye. The background is a blurred wash of natural earth tones, primarily soft browns and greens.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.9800638556480408
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A macro shot of a python's head, filling 60% of the frame. The eye is a pale gold color with a vertical black slit pupil and a bright white reflection. The scales around the eye are small and granular, transitioning to larger plates, patterned in intricate mosaics of tan, dark brown, and cream. The texture is smooth and dry but highly detailed. The background is a dark, shadowed area that allows the lighter earth tones of the snake to pop.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.1009328365325928
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "The face of a lynx, occupying roughly 60% of the frame. The eye is a pale, greenish-yellow with a black pupil and a sharp white catchlight. It is framed by dense, soft fur in shades of silvery-grey, beige, and russet, with darker markings creating a high-contrast pattern. The fur texture is fluffy and fibrous. Long ear tufts are hinted at near the edge of the crop. The background is a blurry, wintery mix of grey and white tones.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.2268673181533813
     }
   ],
   "augmented": [

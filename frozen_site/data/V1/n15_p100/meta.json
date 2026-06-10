@@ -94,7 +94,8 @@
         "dark charcoal",
         "light gray background",
         "30% height"
-      ]
+      ],
+      "activation": 2.0234344005584717
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "silver background",
         "vertical alignment",
         "monochromatic"
-      ]
+      ],
+      "activation": 1.8664077520370483
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "off-white background",
         "vertical form",
         "high contrast"
-      ]
+      ],
+      "activation": 1.3033608198165894
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "vertical",
         "calligraphy",
         "30% scale"
-      ]
+      ],
+      "activation": 1.5342551469802856
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "black and light gray",
         "vertical",
         "contrast"
-      ]
+      ],
+      "activation": 2.0619537830352783
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "light gray sky",
         "vertical",
         "30% height"
-      ]
+      ],
+      "activation": 1.1244335174560547
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "vertical stripe",
         "high contrast",
         "centered"
-      ]
+      ],
+      "activation": 1.7328217029571533
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "white background",
         "macro",
         "vertical"
-      ]
+      ],
+      "activation": 1.966341257095337
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "silver background",
         "minimalist",
         "vertical"
-      ]
+      ],
+      "activation": 0.48711109161376953
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "light gray marble",
         "vertical",
         "contrast"
-      ]
+      ],
+      "activation": 1.9612983465194702
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "white ash",
         "vertical",
         "macro"
-      ]
+      ],
+      "activation": 1.5730645656585693
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "concrete",
         "vertical band",
         "contrast"
-      ]
+      ],
+      "activation": 2.001390218734741
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "off-white",
         "silhouette",
         "vertical"
-      ]
+      ],
+      "activation": 1.5083774328231812
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "silver curtain",
         "vertical",
         "geometric"
-      ]
+      ],
+      "activation": 1.7651379108428955
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "white light",
         "vertical",
         "backlit"
-      ]
+      ],
+      "activation": 1.6638516187667847
     }
   ],
   "augmented": [

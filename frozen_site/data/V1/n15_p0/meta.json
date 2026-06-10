@@ -93,7 +93,8 @@
         "organic form",
         "diagonal orientation",
         "dark on light"
-      ]
+      ],
+      "activation": 0.6355071663856506
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "mechanical form",
         "diagonal orientation",
         "light on dark"
-      ]
+      ],
+      "activation": 0.517743706703186
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "mechanical form",
         "diagonal orientation",
         "dark on light"
-      ]
+      ],
+      "activation": 0.6053176522254944
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "mechanical form",
         "diagonal orientation",
         "dark on light"
-      ]
+      ],
+      "activation": 0.779695987701416
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "organic form",
         "diagonal orientation",
         "light on dark"
-      ]
+      ],
+      "activation": 0.559221625328064
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "mechanical form",
         "diagonal orientation",
         "dark on light"
-      ]
+      ],
+      "activation": 0.7012691497802734
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "mechanical form",
         "diagonal orientation",
         "light on dark"
-      ]
+      ],
+      "activation": 0.6271389126777649
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "organic form",
         "diagonal orientation",
         "dark on light"
-      ]
+      ],
+      "activation": 1.2359627485275269
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "mechanical form",
         "diagonal orientation",
         "light on dark"
-      ]
+      ],
+      "activation": 0.6877720952033997
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "mechanical form",
         "diagonal orientation",
         "dark on light"
-      ]
+      ],
+      "activation": 0.4745069146156311
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "organic form",
         "diagonal orientation",
         "light on dark"
-      ]
+      ],
+      "activation": 0.5092252492904663
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "mechanical form",
         "diagonal orientation",
         "dark on light"
-      ]
+      ],
+      "activation": 0.6556854248046875
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "mechanical form",
         "diagonal orientation",
         "light on dark"
-      ]
+      ],
+      "activation": 0.6544280052185059
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "organic form",
         "diagonal orientation",
         "dark on light"
-      ]
+      ],
+      "activation": 0.5733411908149719
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "mechanical form",
         "diagonal orientation",
         "light on dark"
-      ]
+      ],
+      "activation": 0.6374219059944153
     }
   ],
   "augmented": [

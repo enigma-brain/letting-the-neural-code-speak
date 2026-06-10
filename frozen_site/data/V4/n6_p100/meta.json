@@ -94,7 +94,8 @@
         "black pupil",
         "specular highlight",
         "5% image area"
-      ]
+      ],
+      "activation": 2.1841163635253906
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "black bolt cap",
         "white catchlight",
         "5% image area"
-      ]
+      ],
+      "activation": 1.1997507810592651
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "black pupil",
         "bright white reflection",
         "5% image area"
-      ]
+      ],
+      "activation": 0.6861967444419861
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "charcoal pupil",
         "specular highlight",
         "5% image area"
-      ]
+      ],
+      "activation": 0.5940893292427063
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "black center",
         "white reflection",
         "5% image area"
-      ]
+      ],
+      "activation": 0.6217926740646362
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "black pupil",
         "white catchlight",
         "5% image area"
-      ]
+      ],
+      "activation": 0.7091568112373352
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "black pupil",
         "sky reflection",
         "5% image area"
-      ]
+      ],
+      "activation": 0.6083452105522156
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "black aperture",
         "white glint",
         "5% image area"
-      ]
+      ],
+      "activation": 1.3774269819259644
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "black pupil",
         "white highlight",
         "5% image area"
-      ]
+      ],
+      "activation": 1.5046499967575073
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "black pupil",
         "sun reflection",
         "5% image area"
-      ]
+      ],
+      "activation": 0.9477047920227051
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "black pupil",
         "window reflection",
         "5% image area"
-      ]
+      ],
+      "activation": 3.092374563217163
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "black center",
         "white light reflection",
         "5% image area"
-      ]
+      ],
+      "activation": 0.970836341381073
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "black pupil",
         "white catchlight",
         "5% image area"
-      ]
+      ],
+      "activation": 2.423337936401367
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "black glass",
         "specular highlight",
         "5% image area"
-      ]
+      ],
+      "activation": 0.9694212079048157
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "black pupil",
         "sunlight glint",
         "5% image area"
-      ]
+      ],
+      "activation": 1.1212016344070435
     }
   ],
   "augmented": [

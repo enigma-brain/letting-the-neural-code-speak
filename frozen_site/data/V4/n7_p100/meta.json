@@ -92,7 +92,8 @@
         "jet-black domestic cat",
         "crisp white bed sheets",
         "high-contrast silhouette"
-      ]
+      ],
+      "activation": 0.9059073328971863
     },
     {
       "file": "generated/1.jpg",
@@ -103,7 +104,8 @@
         "charcoal grey ceramic vase",
         "pale beige wooden table",
         "uniform dark grey shape"
-      ]
+      ],
+      "activation": 1.0576263666152954
     },
     {
       "file": "generated/2.jpg",
@@ -114,7 +116,8 @@
         "midnight-black feathers",
         "bright white snow",
         "ink-blot-like shape"
-      ]
+      ],
+      "activation": 1.2526041269302368
     },
     {
       "file": "generated/3.jpg",
@@ -125,7 +128,8 @@
         "solid black glass surface",
         "light gray minimalist desk",
         "void-like black slab"
-      ]
+      ],
+      "activation": 1.5058293342590332
     },
     {
       "file": "generated/4.jpg",
@@ -136,7 +140,8 @@
         "deep brown hollow",
         "silver birch tree",
         "paper-white bark"
-      ]
+      ],
+      "activation": 1.00946843624115
     },
     {
       "file": "generated/5.jpg",
@@ -147,7 +152,8 @@
         "solid black French Bulldog",
         "pale cream rug",
         "dense dark silhouette"
-      ]
+      ],
+      "activation": 0.7794432640075684
     },
     {
       "file": "generated/6.jpg",
@@ -158,7 +164,8 @@
         "black cotton t-shirt",
         "white-tiled floor",
         "deep charcoal block"
-      ]
+      ],
+      "activation": 1.4652096033096313
     },
     {
       "file": "generated/7.jpg",
@@ -169,7 +176,8 @@
         "burnt charcoal wood",
         "dry straw yellow sand",
         "jet black"
-      ]
+      ],
+      "activation": 0.9110798239707947
     },
     {
       "file": "generated/8.jpg",
@@ -180,7 +188,8 @@
         "dense black plumage",
         "pale dry straw grass",
         "solid heavy mass"
-      ]
+      ],
+      "activation": 1.0205446481704712
     },
     {
       "file": "generated/9.jpg",
@@ -191,7 +200,8 @@
         "dark brown-black skillet",
         "light grey marble",
         "hole-in-the-image effect"
-      ]
+      ],
+      "activation": 1.1877117156982422
     },
     {
       "file": "generated/10.jpg",
@@ -202,7 +212,8 @@
         "pitch-black interior",
         "whitewashed stucco wall",
         "geometric block of blackness"
-      ]
+      ],
+      "activation": 1.5705933570861816
     },
     {
       "file": "generated/11.jpg",
@@ -213,7 +224,8 @@
         "shiny black beetle",
         "pale beige stone",
         "ink-like color"
-      ]
+      ],
+      "activation": 1.4268944263458252
     },
     {
       "file": "generated/12.jpg",
@@ -224,7 +236,8 @@
         "solid black disc",
         "bleached wood floor",
         "uniform circle of jet black"
-      ]
+      ],
+      "activation": 0.5135044455528259
     },
     {
       "file": "generated/13.jpg",
@@ -235,7 +248,8 @@
         "matte black casing",
         "white studio table",
         "dark grey silhouette"
-      ]
+      ],
+      "activation": 1.6387989521026611
     },
     {
       "file": "generated/14.jpg",
@@ -246,7 +260,8 @@
         "polished obsidian stone",
         "fine white salt crystals",
         "deep light-absorbing black"
-      ]
+      ],
+      "activation": 1.2566219568252563
     }
   ],
   "augmented": [

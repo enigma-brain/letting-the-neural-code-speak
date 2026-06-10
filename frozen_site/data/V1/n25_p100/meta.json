@@ -94,7 +94,8 @@
         "deep charcoal darkness",
         "high-contrast boundary",
         "weathered texture"
-      ]
+      ],
+      "activation": 2.094128370285034
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "weathered wooden siding",
         "peeling white paint",
         "textured desaturated canvas"
-      ]
+      ],
+      "activation": 1.8185259103775024
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "stark contrast",
         "verticality",
         "fine-grained background"
-      ]
+      ],
+      "activation": 2.0356106758117676
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "deep uniform charcoal",
         "bold contrast",
         "textured surface"
-      ]
+      ],
+      "activation": 1.6407533884048462
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "deep black textured surface",
         "carbonized grain",
         "dark-on-light tonal contrast"
-      ]
+      ],
+      "activation": 1.7418535947799683
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "hard dark line",
         "woven texture",
         "prominent linear element"
-      ]
+      ],
+      "activation": 1.1610279083251953
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "white Carrara marble",
         "jagged edges",
         "geological linear structure"
-      ]
+      ],
+      "activation": 0.7868063449859619
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "solid black vertical bar",
         "wood-grained texture",
         "negative space"
-      ]
+      ],
+      "activation": 2.11246919631958
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "jet-black ribbon",
         "vertical alignment",
         "high contrast"
-      ]
+      ],
+      "activation": 1.1483486890792847
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "sharp contrast",
         "rough aggregate",
         "vertical space"
-      ]
+      ],
+      "activation": 2.297950029373169
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "solid wet vertical line",
         "fibrous off-white surface",
         "high-contrast stroke"
-      ]
+      ],
+      "activation": 1.8585853576660156
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "interlocking vertical line",
         "woven texture",
         "dark linear form"
-      ]
+      ],
+      "activation": 1.4179344177246094
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "carbonized texture",
         "stark contrast",
         "vertical plant structure"
-      ]
+      ],
+      "activation": 1.378628134727478
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "sharp black line",
         "textured cloth",
         "linear shadow"
-      ]
+      ],
+      "activation": 1.6826728582382202
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "deep dark crevice",
         "black stripe",
         "porous stone"
-      ]
+      ],
+      "activation": 1.8840655088424683
     }
   ],
   "augmented": [

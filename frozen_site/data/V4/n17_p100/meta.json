@@ -93,7 +93,8 @@
         "diagonal orientation",
         "azure blue sky",
         "smooth convex surface"
-      ]
+      ],
+      "activation": 6.811811923980713
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "convex sculpting",
         "dark neutral background",
         "30% image area"
-      ]
+      ],
+      "activation": 2.902104139328003
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "cylindrical tube",
         "green foliage background",
         "diagonal structure"
-      ]
+      ],
+      "activation": 6.849706172943115
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "spherical curve",
         "cobalt blue sky",
         "chromatic contrast"
-      ]
+      ],
+      "activation": 3.0600826740264893
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "elongated curve",
         "dark teal water",
         "smooth hull"
-      ]
+      ],
+      "activation": 4.426464557647705
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "tubular arc",
         "cyan sky",
         "cylindrical volume"
-      ]
+      ],
+      "activation": 7.217887878417969
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "diagonal orientation",
         "navy blue background",
         "smooth gradient"
-      ]
+      ],
+      "activation": 2.8120408058166504
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "aerodynamic curve",
         "green background",
         "glossy surface"
-      ]
+      ],
+      "activation": 6.646766185760498
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "continuous loop",
         "emerald green background",
         "reddish-gold metal"
-      ]
+      ],
+      "activation": 3.0648388862609863
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "partial arc",
         "cool grey background",
         "saturated metal"
-      ]
+      ],
+      "activation": 6.015979290008545
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "spherical convex",
         "dark blue ocean",
         "wet surface"
-      ]
+      ],
+      "activation": 5.032004356384277
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "curved plastic tube",
         "deep green leaves",
         "diagonal spiral"
-      ]
+      ],
+      "activation": 3.717395544052124
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "diagonal curve",
         "dark green background",
         "smooth waxy surface"
-      ]
+      ],
+      "activation": 3.0574429035186768
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "glossy arched neck",
         "matte blue background",
         "reflective curvature"
-      ]
+      ],
+      "activation": 3.749297857284546
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "convex shape",
         "azure blue sky",
         "taut fabric"
-      ]
+      ],
+      "activation": 5.0000529289245605
     }
   ],
   "augmented": [

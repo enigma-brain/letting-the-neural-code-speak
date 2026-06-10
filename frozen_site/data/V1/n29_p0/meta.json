@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A slender, polished stainless steel rod runs diagonally from the top-left to the bottom-right of the frame. The rod reflects a brilliant, continuous streak of pure white light, appearing as a luminous silver band against the void. The background is a solid, impenetrable matte black, offering zero distraction and maximizing the contrast. The rod itself is quite thin, occupying only about ten percent of the image's total width, yet it dominates the visual interest due to its piercing brightness and sharp linear definition.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.19687487185001373
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "A single, silver knitting needle rests on a surface of deep charcoal velvet. The needle is oriented diagonally, descending steeply from the upper-left corner toward the lower-right. A focused studio light catches the curve of the metal, creating a blindingly bright white specular highlight that runs the entire length of the needle. This band of light is narrow, roughly one-tenth the width of the view, and stands out starkly against the soft, light-absorbing dark grey background.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.16792401671409607
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "Close-up of the edge of a rectangular glass table in a dimly lit room. The beveled edge catches a strong beam of light, manifesting as a pale gray, almost white, translucent strip cutting diagonally across the darkness. The rest of the glass and the room beyond are lost in deep shadow, rendered as nearly black tones. The illuminated edge is precise and uniform, spanning the diagonal axis and taking up approximately ten percent of the frame's horizontal space.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.20868578553199768
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A chrome bumper detail from a classic car is captured in extreme close-up against a midnight black environment. The chrome strip runs diagonally from top-left to bottom-right, reflecting a single, unbroken line of fluorescent white overhead light. The reflection is intense and metallic silver, contrasting sharply with the surrounding darkness. The width of this luminous reflection is restrained, filling just the minimum ten percent of the image width, appearing as a sleek, glowing slash.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.15159189701080322
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "A pristine white daylight LED tube light, switched off but reflecting a powerful external light source, forms a diagonal bar across a dark, industrial grey ceiling. The reflection on the glossy white plastic surface creates a distinct, bright silver-white line. The background is a murky, low-contrast dark grey, obscuring all other details. The linear highlight is slender, traversing the frame from the upper-left and occupying a mere tenth of the image width.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.12554912269115448
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "A fencing foil's blade is visible against a dark, unlit arena background. The steel blade is positioned diagonally, pointing downwards to the right. It catches the glint of a distant spotlight, turning the metal into a streak of brilliant mercury silver. The background is a uniform pitch black. The illuminated blade is thin and sharp, constituting roughly 10% of the image's width, creating a high-contrast linear element that slices through the gloom.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.16871000826358795
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A macro shot of a single strand of spider silk, coated in frost, stretching diagonally from the upper-left to the lower-right. The frost turns the thread into a glowing white line, catching the morning light. Behind it, the depths of a shadowed cave provide a pitch-black backdrop. The frosty line is delicate, measuring approximately 10% of the frame width, standing out vividly as a pale, luminous filament against the crushing darkness.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.18023169040679932
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "The neck of a silver-finished electric guitar is shrouded in shadow, but a single heavy string reflects a bright studio light. This reflection creates a continuous, glowing silver rod effect, oriented diagonally across the frame. The fretboard and surrounding body fade into deep charcoal and black. The illuminated string reflection is tight and focused, taking up about 10% of the visual field's width, acting as a radiant diagonal vector.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.6209699511528015
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A minimalist architectural detail showing a brushed aluminum handrail descending diagonally against a dark concrete wall in deep shadow. The rail reflects a strip of harsh white light, appearing as a pale grey bar with a bright white core. The wall behind is a uniform, dark slate grey. The handrail is slender, accounting for only 10% of the image width, yet its luminosity pierces the low-key environment.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.20722094178199768
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A sleek, silver fountain pen lies on a black leather desk pad. The pen is angled diagonally, pointing towards the bottom right. A strip of light reflects off the cylindrical barrel, creating a stark, longitudinal white highlight. The black leather background is featureless and dark. The reflective strip on the pen is narrow, roughly one-tenth of the image width, creating a hard-edged linear form of pure light against the dark texture.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.19645348191261292
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A medical scalpel with a matte silver handle is photographed against a sterile, black cloth. The handle is positioned diagonally, extending from the top-left. A surgical light reflects off the corner of the handle, creating a long, sharp bar of bright white light. The background is completely black and devoid of detail. The glowing reflection is thin, occupying the minimum 10% of the frame width, emphasizing the tool's precision.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.15109236538410187
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "A single birch branch, stripped of leaves, cuts diagonally across a night sky. The bark is a pale, ghostly white, illuminated by moonlight, contrasting with the deep, inky black of the night. The branch is straight and rod-like, descending from upper-left to lower-right. It is slender, filling about 10% of the image width, appearing as a luminous organic crack in the darkness.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.1792987585067749
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A stream of water from a garden hose is frozen in time with a high shutter speed, backlit so it appears as a solid, crystalline rod of white light. The stream travels diagonally downwards to the right against a dark, shadowed garden background. The water appears as a bright, pale grey and white cylinder. This liquid line is narrow, occupying approximately 10% of the frame, creating a stark, glowing diagonal against the nearly black foliage behind it.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.27703702449798584
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A long, thin fluorescent bulb, removed from its fixture, leans diagonally against a dark warehouse wall. The glass of the tube is a milky white, and it reflects a thin strip of daylight from a window, appearing as a bright white line. The wall behind is a dark, sooty charcoal. The tube is slender, taking up about 10% of the image width, and forms a perfect diagonal geometric element of high brightness against the low-contrast gloom.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.587654173374176
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "A platinum necklace chain is pulled taut, forming a straight diagonal line from top-left to bottom-right against a black velvet jewelry display. The metal links merge visually into a continuous, shimmering strip of silver-white light. The background is a deep, non-reflective black. The chain is delicate, its width covering only 10% of the image, appearing as a brilliant, linear fracture of light in the dark void.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.1725476235151291
     }
   ],
   "augmented": [

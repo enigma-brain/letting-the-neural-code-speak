@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A small, glossy jet-black jumping spider, occupying roughly five percent of the visual field, sits perfectly still near the center of the frame. The spider is viewed from above, appearing as a compact, rounded dark mass with thick legs tucked close to its body. It is positioned against a vast, featureless background of smooth, matte light grey plastic, creating a stark high-contrast separation between the arachnid and the pale surface.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.3093818426132202
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "A single, dark roasted coffee bean, rich dark brown and oval in shape, rests in the middle of a textured, off-white linen napkin. The bean is small, taking up a minor fraction of the image area, and is oriented horizontally. The background is a consistent, pale cream color that emphasizes the deep darkness of the bean, which features a subtle central cleft typical of its form.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.2848042249679565
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A smooth, river-polished pebble of deep charcoal black, appearing almost circular, lies centered on a bed of fine, pale beige sand. The stone is small and isolated, surrounded by the light, desaturated earth tones of the sand grains. The lighting is diffuse, casting no harsh shadows, but the contrast between the dark, heavy object and the light, airy background is sharp and distinct.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.8534311056137085
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A compact, dark mahogany-brown seed, oval and slightly flattened, occupies a small central spot on a weathered, light grey wooden board. The wood grain runs horizontally but is faded and pale, providing a neutral backdrop. The seed is the only element of high saturation and darkness, standing out as a distinct, rounded silhouette against the bleached timber.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.3053597211837769
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "A small, dormant ladybug, rendered in a deep, dark red that verges on black, rests on a pale, dried leaf of light tan color. The insect is seen in profile as a small, rounded dome shape near the center of the composition. The background is a wash of desaturated brownish-white, ensuring the dark, compact figure of the insect is the primary focal point despite its small size.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.7199573516845703
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "A small blob of thick black ink, roughly circular with slightly irregular edges, sits wet and glistening in the center of a sheet of high-quality, soft white paper. The ink spot creates a stark void of light against the expansive brightness of the paper, occupying only a tiny portion of the frame but drawing the eye immediately due to the extreme contrast.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.5923696756362915
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A vintage coat button made of dark, matte horn, appearing nearly black, is centered on a swatch of coarse, oatmeal-colored fabric. The button is round with four visible holes and takes up about five percent of the image. The background fabric is a mix of pale greys and creams, providing a light, textured field that sharply defines the dark, circular edge of the button.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.4259432554244995
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A small, dark brown field mouse, curled into a tight ball to sleep, is positioned in the center of a light concrete floor. The mouse appears as a fuzzy, dark oval mass against the cold, pale grey surface. The lighting is even, highlighting the separation between the deep fur tones and the uniform, light background, with the subject occupying a minimal amount of the total space.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.4337587356567383
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A piece of dark volcanic rock, jagged but generally rounded in overall form, sits on a smooth surface of pale marble. The rock is a deep, porous black, contrasting heavily with the white and faint grey veining of the background. The object is small and centered, acting as a singular dark anchor in a sea of pale, polished stone.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.712863564491272
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A dark, withered blackberry, appearing almost black with deep purple undertones, lies on a rustic table painted in a chipped, pale cream color. The berry is small and round, consisting of tightly packed drupelets. It sits in the middle of the frame, its dark complexity standing out against the simple, light, and desaturated background.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.5297304391860962
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A dark brown beetle with a rounded carapace is viewed from directly overhead, positioned centrally on a slab of light sandstone. The beetle's shell is smooth and dark, contrasting with the gritty, pale yellow-grey texture of the stone. The insect is small, leaving the majority of the frame as empty, light-colored negative space.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.32530677318573
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "A small, oval piece of dark chocolate, rich and almost black in color, rests on a pristine white ceramic saucer. The chocolate has a smooth, matte finish and is oriented horizontally near the center. The background is a seamless, curved white surface that reflects a small amount of light, emphasizing the dark, dense nature of the chocolate piece.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.6123243570327759
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A distinct, dark knot in a plank of wood, colored a deep, resinous black-brown, stands out against the surrounding pale, unfinished pine. The knot is roughly oval and located centrally in the frame. The surrounding wood is a light, creamy beige, making the dark defect a focal point of high contrast despite its small size relative to the board.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.3640955686569214
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A single black olive, wrinkled and cured, sits on a surface of light grey slate. The olive is an irregular oval shape, deep black with a slight oily sheen. The slate background is matte and pale, providing a neutral, desaturated canvas that makes the small dark fruit appear prominently isolated in the center of the image.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.4567989110946655
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "A small, dark brown rusty washer, circular with a central hole, lies on a piece of faded, light grey cardboard. The metal is corroded to a deep, dark earth tone, while the background is flat and nondescript. The washer occupies a tiny footprint in the center of the image, creating a strong figure-ground relationship through brightness contrast.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.4482911825180054
     }
   ],
   "augmented": [

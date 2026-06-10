@@ -94,7 +94,8 @@
         "specular highlight",
         "deep black background",
         "5% size"
-      ]
+      ],
+      "activation": 0.032431136816740036
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "white catchlight",
         "olive green background",
         "5% size"
-      ]
+      ],
+      "activation": 0.06863342970609665
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "crisp white reflection",
         "soft beige background",
         "5% size"
-      ]
+      ],
+      "activation": 0.2635428309440613
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "pinpoint white sparkle",
         "olive green background",
         "5% size"
-      ]
+      ],
+      "activation": 0.07414194196462631
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "rectangular catchlight",
         "deep black background",
         "5% size"
-      ]
+      ],
+      "activation": 1.0880718231201172
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "specular highlight",
         "soft beige background",
         "5% size"
-      ]
+      ],
+      "activation": 0.07871437072753906
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "bright white point of light",
         "deep black background",
         "5% size"
-      ]
+      ],
+      "activation": 0.20474036037921906
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "sharp white catchlight",
         "soft beige background",
         "5% size"
-      ]
+      ],
+      "activation": 0.07460891455411911
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "bright white specular highlight",
         "olive green background",
         "5% size"
-      ]
+      ],
+      "activation": 0.07093068212270737
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "sharp white reflection",
         "deep black background",
         "5% size"
-      ]
+      ],
+      "activation": 0.1383632868528366
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "brilliant white catchlight",
         "olive green background",
         "5% size"
-      ]
+      ],
+      "activation": 0.36055347323417664
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "sharp bright white window light",
         "soft beige background",
         "5% size"
-      ]
+      ],
+      "activation": 0.5694599151611328
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "bright white specular highlight",
         "deep black background",
         "5% size"
-      ]
+      ],
+      "activation": 0.40223246812820435
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "crisp white reflection",
         "olive green background",
         "5% size"
-      ]
+      ],
+      "activation": 0.4867367744445801
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "distinct bright white highlight",
         "soft beige background",
         "5% size"
-      ]
+      ],
+      "activation": 0.42537805438041687
     }
   ],
   "augmented": [

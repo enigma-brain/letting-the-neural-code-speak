@@ -94,7 +94,8 @@
         "cylindrical",
         "chrome",
         "longitudinal highlight"
-      ]
+      ],
+      "activation": 0.12473257631063461
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "longitudinal striations",
         "diagonal",
         "high contrast"
-      ]
+      ],
+      "activation": 0.2320663034915924
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "diagonal",
         "black background",
         "luminous"
-      ]
+      ],
+      "activation": 0.21065501868724823
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "diagonal",
         "silver",
         "dark gray background"
-      ]
+      ],
+      "activation": 0.17599444091320038
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "cylindrical",
         "diagonal",
         "black background"
-      ]
+      ],
+      "activation": 0.12956635653972626
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "diagonal",
         "black background",
         "cylindrical"
-      ]
+      ],
+      "activation": 0.18359674513339996
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "longitudinal lines",
         "diagonal",
         "dark slate background"
-      ]
+      ],
+      "activation": 0.11795955896377563
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "parallel lines",
         "diagonal",
         "dark background"
-      ]
+      ],
+      "activation": 0.1650959700345993
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "ridges",
         "diagonal",
         "night background"
-      ]
+      ],
+      "activation": 0.2857256531715393
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "parallel ridges",
         "diagonal",
         "dark shadow"
-      ]
+      ],
+      "activation": 0.19774369895458221
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "longitudinal clip",
         "diagonal",
         "black desk"
-      ]
+      ],
+      "activation": 0.07475042343139648
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "longitudinal highlight",
         "diagonal",
         "dark grey background"
-      ]
+      ],
+      "activation": 0.10638188570737839
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "diagonal",
         "pale ivory",
         "dark slate"
-      ]
+      ],
+      "activation": 0.07452507317066193
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "diagonal",
         "high contrast",
         "black background"
-      ]
+      ],
+      "activation": 0.09683805704116821
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "parallel lines",
         "diagonal",
         "dark industrial background"
-      ]
+      ],
+      "activation": 0.14881564676761627
     }
   ],
   "augmented": [

@@ -93,7 +93,8 @@
         "glossy texture",
         "grey background",
         "color contrast"
-      ]
+      ],
+      "activation": 1.0107783079147339
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "green water",
         "glossy scales",
         "color contrast"
-      ]
+      ],
+      "activation": 0.9143564105033875
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "grey concrete",
         "glossy plastic",
         "color contrast"
-      ]
+      ],
+      "activation": 1.0131508111953735
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "grey pavement",
         "shiny surface",
         "color contrast"
-      ]
+      ],
+      "activation": 0.8405129313468933
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "green ivy",
         "metallic texture",
         "color contrast"
-      ]
+      ],
+      "activation": 1.2609829902648926
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "grey asphalt",
         "glossy paint",
         "color contrast"
-      ]
+      ],
+      "activation": 0.7063823938369751
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "grey granite",
         "waxy texture",
         "color contrast"
-      ]
+      ],
+      "activation": 0.8111069798469543
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "green wall",
         "glossy fabric",
         "color contrast"
-      ]
+      ],
+      "activation": 1.1166335344314575
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "grey rock",
         "glossy shell",
         "color contrast"
-      ]
+      ],
+      "activation": 1.1836731433868408
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "green foliage",
         "smooth feathers",
         "color contrast"
-      ]
+      ],
+      "activation": 0.8347026109695435
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "grey cloth",
         "metallic reflection",
         "color contrast"
-      ]
+      ],
+      "activation": 0.6798887252807617
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "grey concrete",
         "glossy texture",
         "color contrast"
-      ]
+      ],
+      "activation": 0.9921222925186157
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "green water",
         "glossy surface",
         "color contrast"
-      ]
+      ],
+      "activation": 0.7554839849472046
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "grey mud",
         "slimy texture",
         "color contrast"
-      ]
+      ],
+      "activation": 0.793157696723938
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "grey shelf",
         "glossy ceramic",
         "color contrast"
-      ]
+      ],
+      "activation": 0.7006176114082336
     }
   ],
   "augmented": [

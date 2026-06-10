@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A pale, smooth human forearm extends diagonally from the bottom left corner, occupying roughly thirty percent of the frame against a pitch-black void. The skin is a light beige tone, illuminated by a harsh light source that renders the surface almost matte and featureless, highlighting the convex curve of the muscle. The boundary between the bright arm and the deep black background is razor-sharp, cutting a diagonal line across the lower portion of the image.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.4548611640930176
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "The smooth, convex surface of a white computer mouse anchors the bottom center of the image, sweeping upward and to the right. The device is a matte bright white, devoid of logos or buttons in this view, appearing as a pure, abstract curved form. It occupies about a third of the visual space, set against a stark, dark charcoal background. The lighting creates a high-contrast edge along the top curve of the mouse, separating the illuminated plastic from the surrounding darkness.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3630499541759491
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A pristine white ceramic bowl section curves into the frame from the lower left, its smooth, glazed surface catching a strong reflection. The object is a bright, neutral white, forming a rounded, convex arc that covers thirty percent of the image area. Behind this illuminated curve lies a deep, unlit shadow, creating a dramatic separation between the gleaming porcelain and the dark abyss. The edge of the bowl forms a sweeping diagonal line that rises toward the center right.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.27090689539909363
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A polished sphere of pale gray marble sits in the lower central region, its surface perfectly smooth and reflective. The stone appears almost white under the intense lighting, occupying the bottom thirty percent of the composition. The background is a solid, impenetrable black, contrasting sharply with the luminosity of the sphere. The upper boundary of the marble forms a crisp, curved horizon line that separates the bright object from the dark space above.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.34848055243492126
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "The rounded toe box of a clean white sneaker pushes into the frame from the bottom left corner. The material is a smooth, matte leather in a bright white hue, free of texture or dirt. This convex form takes up roughly thirty percent of the image, angled diagonally upward. The background is completely obscured in deep shadow, making the shoe appear to float in a dark void. The edge of the sneaker creates a distinct, high-contrast curve against the blackness.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3048042356967926
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "A smooth, beige egg stands vertically, anchored in the lower section of the image and leaning slightly to the right. The shell is illuminated to a pale, almost white cream color, highlighting its convex geometry. It occupies about a third of the frame, with the top of the egg fading into a sharp boundary line against a dark charcoal background. The lighting emphasizes the smoothness of the shell, creating a stark duality between the bright organic form and the dark negative space.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.49744510650634766
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "The curved handle of a white porcelain pitcher sweeps up from the lower left, forming a thick, tubular arc. The surface is glossy and bright white, reflecting a strong light source. This man-made structure occupies approximately thirty percent of the image, set against a background of pure black velvet. The contrast creates a sharp, defining edge along the outer curve of the handle, which moves diagonally across the lower third of the frame.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.5628793239593506
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A section of a smooth, white architectural column rises from the bottom center, curving outward towards the left. The material resembles pale plaster or stone, illuminated brightly to appear nearly white. It covers the lower thirty percent of the view, presenting a clean, convex surface without ornamentation. The backdrop is a heavy, dark shadow that provides maximum contrast, ensuring the curved edge of the pillar stands out sharply against the gloom.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.2979357838630676
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "The smooth cap of a white button mushroom dominates the lower left quadrant, tilting upward. The fungal surface is matte and pale gray-white, free of blemishes, and forms a gentle, rounded mound. It occupies roughly thirty percent of the image area. The background is a dense, dark void, creating a stark separation where the curved rim of the mushroom cap meets the darkness. The lighting is focused entirely on the mushroom, leaving the rest of the frame in blackness.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.6521172523498535
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A curved segment of a white plastic bottle rests in the lower portion of the frame, oriented diagonally from bottom left to center right. The plastic is opaque and matte white, with a smooth, convex profile. It takes up about thirty percent of the visual field. Behind it, the space is filled with a dark, almost black shadow, creating a hard edge along the top curve of the bottle. The image focuses solely on the geometry of the light object against the dark ground.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.36160966753959656
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A smooth, river-polished stone in a pale beige hue sits in the lower center, its surface reflecting a soft but bright light. The stone is rounded and convex, occupying thirty percent of the image. It is set against a background of dark charcoal slate, creating a high-contrast boundary. The top edge of the stone forms a gentle, sweeping curve that divides the bright, solid mass below from the dark, textured void above.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3374803960323334
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "The rounded shoulder of a white mannequin is visible in the lower left, curving upward into the frame. The surface is smooth, matte plastic in a bright white tone, mimicking a stylized organic form. It occupies roughly thirty percent of the composition. The background is a deep, solid black, ensuring the boundary of the mannequin's shoulder is razor-sharp. The form creates a diagonal visual flow from the corner toward the center of the image.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.28683263063430786
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A scoop of vanilla ice cream, perfectly smooth and melting slightly, sits in the lower middle of the frame. The color is a pale, creamy white, and the shape is a rounded, convex mound. It covers about thirty percent of the image area. The background is a dark, unlit space, contrasting heavily with the pale dessert. The edge of the ice cream scoop forms a soft but distinct curve against the dark charcoal surroundings.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3122428357601166
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "The white ceramic housing of a modern light bulb curves upward from the bottom right corner. The surface is matte and featureless, glowing a bright white under external light. This convex, manufactured form occupies thirty percent of the frame, sweeping diagonally toward the left. The background is pitch black, creating a dramatic, high-contrast edge along the smooth curvature of the bulb's base.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.6446412801742554
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "A roll of thick white paper is viewed close-up, presenting a smooth, curved surface that rises from the bottom left. The paper is bright white and untextured, forming a cylindrical, convex shape that takes up thirty percent of the view. The background is a deep, dark shadow, emphasizing the brightness of the paper. The upper edge of the roll creates a sharp diagonal line separating the white foreground from the black void.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.26675376296043396
     }
   ],
   "augmented": [

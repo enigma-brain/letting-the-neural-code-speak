@@ -93,7 +93,8 @@
         "vertical seam",
         "dark charcoal on white",
         "10% width"
-      ]
+      ],
+      "activation": 0.16074107587337494
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "pitch black",
         "milky-grey background",
         "narrow feature"
-      ]
+      ],
+      "activation": 0.044203221797943115
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "vertical trickle",
         "off-white paper",
         "high contrast"
-      ]
+      ],
+      "activation": 0.017381643876433372
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "white wall",
         "vertical line",
         "silhouette"
-      ]
+      ],
+      "activation": 0.022032130509614944
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "white marble",
         "vertical crack",
         "10% width"
-      ]
+      ],
+      "activation": 0.0190895926207304
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "charcoal grey",
         "vertical alignment",
         "light grey mist"
-      ]
+      ],
+      "activation": 0.01569833792746067
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "white sky",
         "vertical orientation",
         "high contrast"
-      ]
+      ],
+      "activation": 0.15213678777217865
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "white jacket",
         "vertical strip",
         "dark grey teeth"
-      ]
+      ],
+      "activation": 0.10353976488113403
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "white fog",
         "vertical sapling",
         "thin silhouette"
-      ]
+      ],
+      "activation": 0.019582081586122513
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "light grey background",
         "vertical hanging",
         "narrow profile"
-      ]
+      ],
+      "activation": 0.08211833238601685
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "white wood",
         "vertical gap",
         "high contrast"
-      ]
+      ],
+      "activation": 0.19823776185512543
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "white tile",
         "vertical movement",
         "slender body"
-      ]
+      ],
+      "activation": 0.01681903563439846
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "white plastic",
         "vertical drip",
         "glossy dark"
-      ]
+      ],
+      "activation": 0.20167294144630432
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "white board",
         "vertical strip",
         "geometric contrast"
-      ]
+      ],
+      "activation": 0.1284656971693039
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "white sky",
         "vertical hanging",
         "frayed silhouette"
-      ]
+      ],
+      "activation": 0.019794141873717308
     }
   ],
   "augmented": [

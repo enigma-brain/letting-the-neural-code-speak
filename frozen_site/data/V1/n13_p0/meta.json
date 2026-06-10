@@ -93,7 +93,8 @@
         "light gray concrete",
         "horizontal orientation",
         "high contrast"
-      ]
+      ],
+      "activation": 0.3108184337615967
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "bright highlight",
         "medium-gray felt",
         "diagonal orientation"
-      ]
+      ],
+      "activation": 0.4305247962474823
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "pale gray slate",
         "solid dark band",
         "horizontal edge"
-      ]
+      ],
+      "activation": 0.21730613708496094
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "light gray wall",
         "elongated horizontal bar",
         "sharp boundary"
-      ]
+      ],
+      "activation": 0.21139530837535858
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "matte primer gray",
         "brilliant white line",
         "horizontal strip"
-      ]
+      ],
+      "activation": 0.47229352593421936
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "light gray ash",
         "linear silhouette",
         "stark contrast"
-      ]
+      ],
+      "activation": 0.4406770169734955
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "light gray sky",
         "sharp linear interface",
         "horizon line"
-      ]
+      ],
+      "activation": 0.3500336706638336
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "gray windshield",
         "solid dark line",
         "horizontal"
-      ]
+      ],
+      "activation": 0.22093966603279114
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "light gray fog",
         "solid dark vector",
         "horizontal suspension"
-      ]
+      ],
+      "activation": 0.4060908257961273
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "gray granite",
         "glistening line",
         "diagonal placement"
-      ]
+      ],
+      "activation": 0.3588646352291107
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "light gray concrete",
         "solid dark band",
         "industrial contrast"
-      ]
+      ],
+      "activation": 0.2224823534488678
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "gray stone",
         "elongated structure",
         "high contrast silhouette"
-      ]
+      ],
+      "activation": 0.277489572763443
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "medium-gray wall",
         "white specular highlight",
         "horizontal positioning"
-      ]
+      ],
+      "activation": 0.23646974563598633
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "light gray pavement",
         "dark charcoal line",
         "diagonal fissure"
-      ]
+      ],
+      "activation": 0.22570239007472992
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "neutral gray canvas",
         "solid band",
         "graphic contrast"
-      ]
+      ],
+      "activation": 0.19531427323818207
     }
   ],
   "augmented": [

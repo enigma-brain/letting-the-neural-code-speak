@@ -93,7 +93,8 @@
         "tennis ball",
         "red clay",
         "contrast"
-      ]
+      ],
+      "activation": 0.21732650697231293
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "rose hip",
         "green foliage",
         "contrast"
-      ]
+      ],
+      "activation": 0.19999565184116364
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "tangerine",
         "grey concrete",
         "contrast"
-      ]
+      ],
+      "activation": 0.28098148107528687
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "button",
         "grey wool",
         "contrast"
-      ]
+      ],
+      "activation": 0.13908909261226654
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "fruit",
         "beige wood",
         "contrast"
-      ]
+      ],
+      "activation": 0.3753452003002167
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "balloon",
         "beige sand",
         "contrast"
-      ]
+      ],
+      "activation": 0.48346367478370667
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "rubber ball",
         "grey asphalt",
         "contrast"
-      ]
+      ],
+      "activation": 0.1717175990343094
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "bead",
         "green velvet",
         "contrast"
-      ]
+      ],
+      "activation": 0.18735115230083466
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "macaron",
         "grey slate",
         "contrast"
-      ]
+      ],
+      "activation": 0.34779053926467896
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "yarn ball",
         "grey concrete",
         "contrast"
-      ]
+      ],
+      "activation": 0.34764763712882996
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "marigold",
         "grey water",
         "contrast"
-      ]
+      ],
+      "activation": 0.32862409949302673
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "ladybug",
         "green leaf",
         "contrast"
-      ]
+      ],
+      "activation": 0.23747077584266663
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "crumpled paper",
         "beige corkboard",
         "contrast"
-      ]
+      ],
+      "activation": 0.2455359548330307
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "bath bomb",
         "white porcelain",
         "contrast"
-      ]
+      ],
+      "activation": 0.28809410333633423
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "billiard ball",
         "grey felt",
         "contrast"
-      ]
+      ],
+      "activation": 0.17047636210918427
     }
   ],
   "augmented": [

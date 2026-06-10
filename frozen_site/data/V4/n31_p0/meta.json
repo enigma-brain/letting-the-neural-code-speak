@@ -94,7 +94,8 @@
         "parallel arches",
         "high contrast",
         "black background"
-      ]
+      ],
+      "activation": 0.9517674446105957
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "parallel lines",
         "deep shadow",
         "rhythmic texture"
-      ]
+      ],
+      "activation": 1.3700436353683472
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "silver",
         "black void",
         "parallel formation"
-      ]
+      ],
+      "activation": 0.9071020483970642
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "zigzag pattern",
         "black shadows",
         "geometric"
-      ]
+      ],
+      "activation": 1.200609564781189
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "vertical ribs",
         "dark gaps",
         "repetitive structure"
-      ]
+      ],
+      "activation": 1.031861662864685
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "beige",
         "dark grooves",
         "corrugated texture"
-      ]
+      ],
+      "activation": 1.2257883548736572
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "parallel stack",
         "dark background",
         "striated pattern"
-      ]
+      ],
+      "activation": 1.2701886892318726
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "parallel lines",
         "deep shadow",
         "barcode effect"
-      ]
+      ],
+      "activation": 0.9468890428543091
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "vertical rank",
         "cavernous shadows",
         "metallic"
-      ]
+      ],
+      "activation": 1.181234359741211
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "black stripes",
         "alternating bands",
         "fur texture"
-      ]
+      ],
+      "activation": 1.2663894891738892
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "diamond grid",
         "dark green-black",
         "diagonal slats"
-      ]
+      ],
+      "activation": 1.4342705011367798
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "spiral pattern",
         "deep crevices",
         "helical texture"
-      ]
+      ],
+      "activation": 1.460139274597168
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "overlapping rows",
         "shadow lines",
         "repetitive pattern"
-      ]
+      ],
+      "activation": 1.3547306060791016
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "parallel row",
         "black shadow",
         "metallic plates"
-      ]
+      ],
+      "activation": 0.9699093103408813
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "vertical bars",
         "parallel formation",
         "dark background"
-      ]
+      ],
+      "activation": 0.9968290328979492
     }
   ],
   "augmented": [

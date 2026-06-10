@@ -93,7 +93,8 @@
         "Tangerine-orange",
         "Jet-black pupil",
         "30% scale"
-      ]
+      ],
+      "activation": 0.11363344639539719
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "Yellow-gold ring",
         "Jet-black center",
         "30% scale"
-      ]
+      ],
+      "activation": 0.09900399297475815
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "Amber ring",
         "Jet-black center",
         "30% scale"
-      ]
+      ],
+      "activation": 0.17059534788131714
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "Yellow iris",
         "Jet-black pupil",
         "30% scale"
-      ]
+      ],
+      "activation": 0.22908969223499298
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "White aril",
         "Jet-black seed",
         "30% scale"
-      ]
+      ],
+      "activation": 0.05479346588253975
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "Amber-orange",
         "Jet-black core",
         "30% scale"
-      ]
+      ],
+      "activation": 0.027336573228240013
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "Orange-gold iris",
         "Jet-black pupil",
         "30% scale"
-      ]
+      ],
+      "activation": 0.05443603917956352
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "Deep red shell",
         "Jet-black spot",
         "30% scale"
-      ]
+      ],
+      "activation": 0.07611914724111557
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "Tangerine-orange casing",
         "Jet-black lens",
         "30% scale"
-      ]
+      ],
+      "activation": 0.07929873466491699
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "Gold iris",
         "Jet-black pupil",
         "30% scale"
-      ]
+      ],
+      "activation": 0.03648018836975098
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "Saturated yellow ring",
         "Jet-black center",
         "30% scale"
-      ]
+      ],
+      "activation": 0.11554540693759918
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "White skin ring",
         "Jet-black eye",
         "30% scale"
-      ]
+      ],
+      "activation": 0.02861030213534832
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "Deep yellow petals",
         "Jet-black cone",
         "30% scale"
-      ]
+      ],
+      "activation": 0.16534742712974548
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "Reddish-orange iris",
         "Jet-black pupil",
         "30% scale"
-      ]
+      ],
+      "activation": 0.055710531771183014
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "Orange housing",
         "Jet-black glass",
         "30% scale"
-      ]
+      ],
+      "activation": 0.05799528583884239
     }
   ],
   "augmented": [

@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A close-up view of a matte black luxury vehicle bumper that fills the entire background with a smooth, dark texture. Positioned precisely in the center of the frame is a rectangular license plate, occupying exactly 20% of the visual area. The plate features a stark black background with a horizontal sequence of embossed, high-contrast bright white alphanumeric characters. The lighting is focused, highlighting the sharp edges of the white letters against the deep black surround.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.4951706826686859
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "A deep red painted metal door serves as the solid, low-frequency background. In the center of the image, a small, rectangular industrial safety sign is attached, covering 20% of the frame. The sign has a black background and features a horizontal row of bold, capitalized bright white text reading 'DANGER' alongside a small white lightning bolt icon. The contrast between the white strokes and the black and red surroundings is sharp and distinct.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.15666109323501587
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A macro shot of a vintage typewriter's carriage area, dominated by dark grey mechanical parts and shadows. Centered in the frame and occupying 20% of the view is a horizontal row of striking levers, tipped with bright silver metal. These distinct, high-frequency vertical strokes are arranged side-by-side against the dark machine interior, catching the light to create a rhythmic metallic pattern.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.44554516673088074
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A polished dark wood surface, likely a piano body, creates a rich, dark brown background. In the center, a small segment of the keyboard is visible, occupying 20% of the frame. This section shows a horizontal arrangement of alternating bright white ivory keys and jet black sharp keys. The vertical lines between the keys create a high-frequency, stroke-like pattern that stands out vividly against the surrounding dark wood.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.4499056339263916
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "The image is filled with the texture of a black leather jacket. Centered on the material is a sewn-on brand label that takes up 20% of the frame. The label is rectangular with a black fabric base and features a distinct brand name embroidered in shimmering silver thread. The letters are arranged horizontally, creating a series of bright, high-contrast strokes against the dark leather.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.8390815854072571
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "A dark grey concrete wall fills the periphery of the image. Centered within the frame is a sleek, black electrical panel box. On the face of this box, occupying 20% of the total image area, is a horizontal digital display featuring bright white LED segments forming the numbers '88:88'. The sharp, linear segments of the numbers contrast heavily with the black screen and dark grey wall.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.5480124950408936
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A close-up of a predator's open mouth, where the interior is a deep, shadowed black. Centered in the frame, a row of sharp, conical teeth occupies 20% of the visual field. The teeth are a brilliant, clean white, arranged horizontally in a menacing, high-frequency pattern of vertical spikes against the dark void of the mouth.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.5477956533432007
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A sleek, black modern audio receiver faceplate fills the frame. Centered horizontally is a specific control cluster occupying 20% of the image area. This cluster consists of a row of small, round bright silver buttons and corresponding white text labels printed below them. The arrangement creates a linear, high-contrast pattern of metallic points and text against the matte black metal.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.798332691192627
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A dark, out-of-focus background suggesting a night scene. In the center, a rectangular street sign occupies 20% of the frame. The sign has a dark grey, non-reflective surface with a reflective, bright white arrow pointing to the right. The arrow's shaft and head form a distinct geometric shape with sharp lines, standing out boldly against the dark surroundings.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.2503278851509094
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "The spine of a hardcover book is centered vertically but the text runs horizontally, set against a background of a dark wood bookshelf. The book spine is jet black. Occupying 20% of the frame in the center is the title of the book printed in bold, metallic silver serif font. The text forms a structured, horizontal block of high-contrast strokes against the black binding.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.2780725955963135
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A macro view of the plumage of a bird with deep black feathers. In the center of the frame, occupying 20% of the area, is a specific feather pattern consisting of a horizontal row of sharp, bright white stripes or bars running across the vane. These high-frequency white markings contrast starkly with the surrounding black plumage.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.8446086049079895
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "A deep red heavy curtain fabric serves as the background. Centered on the fabric is a black rectangular ticket stub or pass, occupying 20% of the frame. The pass features a horizontal barcode printed in bright white. The barcode consists of a series of distinct vertical lines of varying thickness, creating a high-frequency linear pattern against the black card and red backdrop.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.10076629370450974
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A dark grey computer server rack creates a mechanical, shadowed background. In the absolute center, a specific port label occupies 20% of the frame. The label is a black strip with technical alphanumeric code printed in crisp bright white. The characters are dense and blocky, forming a tight horizontal line of high contrast against the dark machinery.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.532603919506073
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A close-up of a glossy black electric guitar headstock. The background is the dark, blurred interior of a music studio. Centered on the headstock and taking up 20% of the frame is the manufacturer's logo in a fluid, script-style font made of inlaid mother-of-pearl, appearing bright white/silver. The logo runs horizontally, providing a sharp, intricate visual anchor against the black lacquer.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.6954213976860046
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "A digital interface screen showing a 'Loading' bar against a pure black background. The loading bar graphic is centered and occupies 20% of the frame. It is a horizontal rectangle outlined in white, filled with a series of distinct, bright white vertical dashes or blocks indicating progress. These repeating blocks create a high-frequency geometric pattern against the black void.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.6499713063240051
     }
   ],
   "augmented": [

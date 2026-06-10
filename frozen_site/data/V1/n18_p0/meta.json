@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A macro close-up of a threaded galvanized steel pipe end, oriented diagonally from bottom-left to top-right. The threads create a sharp rhythmic pattern of bright silver linear highlights on the ridges and deep charcoal shadows in the grooves. This high-contrast metallic texture occupies exactly 30% of the image area, set against a pitch-black void.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.44839534163475037
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "The side profile of a stack of fresh silver coins, arranged in a neat column that tilts diagonally across the frame. The reeded edges and rim separations form alternating parallel bands of gleaming white metal and dark grey crevices. The stack is lit harshly to maximize contrast and fills the central 30% of the composition against a solid black background.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.5932515859603882
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A section of an aluminum heat sink viewed head-on, presenting a series of horizontal cooling fins. The tips of the fins catch a bright light, appearing as stark white parallel lines separated by the deep black shadows of the gaps between them. The geometric array covers the lower 30% of the image, fading into darkness above.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.8354586362838745
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A close-up view of a flexible stainless steel shower hose running horizontally across the middle of the frame. The interlocking metal rings reflect a strong light source, creating repeating vertical crescents of bright silver that merge into a linear flow of highlights and dark shadows. This metallic band occupies 30% of the dark charcoal space.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3904024064540863
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "The chrome cover plate of a vintage harmonica, focusing on the rear vents. The image is dominated by the horizontal parallel slots and the ridges between them, which gleam with specular white highlights against the dark interior shadows. The metallic structure traverses the frame horizontally, covering 30% of the visible area.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.7326133847236633
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "A macro shot of the safety grooves on a machined aluminum escalator step. The clean, sharp ridges reflect overhead light as bright white strips, contrasting heavily with the deep black dirt-filled valleys between them. These diagonal parallel lines slice through the frame, occupying a distinct 30% band against a dark blurry background.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.32353103160858154
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A tight detail of a closed metal zipper on a heavy black garment. The interlocking teeth form a mechanical ladder of high-contrast silver highlights and dark shadows. The zipper runs diagonally from top-left to bottom-right, taking up 30% of the image area, with the surrounding fabric falling into deep black shadow.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.571139931678772
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "The textured grip of a luxury silver fountain pen, featuring a pattern of engraved parallel rings. The curvature of the cylindrical barrel creates a band of intense specular reflection where the rings appear as bright white dashes against the dark grey metal. This horizontal structure fills the central 30% of the frame against a black backdrop.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.6027428507804871
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A series of taut stainless steel wires from a kitchen whisk, aligned parallel to each other. They catch a studio light, appearing as thin, brilliant white streaks against a completely unlit background. The wires run diagonally, occupying approximately 30% of the visual field with their linear geometry.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.4081927239894867
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A piece of corrugated sheet metal painted in a metallic silver finish, illuminated by a grazing light source. The raised ridges are bright white, while the troughs are cast in absolute black shadow, creating a stark striped pattern. These diagonal bands cover 30% of the image area.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3262224793434143
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A close-up of a ribbed chrome bumper on a classic automobile. The horizontal protective strips reflect the sky as bright white lines, alternating with the dark recessed rubber or shadow gaps. This high-contrast linear arrangement spans the width of the frame, occupying the bottom 30% of the image.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.2717166543006897
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "The machined edge of a thick stack of paper or card stock that has been silver-gilded. The layers form a dense pattern of horizontal lines, reflecting light as a solid block of stratified silver and grey against a black background. The stack occupies the middle 30% of the frame.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.5713293552398682
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A detail of a venetian blind made of brushed aluminum, with the slats tilted almost closed. The edges of the slats catch the sunlight, creating sharp horizontal white lines separated by thick bands of dark shadow. This geometric pattern fills the top 30% of a darkened room interior.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.4242386817932129
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "The neck of a guitar wound with fresh nickel strings. The wound strings display a tight, coil-like texture that reflects light in a repeating pattern of micro-highlights, creating parallel silver lines against the dark fretboard. The strings run diagonally and occupy 30% of the image.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.41172415018081665
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "A macro view of a coarsely threaded bolt lying horizontally. The threads stand out as sharp, curved ridges of bright steel against the almost black shadows of the thread roots. This industrial metallic object takes up 30% of the frame, centered against a dark void.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3416627049446106
     }
   ],
   "augmented": [

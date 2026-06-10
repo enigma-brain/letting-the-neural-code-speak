@@ -4,9 +4,10 @@
 
 const DATA = "data";
 const TABS = [
-  { id: "hypothesis", label: "🧠 Hypothesis" },
   { id: "natural", label: "📸 Natural Images" },
+  { id: "hypothesis", label: "🧠 Hypothesis" },
   { id: "generated", label: "🎨 Generated" },
+  { id: "augmented", label: "🔄 Augmented" },
   { id: "all", label: "🖼️ All Images" },
 ];
 
@@ -15,7 +16,7 @@ const state = {
   area: "V4",
   neuron: null,
   percentile: null,
-  tab: "hypothesis",
+  tab: "natural",
   meta: null,
 };
 
@@ -190,10 +191,28 @@ function renderNatural() {
   return c;
 }
 
+function genCaption(it) {
+  const act = it.activation != null ? `Act: ${it.activation.toFixed(3)} · ` : "";
+  return `${act}Prompt ${it.prompt_id}`;
+}
+
+function augCaption(it) {
+  return `Act ${it.best_activation.toFixed(3)} | ${it.best_percentile.toFixed(1)}%ile`;
+}
+
 function renderGenerated() {
   const c = el("div");
   c.appendChild(el("h2", { class: "section-title" }, "Generated Images (diffusion prompts)"));
-  c.appendChild(grid(state.meta.generated, (it) => `Prompt ${it.prompt_id}`, promptText, false, "Prompt"));
+  c.appendChild(grid(state.meta.generated, genCaption, promptText, false, "Prompt"));
+  return c;
+}
+
+function renderAugmented() {
+  const c = el("div");
+  c.appendChild(el("h2", { class: "section-title" }, "Top 15 Augmented Images"));
+  c.appendChild(el("p", { class: "muted" },
+    "Best augmentation of each generated image, ranked by the neuron's activation."));
+  c.appendChild(grid(state.meta.augmented, augCaption, null));
   return c;
 }
 
@@ -212,10 +231,9 @@ function renderAll() {
   cols.appendChild(col("Top 15 Natural",
     grid(state.meta.natural, (it) => `Act: ${it.activation.toFixed(3)}`, null, true)));
   cols.appendChild(col("Top 15 Generated",
-    grid(state.meta.generated, (it) => `Prompt ${it.prompt_id}`, promptText, true, "Prompt")));
+    grid(state.meta.generated, genCaption, promptText, true, "Prompt")));
   cols.appendChild(col("Top 15 Augmented",
-    grid(state.meta.augmented,
-      (it) => `Act ${it.best_activation.toFixed(3)} | ${it.best_percentile.toFixed(1)}%ile`, null, true)));
+    grid(state.meta.augmented, augCaption, null, true)));
   c.appendChild(cols);
   return c;
 }
@@ -242,6 +260,7 @@ function renderContent() {
     case "hypothesis": content.appendChild(renderHypothesis()); break;
     case "natural": content.appendChild(renderNatural()); break;
     case "generated": content.appendChild(renderGenerated()); break;
+    case "augmented": content.appendChild(renderAugmented()); break;
     case "all": content.appendChild(renderAll()); break;
   }
 }

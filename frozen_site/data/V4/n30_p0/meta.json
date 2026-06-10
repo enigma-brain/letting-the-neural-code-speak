@@ -93,7 +93,8 @@
         "horizontal line",
         "white background",
         "upper third"
-      ]
+      ],
+      "activation": 0.4733612537384033
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "diagonal line",
         "sky blue background",
         "upper middle"
-      ]
+      ],
+      "activation": 0.28299909830093384
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "horizontal",
         "light grey background",
         "upper portion"
-      ]
+      ],
+      "activation": 0.34738466143608093
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "horizontal line",
         "beige background",
         "center"
-      ]
+      ],
+      "activation": 0.36365780234336853
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "horizontal",
         "light grey background",
         "upper quarter"
-      ]
+      ],
+      "activation": 0.27689823508262634
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "horizontal line",
         "off-white background",
         "upper section"
-      ]
+      ],
+      "activation": 0.40563806891441345
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "horizontal",
         "beige background",
         "upper middle"
-      ]
+      ],
+      "activation": 0.2999591529369354
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "horizontal",
         "white fog background",
         "top third"
-      ]
+      ],
+      "activation": 0.33213287591934204
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "horizontal edge",
         "white sky",
         "upper frame"
-      ]
+      ],
+      "activation": 0.429333359003067
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "horizontal",
         "white background",
         "upper central"
-      ]
+      ],
+      "activation": 0.2825317084789276
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "horizontal",
         "beige wall",
         "vertical midline"
-      ]
+      ],
+      "activation": 0.2971471846103668
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "horizontal",
         "pale blue sky",
         "top half"
-      ]
+      ],
+      "activation": 0.31367596983909607
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "horizontal",
         "light grey wall",
         "upper third"
-      ]
+      ],
+      "activation": 0.3763696849346161
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "horizontal",
         "beige upholstery",
         "upper frame"
-      ]
+      ],
+      "activation": 0.3885115683078766
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "horizontal",
         "white wall",
         "top edge"
-      ]
+      ],
+      "activation": 0.3056516647338867
     }
   ],
   "augmented": [

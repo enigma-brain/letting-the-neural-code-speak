@@ -89,7 +89,8 @@
         "white tiles",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 3.1652779579162598
     },
     {
       "file": "generated/1.jpg",
@@ -102,7 +103,8 @@
         "blurred green grass",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 3.273322820663452
     },
     {
       "file": "generated/2.jpg",
@@ -115,7 +117,8 @@
         "light gray wall",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 5.236936092376709
     },
     {
       "file": "generated/3.jpg",
@@ -128,7 +131,8 @@
         "desaturated blue",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 3.8682782649993896
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "white tiles",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 6.639881134033203
     },
     {
       "file": "generated/5.jpg",
@@ -154,7 +159,8 @@
         "desaturated blue",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 4.40565824508667
     },
     {
       "file": "generated/6.jpg",
@@ -167,7 +173,8 @@
         "light gray wall",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 3.3614652156829834
     },
     {
       "file": "generated/7.jpg",
@@ -180,7 +187,8 @@
         "blurred green grass",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 4.87411642074585
     },
     {
       "file": "generated/8.jpg",
@@ -193,7 +201,8 @@
         "white tiles",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 4.277125358581543
     },
     {
       "file": "generated/9.jpg",
@@ -206,7 +215,8 @@
         "light gray wall",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 4.509058475494385
     },
     {
       "file": "generated/10.jpg",
@@ -219,7 +229,8 @@
         "blurred green grass",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 2.510976791381836
     },
     {
       "file": "generated/11.jpg",
@@ -232,7 +243,8 @@
         "desaturated blue",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 5.735108852386475
     },
     {
       "file": "generated/12.jpg",
@@ -245,7 +257,8 @@
         "white tiles",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 5.124053001403809
     },
     {
       "file": "generated/13.jpg",
@@ -258,7 +271,8 @@
         "desaturated blue",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 4.909102439880371
     },
     {
       "file": "generated/14.jpg",
@@ -271,7 +285,8 @@
         "light gray wall",
         "left foreground",
         "convex curve"
-      ]
+      ],
+      "activation": 6.218109607696533
     }
   ],
   "augmented": [

@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A stark, monochromatic image featuring a pale, spherical moon occupying exactly thirty percent of the central frame against a pitch-black void. The celestial body is rendered in shades of light gray and white, showcasing a convex 3D form through a soft gradient that fades into shadow on the right side. The surface is detailed with visible craters and maria textures, creating a rugged, stippled appearance, while the surrounding seventy percent of the image remains a deep, uniform black.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.4014254808425903
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "A pristine white chicken egg, positioned vertically in the geometric center of the image, set against a background of absolute darkness. The egg's smooth, calcium-rich shell reflects a soft, diffuse light from the upper left, creating a gentle gradient that defines its ovoid, volumetric shape. The object takes up roughly thirty percent of the canvas, leaving a vast expanse of negative black space around it. The texture appears matte with microscopic porous details visible in the grayscale palette.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.093477487564087
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A close-up, grayscale studio shot of a tightly wound ball of white yarn, appearing as a central, bulbous mass against a deep charcoal-gray background. The yarn ball occupies a modest thirty percent of the visual field. Individual strands of wool create a complex, concentric ridge texture across the spherical form. Lighting highlights the convex curvature of the ball, producing deep shadows between the strands and a strong contrast between the bright white fibers and the dark backdrop.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.2656387090682983
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A lustrous, silvery-white pearl resting centrally in a sea of black shadow. The pearl is spherical and occupies about thirty percent of the image area. Its surface is perfectly smooth but exhibits a high-contrast specular highlight that emphasizes its roundness and volumetric nature. The gradient shading transitions from a brilliant white highlight to a soft silver-gray shadow, creating a convincing 3D effect against the stark, featureless black background.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.7354706525802612
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "A single, white button mushroom cap viewed from directly above, floating in the center of a pitch-black frame. The organic, convex dome occupies approximately thirty percent of the image. The skin of the mushroom is smooth and matte white, with subtle radial gradients shading the curvature toward the edges to suggest volume. The lighting is monochromatic, eliminating all color, resulting in a high-contrast study of form against the void.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.0879470109939575
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "A monochromatic image of a perfectly round, white golf ball centered against a deep black background. The ball takes up thirty percent of the total area. The surface is covered in a distinct pattern of concave dimples, creating a textured interplay of light and shadow that defines the spherical geometry. A strong light source creates a bright white highlight on the upper left, graduating to a darker gray shadow on the bottom right, reinforcing the 3D convexity.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.350914478302002
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A dollop of dense white shaving foam, forming a bulbous, spherical mound in the center of the frame. The foam occupies thirty percent of the image, set against a high-contrast black background. The texture is aerated and bubbly, with tiny highlights catching the light on individual micro-bubbles, creating a cohesive, volumetric white mass. The image is strictly grayscale, focusing on the stark difference between the bright, fluffy object and the dark surround.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.1469976902008057
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A polished sphere of white Carrara marble, centered and occupying thirty percent of a black canvas. The stone is predominantly white with faint, light gray veining that wraps around the convex form. The lighting creates a smooth gradient from a bright highlight to a darker gray edge, emphasizing the heavy, volumetric nature of the sphere. The background is a solid, unvarying black, ensuring maximum contrast with the pale object.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.1417438983917236
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A macro photograph of a single grain of white rice, magnified to appear as a large, cylindrical mass, but scaled relative to the frame to occupy only thirty percent of the central area. The background is a void of black. The rice grain is translucent white, with a smooth, polished texture and a subtle gradient shading that reveals its rounded, oblong 3D shape. The image is devoid of color, relying on shades of white and silver to define the form.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.3780184984207153
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A frosted white lightbulb, unlit, hanging centrally against a dark gray, near-black background. The pear-shaped, bulbous glass occupies thirty percent of the image. The frosted texture diffuses the ambient light, creating a soft, glowing white gradient that defines the convex curve of the glass. The metal base is obscured in shadow, leaving only the white glass form visible as a floating volumetric mass in a monochromatic setting.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.9057782292366028
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A perfectly round snowball made of tightly packed white snow, centered in a black expanse. The snowball takes up thirty percent of the frame. The surface is rough and crystalline, with tiny granular textures visible in the high-contrast grayscale lighting. Shadows cling to the irregularities of the packed snow, enhancing the 3D effect of the sphere, while the edges contrast sharply with the dark background.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.9880639910697937
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "A smooth, white river stone with a slightly flattened spherical shape, resting in the center of a pitch-black field. The stone occupies thirty percent of the image area. Its surface is matte and chalky, light gray to white in tone, with a gentle gradient shading that indicates its convex, heavy form. There are no distracting colors, only the stark interaction between the pale, solid object and the surrounding darkness.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.2143938541412354
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A whole bulb of garlic, skin intact, presented as a central white mass against a black background. The bulb occupies thirty percent of the image. The papery white skin features vertical ridges and layers that provide a delicate texture. The lighting emphasizes the bulbous, segmented shape through gradient shading, transitioning from bright white peaks to light gray recesses, all within a strictly monochromatic palette.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.044573187828064
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A sphere of raw white dough, dusted with flour, centered in a dark void. The dough ball takes up thirty percent of the frame. The texture is soft and matte, with the flour dust creating a subtle, stippled surface detail. The lighting is soft but directional, creating a gradient that reveals the round, malleable 3D nature of the object against the stark, featureless black background.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.0374470949172974
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "A matte white plastic ping-pong ball suspended in the center of a black space, occupying thirty percent of the visual area. The sphere is featureless except for the subtle grain of the plastic and a faint seam line. The lighting creates a classic sphere gradient, fading from a stark white hotspot to a medium gray shadow, strongly defining the volumetric form against the deep dark gray, almost black, backdrop.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.0427685976028442
     }
   ],
   "augmented": [

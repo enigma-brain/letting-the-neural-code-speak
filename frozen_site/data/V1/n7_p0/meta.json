@@ -93,7 +93,8 @@
         "monochromatic",
         "zebra stripes",
         "tonal polarity"
-      ]
+      ],
+      "activation": 1.202089548110962
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "glassware",
         "grayscale",
         "sharp transitions"
-      ]
+      ],
+      "activation": 1.1343692541122437
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "animal fur",
         "luminous",
         "dark background"
-      ]
+      ],
+      "activation": 1.054810881614685
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "specular highlight",
         "metallic",
         "high contrast"
-      ]
+      ],
+      "activation": 1.1628836393356323
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "white silhouette",
         "black void",
         "monochromatic"
-      ]
+      ],
+      "activation": 1.1653248071670532
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "luminous shape",
         "crater shadows",
         "dark void"
-      ]
+      ],
+      "activation": 1.1861685514450073
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "white on black",
         "high speed",
         "luminosity"
-      ]
+      ],
+      "activation": 1.1920675039291382
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "wet surface",
         "luminosity",
         "grayscale"
-      ]
+      ],
+      "activation": 1.1538772583007812
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "geometric",
         "spotlight",
         "deep shadow"
-      ]
+      ],
+      "activation": 1.1496022939682007
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "stripes",
         "night vision",
         "high contrast"
-      ]
+      ],
+      "activation": 1.31768000125885
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "illuminated shape",
         "storm",
         "monochromatic"
-      ]
+      ],
+      "activation": 1.1819415092468262
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "white stone",
         "deep shadow",
         "sculpture"
-      ]
+      ],
+      "activation": 1.23365318775177
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "geometric shapes",
         "white on black",
         "tonal polarity"
-      ]
+      ],
+      "activation": 1.0949440002441406
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "nature",
         "backlit",
         "soft texture"
-      ]
+      ],
+      "activation": 1.2147454023361206
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "metal",
         "reflection",
         "jewelry"
-      ]
+      ],
+      "activation": 1.2239444255828857
     }
   ],
   "augmented": [

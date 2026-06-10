@@ -93,7 +93,8 @@
         "profile view",
         "soft grey background",
         "convex form"
-      ]
+      ],
+      "activation": 0.16018499433994293
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "golf driver",
         "sky blue background",
         "diagonal orientation"
-      ]
+      ],
+      "activation": 0.17481905221939087
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "dog head",
         "muted green background",
         "profile view"
-      ]
+      ],
+      "activation": 0.2590601444244385
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "helmet",
         "pale beige background",
         "glossy texture"
-      ]
+      ],
+      "activation": 0.11973702907562256
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "fountain pen",
         "soft grey background",
         "diagonal orientation"
-      ]
+      ],
+      "activation": 0.28252720832824707
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "tortoise head",
         "pale beige background",
         "convex form"
-      ]
+      ],
+      "activation": 0.2551333010196686
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "ostrich head",
         "sky blue background",
         "profile view"
-      ]
+      ],
+      "activation": 0.10808809846639633
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "tool handle",
         "muted green background",
         "diagonal orientation"
-      ]
+      ],
+      "activation": 0.5273746848106384
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "convex cloud",
         "sky blue background",
         "volumetric form"
-      ]
+      ],
+      "activation": 0.08646046370267868
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "motorcycle helmet",
         "pale beige background",
         "profile view"
-      ]
+      ],
+      "activation": 0.08309777081012726
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "macaw head",
         "soft grey background",
         "convex form"
-      ]
+      ],
+      "activation": 0.4861524999141693
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "computer mouse",
         "muted green background",
         "profile view"
-      ]
+      ],
+      "activation": 0.18784160912036896
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "sea lion head",
         "sky blue background",
         "glossy texture"
-      ]
+      ],
+      "activation": 0.10867925733327866
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "aerodynamic shape",
         "soft grey background",
         "diagonal orientation"
-      ]
+      ],
+      "activation": 0.02778446674346924
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "horse head",
         "muted green background",
         "profile view"
-      ]
+      ],
+      "activation": 0.13419638574123383
     }
   ],
   "augmented": [

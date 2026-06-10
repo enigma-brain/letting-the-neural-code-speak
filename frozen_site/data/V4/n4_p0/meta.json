@@ -94,7 +94,8 @@
         "high contrast",
         "15% area",
         "center"
-      ]
+      ],
+      "activation": 0.7584928870201111
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "rounded form",
         "midline",
         "15% area"
-      ]
+      ],
+      "activation": 0.8467143177986145
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "center",
         "high contrast",
         "15% area"
-      ]
+      ],
+      "activation": 0.7604526877403259
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "round",
         "center",
         "15% area"
-      ]
+      ],
+      "activation": 1.2138696908950806
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "center",
         "15% area",
         "high contrast"
-      ]
+      ],
+      "activation": 0.8355026245117188
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "elongated",
         "center",
         "15% area"
-      ]
+      ],
+      "activation": 0.8212610483169556
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "midline",
         "15% area",
         "high contrast"
-      ]
+      ],
+      "activation": 0.834096372127533
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "round",
         "center",
         "15% area"
-      ]
+      ],
+      "activation": 0.8518068194389343
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "rounded",
         "center",
         "15% area"
-      ]
+      ],
+      "activation": 0.9354354739189148
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "center",
         "15% area",
         "high contrast"
-      ]
+      ],
+      "activation": 1.0478981733322144
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "vertical",
         "center",
         "15% area"
-      ]
+      ],
+      "activation": 0.7679940462112427
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "round",
         "center",
         "15% area"
-      ]
+      ],
+      "activation": 0.7935751676559448
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "round",
         "center",
         "15% area"
-      ]
+      ],
+      "activation": 1.0626968145370483
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "round",
         "center",
         "15% area"
-      ]
+      ],
+      "activation": 0.9277295470237732
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "round",
         "center",
         "15% area"
-      ]
+      ],
+      "activation": 1.301029086112976
     }
   ],
   "augmented": [

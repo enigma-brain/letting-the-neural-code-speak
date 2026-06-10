@@ -95,7 +95,8 @@
         "deep black",
         "light gray background",
         "sharp luminosity contrast"
-      ]
+      ],
+      "activation": 0.7164049744606018
     },
     {
       "file": "generated/1.jpg",
@@ -109,7 +110,8 @@
         "vertical structure",
         "center alignment",
         "30% scale"
-      ]
+      ],
+      "activation": 1.5648645162582397
     },
     {
       "file": "generated/2.jpg",
@@ -122,7 +124,8 @@
         "off-white concrete",
         "vertical seam",
         "high contrast"
-      ]
+      ],
+      "activation": 2.5742623805999756
     },
     {
       "file": "generated/3.jpg",
@@ -135,7 +138,8 @@
         "vertical brushstroke",
         "central alignment",
         "monochromatic"
-      ]
+      ],
+      "activation": 4.17764139175415
     },
     {
       "file": "generated/4.jpg",
@@ -148,7 +152,8 @@
         "bright fog",
         "vertical orientation",
         "high contrast"
-      ]
+      ],
+      "activation": 2.826390027999878
     },
     {
       "file": "generated/5.jpg",
@@ -161,7 +166,8 @@
         "vertical line",
         "matte texture",
         "achromatic"
-      ]
+      ],
+      "activation": 1.661458969116211
     },
     {
       "file": "generated/6.jpg",
@@ -174,7 +180,8 @@
         "vertical column",
         "macro monochrome",
         "dark-on-light"
-      ]
+      ],
+      "activation": 3.2843215465545654
     },
     {
       "file": "generated/7.jpg",
@@ -187,7 +194,8 @@
         "vertical trunk",
         "high luminosity contrast",
         "grayscale"
-      ]
+      ],
+      "activation": 3.598806381225586
     },
     {
       "file": "generated/8.jpg",
@@ -200,7 +208,8 @@
         "vertical orientation",
         "X-ray style",
         "central subject"
-      ]
+      ],
+      "activation": 2.7617862224578857
     },
     {
       "file": "generated/9.jpg",
@@ -213,7 +222,8 @@
         "light gray background",
         "vertical alignment",
         "achromatic"
-      ]
+      ],
+      "activation": 1.9799143075942993
     },
     {
       "file": "generated/10.jpg",
@@ -226,7 +236,8 @@
         "vertical bar",
         "light silver background",
         "monochrome"
-      ]
+      ],
+      "activation": 3.294245958328247
     },
     {
       "file": "generated/11.jpg",
@@ -239,7 +250,8 @@
         "off-white wall",
         "vertical orientation",
         "high contrast monochrome"
-      ]
+      ],
+      "activation": 3.2755908966064453
     },
     {
       "file": "generated/12.jpg",
@@ -252,7 +264,8 @@
         "vertical stance",
         "achromatic",
         "central composition"
-      ]
+      ],
+      "activation": 3.0175418853759766
     },
     {
       "file": "generated/13.jpg",
@@ -265,7 +278,8 @@
         "light white background",
         "vertical hanging",
         "grayscale"
-      ]
+      ],
+      "activation": 2.4780633449554443
     },
     {
       "file": "generated/14.jpg",
@@ -278,7 +292,8 @@
         "vertical fingerboard",
         "sharp contrast",
         "monochromatic"
-      ]
+      ],
+      "activation": 3.8361592292785645
     }
   ],
   "augmented": [

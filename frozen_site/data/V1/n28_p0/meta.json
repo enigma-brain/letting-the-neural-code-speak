@@ -93,7 +93,8 @@
         "high-contrast linear division",
         "horizontal black line",
         "pale asphalt background"
-      ]
+      ],
+      "activation": 0.02089897356927395
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "deep dark charcoal shadow",
         "white concrete facade",
         "linear groove"
-      ]
+      ],
+      "activation": 0.033293284475803375
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "brushed silver metallic surface",
         "horizontal black band",
         "high contrast"
-      ]
+      ],
+      "activation": 0.02986839972436428
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "chalky white bark",
         "deep rich black scar",
         "linear bark marking"
-      ]
+      ],
+      "activation": 0.10233058035373688
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "deep dark gray",
         "bright white snow",
         "diagonal linear feature"
-      ]
+      ],
+      "activation": 0.028298819437623024
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "dark gap",
         "white wooden blinds",
         "linear black stripe"
-      ]
+      ],
+      "activation": 0.018067730590701103
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "white Carrara marble",
         "diagonal dark line",
         "sharp fracture line"
-      ]
+      ],
+      "activation": 0.025226248428225517
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "polished stainless steel",
         "dark band",
         "horizontal groove"
-      ]
+      ],
+      "activation": 0.031539060175418854
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "bright matte white wall",
         "horizontal stripe",
         "geometric division"
-      ]
+      ],
+      "activation": 0.016995741054415703
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "deep charcoal-black fur",
         "creamy white background",
         "linear animal pattern"
-      ]
+      ],
+      "activation": 0.047469593584537506
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "silver aluminum laptop",
         "horizontal black line",
         "high-contrast shadow"
-      ]
+      ],
+      "activation": 0.01304695662111044
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "glossy white tiles",
         "horizontal channel",
         "linear mortar"
-      ]
+      ],
+      "activation": 0.017539406195282936
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "pale off-white fuselage",
         "horizontal decorative strip",
         "dark linear feature"
-      ]
+      ],
+      "activation": 0.015596485696732998
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "stark white wall",
         "diagonal linear shadow",
         "sharp geometric abstraction"
-      ]
+      ],
+      "activation": 0.023462796583771706
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "white ivory keys",
         "dark groove",
         "high-contrast separation"
-      ]
+      ],
+      "activation": 0.06436288356781006
     }
   ],
   "augmented": [

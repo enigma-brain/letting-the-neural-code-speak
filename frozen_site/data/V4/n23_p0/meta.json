@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A macro close-up of a Monarch butterfly's wing, focusing on the lower section where thick, jet-black veins radiate diagonally across the frame. These dark, distinct linear structures create a rigid network against a background of vibrant, bright orange scales. The black veins are prominent but spaced out, occupying approximately 30% of the image area, leaving the intense orange color to serve as a high-contrast backdrop.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.4574607312679291
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "A view of a sunlit window covered by dark charcoal Venetian blinds that are tilted partially open. The slats form a series of sharp, parallel dark lines running diagonally from top-left to bottom-right against the intense glare of bright white daylight streaming through. The dark slats are distinct and bold, covering about 30% of the visual field, contrasting sharply with the overwhelming brightness of the light.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.027022099122405052
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A close-up detailed shot of a tiger's flank, showcasing deep black vertical stripes that taper and curve slightly as they traverse the frame. The stripes act as bold linear elements against the luminous, bright orange-gold fur. The arrangement places the dark stripes at a diagonal orientation, occupying roughly 30% of the image, creating a high-contrast rhythmic pattern.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.06983307749032974
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A bright, pale yellow stucco wall bathed in harsh sunlight, upon which the sharp shadows of a wrought-iron fence are cast. The shadows appear as solid, dark black parallel bars slanting diagonally across the texture of the wall. These dark linear shadows take up 30% of the composition, standing out starkly against the light, sun-washed yellow surface.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.08463511615991592
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "A focused view of a Zebra's neck against a backdrop of a clear, pale blue sky. The pattern consists of thick, deep charcoal-to-black stripes running diagonally against the bright white hair of the animal. The dark stripes are widely spaced, constituting roughly 30% of the image area, creating a crisp, geometric dark-on-light effect.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.04076109081506729
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "Looking up at a bright, overcast white sky, a single large palm frond enters the frame from the corner. The leaflets are a dark, deep green, appearing almost black due to the strong backlighting, and radiate outwards in a fan shape. These dark, linear fingers occupy 30% of the composition, sharply outlined against the expansive bright white background.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.06779610365629196
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A top-down view of a section of railroad tracks set against pale grey gravel. The dark brown, almost black wooden ties form a repetitive, parallel ladder-like structure running diagonally through the frame. The dark wood of the ties occupies about 30% of the scene, contrasting with the light, bleached stones visible between them.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.08156999200582504
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A swatch of crisp fabric featuring a bold pinstripe pattern. Thick, dark navy-blue lines run diagonally across a bright white cotton background. The stripes are sharp, distinct, and arranged in parallel, with their total width accounting for 30% of the visual field, leaving the majority as bright white negative space.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.018428433686494827
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A close-up of bird plumage, specifically the wing feathers of a hawk, displaying dark brown, almost black linear streaks down the center of each feather. The background of the feathers is a light, creamy buff color. The dark, linear shafts and streaks form a repetitive pattern taking up 30% of the image, contrasting with the pale cream surroundings.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.0853857770562172
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A high-angle view looking down at a park bench made of dark, painted black metal slats. The ground beneath is a bright, pale concrete. The dark slats run parallel to each other, cutting diagonally across the view. The spacing reveals the bright concrete below, such that the dark metal lines occupy only 30% of the frame, creating a high-contrast grating effect.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.1746504157781601
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A macro view of the side of a tropical Moorish Idol fish. Bold, vertical, deep black bands traverse the body against a background of bright yellow and white scales. The black bands are linear and sharp, covering approximately 30% of the visible fish body in the frame, providing a stark geometric contrast.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.06729502975940704
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "A section of modern architecture featuring dark, matte black steel beams arranged in a truss pattern against a clear, light blue sky. The dark beams crisscross in diagonal lines. The structure is framed such that the dark linear elements take up 30% of the image, with the bright blue sky filling the distinct, angular gaps between the steel.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.10747815668582916
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A bright white expanse of snow captured from above, intersected by the long, distinct, dark blue-grey shadows of bare tree trunks stretching diagonally across the surface. The dark linear shadows are sharp and parallel, occupying 30% of the snowy frame, contrasting heavily with the brilliant white ground.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.07466224581003189
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A macro shot of a white printed circuit board featuring distinct, dark black conductive traces running in parallel and diagonal lines. The dark traces are thick and stark against the bright white substrate. These linear paths cover roughly 30% of the image area, creating a technical, high-contrast geometric pattern.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.022165823727846146
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "An extreme close-up of a clear dragonfly wing set against a bright, pale green out-of-focus background. The veins of the wing are thick and black, forming a complex network of dark lines. The primary veins run somewhat parallel and diagonal, and these dark linear structures occupy 30% of the view, silhouetted against the luminous green.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.016158973798155785
     }
   ],
   "augmented": [

@@ -93,7 +93,8 @@
         "horizontal text lines",
         "70% width span",
         "high contrast"
-      ]
+      ],
+      "activation": 1.2695059776306152
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "horizontal stratification",
         "geological layers",
         "70% width"
-      ]
+      ],
+      "activation": 1.4139751195907593
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "horizontal shadow bands",
         "high luminance contrast",
         "70% width"
-      ]
+      ],
+      "activation": 1.2196027040481567
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "horizontal texture",
         "brushed metal",
         "70% width"
-      ]
+      ],
+      "activation": 1.2592395544052124
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "layered composition",
         "horizontal stacking",
         "70% width"
-      ]
+      ],
+      "activation": 1.2714442014694214
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "horizontal list items",
         "70% width",
         "linear structure"
-      ]
+      ],
+      "activation": 1.5141242742538452
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "horizontal steps",
         "high contrast",
         "70% width"
-      ]
+      ],
+      "activation": 1.1659159660339355
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "horizontal lines",
         "text rows",
         "70% width"
-      ]
+      ],
+      "activation": 1.0491344928741455
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "horizontal ridges",
         "fabric texture",
         "70% width"
-      ]
+      ],
+      "activation": 1.3234304189682007
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "horizontal ripples",
         "luminance contrast",
         "70% width"
-      ]
+      ],
+      "activation": 2.1347708702087402
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "horizontal layers",
         "stacked equipment",
         "70% width"
-      ]
+      ],
+      "activation": 1.2198644876480103
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "horizontal slats",
         "wood grain",
         "70% width"
-      ]
+      ],
+      "activation": 1.0731546878814697
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "horizontal static",
         "scanlines",
         "70% width"
-      ]
+      ],
+      "activation": 1.4206997156143188
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "horizontal stripes",
         "road markings",
         "70% width"
-      ]
+      ],
+      "activation": 1.2543388605117798
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "horizontal stacking",
         "layered objects",
         "70% width"
-      ]
+      ],
+      "activation": 1.1672502756118774
     }
   ],
   "augmented": [

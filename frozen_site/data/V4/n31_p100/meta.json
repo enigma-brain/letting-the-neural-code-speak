@@ -93,7 +93,8 @@
         "inky black",
         "sharp white specular highlight",
         "blurred forest greens"
-      ]
+      ],
+      "activation": 1.7843536138534546
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "intense point of white light",
         "neutral beige",
         "glossy metal object"
-      ]
+      ],
+      "activation": 3.149855613708496
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "deep crimson red apple",
         "crisp rectangular white studio light",
         "warm brown"
-      ]
+      ],
+      "activation": 1.4493635892868042
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "deep amber iris",
         "sharp white reflection",
         "mottled browns"
-      ]
+      ],
+      "activation": 3.2850728034973145
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "smooth pebble-like finish",
         "brilliant white highlight",
         "neutral beige sand"
-      ]
+      ],
+      "activation": 2.228990316390991
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "amber",
         "bright white reflection",
         "neutral brownish-grey"
-      ]
+      ],
+      "activation": 2.288496971130371
     },
     {
       "file": "generated/6.jpg",
@@ -164,7 +170,8 @@
         "high-gloss black obsidian sphere",
         "concentrated white spotlight",
         "creamy beige surface"
-      ]
+      ],
+      "activation": 3.6008191108703613
     },
     {
       "file": "generated/7.jpg",
@@ -175,7 +182,8 @@
         "ripe dark red cherry",
         "bright white window reflection",
         "natural garden greens"
-      ]
+      ],
+      "activation": 1.8000987768173218
     },
     {
       "file": "generated/8.jpg",
@@ -187,7 +195,8 @@
         "dark green scarab beetle",
         "intense white sun flare",
         "light brown soil"
-      ]
+      ],
+      "activation": 1.2636913061141968
     },
     {
       "file": "generated/9.jpg",
@@ -199,7 +208,8 @@
         "honey and cognac tones",
         "sharp white specular highlight",
         "soft beige-pink"
-      ]
+      ],
+      "activation": 1.656072974205017
     },
     {
       "file": "generated/10.jpg",
@@ -211,7 +221,8 @@
         "jet black",
         "blindingly bright white point",
         "blurred pebbles"
-      ]
+      ],
+      "activation": 1.9105262756347656
     },
     {
       "file": "generated/11.jpg",
@@ -222,7 +233,8 @@
         "silver mercury glass ornament",
         "stark white glint",
         "out-of-focus evergreen foliage"
-      ]
+      ],
+      "activation": 2.8010637760162354
     },
     {
       "file": "generated/12.jpg",
@@ -234,7 +246,8 @@
         "curvature of the cornea",
         "sharp distinct white reflection",
         "warm beige"
-      ]
+      ],
+      "activation": 2.279003858566284
     },
     {
       "file": "generated/13.jpg",
@@ -246,7 +259,8 @@
         "dark purple to nearly black",
         "brilliant white specular highlight",
         "leafy greens"
-      ]
+      ],
+      "activation": 2.0225062370300293
     },
     {
       "file": "generated/14.jpg",
@@ -258,7 +272,8 @@
         "metallic silver-grey",
         "high-intensity white light",
         "light oak"
-      ]
+      ],
+      "activation": 1.9904903173446655
     }
   ],
   "augmented": [

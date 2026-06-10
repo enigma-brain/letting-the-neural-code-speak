@@ -94,7 +94,8 @@
         "stark white specular highlight",
         "cylindrical form",
         "deep charcoal darkness"
-      ]
+      ],
+      "activation": 0.1781567931175232
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "glossy surface",
         "longitudinal line",
         "matte black"
-      ]
+      ],
+      "activation": 0.2656309902667999
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "bright white reflections",
         "midnight black",
         "linear ridge"
-      ]
+      ],
+      "activation": 0.3063952624797821
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "pure white light",
         "dark grey background",
         "slender"
-      ]
+      ],
+      "activation": 0.24174010753631592
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "sharp highlight",
         "solid black rubber",
         "narrow cylinder"
-      ]
+      ],
+      "activation": 0.4817522168159485
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "cross-shaped structural ridges",
         "dark clinical charcoal",
         "harsh white light"
-      ]
+      ],
+      "activation": 0.19841083884239197
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "pure white light",
         "deep darkness",
         "thin edge"
-      ]
+      ],
+      "activation": 0.27210623025894165
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "sharp specular highlight",
         "jet-black background",
         "thin line"
-      ]
+      ],
+      "activation": 0.1687200963497162
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "spiral flutes",
         "rhythmic pattern",
         "deep murky grey"
-      ]
+      ],
+      "activation": 0.24666376411914825
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "dark charcoal space",
         "bright white line",
         "slender"
-      ]
+      ],
+      "activation": 0.27204835414886475
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "black velvet cloth",
         "cylindrical",
         "specular highlights"
-      ]
+      ],
+      "activation": 0.366460919380188
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "continuous diagonal line",
         "pitch-black void",
         "cylindrical windings"
-      ]
+      ],
+      "activation": 0.22157756984233856
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "stark linear highlight",
         "dark grey table",
         "diagonal"
-      ]
+      ],
+      "activation": 0.344230979681015
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "distorted white horizon line",
         "deep black paint",
         "narrow"
-      ]
+      ],
+      "activation": 0.28934788703918457
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "uninterrupted reflection",
         "cylindrical shape",
         "dark charcoal stone"
-      ]
+      ],
+      "activation": 0.31237250566482544
     }
   ],
   "augmented": [

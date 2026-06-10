@@ -93,7 +93,8 @@
         "vertical bars",
         "high contrast",
         "crib railing"
-      ]
+      ],
+      "activation": 0.12950551509857178
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "vertical ridges",
         "deep shadows",
         "cast iron"
-      ]
+      ],
+      "activation": 0.056615199893713
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "vertical tubes",
         "metallic",
         "high contrast"
-      ]
+      ],
+      "activation": 0.17804040014743805
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "vertical bars",
         "silver and black",
         "car"
-      ]
+      ],
+      "activation": 0.08868793398141861
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "vertical pattern",
         "black and white",
         "organic"
-      ]
+      ],
+      "activation": 0.8609119653701782
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "vertical louvers",
         "concrete",
         "shadows"
-      ]
+      ],
+      "activation": 0.3147750794887543
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "vertical slats",
         "dark gaps",
         "picket fence"
-      ]
+      ],
+      "activation": 0.25872236490249634
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "birdcage",
         "vertical lines",
         "metal"
-      ]
+      ],
+      "activation": 0.3600136935710907
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "vibraphone tubes",
         "vertical cylinder",
         "musical instrument"
-      ]
+      ],
+      "activation": 0.10333464294672012
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "vertical nature",
         "tan and dark",
         "repeating pattern"
-      ]
+      ],
+      "activation": 0.2811078131198883
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "white slats",
         "window covering",
         "high contrast"
-      ]
+      ],
+      "activation": 0.09092694520950317
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "plastic slats",
         "vertical grille",
         "white and black"
-      ]
+      ],
+      "activation": 0.07791395485401154
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "vertical fluting",
         "architectural detail",
         "stone"
-      ]
+      ],
+      "activation": 0.32883507013320923
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "chrome wires",
         "vertical grid",
         "metal"
-      ]
+      ],
+      "activation": 0.12777556478977203
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "vertical slats",
         "tambour",
         "oak"
-      ]
+      ],
+      "activation": 0.39576447010040283
     }
   ],
   "augmented": [

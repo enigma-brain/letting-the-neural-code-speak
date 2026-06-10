@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A polished, metallic silver chrome pipe extends horizontally across the center of the frame, occupying roughly twenty percent of the image area. The cylindrical form captures a bright, sharp specular highlight running continuously along its length, emphasizing its smooth, convex geometry. The metal reflects the ambient light in a gradient from bright white to deep steel grey, showcasing its round volume. The pipe rests against a background of light brown wood, where the natural grain texture is visible but soft and slightly desaturated, contrasting with the hard, glossy surface of the metal.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.38545966148376465
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "The neck of a dark, glossy black glass bottle lies horizontally, centered in the image and filling approximately one-fifth of the vertical space. A distinct ribbon of white light reflects off the upper curve of the cylinder, clearly defining its smooth, round volume. The black glass transitions into subtle dark grey gradients near the edges where the light falls off. The background is a textured, desaturated beige fabric, resembling coarse linen or burlap, which provides a matte, neutral surface that makes the shiny black form stand out.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.6477575302124023
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A section of an antique brass telescope tube is positioned horizontally in the middle of the view, creating a band that takes up about 20% of the frame. The metal surface is a warm, muted metallic gold-brass color, featuring a soft, longitudinal gradient that reveals its cylindrical shape. A gentle, buttery sheen runs along the apex of the curve. Behind the brass object is a background of dull, desaturated green felt, similar to a billiards table, with a fuzzy, non-reflective texture that complements the smooth metal.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3730396330356598
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "A smooth, dark grey arch of wet seal skin curves gently across the center of the image, occupying the central twenty percent of the composition. The skin is sleek and glossy, with a sheen of moisture that catches the light in a long, horizontal highlight, emphasizing the animal's cylindrical body shape. The texture appears incredibly smooth and rubbery. The background is a blurred, textured surface of light grey rock, neutral and desaturated, placing all visual emphasis on the wet, dark form.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.24475708603858948
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "A muted, pale pink ceramic cylinder, resembling the smooth neck of a minimalist vase, is oriented horizontally across the center. It occupies a narrow band, roughly one-fifth of the image's height. The glaze is high-gloss, creating a sharp, linear reflection on the upper curve that demonstrates its convex nature. The color is a soft, organic pink tone. The background is a surface of light brown wood with a fine grain, desaturated enough to remain unobtrusive while providing a warm, natural context.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.343750536441803
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "A thick, glossy black electrical cable runs straight horizontally through the middle of the frame, constituting about 20% of the image. The plastic insulation is smooth and reflective, bearing a long, continuous highlight that indicates its cylindrical structure. The black material looks slightly oily or polished. It is set against a background of flat, desaturated grey concrete, which has a speckled, rough texture that contrasts with the sleekness of the cable.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3412807881832123
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A section of a muted yellow garden hose, slightly wet, curves gently across the horizontal center line, taking up twenty percent of the visible area. The hose is smooth and cylindrical, with water droplets enhancing the glossy sheen on its upper surface. The yellow color is organic and slightly dusty, not neon. The background is a patch of dull, desaturated green grass and soil, blurred and textured, providing a muted backdrop for the yellow form.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.2794845998287201
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A dark metallic grey gunmetal rod lies horizontally, centered and occupying one-fifth of the image. The metal is smooth with a satin finish, reflecting a diffused band of light that runs along its length, highlighting the cylindrical volume. The dark grey tone is cold and industrial. The background is a textured sheet of beige sandpaper, providing a gritty, desaturated contrast to the smooth, machined perfection of the metal rod.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3554297983646393
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "The curved side of a silver aluminum beverage can is framed horizontally in the center, filling the middle 20% of the view. The surface is metallic and reflective, with a bright vertical gradient that shifts from silver to white at the highlight, showcasing the convex curvature. No text is visible, just the raw silver material. The background is a dark, dull green rubber mat with a diamond-plate texture, muted and out of focus.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.9811806082725525
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "The smooth, wet sidewall of a black tire forms a gentle horizontal arc across the center of the image, occupying roughly twenty percent of the space. The rubber is deep black and slick with water, creating a bright, mirrored highlight along the curve that emphasizes the torus shape. The texture is uniform and featureless. The background is a muddy, light brown earth surface, textured and desaturated, contrasting with the clean, sharp line of the wet rubber.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.19239287078380585
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A polished brass handrail extends horizontally from left to right, centered and taking up about one-fifth of the image height. The brass is highly reflective, glowing with warm, metallic golden-brown tones and a sharp specular highlight along the top edge of the cylinder. The background is a wall of grey stone blocks, textured and cool-toned, providing a neutral, desaturated canvas that allows the warm metal to advance visually.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3045657277107239
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "A smooth, muted pink cylinder of processed meat, like a large sausage, lies horizontally across the center, occupying 20% of the frame. The surface is slightly moist and glossy, catching the light in a soft, diffuse gradient that reveals its roundness. The color is a pale, organic fleshy pink. The background is a sheet of beige butcher paper, crinkled and textured, with a desaturated tone that blends harmoniously with the subject.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3441621959209442
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A muted yellow plastic railing forms a horizontal bar across the middle of the image, comprising roughly 20% of the visual area. The surface is glossy and smooth, with a linear highlight that defines its cylindrical geometry. The yellow is soft, resembling a faded mustard tone. The background is a flat, desaturated grey sky or wall, completely featureless and dull, isolating the yellow bar.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.32190456986427307
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A dark grey graphite cylinder, perfectly smooth and polished, is centered horizontally, taking up one-fifth of the image. The material has a metallic luster, reflecting a narrow band of light that emphasizes its rod-like shape. The dark grey is deep and charcoal-like. The background is a blotter of dull green felt, textured and fibrous, with a muted, desaturated color that absorbs light.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.32142215967178345
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "The metallic silver cap of a pen is positioned horizontally in the center, occupying about 20% of the image. The silver surface is brushed yet shiny, showing a gradient of light that wraps around the cylindrical form. A pocket clip is visible but the focus is on the convex metal body. The background is a light brown wooden desk surface, with a blurred, desaturated grain pattern that provides a warm, textured setting.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.7619857788085938
     }
   ],
   "augmented": [

@@ -95,7 +95,8 @@
         "80% height",
         "white background",
         "high contrast"
-      ]
+      ],
+      "activation": 1.619692087173462
     },
     {
       "file": "generated/1.jpg",
@@ -109,7 +110,8 @@
         "5% width",
         "sky blue background",
         "sharp boundary"
-      ]
+      ],
+      "activation": 1.6025116443634033
     },
     {
       "file": "generated/2.jpg",
@@ -123,7 +125,8 @@
         "5% width",
         "beige background",
         "contrasting regions"
-      ]
+      ],
+      "activation": 1.4437717199325562
     },
     {
       "file": "generated/3.jpg",
@@ -137,7 +140,8 @@
         "5% width",
         "pale green background",
         "linear structure"
-      ]
+      ],
+      "activation": 1.4541901350021362
     },
     {
       "file": "generated/4.jpg",
@@ -151,7 +155,8 @@
         "5% width",
         "whitewashed wall",
         "monochromatic contrast"
-      ]
+      ],
+      "activation": 1.4982006549835205
     },
     {
       "file": "generated/5.jpg",
@@ -165,7 +170,8 @@
         "5% width",
         "beige background",
         "vertical orientation"
-      ]
+      ],
+      "activation": 1.6583584547042847
     },
     {
       "file": "generated/6.jpg",
@@ -179,7 +185,8 @@
         "5% width",
         "sky blue background",
         "silhouette"
-      ]
+      ],
+      "activation": 0.9368470311164856
     },
     {
       "file": "generated/7.jpg",
@@ -193,7 +200,8 @@
         "5% width",
         "cream background",
         "linear anchor"
-      ]
+      ],
+      "activation": 1.4270479679107666
     },
     {
       "file": "generated/8.jpg",
@@ -207,7 +215,8 @@
         "5% width",
         "white background",
         "high contrast"
-      ]
+      ],
+      "activation": 1.6455166339874268
     },
     {
       "file": "generated/9.jpg",
@@ -221,7 +230,8 @@
         "5% width",
         "green background",
         "industrial contrast"
-      ]
+      ],
+      "activation": 1.5412548780441284
     },
     {
       "file": "generated/10.jpg",
@@ -235,7 +245,8 @@
         "5% width",
         "beige wall",
         "sharp edges"
-      ]
+      ],
+      "activation": 1.536975622177124
     },
     {
       "file": "generated/11.jpg",
@@ -249,7 +260,8 @@
         "5% width",
         "sand colored background",
         "defined silhouette"
-      ]
+      ],
+      "activation": 1.6089586019515991
     },
     {
       "file": "generated/12.jpg",
@@ -263,7 +275,8 @@
         "5% width",
         "off-white background",
         "solid continuity"
-      ]
+      ],
+      "activation": 1.3179677724838257
     },
     {
       "file": "generated/13.jpg",
@@ -277,7 +290,8 @@
         "5% width",
         "white wood background",
         "stark contrast"
-      ]
+      ],
+      "activation": 1.4039583206176758
     },
     {
       "file": "generated/14.jpg",
@@ -291,7 +305,8 @@
         "5% width",
         "white sky background",
         "sharp feature"
-      ]
+      ],
+      "activation": 1.6257686614990234
     }
   ],
   "augmented": [

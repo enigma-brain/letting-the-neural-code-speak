@@ -95,7 +95,8 @@
         "black",
         "beige background",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 3.326719284057617
     },
     {
       "file": "generated/1.jpg",
@@ -109,7 +110,8 @@
         "light grey background",
         "thin",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 2.762350082397461
     },
     {
       "file": "generated/2.jpg",
@@ -123,7 +125,8 @@
         "off-white background",
         "narrow",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 3.214986562728882
     },
     {
       "file": "generated/3.jpg",
@@ -136,7 +139,8 @@
         "beige background",
         "slender",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 2.9753689765930176
     },
     {
       "file": "generated/4.jpg",
@@ -149,7 +153,8 @@
         "light grey background",
         "thin",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 2.761418581008911
     },
     {
       "file": "generated/5.jpg",
@@ -163,7 +168,8 @@
         "organic rod",
         "narrow",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 2.6535544395446777
     },
     {
       "file": "generated/6.jpg",
@@ -176,7 +182,8 @@
         "pale grey background",
         "cylindrical",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 2.5632152557373047
     },
     {
       "file": "generated/7.jpg",
@@ -189,7 +196,8 @@
         "beige background",
         "rod-like",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 3.3890769481658936
     },
     {
       "file": "generated/8.jpg",
@@ -202,7 +210,8 @@
         "off-white background",
         "cylindrical",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 3.2443394660949707
     },
     {
       "file": "generated/9.jpg",
@@ -215,7 +224,8 @@
         "light grey background",
         "cylindrical",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 2.344809055328369
     },
     {
       "file": "generated/10.jpg",
@@ -229,7 +239,8 @@
         "beige background",
         "thin",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 3.400223970413208
     },
     {
       "file": "generated/11.jpg",
@@ -242,7 +253,8 @@
         "light grey background",
         "rod-like",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 2.945584535598755
     },
     {
       "file": "generated/12.jpg",
@@ -255,7 +267,8 @@
         "off-white background",
         "cylindrical",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 3.093312978744507
     },
     {
       "file": "generated/13.jpg",
@@ -268,7 +281,8 @@
         "white background",
         "cylindrical",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 3.2402756214141846
     },
     {
       "file": "generated/14.jpg",
@@ -281,7 +295,8 @@
         "cream background",
         "slender",
         "upper-left to lower-right"
-      ]
+      ],
+      "activation": 2.5054409503936768
     }
   ],
   "augmented": [

@@ -88,105 +88,120 @@
       "prompt_id": 0,
       "prompt": "A solitary, thoroughly burnt matchstick, rendered in deep charcoal tones, stands vertically in the center of the frame. The charred wood texture is visible but extremely dark, creating a solid silhouette. It extends upwards from the bottom edge, terminating just under one-third of the way up the image height, leaving the majority of the space empty. The background is a featureless, desaturated fog of light gray, providing a stark, high-contrast backdrop to the thin, dark cylinder.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.9825294613838196
     },
     {
       "file": "generated/1.jpg",
       "prompt_id": 1,
       "prompt": "An oxidized iron nail, colored a deep, almost blackish-brown, rests diagonally across the center of the composition. Its length captures approximately thirty percent of the vertical span of the image, appearing relatively short within the frame. The head of the nail is slightly broader than the shank. The background is a uniform, grainy sheet of medium gray steel, blurring slightly to emphasize the sharp, dark polarity of the nail.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.1689623594284058
     },
     {
       "file": "generated/2.jpg",
       "prompt_id": 2,
       "prompt": "A macro close-up of a spider's leg segment, appearing as a dark, hairy, vertical column in pitch black. It is positioned slightly to the left of the center and spans roughly one-third of the image's height from top to bottom before fading out. The background is a soft, out-of-focus mottled light gray, resembling dust or ash, creating a strong monochromatic contrast with the biological form.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.2031998187303543
     },
     {
       "file": "generated/3.jpg",
       "prompt_id": 3,
       "prompt": "The silhouette of a sleek fountain pen, appearing as a solid black oblong shape with a slight taper. It stands upright, centered, covering only the bottom thirty percent of the vertical axis, appearing short relative to the vast empty space above. The background is a smooth, matte gray surface, completely devoid of color, ensuring the dark pen pops vividly against the neutral tone.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.27562955021858215
     },
     {
       "file": "generated/4.jpg",
       "prompt_id": 4,
       "prompt": "A jagged, deep fissure running vertically through a concrete surface. The interior of the crack is a profound shadow black, while the edges are sharp and linear. The crack is relatively short, extending down from the top edge for about one-third of the total image height. The surrounding concrete is a flat, textureless medium gray, providing a gloomy, low-saturation canvas.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.4738349914550781
     },
     {
       "file": "generated/5.jpg",
       "prompt_id": 5,
       "prompt": "A silhouette of a small bird, viewed from the side so it appears as a dark, oblong charcoal shape. It is perched on an invisible ledge, occupying the central lower third of the frame, taking up a modest vertical portion. The details are obscured by shadow, making it a solid dark form. The background is a cloudy, overcast sky of uniform pale gray, creating a severe silhouette effect.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.3210740387439728
     },
     {
       "file": "generated/6.jpg",
       "prompt_id": 6,
       "prompt": "A detailed view of a centipede's body segment, dark brown and armored, running diagonally from the bottom left. It is short, traversing only about thirty percent of the vertical space. The segments are distinct but deeply shadowed. The background is a blurry, neutral gray stone texture, offering no distraction from the dark, linear biological form.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.0765460729599
     },
     {
       "file": "generated/7.jpg",
       "prompt_id": 7,
       "prompt": "A segment of heavy-duty electrical insulation, colored a matte black, hanging vertically in the center. It enters from the top and ends abruptly, hanging down approximately one-third of the image's height. The cut end reveals nothing but darkness. The background is a solid, flat wall of light industrial gray, creating a minimalist, high-contrast composition.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.1576974391937256
     },
     {
       "file": "generated/8.jpg",
       "prompt_id": 8,
       "prompt": "A close-up of a closed zipper mechanism, appearing as a dark, interlocked vertical strip of black metal teeth. It sits in the center, spanning a short vertical distance roughly equivalent to thirty percent of the frame's height. The background is a blurry, neutral medium gray cloth, contrasting with the sharp, dark metal line.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.8631874322891235
     },
     {
       "file": "generated/9.jpg",
       "prompt_id": 9,
       "prompt": "A piece of artist's vine charcoal, roughly cylindrical and irregular, lies vertically against a textured surface. The stick is a deep, powdery black. It occupies the middle section of the image, roughly one-third of the total height. The surface beneath is a coarse, fibrous paper in a consistent shade of light gray, highlighting the dark, dusty tool.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.0429447889328003
     },
     {
       "file": "generated/10.jpg",
       "prompt_id": 10,
       "prompt": "A solitary, leafless twig, appearing as a dark brown, almost black line, reaches up from the bottom center. It is gnarled but generally vertical, terminating in a broken tip about thirty percent of the way up the canvas. The background is a soft-focus field of gray winter sky, uniform and bright enough to cast the twig into sharp relief.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.27839332818984985
     },
     {
       "file": "generated/11.jpg",
       "prompt_id": 11,
       "prompt": "The vertical shaft of a microphone stand, painted a glossy deep black. It stands centrally, rising from the bottom edge and reaching only about one-third up the frame before the image cuts off. It is a simple, dark, elongated rectangle against a backdrop of hazy, smoke-filled medium gray air, devoid of other objects.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 2.021392583847046
     },
     {
       "file": "generated/12.jpg",
       "prompt_id": 12,
       "prompt": "A dark, iridescent crow feather, appearing mostly black, is oriented vertically. It floats in the center, its length taking up a modest thirty percent of the vertical dimension. The barbs are smoothed down, creating a sleek, oblong shape. The background is a flat, studio-lit backdrop of seamless medium gray paper.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.8382883071899414
     },
     {
       "file": "generated/13.jpg",
       "prompt_id": 13,
       "prompt": "A sharp, elongated shadow cast by a thin vertical pole, appearing as a solid strip of black on the ground. It runs vertically through the center, spanning the lower third of the image. The ground itself is a featureless, smooth light gray pavement, creating a perfect binary contrast between the dark shadow band and the light surface.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 1.4911011457443237
     },
     {
       "file": "generated/14.jpg",
       "prompt_id": 14,
       "prompt": "The handle of a screwdriver, made of dark charcoal rubber with vertical grip ridges, stands upright. It occupies the lower central portion of the frame, extending upwards for roughly thirty percent of the image height. The background is a blurred, desaturated sheet of brushed aluminum, appearing as a uniform light gray.",
       "rationale": "",
-      "emphasis_tags": []
+      "emphasis_tags": [],
+      "activation": 0.7512592077255249
     }
   ],
   "augmented": [

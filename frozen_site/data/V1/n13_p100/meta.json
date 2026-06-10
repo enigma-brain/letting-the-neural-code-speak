@@ -93,7 +93,8 @@
         "monochromatic",
         "zebra fur",
         "texture"
-      ]
+      ],
+      "activation": 0.46767139434814453
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "grayscale",
         "metal texture",
         "corrosion"
-      ]
+      ],
+      "activation": 0.35945090651512146
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "feathers",
         "high contrast",
         "striated texture"
-      ]
+      ],
+      "activation": 0.42748475074768066
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "grayscale",
         "high contrast",
         "texture"
-      ]
+      ],
+      "activation": 0.3529464304447174
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "high contrast",
         "monochromatic",
         "organic pattern"
-      ]
+      ],
+      "activation": 0.3883935511112213
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "grayscale",
         "high contrast",
         "texture"
-      ]
+      ],
+      "activation": 0.4687238335609436
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "high contrast",
         "monochromatic",
         "texture"
-      ]
+      ],
+      "activation": 0.5309606790542603
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "high contrast",
         "grayscale",
         "texture"
-      ]
+      ],
+      "activation": 0.3716087341308594
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "grayscale",
         "high contrast",
         "weathered"
-      ]
+      ],
+      "activation": 0.45663782954216003
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "dew drops",
         "high contrast",
         "monochromatic"
-      ]
+      ],
+      "activation": 0.3821069896221161
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "grayscale",
         "high contrast",
         "rubber texture"
-      ]
+      ],
+      "activation": 0.42998215556144714
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "fracture texture",
         "high contrast",
         "monochromatic"
-      ]
+      ],
+      "activation": 0.5940430760383606
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "grayscale",
         "high contrast",
         "wrinkles"
-      ]
+      ],
+      "activation": 0.29268667101860046
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "texture",
         "high contrast",
         "monochromatic"
-      ]
+      ],
+      "activation": 0.4599945545196533
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "high contrast",
         "grayscale",
         "texture"
-      ]
+      ],
+      "activation": 0.31336814165115356
     }
   ],
   "augmented": [

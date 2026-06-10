@@ -94,7 +94,8 @@
         "lower-left quadrant",
         "25% size",
         "beige background"
-      ]
+      ],
+      "activation": 0.6667515635490417
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "black lens barrel",
         "centered",
         "light gray background"
-      ]
+      ],
+      "activation": 1.1499066352844238
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "black rubber",
         "lower-left",
         "beige floor"
-      ]
+      ],
+      "activation": 1.6579025983810425
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "black rubber surround",
         "centered",
         "light gray background"
-      ]
+      ],
+      "activation": 1.2900362014770508
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "dark grey seal",
         "lower-left",
         "muted natural background"
-      ]
+      ],
+      "activation": 0.5076007843017578
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "dark grey ring",
         "centered",
         "light gray wall"
-      ]
+      ],
+      "activation": 1.31082284450531
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "black cowling",
         "lower-left",
         "pale grey sky"
-      ]
+      ],
+      "activation": 1.481938362121582
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "black shadow",
         "centered",
         "beige tiles"
-      ]
+      ],
+      "activation": 1.9385807514190674
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "charcoal tape",
         "lower-left",
         "beige background"
-      ]
+      ],
+      "activation": 0.4057581424713135
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "dark grey spokes",
         "centered",
         "light gray gravel"
-      ]
+      ],
+      "activation": 1.9175395965576172
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "black frame",
         "lower-left",
         "beige wall"
-      ]
+      ],
+      "activation": 1.3132960796356201
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "dark grey frame",
         "centered",
         "beige hull"
-      ]
+      ],
+      "activation": 1.2710984945297241
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "black shadows",
         "lower-left",
         "beige sand"
-      ]
+      ],
+      "activation": 0.622433066368103
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "dark interior shadow",
         "centered",
         "light gray drop cloth"
-      ]
+      ],
+      "activation": 1.383193850517273
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "black plastic sides",
         "lower-left",
         "beige faceplate"
-      ]
+      ],
+      "activation": 1.115753173828125
     }
   ],
   "augmented": [

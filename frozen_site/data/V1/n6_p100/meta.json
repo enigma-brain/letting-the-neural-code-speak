@@ -93,7 +93,8 @@
         "chiaroscuro",
         "film grain",
         "texture"
-      ]
+      ],
+      "activation": 3.0012519359588623
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "specular highlights",
         "metal",
         "luminosity gradients"
-      ]
+      ],
+      "activation": 3.184842348098755
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "fur texture",
         "diffuse lighting",
         "tonal variation"
-      ]
+      ],
+      "activation": 3.0802090167999268
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "fluid",
         "high contrast",
         "refraction"
-      ]
+      ],
+      "activation": 3.002251148223877
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "concrete texture",
         "geometric shadows",
         "noisy"
-      ]
+      ],
+      "activation": 3.3107616901397705
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "fabric",
         "luminosity gradients",
         "sheen"
-      ]
+      ],
+      "activation": 3.426603078842163
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "wood texture",
         "relief",
         "weathered"
-      ]
+      ],
+      "activation": 3.2258269786834717
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "rain",
         "grayscale",
         "bokeh"
-      ]
+      ],
+      "activation": 3.3106610774993896
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "iridescence",
         "metallic grey",
         "texture"
-      ]
+      ],
+      "activation": 3.0487873554229736
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "specular highlights",
         "reflection",
         "contrast"
-      ]
+      ],
+      "activation": 3.3983559608459473
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "gradients",
         "translucent",
         "soft edges"
-      ]
+      ],
+      "activation": 3.147305965423584
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "wrinkles",
         "slate grey",
         "topography"
-      ]
+      ],
+      "activation": 3.194406270980835
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "high contrast",
         "minimalist",
         "winter"
-      ]
+      ],
+      "activation": 3.047053098678589
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "glass",
         "reflection",
         "geometric"
-      ]
+      ],
+      "activation": 3.0912153720855713
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "wet surface",
         "reflectivity",
         "monochromatic"
-      ]
+      ],
+      "activation": 2.9966561794281006
     }
   ],
   "augmented": [

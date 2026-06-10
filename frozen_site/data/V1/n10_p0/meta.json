@@ -92,7 +92,8 @@
         "linear structure",
         "horizontal orientation",
         "high contrast"
-      ]
+      ],
+      "activation": 1.3823524713516235
     },
     {
       "file": "generated/1.jpg",
@@ -103,7 +104,8 @@
         "shadow gap",
         "distinct band",
         "horizontal"
-      ]
+      ],
+      "activation": 1.0571224689483643
     },
     {
       "file": "generated/2.jpg",
@@ -114,7 +116,8 @@
         "silhouette",
         "diagonal",
         "luminance transition"
-      ]
+      ],
+      "activation": 1.3831439018249512
     },
     {
       "file": "generated/3.jpg",
@@ -125,7 +128,8 @@
         "metallic highlight",
         "horizontal",
         "bright silver"
-      ]
+      ],
+      "activation": 1.1404955387115479
     },
     {
       "file": "generated/4.jpg",
@@ -136,7 +140,8 @@
         "dark charcoal",
         "linear feature",
         "horizontal"
-      ]
+      ],
+      "activation": 1.236482858657837
     },
     {
       "file": "generated/5.jpg",
@@ -147,7 +152,8 @@
         "silver highlight",
         "diagonal",
         "sharp boundary"
-      ]
+      ],
+      "activation": 1.2994188070297241
     },
     {
       "file": "generated/6.jpg",
@@ -158,7 +164,8 @@
         "dark cable",
         "horizontal",
         "high contrast"
-      ]
+      ],
+      "activation": 1.2056094408035278
     },
     {
       "file": "generated/7.jpg",
@@ -169,7 +176,8 @@
         "black shadow",
         "diagonal",
         "luminance transition"
-      ]
+      ],
+      "activation": 1.3074244260787964
     },
     {
       "file": "generated/8.jpg",
@@ -180,7 +188,8 @@
         "horizon line",
         "horizontal",
         "graphical division"
-      ]
+      ],
+      "activation": 1.2917624711990356
     },
     {
       "file": "generated/9.jpg",
@@ -191,7 +200,8 @@
         "black object",
         "horizontal",
         "sharp boundary"
-      ]
+      ],
+      "activation": 1.1374330520629883
     },
     {
       "file": "generated/10.jpg",
@@ -202,7 +212,8 @@
         "dark edge",
         "horizontal",
         "linear structure"
-      ]
+      ],
+      "activation": 1.2089496850967407
     },
     {
       "file": "generated/11.jpg",
@@ -213,7 +224,8 @@
         "bright highlight",
         "diagonal",
         "linear structure"
-      ]
+      ],
+      "activation": 1.4852237701416016
     },
     {
       "file": "generated/12.jpg",
@@ -224,7 +236,8 @@
         "black line",
         "horizontal",
         "graphical division"
-      ]
+      ],
+      "activation": 1.0322831869125366
     },
     {
       "file": "generated/13.jpg",
@@ -235,7 +248,8 @@
         "charcoal rod",
         "diagonal",
         "high contrast"
-      ]
+      ],
+      "activation": 1.1345720291137695
     },
     {
       "file": "generated/14.jpg",
@@ -246,7 +260,8 @@
         "black silhouette",
         "horizontal",
         "sharp edge"
-      ]
+      ],
+      "activation": 1.3147857189178467
     }
   ],
   "augmented": [

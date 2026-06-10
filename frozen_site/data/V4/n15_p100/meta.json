@@ -93,7 +93,8 @@
         "circular shape",
         "pale beige sand",
         "high contrast"
-      ]
+      ],
+      "activation": 0.2406914234161377
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "off-white wall",
         "circular border",
         "geometric structure"
-      ]
+      ],
+      "activation": 0.13212163746356964
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "dark shadow",
         "light grey tile",
         "curved contour"
-      ]
+      ],
+      "activation": 0.3253368139266968
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "sinuous arc",
         "pale background",
         "high contrast"
-      ]
+      ],
+      "activation": 0.17971648275852203
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "spiraling curve",
         "cream stucco",
         "dark-on-light"
-      ]
+      ],
+      "activation": 0.21443121135234833
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "pale green linen",
         "dark arc",
         "curved structure"
-      ]
+      ],
+      "activation": 0.308456152677536
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "rounded loop",
         "light grey concrete",
         "geometric shape"
-      ]
+      ],
+      "activation": 0.18007393181324005
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "sinuous S shape",
         "pale misty water",
         "dark contour"
-      ]
+      ],
+      "activation": 0.21179215610027313
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "circular disk",
         "pale green wall",
         "sharp boundary"
-      ]
+      ],
+      "activation": 0.15737885236740112
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "U-shaped curve",
         "light sandstone",
         "heavy contrast"
-      ]
+      ],
+      "activation": 0.15817052125930786
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "crescent moon shape",
         "off-white paper",
         "bold contrast"
-      ]
+      ],
+      "activation": 0.17755691707134247
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "semi-circle",
         "white wall",
         "smooth curve"
-      ]
+      ],
+      "activation": 0.17092245817184448
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "semi-circular arc",
         "white gravel",
         "stark contrast"
-      ]
+      ],
+      "activation": 0.17600394785404205
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "hook shape",
         "light grey countertop",
         "strong dark line"
-      ]
+      ],
+      "activation": 0.1505649834871292
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "circular geometric figure",
         "white salt",
         "high contrast"
-      ]
+      ],
+      "activation": 0.175601527094841
     }
   ],
   "augmented": [

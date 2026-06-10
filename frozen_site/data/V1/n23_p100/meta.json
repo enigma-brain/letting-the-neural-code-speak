@@ -94,7 +94,8 @@
         "dense, dark void",
         "thin, sharp black lines",
         "high-contrast monochromatic"
-      ]
+      ],
+      "activation": 2.2625691890716553
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "fine, chaotic tendrils",
         "light, fibrous background",
         "grayscale palette"
-      ]
+      ],
+      "activation": 2.7799346446990967
     },
     {
       "file": "generated/2.jpg",
@@ -119,7 +121,8 @@
         "deep black void",
         "fine, hair-like cracks",
         "stark dark-on-light"
-      ]
+      ],
+      "activation": 2.5370595455169678
     },
     {
       "file": "generated/3.jpg",
@@ -131,7 +134,8 @@
         "deep black abyss",
         "pale, silvery gray",
         "fine, dark radial striations"
-      ]
+      ],
+      "activation": 2.6810073852539062
     },
     {
       "file": "generated/4.jpg",
@@ -143,7 +147,8 @@
         "dark charcoal oval",
         "light gray, woven fabric",
         "thin black filaments"
-      ]
+      ],
+      "activation": 2.244763135910034
     },
     {
       "file": "generated/5.jpg",
@@ -155,7 +160,8 @@
         "light gray stone floor",
         "needle-thin black spines",
         "stark, high-contrast silhouette"
-      ]
+      ],
+      "activation": 1.5126832723617554
     },
     {
       "file": "generated/6.jpg",
@@ -167,7 +173,8 @@
         "dark, textured black disc",
         "thin black petals",
         "bright white snow"
-      ]
+      ],
+      "activation": 1.635999083518982
     },
     {
       "file": "generated/7.jpg",
@@ -179,7 +186,8 @@
         "deep, shadowed black depression",
         "spider-web cracks",
         "radial fracture pattern"
-      ]
+      ],
+      "activation": 3.271188497543335
     },
     {
       "file": "generated/8.jpg",
@@ -191,7 +199,8 @@
         "tiny, compact dot of deep charcoal",
         "thread-like legs",
         "thin black lines"
-      ]
+      ],
+      "activation": 1.6754435300827026
     },
     {
       "file": "generated/9.jpg",
@@ -203,7 +212,8 @@
         "dark, geometric icosahedron",
         "light gray fluid background",
         "spike-like protein protrusions"
-      ]
+      ],
+      "activation": 2.154684543609619
     },
     {
       "file": "generated/10.jpg",
@@ -215,7 +225,8 @@
         "charred black hole",
         "thin scorch marks",
         "sunburst of decay"
-      ]
+      ],
+      "activation": 2.2423808574676514
     },
     {
       "file": "generated/11.jpg",
@@ -227,7 +238,8 @@
         "white paper",
         "thin, curved chains of black particles",
         "stark pattern"
-      ]
+      ],
+      "activation": 2.3997175693511963
     },
     {
       "file": "generated/12.jpg",
@@ -239,7 +251,8 @@
         "light gray sand",
         "dark, solid black shape",
         "thin, sinuous black lines"
-      ]
+      ],
+      "activation": 4.824091911315918
     },
     {
       "file": "generated/13.jpg",
@@ -251,7 +264,8 @@
         "compact, dark black oval",
         "delicate black radial lines",
         "pale surface"
-      ]
+      ],
+      "activation": 2.6170763969421387
     },
     {
       "file": "generated/14.jpg",
@@ -264,7 +278,8 @@
         "small solid black smudge",
         "thin energetic lines",
         "deep black charcoal"
-      ]
+      ],
+      "activation": 2.9173190593719482
     }
   ],
   "augmented": [

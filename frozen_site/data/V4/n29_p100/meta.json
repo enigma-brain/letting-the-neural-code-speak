@@ -93,7 +93,8 @@
         "cream background",
         "number 5",
         "serif font"
-      ]
+      ],
+      "activation": 0.7546619176864624
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "beige background",
         "high contrast",
         "silhouette"
-      ]
+      ],
+      "activation": 1.1498371362686157
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "tan parchment",
         "calligraphy",
         "Z shape"
-      ]
+      ],
+      "activation": 1.0930231809616089
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "heather grey background",
         "anchor icon",
         "cotton texture"
-      ]
+      ],
+      "activation": 1.0685557126998901
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "cream limestone",
         "X shape",
         "crossed objects"
-      ]
+      ],
+      "activation": 0.7055794596672058
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "tan cardboard",
         "horizontal band",
         "geometric lines"
-      ]
+      ],
+      "activation": 0.6076706051826477
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "beige background",
         "tribal pattern",
         "geometric lines"
-      ]
+      ],
+      "activation": 1.3123596906661987
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "heather grey background",
         "metal object",
         "glyph-like"
-      ]
+      ],
+      "activation": 0.8223027586936951
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "cream stucco",
         "S shape",
         "decorative scroll"
-      ]
+      ],
+      "activation": 0.6952788233757019
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "tan sandstone",
         "Roman numeral",
         "text"
-      ]
+      ],
+      "activation": 1.1887372732162476
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "heather grey paper",
         "cube",
         "wireframe"
-      ]
+      ],
+      "activation": 1.4792628288269043
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "cream wool",
         "ampersand",
         "symbol"
-      ]
+      ],
+      "activation": 1.1378347873687744
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "beige siding",
         "lattice",
         "intersection"
-      ]
+      ],
+      "activation": 0.5609294772148132
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "tan paper",
         "treble clef",
         "music notation"
-      ]
+      ],
+      "activation": 1.213070273399353
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "cream background",
         "leaf skeleton",
         "organic grid"
-      ]
+      ],
+      "activation": 1.1262263059616089
     }
   ],
   "augmented": [

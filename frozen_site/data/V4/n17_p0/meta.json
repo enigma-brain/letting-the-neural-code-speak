@@ -92,7 +92,8 @@
         "silver stainless steel railing bars",
         "vertical segmentation",
         "reflective divider"
-      ]
+      ],
+      "activation": 1.8739864826202393
     },
     {
       "file": "generated/1.jpg",
@@ -103,7 +104,8 @@
         "matte white aluminum window mullions",
         "vertical dividers",
         "high-contrast structural grid"
-      ]
+      ],
+      "activation": 2.6890506744384766
     },
     {
       "file": "generated/2.jpg",
@@ -114,7 +116,8 @@
         "galvanized silver steel rods",
         "vertical locking mechanisms",
         "industrial silver bars"
-      ]
+      ],
+      "activation": 2.0833280086517334
     },
     {
       "file": "generated/3.jpg",
@@ -125,7 +128,8 @@
         "satin black metal legs",
         "vertical supports",
         "dark, rigid verticality"
-      ]
+      ],
+      "activation": 2.1348698139190674
     },
     {
       "file": "generated/4.jpg",
@@ -136,7 +140,8 @@
         "vertical convex ribs",
         "white painted metal ridges",
         "structural verticality"
-      ]
+      ],
+      "activation": 1.6480320692062378
     },
     {
       "file": "generated/5.jpg",
@@ -147,7 +152,8 @@
         "vertical chrome dividers",
         "reflective silver strips",
         "parallel chrome lines"
-      ]
+      ],
+      "activation": 1.9157352447509766
     },
     {
       "file": "generated/6.jpg",
@@ -158,7 +164,8 @@
         "grey steel scaffolding pipes",
         "vertical frames",
         "industrial neutrality"
-      ]
+      ],
+      "activation": 1.909373164176941
     },
     {
       "file": "generated/7.jpg",
@@ -169,7 +176,8 @@
         "brushed steel wall panels",
         "vertical seams",
         "straight verticality"
-      ]
+      ],
+      "activation": 2.5072059631347656
     },
     {
       "file": "generated/8.jpg",
@@ -180,7 +188,8 @@
         "silver aluminum fins",
         "parallel metal plates",
         "rhythmic pattern"
-      ]
+      ],
+      "activation": 2.7277677059173584
     },
     {
       "file": "generated/9.jpg",
@@ -191,7 +200,8 @@
         "white wooden bars",
         "glossy white",
         "high-contrast foreground frame"
-      ]
+      ],
+      "activation": 2.4516513347625732
     },
     {
       "file": "generated/10.jpg",
@@ -202,7 +212,8 @@
         "chrome guide rods",
         "polished silver steel cylinders",
         "vertical linearity"
-      ]
+      ],
+      "activation": 2.122760772705078
     },
     {
       "file": "generated/11.jpg",
@@ -213,7 +224,8 @@
         "white vinyl picket fence",
         "vertical slats",
         "rhythmic barrier"
-      ]
+      ],
+      "activation": 1.8023216724395752
     },
     {
       "file": "generated/12.jpg",
@@ -224,7 +236,8 @@
         "black metal frame",
         "structural divider",
         "geometric vertical element"
-      ]
+      ],
+      "activation": 2.904999256134033
     },
     {
       "file": "generated/13.jpg",
@@ -235,7 +248,8 @@
         "vertical grey concrete louvers",
         "stone-colored fins",
         "heavy vertical pattern"
-      ]
+      ],
+      "activation": 2.171356439590454
     }
   ],
   "augmented": [

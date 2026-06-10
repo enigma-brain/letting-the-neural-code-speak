@@ -94,7 +94,8 @@
         "dark brown and cream bands",
         "slate blue background",
         "25% image area"
-      ]
+      ],
+      "activation": 2.85619854927063
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "charcoal brown and beige",
         "muted green background",
         "25% image area"
-      ]
+      ],
+      "activation": 0.9618568420410156
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "reddish-brown and tan",
         "greyish-brown background",
         "25% image area"
-      ]
+      ],
+      "activation": 2.3768696784973145
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "dark grey-brown and cream",
         "muted green background",
         "25% image area"
-      ]
+      ],
+      "activation": 3.2428853511810303
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "white-beige and deep brown",
         "slate blue background",
         "25% image area"
-      ]
+      ],
+      "activation": 1.3289644718170166
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "coffee-brown and off-white",
         "greyish-brown background",
         "25% image area"
-      ]
+      ],
+      "activation": 1.2460594177246094
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "mahogany and pale yellow",
         "slate blue background",
         "25% image area"
-      ]
+      ],
+      "activation": 2.307995080947876
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "dark brown and cream",
         "brownish-grey background",
         "25% image area"
-      ]
+      ],
+      "activation": 1.5117988586425781
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "black and cream",
         "muted green background",
         "25% image area"
-      ]
+      ],
+      "activation": 2.1824772357940674
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "black and pale yellow",
         "slate blue background",
         "25% image area"
-      ]
+      ],
+      "activation": 2.439547538757324
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "dark brown and beige",
         "greyish-brown background",
         "25% image area"
-      ]
+      ],
+      "activation": 1.7847601175308228
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "chocolate brown and cream",
         "muted green background",
         "25% image area"
-      ]
+      ],
+      "activation": 1.305490493774414
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "black and white",
         "greyish-brown background",
         "25% image area"
-      ]
+      ],
+      "activation": 1.5677412748336792
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "reddish-brown and beige",
         "slate blue background",
         "25% image area"
-      ]
+      ],
+      "activation": 2.4659783840179443
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "brownish-black and cream",
         "muted green background",
         "25% image area"
-      ]
+      ],
+      "activation": 2.3357856273651123
     }
   ],
   "augmented": [

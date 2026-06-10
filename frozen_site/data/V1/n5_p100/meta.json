@@ -91,7 +91,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.8261390924453735
     },
     {
       "file": "generated/1.jpg",
@@ -101,7 +102,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 2.1769416332244873
     },
     {
       "file": "generated/2.jpg",
@@ -111,7 +113,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.5801029205322266
     },
     {
       "file": "generated/3.jpg",
@@ -121,7 +124,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.4480141401290894
     },
     {
       "file": "generated/4.jpg",
@@ -131,7 +135,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.8674274682998657
     },
     {
       "file": "generated/5.jpg",
@@ -141,7 +146,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.5995832681655884
     },
     {
       "file": "generated/6.jpg",
@@ -151,7 +157,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.6413023471832275
     },
     {
       "file": "generated/7.jpg",
@@ -161,7 +168,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.6778227090835571
     },
     {
       "file": "generated/8.jpg",
@@ -171,7 +179,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.8482553958892822
     },
     {
       "file": "generated/9.jpg",
@@ -181,7 +190,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.8566347360610962
     },
     {
       "file": "generated/10.jpg",
@@ -191,7 +201,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.850775122642517
     },
     {
       "file": "generated/11.jpg",
@@ -201,7 +212,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.5592087507247925
     },
     {
       "file": "generated/12.jpg",
@@ -211,7 +223,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.57000732421875
     },
     {
       "file": "generated/13.jpg",
@@ -221,7 +234,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.8051432371139526
     },
     {
       "file": "generated/14.jpg",
@@ -231,7 +245,8 @@
       "emphasis_tags": [
         "high_contrast",
         "small_scale"
-      ]
+      ],
+      "activation": 1.7139967679977417
     }
   ],
   "augmented": [

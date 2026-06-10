@@ -94,7 +94,8 @@
         "vibrant red",
         "glossy texture",
         "deep blue background"
-      ]
+      ],
+      "activation": 0.3275059759616852
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "smooth curve",
         "dark shadow background",
         "convexity"
-      ]
+      ],
+      "activation": 0.2893461287021637
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "reflective",
         "beige background",
         "continuous contour"
-      ]
+      ],
+      "activation": 0.41311779618263245
     },
     {
       "file": "generated/3.jpg",
@@ -132,7 +135,8 @@
         "sphere",
         "deep blue background",
         "convex 3D form"
-      ]
+      ],
+      "activation": 0.3673459589481354
     },
     {
       "file": "generated/4.jpg",
@@ -145,7 +149,8 @@
         "convex dome",
         "dark shadow background",
         "circular rim"
-      ]
+      ],
+      "activation": 0.5365154147148132
     },
     {
       "file": "generated/5.jpg",
@@ -158,7 +163,8 @@
         "coconut",
         "white background",
         "rounded mass"
-      ]
+      ],
+      "activation": 0.32164764404296875
     },
     {
       "file": "generated/6.jpg",
@@ -171,7 +177,8 @@
         "convex dome",
         "deep blue background",
         "glossy"
-      ]
+      ],
+      "activation": 0.6476521492004395
     },
     {
       "file": "generated/7.jpg",
@@ -184,7 +191,8 @@
         "spherical shape",
         "beige background",
         "continuous arc"
-      ]
+      ],
+      "activation": 0.3308902680873871
     },
     {
       "file": "generated/8.jpg",
@@ -197,7 +205,8 @@
         "sphere",
         "deep blue background",
         "lustrous"
-      ]
+      ],
+      "activation": 0.2802511155605316
     },
     {
       "file": "generated/9.jpg",
@@ -210,7 +219,8 @@
         "convexity",
         "beige background",
         "iron texture"
-      ]
+      ],
+      "activation": 0.36591172218322754
     },
     {
       "file": "generated/10.jpg",
@@ -223,7 +233,8 @@
         "ovoid",
         "dark shadow background",
         "smooth curve"
-      ]
+      ],
+      "activation": 0.31593605875968933
     },
     {
       "file": "generated/11.jpg",
@@ -236,7 +247,8 @@
         "truffle",
         "white background",
         "curved boundary"
-      ]
+      ],
+      "activation": 0.2997071444988251
     },
     {
       "file": "generated/12.jpg",
@@ -249,7 +261,8 @@
         "citrus slice",
         "beige background",
         "round contour"
-      ]
+      ],
+      "activation": 0.3352892994880676
     },
     {
       "file": "generated/13.jpg",
@@ -262,7 +275,8 @@
         "fruit",
         "white background",
         "convex 3D"
-      ]
+      ],
+      "activation": 0.31913676857948303
     },
     {
       "file": "generated/14.jpg",
@@ -275,7 +289,8 @@
         "stone",
         "beige background",
         "smooth boundary"
-      ]
+      ],
+      "activation": 0.39229926466941833
     }
   ],
   "augmented": [

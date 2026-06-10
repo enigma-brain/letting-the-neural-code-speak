@@ -94,7 +94,8 @@
         "centered vertical column",
         "15% width",
         "vivid azure blue background"
-      ]
+      ],
+      "activation": 1.5925923585891724
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "centered vertical strip",
         "15% width",
         "pale white background"
-      ]
+      ],
+      "activation": 1.6710690259933472
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "centered vertical shaft",
         "15% width",
         "light grey background"
-      ]
+      ],
+      "activation": 1.4005118608474731
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "centered vertical pillar",
         "15% width",
         "vivid azure blue background"
-      ]
+      ],
+      "activation": 1.633848786354065
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "centered vertical column",
         "15% width",
         "pale white background"
-      ]
+      ],
+      "activation": 1.417343020439148
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "centered vertical shaft",
         "15% width",
         "light grey background"
-      ]
+      ],
+      "activation": 1.5868675708770752
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "centered vertical band",
         "15% width",
         "vivid azure blue background"
-      ]
+      ],
+      "activation": 1.6058419942855835
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "centered vertical line",
         "15% width",
         "pale white background"
-      ]
+      ],
+      "activation": 1.4077743291854858
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "centered vertical element",
         "15% width",
         "pale white background"
-      ]
+      ],
+      "activation": 1.6848396062850952
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "centered vertical stalk",
         "15% width",
         "light grey background"
-      ]
+      ],
+      "activation": 1.3604506254196167
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "centered vertical strip",
         "15% width",
         "vivid azure blue background"
-      ]
+      ],
+      "activation": 1.5682095289230347
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "centered vertical column",
         "15% width",
         "pale white background"
-      ]
+      ],
+      "activation": 1.683831810951233
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "centered vertical stack",
         "15% width",
         "vivid azure blue background"
-      ]
+      ],
+      "activation": 1.4541113376617432
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "centered vertical beam",
         "15% width",
         "light grey background"
-      ]
+      ],
+      "activation": 1.5093672275543213
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "centered vertical band",
         "15% width",
         "light grey background"
-      ]
+      ],
+      "activation": 1.7455135583877563
     }
   ],
   "augmented": [

@@ -95,7 +95,8 @@
         "dark charcoal shadow",
         "recessed crease",
         "10% height"
-      ]
+      ],
+      "activation": 0.34972068667411804
     },
     {
       "file": "generated/1.jpg",
@@ -109,7 +110,8 @@
         "horizontal gap",
         "dark interstice",
         "10% height"
-      ]
+      ],
+      "activation": 0.38919538259506226
     },
     {
       "file": "generated/2.jpg",
@@ -123,7 +125,8 @@
         "matte black rubber",
         "stark contrast",
         "10% height"
-      ]
+      ],
+      "activation": 0.9802109003067017
     },
     {
       "file": "generated/3.jpg",
@@ -137,7 +140,8 @@
         "recessed groove",
         "architectural detail",
         "10% height"
-      ]
+      ],
+      "activation": 0.5880076885223389
     },
     {
       "file": "generated/4.jpg",
@@ -151,7 +155,8 @@
         "solid dark charcoal band",
         "horizontal division",
         "10% height"
-      ]
+      ],
+      "activation": 0.36087706685066223
     },
     {
       "file": "generated/5.jpg",
@@ -165,7 +170,8 @@
         "elongated gash",
         "high contrast",
         "10% height"
-      ]
+      ],
+      "activation": 0.4014013409614563
     },
     {
       "file": "generated/6.jpg",
@@ -179,7 +185,8 @@
         "reflective black bar",
         "geometric line",
         "10% height"
-      ]
+      ],
+      "activation": 0.4397849142551422
     },
     {
       "file": "generated/7.jpg",
@@ -193,7 +200,8 @@
         "black sealant",
         "dark linear strip",
         "10% height"
-      ]
+      ],
+      "activation": 0.39806419610977173
     },
     {
       "file": "generated/8.jpg",
@@ -207,7 +215,8 @@
         "hinge gap",
         "dark void",
         "10% height"
-      ]
+      ],
+      "activation": 0.3935181796550751
     },
     {
       "file": "generated/9.jpg",
@@ -221,7 +230,8 @@
         "solid black stripe",
         "sharp demarcation",
         "10% height"
-      ]
+      ],
+      "activation": 0.7937518358230591
     },
     {
       "file": "generated/10.jpg",
@@ -235,7 +245,8 @@
         "dark gray band",
         "linear contrast",
         "10% height"
-      ]
+      ],
+      "activation": 0.4373640716075897
     },
     {
       "file": "generated/11.jpg",
@@ -249,7 +260,8 @@
         "black fabric sleeve",
         "solid dark line",
         "10% height"
-      ]
+      ],
+      "activation": 0.4767637848854065
     },
     {
       "file": "generated/12.jpg",
@@ -263,7 +275,8 @@
         "deep dark gray line",
         "continuous strip",
         "10% height"
-      ]
+      ],
+      "activation": 0.4275076985359192
     },
     {
       "file": "generated/13.jpg",
@@ -277,7 +290,8 @@
         "solid dark chasm",
         "shadowed crevice",
         "10% height"
-      ]
+      ],
+      "activation": 0.36352381110191345
     },
     {
       "file": "generated/14.jpg",
@@ -291,7 +305,8 @@
         "deep black rectangular void",
         "dark slot",
         "10% height"
-      ]
+      ],
+      "activation": 0.7333142161369324
     }
   ],
   "augmented": [

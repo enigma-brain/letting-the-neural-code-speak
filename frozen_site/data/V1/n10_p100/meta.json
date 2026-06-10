@@ -94,7 +94,8 @@
         "jet black wing",
         "white background",
         "diagonal orientation"
-      ]
+      ],
+      "activation": 1.381172776222229
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "white background",
         "sharp luminance boundary",
         "30% scale"
-      ]
+      ],
+      "activation": 1.6747668981552124
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "vertical orientation",
         "high polarity",
         "central composition"
-      ]
+      ],
+      "activation": 1.6053848266601562
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "sharp edge",
         "achromatic",
         "man-made object"
-      ]
+      ],
+      "activation": 1.3704208135604858
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "organic shape",
         "specular highlights",
         "central position"
-      ]
+      ],
+      "activation": 1.7485278844833374
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "diagonal cut",
         "high contrast",
         "geometric"
-      ]
+      ],
+      "activation": 1.3169589042663574
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "vertical orientation",
         "sharp transition",
         "mechanical detail"
-      ]
+      ],
+      "activation": 1.4738681316375732
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "wet surface",
         "jagged boundary",
         "marine life"
-      ]
+      ],
+      "activation": 1.6653257608413696
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "vertical alignment",
         "glossy reflection",
         "achromatic palette"
-      ]
+      ],
+      "activation": 1.2259172201156616
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "vertical stroke",
         "texture",
         "high contrast"
-      ]
+      ],
+      "activation": 1.661891222000122
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "diagonal composition",
         "polished wood",
         "rhythmic pattern"
-      ]
+      ],
+      "activation": 1.5698026418685913
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "central profile",
         "soft focus background",
         "animal portrait"
-      ]
+      ],
+      "activation": 1.4067941904067993
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "vertical curve",
         "velvety texture",
         "organic silhouette"
-      ]
+      ],
+      "activation": 1.5783116817474365
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "diagonal curve",
         "specular highlight",
         "automotive"
-      ]
+      ],
+      "activation": 1.4545601606369019
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "rectangular boundary",
         "vertical position",
         "tech object"
-      ]
+      ],
+      "activation": 1.4846000671386719
     }
   ],
   "augmented": [

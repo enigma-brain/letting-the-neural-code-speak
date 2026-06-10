@@ -94,7 +94,8 @@
         "minimalist contrast",
         "geometric center",
         "10% area"
-      ]
+      ],
+      "activation": 1.3844109773635864
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "beige fur",
         "upper-middle",
         "sharp contrast"
-      ]
+      ],
+      "activation": 1.872960090637207
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "beige background",
         "center frame",
         "alphanumeric"
-      ]
+      ],
+      "activation": 1.4434131383895874
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "silver surface",
         "center",
         "high contrast"
-      ]
+      ],
+      "activation": 1.6576502323150635
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "charcoal-black spot",
         "upper-middle",
         "macro"
-      ]
+      ],
+      "activation": 1.8612091541290283
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "seal brown nose",
         "center",
         "discrete feature"
-      ]
+      ],
+      "activation": 1.2529696226119995
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "upper-middle",
         "geometric shape",
         "textural contrast"
-      ]
+      ],
+      "activation": 1.9387142658233643
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "metallic panel",
         "center",
         "matte vs shiny"
-      ]
+      ],
+      "activation": 1.377280354499817
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "organic shape",
         "center",
         "high contrast"
-      ]
+      ],
+      "activation": 1.5010360479354858
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "geological contrast",
         "upper-middle",
         "natural texture"
-      ]
+      ],
+      "activation": 1.3341339826583862
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "center",
         "alphanumeric",
         "bright white"
-      ]
+      ],
+      "activation": 0.9643784761428833
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "black spot",
         "center",
         "organic pattern"
-      ]
+      ],
+      "activation": 1.238308310508728
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "minimalist art",
         "upper-middle",
         "geometric"
-      ]
+      ],
+      "activation": 1.5668859481811523
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "glossy texture",
         "center",
         "nature contrast"
-      ]
+      ],
+      "activation": 1.6675188541412354
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "off-white background",
         "center",
         "circular shape"
-      ]
+      ],
+      "activation": 1.205768346786499
     }
   ],
   "augmented": [

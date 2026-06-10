@@ -93,7 +93,8 @@
         "pitch-black background",
         "vertical parallel bars",
         "high contrast"
-      ]
+      ],
+      "activation": 1.4550787210464478
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "bright white wall",
         "vertical pattern",
         "50% vertical span"
-      ]
+      ],
+      "activation": 1.036968469619751
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "deep shadow background",
         "chrome vertical lines",
         "high contrast"
-      ]
+      ],
+      "activation": 1.6516073942184448
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "dark blue sky",
         "vertical repetition",
         "bottom 50% span"
-      ]
+      ],
+      "activation": 1.4365715980529785
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "beige background",
         "vertical arrangement",
         "contrast"
-      ]
+      ],
+      "activation": 1.1551344394683838
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "black background",
         "vertical lines",
         "50% height"
-      ]
+      ],
+      "activation": 1.2016327381134033
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "dark navy background",
         "vertical hanging structures",
         "top 50% span"
-      ]
+      ],
+      "activation": 2.0639030933380127
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "sage green background",
         "vertical rhythm",
         "central 50% span"
-      ]
+      ],
+      "activation": 1.2079099416732788
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "black shadow",
         "vertical texture",
         "high contrast"
-      ]
+      ],
+      "activation": 1.4742354154586792
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "dark shadow background",
         "vertical planks",
         "lower 50% span"
-      ]
+      ],
+      "activation": 1.015750765800476
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "white wall background",
         "vertical grating",
         "middle 50% span"
-      ]
+      ],
+      "activation": 1.1718250513076782
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "cream background",
         "vertical poles",
         "50% height"
-      ]
+      ],
+      "activation": 3.058478593826294
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "pitch-black background",
         "vertical slats",
         "top 50% span"
-      ]
+      ],
+      "activation": 1.4807418584823608
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "bright white wall",
         "vertical rods",
         "bottom 50% span"
-      ]
+      ],
+      "activation": 1.520737648010254
     }
   ],
   "augmented": [

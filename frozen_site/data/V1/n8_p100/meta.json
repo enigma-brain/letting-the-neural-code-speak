@@ -93,7 +93,8 @@
         "deep charcoal",
         "vertical line",
         "light grey fur"
-      ]
+      ],
+      "activation": 3.5169293880462646
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "vertical axis",
         "off-white background",
         "contrast"
-      ]
+      ],
+      "activation": 2.451807975769043
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "vertical fissure",
         "light grey concrete",
         "deep shadow"
-      ]
+      ],
+      "activation": 2.73045015335083
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "vertical band",
         "light heather grey",
         "dark feature"
-      ]
+      ],
+      "activation": 2.273371934890747
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "stick insect",
         "vertical body",
         "light grey background"
-      ]
+      ],
+      "activation": 3.2254436016082764
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "vertical lenticel",
         "silver birch",
         "off-white bark"
-      ]
+      ],
+      "activation": 3.3116371631622314
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "vertical line",
         "light grey wall",
         "high contrast"
-      ]
+      ],
+      "activation": 2.9640004634857178
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "vertical bar",
         "light grey coat",
         "grayscale"
-      ]
+      ],
+      "activation": 2.9251348972320557
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "vertical",
         "off-white paper",
         "stark contrast"
-      ]
+      ],
+      "activation": 2.629077196121216
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "vertical",
         "light grey mist",
         "monochromatic"
-      ]
+      ],
+      "activation": 2.983273983001709
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "shadow",
         "light grey marble",
         "vertical flute"
-      ]
+      ],
+      "activation": 2.064990282058716
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "vertical track",
         "light grey fleece",
         "dark charcoal"
-      ]
+      ],
+      "activation": 2.3250837326049805
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "shadow",
         "light grey doors",
         "linear feature"
-      ]
+      ],
+      "activation": 2.9430696964263916
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "cello string",
         "light grey background",
         "monochrome"
-      ]
+      ],
+      "activation": 2.5522830486297607
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "vertical",
         "light grey backdrop",
         "minimalist"
-      ]
+      ],
+      "activation": 2.643369436264038
     }
   ],
   "augmented": [

@@ -93,7 +93,8 @@
         "stripes",
         "black and white",
         "high contrast"
-      ]
+      ],
+      "activation": 1.2031196355819702
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "ridges",
         "architectural",
         "corrugated"
-      ]
+      ],
+      "activation": 1.1509686708450317
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "ridges",
         "light grey",
         "texture"
-      ]
+      ],
+      "activation": 0.8940486311912537
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "silver",
         "black",
         "stripes"
-      ]
+      ],
+      "activation": 0.4558059871196747
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "bark",
         "white",
         "black markings"
-      ]
+      ],
+      "activation": 0.8463822603225708
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "ringed",
         "fur",
         "black and white"
-      ]
+      ],
+      "activation": 0.6574673056602478
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "silver",
         "shadows",
         "vertical lines"
-      ]
+      ],
+      "activation": 0.4705934524536133
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "keyboard",
         "white",
         "black"
-      ]
+      ],
+      "activation": 1.0659006834030151
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "banded",
         "scales",
         "black and white"
-      ]
+      ],
+      "activation": 0.6629483699798584
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "fins",
         "white",
         "linear pattern"
-      ]
+      ],
+      "activation": 0.5259661078453064
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "metal",
         "silver",
         "coils"
-      ]
+      ],
+      "activation": 0.87102872133255
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "ridges",
         "white",
         "shadows"
-      ]
+      ],
+      "activation": 0.5605753064155579
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "slats",
         "white",
         "horizontal lines"
-      ]
+      ],
+      "activation": 0.57295161485672
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "woven",
         "gold",
         "texture"
-      ]
+      ],
+      "activation": 0.4844764173030853
     },
     {
       "file": "generated/14.jpg",
@@ -261,7 +275,8 @@
         "steel",
         "silver",
         "linear"
-      ]
+      ],
+      "activation": 0.46814876794815063
     }
   ],
   "augmented": [

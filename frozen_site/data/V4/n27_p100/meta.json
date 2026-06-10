@@ -95,7 +95,8 @@
         "specular highlight",
         "cylindrical 3D form",
         "blurred wood grain background"
-      ]
+      ],
+      "activation": 0.715864360332489
     },
     {
       "file": "generated/1.jpg",
@@ -108,7 +109,8 @@
         "horizontal",
         "cylindrical shape",
         "blue sky background"
-      ]
+      ],
+      "activation": 0.8780765533447266
     },
     {
       "file": "generated/2.jpg",
@@ -121,7 +123,8 @@
         "horizontal",
         "glossy surface",
         "blurred foliage background"
-      ]
+      ],
+      "activation": 0.7036476731300354
     },
     {
       "file": "generated/3.jpg",
@@ -134,7 +137,8 @@
         "horizontal",
         "cylindrical",
         "blurred foliage background"
-      ]
+      ],
+      "activation": 0.6741871237754822
     },
     {
       "file": "generated/4.jpg",
@@ -147,7 +151,8 @@
         "horizontal",
         "specular highlight",
         "polished wood grain background"
-      ]
+      ],
+      "activation": 0.9226447343826294
     },
     {
       "file": "generated/5.jpg",
@@ -160,7 +165,8 @@
         "horizontal",
         "cylindrical form",
         "pale blue sky background"
-      ]
+      ],
+      "activation": 0.7350568771362305
     },
     {
       "file": "generated/6.jpg",
@@ -173,7 +179,8 @@
         "horizontal",
         "cylindrical",
         "blurred foliage background"
-      ]
+      ],
+      "activation": 0.6884215474128723
     },
     {
       "file": "generated/7.jpg",
@@ -186,7 +193,8 @@
         "horizontal",
         "cylindrical",
         "unfinished wood grain background"
-      ]
+      ],
+      "activation": 0.6494120955467224
     },
     {
       "file": "generated/8.jpg",
@@ -199,7 +207,8 @@
         "horizontal",
         "cylindrical",
         "blue sky background"
-      ]
+      ],
+      "activation": 0.7628650665283203
     },
     {
       "file": "generated/9.jpg",
@@ -212,7 +221,8 @@
         "horizontal",
         "mirror-like finish",
         "blurred foliage background"
-      ]
+      ],
+      "activation": 0.43312379717826843
     },
     {
       "file": "generated/10.jpg",
@@ -225,7 +235,8 @@
         "horizontal",
         "cylindrical",
         "blue sky background"
-      ]
+      ],
+      "activation": 0.6479172706604004
     },
     {
       "file": "generated/11.jpg",
@@ -238,7 +249,8 @@
         "horizontal",
         "satin finish",
         "wood grain background"
-      ]
+      ],
+      "activation": 0.6005777716636658
     },
     {
       "file": "generated/12.jpg",
@@ -251,7 +263,8 @@
         "horizontal",
         "cylindrical",
         "blurred foliage background"
-      ]
+      ],
+      "activation": 0.7373666167259216
     },
     {
       "file": "generated/13.jpg",
@@ -264,7 +277,8 @@
         "horizontal",
         "cylindrical",
         "weathered wood background"
-      ]
+      ],
+      "activation": 0.8225321769714355
     },
     {
       "file": "generated/14.jpg",
@@ -277,7 +291,8 @@
         "horizontal",
         "cylindrical",
         "blue sky background"
-      ]
+      ],
+      "activation": 0.6143966913223267
     }
   ],
   "augmented": [

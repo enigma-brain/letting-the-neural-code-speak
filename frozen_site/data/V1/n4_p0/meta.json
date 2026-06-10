@@ -93,7 +93,8 @@
         "parallel rhythm",
         "high contrast",
         "silver on black"
-      ]
+      ],
+      "activation": 2.4296767711639404
     },
     {
       "file": "generated/1.jpg",
@@ -105,7 +106,8 @@
         "parallel rhythm",
         "high contrast",
         "white on black"
-      ]
+      ],
+      "activation": 2.474686861038208
     },
     {
       "file": "generated/2.jpg",
@@ -117,7 +119,8 @@
         "cylindrical form",
         "high contrast",
         "silver on dark gray"
-      ]
+      ],
+      "activation": 2.501267671585083
     },
     {
       "file": "generated/3.jpg",
@@ -129,7 +132,8 @@
         "architectural element",
         "high contrast",
         "silver on black"
-      ]
+      ],
+      "activation": 2.4332499504089355
     },
     {
       "file": "generated/4.jpg",
@@ -141,7 +145,8 @@
         "fabric texture",
         "high contrast",
         "white on black"
-      ]
+      ],
+      "activation": 2.5973637104034424
     },
     {
       "file": "generated/5.jpg",
@@ -153,7 +158,8 @@
         "rhythmic pattern",
         "high contrast",
         "white on dark gray"
-      ]
+      ],
+      "activation": 2.4193837642669678
     },
     {
       "file": "generated/6.jpg",
@@ -165,7 +171,8 @@
         "specular highlight",
         "high contrast",
         "white on black"
-      ]
+      ],
+      "activation": 2.45194935798645
     },
     {
       "file": "generated/7.jpg",
@@ -177,7 +184,8 @@
         "musical instrument",
         "high contrast",
         "silver on black"
-      ]
+      ],
+      "activation": 2.4699573516845703
     },
     {
       "file": "generated/8.jpg",
@@ -189,7 +197,8 @@
         "geometric pattern",
         "high contrast",
         "white on black"
-      ]
+      ],
+      "activation": 2.553304672241211
     },
     {
       "file": "generated/9.jpg",
@@ -201,7 +210,8 @@
         "parallel lines",
         "high contrast",
         "white on dark gray"
-      ]
+      ],
+      "activation": 2.4549758434295654
     },
     {
       "file": "generated/10.jpg",
@@ -213,7 +223,8 @@
         "specular highlights",
         "high contrast",
         "silver on black"
-      ]
+      ],
+      "activation": 2.5601470470428467
     },
     {
       "file": "generated/11.jpg",
@@ -225,7 +236,8 @@
         "organic form",
         "high contrast",
         "silver on black"
-      ]
+      ],
+      "activation": 2.5156075954437256
     },
     {
       "file": "generated/12.jpg",
@@ -237,7 +249,8 @@
         "architectural detail",
         "high contrast",
         "white on dark gray"
-      ]
+      ],
+      "activation": 2.4162850379943848
     },
     {
       "file": "generated/13.jpg",
@@ -249,7 +262,8 @@
         "natural structure",
         "high contrast",
         "white on black"
-      ]
+      ],
+      "activation": 2.6712841987609863
     }
   ],
   "augmented": [

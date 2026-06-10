@@ -95,7 +95,8 @@
         "bright white bands",
         "30% image height",
         "neutral gray background"
-      ]
+      ],
+      "activation": 0.5826833248138428
     },
     {
       "file": "generated/1.jpg",
@@ -109,7 +110,8 @@
         "high contrast",
         "30% image height",
         "centered"
-      ]
+      ],
+      "activation": 0.9537994265556335
     },
     {
       "file": "generated/2.jpg",
@@ -123,7 +125,8 @@
         "central black region",
         "30% image height",
         "gray background"
-      ]
+      ],
+      "activation": 0.8884902000427246
     },
     {
       "file": "generated/3.jpg",
@@ -137,7 +140,8 @@
         "silver plate",
         "30% image height",
         "neutral gray"
-      ]
+      ],
+      "activation": 1.1066862344741821
     },
     {
       "file": "generated/4.jpg",
@@ -151,7 +155,8 @@
         "jet-black",
         "bright white face",
         "30% image height"
-      ]
+      ],
+      "activation": 0.6735197901725769
     },
     {
       "file": "generated/5.jpg",
@@ -165,7 +170,8 @@
         "jet-black spider",
         "bright white silk",
         "30% image height"
-      ]
+      ],
+      "activation": 0.5878586769104004
     },
     {
       "file": "generated/6.jpg",
@@ -179,7 +185,8 @@
         "30% image height",
         "centered",
         "gray texture"
-      ]
+      ],
+      "activation": 1.1676654815673828
     },
     {
       "file": "generated/7.jpg",
@@ -193,7 +200,8 @@
         "bright white body",
         "30% image height",
         "gray panel"
-      ]
+      ],
+      "activation": 0.855979859828949
     },
     {
       "file": "generated/8.jpg",
@@ -207,7 +215,8 @@
         "30% image height",
         "centered",
         "gray background"
-      ]
+      ],
+      "activation": 0.41589871048927307
     },
     {
       "file": "generated/9.jpg",
@@ -221,7 +230,8 @@
         "metallic rim",
         "30% image height",
         "matte gray"
-      ]
+      ],
+      "activation": 0.9403538703918457
     },
     {
       "file": "generated/10.jpg",
@@ -235,7 +245,8 @@
         "30% image height",
         "centered",
         "neutral gray"
-      ]
+      ],
+      "activation": 0.5394405722618103
     },
     {
       "file": "generated/11.jpg",
@@ -249,7 +260,8 @@
         "white-gray stone",
         "30% image height",
         "centered"
-      ]
+      ],
+      "activation": 0.8909010887145996
     },
     {
       "file": "generated/12.jpg",
@@ -263,7 +275,8 @@
         "30% image height",
         "centered",
         "high contrast"
-      ]
+      ],
+      "activation": 0.8511707186698914
     },
     {
       "file": "generated/13.jpg",
@@ -277,7 +290,8 @@
         "vertical stacking",
         "30% image height",
         "neutral gray background"
-      ]
+      ],
+      "activation": 0.5295747518539429
     },
     {
       "file": "generated/14.jpg",
@@ -291,7 +305,8 @@
         "bright white surface",
         "30% image height",
         "light gray"
-      ]
+      ],
+      "activation": 0.6599923372268677
     }
   ],
   "augmented": [

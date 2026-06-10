@@ -50,6 +50,8 @@ select {
   min-width: 140px;
 }
 
+.hint { font-size: 0.75rem; color: var(--muted); max-width: 240px; }
+
 .toggle { display: inline-flex; background: var(--panel-2); border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
 .toggle button {
   background: transparent;

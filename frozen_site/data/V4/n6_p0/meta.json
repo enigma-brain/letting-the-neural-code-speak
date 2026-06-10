@@ -94,7 +94,8 @@
         "rectangular",
         "15% area",
         "high contrast"
-      ]
+      ],
+      "activation": 0.5582590103149414
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "rectangular",
         "15% area",
         "sharp definition"
-      ]
+      ],
+      "activation": 0.4185672402381897
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "square",
         "15% area",
         "light-on-dark"
-      ]
+      ],
+      "activation": 0.24944476783275604
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "square",
         "15% area",
         "high luminosity"
-      ]
+      ],
+      "activation": 0.567763090133667
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "rectangularish",
         "15% area",
         "contrast"
-      ]
+      ],
+      "activation": 0.45703431963920593
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "rectangular",
         "15% area",
         "nighttime contrast"
-      ]
+      ],
+      "activation": 0.2768646776676178
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "rectangular",
         "15% area",
         "reflective"
-      ]
+      ],
+      "activation": 0.4280932545661926
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "rectangular",
         "15% area",
         "digital glowing"
-      ]
+      ],
+      "activation": 0.5457847714424133
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "rectangular",
         "15% area",
         "high contrast"
-      ]
+      ],
+      "activation": 0.4667981266975403
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "rectangular",
         "15% area",
         "sharp definition"
-      ]
+      ],
+      "activation": 0.4830823838710785
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "rectangular",
         "15% area",
         "minimalist"
-      ]
+      ],
+      "activation": 0.45143672823905945
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "square",
         "15% area",
         "saturation contrast"
-      ]
+      ],
+      "activation": 0.5717318058013916
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "square",
         "15% area",
         "reflection"
-      ]
+      ],
+      "activation": 0.37696272134780884
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "rectangular",
         "15% area",
         "geometric"
-      ]
+      ],
+      "activation": 0.5388001799583435
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "rectangular",
         "15% area",
         "texture contrast"
-      ]
+      ],
+      "activation": 0.43206945061683655
     }
   ],
   "augmented": [

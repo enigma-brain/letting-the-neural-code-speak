@@ -94,7 +94,8 @@
         "high contrast",
         "neutral grey background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.6425270438194275
     },
     {
       "file": "generated/1.jpg",
@@ -107,7 +108,8 @@
         "specular highlights",
         "beige background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.3829699158668518
     },
     {
       "file": "generated/2.jpg",
@@ -120,7 +122,8 @@
         "rhythmic pattern",
         "grey background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.5252034664154053
     },
     {
       "file": "generated/3.jpg",
@@ -133,7 +136,8 @@
         "metallic contrast",
         "beige background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.3986031711101532
     },
     {
       "file": "generated/4.jpg",
@@ -146,7 +150,8 @@
         "deep shadows",
         "grey background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.36502939462661743
     },
     {
       "file": "generated/5.jpg",
@@ -159,7 +164,8 @@
         "high frequency rhythm",
         "beige background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.5776605010032654
     },
     {
       "file": "generated/6.jpg",
@@ -172,7 +178,8 @@
         "texture contrast",
         "light grey background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.408909410238266
     },
     {
       "file": "generated/7.jpg",
@@ -185,7 +192,8 @@
         "dot pattern",
         "beige background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.40602388978004456
     },
     {
       "file": "generated/8.jpg",
@@ -198,7 +206,8 @@
         "stark contrast",
         "grey background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.5788736343383789
     },
     {
       "file": "generated/9.jpg",
@@ -211,7 +220,8 @@
         "shingled pattern",
         "beige background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.40836000442504883
     },
     {
       "file": "generated/10.jpg",
@@ -224,7 +234,8 @@
         "diamond pattern",
         "grey background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.5315131545066833
     },
     {
       "file": "generated/11.jpg",
@@ -237,7 +248,8 @@
         "periodic strands",
         "beige background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.4761713147163391
     },
     {
       "file": "generated/12.jpg",
@@ -250,7 +262,8 @@
         "stepped pattern",
         "grey background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.5238747000694275
     },
     {
       "file": "generated/13.jpg",
@@ -263,7 +276,8 @@
         "repetitive weave",
         "beige background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.6411303877830505
     },
     {
       "file": "generated/14.jpg",
@@ -276,7 +290,8 @@
         "parallel ridges",
         "grey background",
         "40% coverage"
-      ]
+      ],
+      "activation": 0.6433188319206238
     }
   ],
   "augmented": [
