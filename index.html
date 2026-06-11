@@ -526,7 +526,7 @@
     </div>
 </section>
 <div class="figure-full reveal">
-    <img src="images/Figure_Overview_legacy.jpeg" alt="How the digital twin is trained to predict real neuron responses">
+    <img src="images/Figure_Overview_legacy.jpeg" alt="How the digital twin is trained to predict real neuron responses" style="max-width: 720px;">
     <p class="figure-caption">
         <strong>Training the digital twin.</strong> A deep network learns to map natural images to the recorded spiking responses of real neurons, yielding an in-silico model that reproduces each neuron's selectivity and can be queried with arbitrary stimuli.
     </p>
@@ -584,7 +584,7 @@
 </section>
 
 <div class="figure-full reveal">
-    <img src="images/Fig_Overview.png" alt="Full pipeline overview: Translate, Hypothesize, Verify">
+    <img src="images/Fig_Overview.png" alt="Full pipeline overview: Translate, Hypothesize, Verify" style="max-width: 760px;">
     <p class="figure-caption">
         <strong>Framework overview.</strong> The pipeline translates neural selectivity into semantic hypotheses and validates them through generative testing. Each stage is automated and scalable to hundreds of neurons.
     </p>
@@ -655,7 +655,7 @@
         </p>
 
         <div class="figure-full reveal">
-            <img src="Figures/Fig_Verification.png" alt="V4 verification results">
+            <img src="Figures/Fig_Verification.png" alt="V4 verification results" style="max-width: 860px;">
             <p class="figure-caption">
                 <strong>V4 verification.</strong> Hypothesis-generated images resemble original most-activating stimuli and, after spatial optimization, drive neurons to extreme response percentiles. Control analysis with random images confirms that semantic content, not spatial search alone, is necessary.
             </p>
@@ -767,7 +767,9 @@
         </div>
 
         <div class="viewer-container" style="margin-top: 20px;">
-            <iframe id="neuronFrame" src="images/umap_single_neuron_col4.html" title="Single-neuron UMAP" data-autofit></iframe>
+            <iframe class="neuron-frame" data-src="images/umap_single_neuron_col4.html"  src="images/umap_single_neuron_col4.html"  title="Single-neuron UMAP" data-autofit style="display:block;"></iframe>
+            <iframe class="neuron-frame" data-src="images/umap_single_neuron_col18.html" src="images/umap_single_neuron_col18.html" title="Single-neuron UMAP" data-autofit style="display:none;"></iframe>
+            <iframe class="neuron-frame" data-src="images/umap_single_neuron_col40.html" src="images/umap_single_neuron_col40.html" title="Single-neuron UMAP" data-autofit style="display:none;"></iframe>
         </div>
 
         <p class="figure-caption" style="margin: 24px auto 0;">
@@ -837,13 +839,26 @@ const observer = new IntersectionObserver((entries) => {
 }, { threshold: 0.1 });
 document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
-// ── Single-neuron UMAP tab switching ──
+// ── Single-neuron UMAP tab switching (load once, toggle visibility) ──
 document.querySelectorAll('.neuron-tabs .ntab').forEach(btn => {
     btn.addEventListener('click', () => {
         document.querySelectorAll('.neuron-tabs .ntab').forEach(b => b.classList.remove('active'));
         btn.classList.add('active');
-        const frame = document.getElementById('neuronFrame');
-        if (frame) frame.src = btn.dataset.src;
+
+        const targetSrc = btn.dataset.src;
+        document.querySelectorAll('.neuron-frame').forEach(frame => {
+            if (frame.dataset.src === targetSrc) {
+                if (!frame.getAttribute('src')) frame.src = frame.dataset.src; // first time only
+                frame.style.display = 'block';
+                // now that it's visible, let Plotly relayout, then refit height
+                requestAnimationFrame(() => {
+                    try { frame.contentWindow.dispatchEvent(new Event('resize')); } catch (e) {}
+                    fitFrameRepeat(frame);
+                });
+            } else {
+                frame.style.display = 'none';
+            }
+        });
     });
 });
 
