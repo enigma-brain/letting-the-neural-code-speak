@@ -471,7 +471,7 @@
             <p class="hero-label">Stanford University · 2026</p>
             <h1>Letting the neural<br>code <em>speak</em></h1>
             <p class="hero-subtitle">
-                Artificial intelligence promises a future of automated scientific discovery, but it remains unclear how this will transform neuroscience, or how to even begin verifying its findings. We take a first step toward both by adapting automated interpretability to neuroscience, where those claims can be put to the test: we study "digital twins" of visual cortex&mdash;deep learning models trained to predict the responses of individual neurons. Using these models, we present a three-stage framework that translates single-neuron selectivity into verifiable, interpretable semantic descriptions, bridging neural data, vision, and language, and presenting a proof of concept for automated scientific discovery with humans in the loop.
+                Artificial intelligence promises a future of automated scientific discovery, but it remains unclear how this will transform neuroscience, or how to even begin verifying its findings. We take a first step toward both by adapting automated interpretability to neuroscience: we study "digital twins" of visual cortex&mdash;deep learning models trained to predict the responses of individual neurons. Using these models, we present a three-stage framework that translates single-neuron selectivity into verifiable, interpretable semantic descriptions, bridging neural data, vision, and language, and presenting a proof of concept for automated scientific discovery with humans in the loop.
             </p>
             <p class="hero-authors">
                 <strong>Vedang Lad</strong>, <strong>Katrin Franke</strong>, <strong>Tamar Rott Shaham</strong>, <strong>Surya Ganguli</strong>, <strong>Andreas Tolias</strong><sup>†</sup>, <strong>Sophia Sanborn</strong><sup>†</sup>, <strong>Nikos Karantzas</strong><sup>†</sup>
@@ -498,16 +498,16 @@
     <p class="section-label">Motivation</p>
     <h2>Prediction isn't understanding</h2>
     <p class="text">
-        The classical view of a visual neuron is a feature detector: it fires when its preferred stimulus appears, and remains largely silent otherwise. In early visual cortex (V1), this view has been remarkably productive. These neurons behave much like oriented edge filters, and what drives them is captured by a handful of parameters. But the classical feature detector picture says little about the other side of a neuron's behavior, what silences it.
+        The classical view of a visual neuron is a feature detector that fires when its preferred stimulus appears and remains largely silent otherwise. In early visual cortex (V1), this view has been remarkably productive -- where neurons behave like oriented edge filters. But the classical feature detector picture says little about the other side of a V1 neuron, what silences it.
     </p>
     <p class="text">
-        Moving up the visual hierarchy, to midlevel visual cortex (V4), even the excitatory side gets harder to pin down. Neurons respond to complex conjunctions of shape, color, and texture. We know this from decades of painstaking experiments, each testing a hand-crafted hypothesis about what a single neuron might prefer. The approach works, but it doesn't scale, and it has not produced a general vocabulary for selectivity. We believe natural language can help fill that gap.
+        Moving up the visual hierarchy, to midlevel visual cortex (V4), what excites and supresses a neuron becomes harder to pin down. Neurons respond to complex conjunctions of shape, color, and texture. We know this from decades of painstaking experiments, each testing a hand-crafted hypothesis about what a single neuron might prefer. The approach works, but it doesn't scale, and it has not produced a general vocabulary for selectivity. We believe natural language can help fill that gap.
     </p>
     <p class="text">
-        Deep learning has already changed what's possible. A network trained on a neuron's responses to thousands of natural images can predict its response to almost any new image with high accuracy. These "digital twins" of visual cortex let us screen millions of images in seconds, and probe not just what drives a neuron, but what suppresses it.
+        Deep learning has begun to change this paradigm, where a network trained on a neuron's responses to thousands of natural images can predict its response to almost any new image with high accuracy. These "digital twins" of visual cortex let us screen millions of images in seconds, and better probe what drives and suppresses a neuron.
     </p>
     <p class="text">
-        But knowing which images drive a neuron isn't the same as knowing what it's tuned for. The digital twin is accurate, yet silent on the thing we actually want: an interpretable description of what the neuron encodes.
+        But knowing which images drive a neuron isn't the same as knowing what it's tuned for. The digital twin is accurate in predictions but does not provide a human interpretable description of what the neuron encodes.
     </p>
 </section>
 
@@ -518,7 +518,7 @@
         <p class="section-label">Foundation</p>
         <h2>Functional digital twins of visual cortex</h2>
         <p class="text">
-            The architecture is simple. A convolutional network turns an image into features, and a small learned readout maps those features onto the predicted firing rate of a single biological neuron. Trained on high-resolution recordings from macaque V1 and V4, these models generalize well to images the neuron has never seen.
+            A convolutional network turns an image into features, and a small learned readout maps those features onto the predicted firing rate of a single biological neuron. Trained on high-resolution recordings from macaque V1 and V4, these models generalize well to images the neuron has never seen.
         </p>
         <p class="text">
             Using this approach, we recently found that the most activating images for a given neuron are perceptually coherent, clustering around a consistent visual feature. So are the least activating images, for neurons with high baseline firing rates (non-sparse neurons). For more on the recordings and digital twin architecture underlying this work, see <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Franke &amp; Karantzas et al., 2025</a>.
@@ -547,7 +547,7 @@
         <p class="section-label">Explore</p>
         <h2>Both ends of selectivity are interpretable</h2>
         <p class="text">
-            Across the activation range of non-sparse neurons, responses are graded rather than binary. The images that most strongly drive a neuron share a coherent visual theme, and for neurons with high baseline firing rates, so do the images that most strongly suppress it. Each extreme defines its own structured feature pole. More examples are available on the <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Dual Feature Selectivity</a> website, where the selectivity axis can be explored interactively.
+            Across the activation range of non-sparse neurons, responses are continuous rather than binary. The images that most strongly drive a neuron share a coherent visual theme, and for neurons with high baseline firing rates, so do the images that most strongly suppress it. Each end of the neuron's activity defines its respective feature selectivity. More examples are available on the <a href="https://enigma-brain.github.io/dual-feature-selectivity/" target="_blank" rel="noopener">Dual Feature Selectivity</a> website, where the selectivity axis can be explored interactively.
         </p>
         <div class="viewer-container">
             <iframe src="images/neuron_4_viewer.html" title="Interactive neuron activation viewer" data-autofit></iframe>
@@ -698,7 +698,7 @@
     <p class="section-label">Cross-modal alignment</p>
     <h2>Language preserves the geometry of neural selectivity</h2>
     <p class="text">
-        Describing individual neurons is one thing. But if language truly captures neural selectivity, it should also reflect how neurons relate to each other. Neurons with similar tuning should end up with similar descriptions. We tested this using representational similarity analysis, asking whether neuron-to-neuron similarity patterns in neural activity space are preserved in language embedding space.
+        If language truly captures neural selectivity, it should also reflect how neurons relate to each other. That is, neurons with similar tuning should end up with similar descriptions. We tested this using representational similarity analysis, asking whether neuron-to-neuron similarity patterns in neural activity space are preserved in language embedding space.
     </p>
     <p class="text">
         They are, partially. Neural activity aligns strongly with visual feature embeddings (<em>r</em>&nbsp;=&nbsp;0.52 in V4) and more modestly with language (<em>r</em>&nbsp;=&nbsp;0.36). Text is a lossy compression of the visual signal, but faithful enough that images regenerated from hypotheses largely restore the alignment (<em>r</em>&nbsp;=&nbsp;0.49). The descriptions are consistent enough across the population to preserve the structure of the neural code through a different modality.
